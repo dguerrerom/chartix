@@ -402,6 +402,84 @@ def show_chart(
 
 
 # ----------------------------------------------------------------------
+# Generate CSV calendar of #1 hits of the current year
+# ----------------------------------------------------------------------
+def ones_calendar(
+    provider: str | None = None,
+    chart: str | None = None,
+    year: int | None = None,
+) -> pl.DataFrame:
+    """
+    Generate a calendar of #1 hits aligned with weeks of the current year.
+
+    For each #1 entry in the index, find the week in the given year (default current year)
+    that contains the same month and day. Output a DataFrame with columns:
+        week (int)      - ISO week number of the date in the target year
+        date (date)     - original date of the #1 hit
+        event (str)     - formatted string: "{song} by {artist} reaches #1 on the {chart}"
+
+    Args:
+        provider: Filter by provider name (e.g., 'billboard')
+        chart: Filter by chart name (e.g., 'billboard-hot100')
+        year: Target year (default current year)
+        output_path: If provided, save the CSV to this path
+
+    Returns:
+        DataFrame with columns week, date, event, sorted by week then date.
+    """
+    index_path = ROOT / "search_index.parquet"
+    if not index_path.exists():
+        logger.warning("Index not found. Please run `build-index` first.")
+        return pl.DataFrame()
+
+    target_year = year if year is not None else date.today().year
+
+    # Scan the index and filter #1 entries
+    lf = pl.scan_parquet(index_path).filter(pl.col("this_week") == 1)
+
+    if provider:
+        lf = lf.filter(pl.col("provider") == provider)
+    if chart:
+        lf = lf.filter(pl.col("chart") == chart)
+
+    df = lf.select(["date", "artist", "song", "provider", "chart", "month", "day"]).collect()
+
+    if df.is_empty():
+        logger.info("No #1 hits found with given filters.")
+        return pl.DataFrame()
+
+    # Helper to compute week number for a date in the target year
+    def get_week_number(original_date: date) -> int | None:
+        try:
+            # Create a date in target year with same month and day
+            mapped_date = date(target_year, original_date.month, original_date.day)
+            # Return ISO week number
+            return mapped_date.isocalendar()[1]
+        except ValueError:
+            # Invalid date (e.g., Feb 29 in non-leap year)
+            logger.warning(f"Skipping {original_date}: not a valid date in {target_year}")
+            return None
+
+    # Add week number column
+    df = df.with_columns(
+        pl.col("date").map_elements(get_week_number, return_dtype=pl.Int64).alias("week")
+    ).drop_nulls(subset=["week"])
+
+    df = df.with_columns(
+        (
+            pl.col("song") + " by " + pl.col("artist") + " reaches #1 on the " + pl.col("chart")
+        ).alias("event")
+    )
+
+    result = (
+        df.select(["week", "date", "event", "month", "day"])
+        .sort(["week", "month", "day"])
+        .drop(["month", "day"])
+    )
+    return result
+
+
+# ----------------------------------------------------------------------
 # Frictionless Data Package generation
 # ----------------------------------------------------------------------
 def _load_json(path: Path) -> dict[str, Any]:

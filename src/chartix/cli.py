@@ -20,6 +20,7 @@ from chartix.api import (
     build_search_index,
     generate_frictionless_packages,
     list_charts,
+    ones_calendar,
     search_hits,
     show_chart,
 )
@@ -199,6 +200,20 @@ def render_chart(df: pl.DataFrame, date_str: str, provider: str | None, chart: s
         console.print(f"  [blue]>[/blue]  {rank_str}  {song_line}")
 
 
+def render_calendar(df: pl.DataFrame, year: int, output_path: str | None):
+    """Display the #1 calendar and save it to a CSV."""
+    if df.is_empty():
+        console.print(f"[bold red]No #1 hits found for year {year} with given filters.[/bold red]")
+        return
+
+    if output_path is None:
+        output_path = f"{year}_calendar.csv"
+        console.print(f"[dim]No output file specified. Saving to {output_path}[/dim]")
+
+    df.write_csv(output_path)
+    console.print(f"Calendar saved to {output_path}")
+
+
 def render_generate():
     """Generate Frictionless packages with progress spinner."""
     with Progress(
@@ -316,6 +331,19 @@ def peak(year, rank):
 def show(date, provider, chart):
     """Show chart(s) for a specific date."""
     render_chart(show_chart(date_str=date, provider=provider, chart=chart), date, provider, chart)
+
+
+@cli.command()
+@click.option("--provider", help="Filter by provider name")
+@click.option("--chart", help="Filter by chart name")
+@click.option("--year", type=int, help="Target year (default current year)")
+@click.option("--output", help="Output CSV file path (defaults to {year}_calendar.csv)")
+def calendar(provider, chart, year, output):
+    """Generate a calendar of #1 hits aligned with weeks of the current year."""
+    target_year = year if year is not None else date.today().year
+    render_calendar(
+        ones_calendar(provider=provider, chart=chart, year=target_year), target_year, output
+    )
 
 
 @cli.command()
