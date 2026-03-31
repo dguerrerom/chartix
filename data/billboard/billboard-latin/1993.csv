@@ -1,0 +1,2081 @@
+date,this_week,artist,song,last_week,peak_position,weeks_on_chart
+1993-01-02,1,Ricardo Montaner,Castillo Azul,1,1,6
+1993-01-02,2,Braulio,Que Tentacion,2,2,11
+1993-01-02,3,Daniela Romo,Para Que Te Quedes Conmigo,3,1,12
+1993-01-02,4,Chayanne,Provocame,4,4,9
+1993-01-02,5,Emmanuel,Magdalena,5,5,10
+1993-01-02,6,Paulina Rubio,Mio,6,6,6
+1993-01-02,7,Jose Jose,40 Y 20,7,7,6
+1993-01-02,8,Pandora,Matandome Suavemente,8,3,12
+1993-01-02,9,Ana Gabriel,Silueta,9,9,7
+1993-01-02,10,La Mafia,Dile,10,10,5
+1993-01-02,11,Bronco: El Gigante De America,Adoro,11,9,7
+1993-01-02,12,Frankie Ruiz,Bailando,12,10,7
+1993-01-02,13,Gloria Trevi,Con Los Ojos Cerrados,13,13,7
+1993-01-02,14,Ednita Nazario,Tanto Nos Amamos,14,14,7
+1993-01-02,15,Alvaro Torres,Te Olvidare,15,13,5
+1993-01-02,16,Myriam Hernandez,Si No Fueras Tu,16,8,13
+1993-01-02,17,Jon Secada,Cree En Nuestro Amor,17,17,3
+1993-01-02,18,Jose Luis Rodriguez,Vale La Pena Volver,18,18,6
+1993-01-02,19,Yolandita Monge,Cara De Angel,19,19,8
+1993-01-02,20,Los Temerarios,Extranandote,20,18,8
+1993-01-02,21,Sergio Vargas,La Ventanita,21,13,10
+1993-01-02,22,Juan Luis Guerra 440,El Costo De La Vida,22,22,3
+1993-01-02,23,Gilberto Santa Rosa,En La Soledad,23,19,7
+1993-01-02,24,Jerry Rivera,Cuenta Conmigo,24,24,4
+1993-01-02,25,Gipsy Kings,Quiero Saber,25,25,3
+1993-01-02,26,"Jose Alberto ""El Canario""",Disculpeme Senora,26,26,4
+1993-01-02,27,Selena,Que Creias,27,27,6
+1993-01-02,28,Tony Vega,Aparentemente,28,28,2
+1993-01-02,29,H2o,Nena,29,29,4
+1993-01-02,30,Las Chicas del Can,Hacer El Amor Con Otro,30,30,4
+1993-01-02,31,Rocio Durcal,Como Amigos,31,27,8
+1993-01-02,32,Gustavo Alarco,Fue La Noche,32,32,2
+1993-01-02,33,Banda Machos,Sangre De Indio,33,33,2
+1993-01-02,34,Mijares,Quizas Quizas Quizas,34,25,7
+1993-01-02,35,Jose Feliciano,Venga La Esperanza,35,35,3
+1993-01-02,36,The Barrio Boyzz,Muy Suavemente,36,36,2
+1993-01-02,37,Luis Miguel,"America, America",37,20,13
+1993-01-02,38,Marisela,Te Devuelvo Tu Apellido,38,38,2
+1993-01-02,39,Cristian,No Podras,39,3,24
+1993-01-02,40,Jon Secada,Angel,40,1,19
+1993-01-09,1,Ricardo Montaner,Castillo Azul,1,1,7
+1993-01-09,2,Daniela Romo,Para Que Te Quedes Conmigo,3,1,13
+1993-01-09,3,Braulio,Que Tentacion,2,2,12
+1993-01-09,4,Chayanne,Provocame,4,4,10
+1993-01-09,5,Emmanuel,Magdalena,5,5,11
+1993-01-09,6,Paulina Rubio,Mio,6,6,7
+1993-01-09,7,Jose Jose,40 Y 20,7,7,7
+1993-01-09,8,Bronco: El Gigante De America,Adoro,11,8,8
+1993-01-09,9,La Mafia,Dile,10,9,6
+1993-01-09,10,Ana Gabriel,Silueta,9,9,8
+1993-01-09,11,Pandora,Matandome Suavemente,8,3,13
+1993-01-09,12,Frankie Ruiz,Bailando,12,10,8
+1993-01-09,13,Gloria Trevi,Con Los Ojos Cerrados,13,13,8
+1993-01-09,14,Alvaro Torres,Te Olvidare,15,13,6
+1993-01-09,15,Ednita Nazario,Tanto Nos Amamos,14,14,8
+1993-01-09,16,Jon Secada,Cree En Nuestro Amor,17,16,4
+1993-01-09,17,Juan Luis Guerra 440,El Costo De La Vida,22,17,4
+1993-01-09,18,Los Temerarios,Extranandote,20,18,9
+1993-01-09,19,Myriam Hernandez,Si No Fueras Tu,16,8,14
+1993-01-09,20,Yolandita Monge,Cara De Angel,19,19,9
+1993-01-09,21,Gilberto Santa Rosa,En La Soledad,23,19,8
+1993-01-09,22,Tony Vega,Aparentemente,28,22,3
+1993-01-09,23,"Jose Alberto ""El Canario""",Disculpeme Senora,26,23,5
+1993-01-09,24,Jose Luis Rodriguez,Vale La Pena Volver,18,18,7
+1993-01-09,25,Jerry Rivera,Cuenta Conmigo,24,24,5
+1993-01-09,26,Selena,Que Creias,27,26,7
+1993-01-09,27,Gipsy Kings,Quiero Saber,25,25,4
+1993-01-09,28,Jose Feliciano,Venga La Esperanza,35,28,4
+1993-01-09,29,Sergio Vargas,La Ventanita,21,13,11
+1993-01-09,30,Gustavo Alarco,Fue La Noche,32,30,3
+1993-01-09,31,Kiara,Que Suba La Temperatura,,31,1
+1993-01-09,32,Marisela,Te Devuelvo Tu Apellido,38,32,3
+1993-01-09,33,Las Chicas del Can,Hacer El Amor Con Otro,30,30,5
+1993-01-09,34,Banda Machos,Sangre De Indio,33,33,3
+1993-01-09,35,H2o,Nena,29,29,5
+1993-01-09,36,The Barrio Boyzz,Muy Suavemente,36,36,3
+1993-01-09,37,Rocio Durcal,Como Amigos,31,27,9
+1993-01-09,38,Alex D'Castro,Eres La Que Quiero,,38,1
+1993-01-09,39,Mijares,Quizas Quizas Quizas,34,25,8
+1993-01-09,40,Bachata Magic,"Amor Mio, Que Me Has Hecho?",,40,1
+1993-01-16,1,Ricardo Montaner,Castillo Azul,1,1,8
+1993-01-16,2,Daniela Romo,Para Que Te Quedes Conmigo,2,1,14
+1993-01-16,3,Braulio,Que Tentacion,3,2,13
+1993-01-16,4,Chayanne,Provocame,4,4,11
+1993-01-16,5,Jose Jose,40 Y 20,7,5,8
+1993-01-16,6,Paulina Rubio,Mio,6,6,8
+1993-01-16,7,Emmanuel,Magdalena,5,5,12
+1993-01-16,8,La Mafia,Dile,9,8,7
+1993-01-16,9,Ana Gabriel,Silueta,10,9,9
+1993-01-16,10,Bronco: El Gigante De America,Adoro,8,8,9
+1993-01-16,11,Juan Luis Guerra 440,El Costo De La Vida,17,11,5
+1993-01-16,12,Gloria Trevi,Con Los Ojos Cerrados,13,12,9
+1993-01-16,13,Frankie Ruiz,Bailando,12,10,9
+1993-01-16,14,Ednita Nazario,Tanto Nos Amamos,15,14,9
+1993-01-16,15,Pandora,Matandome Suavemente,11,3,14
+1993-01-16,16,Alvaro Torres,Te Olvidare,14,13,7
+1993-01-16,17,Jon Secada,Cree En Nuestro Amor,16,16,5
+1993-01-16,18,"Jose Alberto ""El Canario""",Disculpeme Senora,23,18,6
+1993-01-16,19,Jose Luis Rodriguez,Vale La Pena Volver,24,18,8
+1993-01-16,20,Tony Vega,Aparentemente,22,20,4
+1993-01-16,21,Los Temerarios,Extranandote,18,18,10
+1993-01-16,22,Yolandita Monge,Cara De Angel,20,19,10
+1993-01-16,23,Myriam Hernandez,Si No Fueras Tu,19,8,15
+1993-01-16,24,Selena,Que Creias,26,24,8
+1993-01-16,25,Gipsy Kings,Quiero Saber,27,25,5
+1993-01-16,26,Jerry Rivera,Cuenta Conmigo,25,24,6
+1993-01-16,27,Jose Feliciano,Venga La Esperanza,28,27,5
+1993-01-16,28,Marisela,Te Devuelvo Tu Apellido,32,28,4
+1993-01-16,29,Kiara,Que Suba La Temperatura,31,29,2
+1993-01-16,30,Banda Machos,Sangre De Indio,34,30,4
+1993-01-16,31,H2o,Nena,35,29,6
+1993-01-16,32,Las Chicas del Can,Hacer El Amor Con Otro,33,30,6
+1993-01-16,33,Gustavo Alarco,Fue La Noche,30,30,4
+1993-01-16,34,Alex D'Castro,Eres La Que Quiero,38,34,2
+1993-01-16,35,Sergio Vargas,La Ventanita,29,13,12
+1993-01-16,36,Gilberto Santa Rosa,En La Soledad,21,19,9
+1993-01-16,37,The Barrio Boyzz,Muy Suavemente,36,36,4
+1993-01-16,38,Rocio Durcal,Como Amigos,37,27,10
+1993-01-16,39,Bachata Magic,"Amor Mio, Que Me Has Hecho?",40,39,2
+1993-01-16,40,Tierra Tejana Band,Prende El Radio,,40,1
+1993-01-23,1,Ricardo Montaner,Castillo Azul,1,1,9
+1993-01-23,2,Daniela Romo,Para Que Te Quedes Conmigo,2,1,15
+1993-01-23,3,Braulio,Que Tentacion,3,2,14
+1993-01-23,4,Paulina Rubio,Mio,6,4,9
+1993-01-23,5,Jose Jose,40 Y 20,5,5,9
+1993-01-23,6,Chayanne,Provocame,4,4,12
+1993-01-23,7,Juan Luis Guerra 440,El Costo De La Vida,11,7,6
+1993-01-23,8,La Mafia,Dile,8,8,8
+1993-01-23,9,Gloria Trevi,Con Los Ojos Cerrados,12,9,10
+1993-01-23,10,Bronco: El Gigante De America,Adoro,10,8,10
+1993-01-23,11,Emmanuel,Magdalena,7,5,13
+1993-01-23,12,Ana Gabriel,Silueta,9,9,10
+1993-01-23,13,Jon Secada,Cree En Nuestro Amor,17,13,6
+1993-01-23,14,Alvaro Torres,Te Olvidare,16,13,8
+1993-01-23,15,Ednita Nazario,Tanto Nos Amamos,14,14,10
+1993-01-23,16,Tony Vega,Aparentemente,20,16,5
+1993-01-23,17,Pandora,Matandome Suavemente,15,3,15
+1993-01-23,18,Frankie Ruiz,Bailando,13,10,10
+1993-01-23,19,Selena,Que Creias,24,19,9
+1993-01-23,20,"Jose Alberto ""El Canario""",Disculpeme Senora,18,18,7
+1993-01-23,21,Kiara,Que Suba La Temperatura,29,21,3
+1993-01-23,22,Banda Machos,Sangre De Indio,30,22,5
+1993-01-23,23,Marisela,Te Devuelvo Tu Apellido,28,23,5
+1993-01-23,24,Jose Feliciano,Venga La Esperanza,27,24,6
+1993-01-23,25,Los Temerarios,Extranandote,21,18,11
+1993-01-23,26,Jose Luis Rodriguez,Vale La Pena Volver,19,18,9
+1993-01-23,27,Los Bukis,Viendolo Bien,,27,1
+1993-01-23,28,Vicente Fernandez,La Fiesta,,28,1
+1993-01-23,29,George LaMond,Baby Creo En Ti,,29,1
+1993-01-23,30,Gipsy Kings,Quiero Saber,25,25,6
+1993-01-23,31,H2o,Nena,31,29,7
+1993-01-23,32,Rey Ruiz,Si Me Das Un Beso,,32,1
+1993-01-23,33,Yolandita Monge,Cara De Angel,22,19,11
+1993-01-23,34,Gustavo Alarco,Fue La Noche,33,30,5
+1993-01-23,35,Jessica Cristina Y Ricky Martin,Todo Es Vida,,35,1
+1993-01-23,36,Amanecer,Basta,,36,1
+1993-01-23,37,Myriam Hernandez,Si No Fueras Tu,23,8,16
+1993-01-23,38,Rocio Durcal,Como Amigos,38,27,11
+1993-01-23,39,Bachata Magic,"Amor Mio, Que Me Has Hecho?",39,39,3
+1993-01-23,40,Las Chicas del Can,Hacer El Amor Con Otro,32,30,7
+1993-01-30,1,Ricardo Montaner,Castillo Azul,1,1,10
+1993-01-30,2,Juan Luis Guerra 440,El Costo De La Vida,7,2,7
+1993-01-30,3,Paulina Rubio,Mio,4,3,10
+1993-01-30,4,Jose Jose,40 Y 20,5,4,10
+1993-01-30,5,Daniela Romo,Para Que Te Quedes Conmigo,2,1,16
+1993-01-30,6,La Mafia,Dile,8,6,9
+1993-01-30,7,Braulio,Que Tentacion,3,2,15
+1993-01-30,8,Bronco: El Gigante De America,Adoro,10,8,11
+1993-01-30,9,Gloria Trevi,Con Los Ojos Cerrados,9,9,11
+1993-01-30,10,Jon Secada,Cree En Nuestro Amor,13,10,7
+1993-01-30,11,Alvaro Torres,Te Olvidare,14,11,9
+1993-01-30,12,Chayanne,Provocame,6,4,13
+1993-01-30,13,Emmanuel,Magdalena,11,5,14
+1993-01-30,14,Ana Gabriel,Silueta,12,9,11
+1993-01-30,15,Tony Vega,Aparentemente,16,15,6
+1993-01-30,16,Marisela,Te Devuelvo Tu Apellido,23,16,6
+1993-01-30,17,George LaMond,Baby Creo En Ti,29,17,2
+1993-01-30,18,Selena,Que Creias,19,18,10
+1993-01-30,19,Los Bukis,Viendolo Bien,27,19,2
+1993-01-30,20,Banda Machos,Sangre De Indio,22,20,6
+1993-01-30,21,Jessica Cristina Y Ricky Martin,Todo Es Vida,35,21,2
+1993-01-30,22,Los Temerarios,Extranandote,25,18,12
+1993-01-30,23,Rey Ruiz,Si Me Das Un Beso,32,23,2
+1993-01-30,24,Vicente Fernandez,La Fiesta,28,24,2
+1993-01-30,25,"Jose Alberto ""El Canario""",Disculpeme Senora,20,18,8
+1993-01-30,26,Kiara,Que Suba La Temperatura,21,21,4
+1993-01-30,27,Amanecer,Basta,36,27,2
+1993-01-30,28,Frankie Ruiz,Bailando,18,10,11
+1993-01-30,29,Jose Luis Rodriguez,Vale La Pena Volver,26,18,10
+1993-01-30,30,Ednita Nazario,Tanto Nos Amamos,15,14,11
+1993-01-30,31,Pandora,Matandome Suavemente,17,3,16
+1993-01-30,32,Gustavo Alarco,Fue La Noche,34,30,6
+1993-01-30,33,Jose Feliciano,Venga La Esperanza,24,24,7
+1993-01-30,34,Las Chicas del Can,Hacer El Amor Con Otro,40,30,8
+1993-01-30,35,Lisa M,Subeme El Radio,,35,1
+1993-01-30,36,Julio Iglesias,Esos Amores,,36,1
+1993-01-30,37,Xuxa,Que Cosa Buena,,37,1
+1993-01-30,38,Mazz,Popurri De Boleros,,38,1
+1993-01-30,39,Jerry Rivera,Una En Un Millon,,39,1
+1993-01-30,40,Bachata Magic,"Amor Mio, Que Me Has Hecho?",39,39,4
+1993-02-06,1,Ricardo Montaner,Castillo Azul,1,1,11
+1993-02-06,2,Juan Luis Guerra 440,El Costo De La Vida,2,2,8
+1993-02-06,3,Paulina Rubio,Mio,3,3,11
+1993-02-06,4,Jose Jose,40 Y 20,4,4,11
+1993-02-06,5,Jon Secada,Cree En Nuestro Amor,10,5,8
+1993-02-06,6,Braulio,Que Tentacion,7,2,16
+1993-02-06,7,Bronco: El Gigante De America,Adoro,8,7,12
+1993-02-06,8,Gloria Trevi,Con Los Ojos Cerrados,9,8,12
+1993-02-06,9,La Mafia,Dile,6,6,10
+1993-02-06,10,Daniela Romo,Para Que Te Quedes Conmigo,5,1,17
+1993-02-06,11,Alvaro Torres,Te Olvidare,11,11,10
+1993-02-06,12,George LaMond,Baby Creo En Ti,17,12,3
+1993-02-06,13,Chayanne,Provocame,12,4,14
+1993-02-06,14,Selena,Que Creias,18,14,11
+1993-02-06,15,Banda Machos,Sangre De Indio,20,15,7
+1993-02-06,16,Marisela,Te Devuelvo Tu Apellido,16,16,7
+1993-02-06,17,Ana Gabriel,Silueta,14,9,12
+1993-02-06,18,Los Bukis,Viendolo Bien,19,18,3
+1993-02-06,19,Jessica Cristina Y Ricky Martin,Todo Es Vida,21,19,3
+1993-02-06,20,Tony Vega,Aparentemente,15,15,7
+1993-02-06,21,Rey Ruiz,Si Me Das Un Beso,23,21,3
+1993-02-06,22,Vicente Fernandez,La Fiesta,24,22,3
+1993-02-06,23,Emmanuel,Magdalena,13,5,15
+1993-02-06,24,Amanecer,Basta,27,24,3
+1993-02-06,25,Kiara,Que Suba La Temperatura,26,21,5
+1993-02-06,26,Jerry Rivera,Una En Un Millon,39,26,2
+1993-02-06,27,Los Temerarios,Extranandote,22,18,13
+1993-02-06,28,Frankie Ruiz,Bailando,28,10,12
+1993-02-06,29,Gustavo Alarco,Fue La Noche,32,29,7
+1993-02-06,30,Ednita Nazario,Tres Deseos,,30,1
+1993-02-06,31,Chayanne,Exxtasis,,31,1
+1993-02-06,32,Lisa M,Subeme El Radio,35,32,2
+1993-02-06,33,Julio Iglesias,Esos Amores,36,33,2
+1993-02-06,34,Los Fugitivos,Esta Carta,,34,1
+1993-02-06,35,Mazz,Popurri De Boleros,38,35,2
+1993-02-06,36,Jose Luis Rodriguez,Vale La Pena Volver,29,18,11
+1993-02-06,37,Xuxa,Que Cosa Buena,37,37,2
+1993-02-06,38,Texas Tornados,Tus Mentiras,,38,1
+1993-02-06,39,Linda Ronstadt,Entre Abismos,,39,1
+1993-02-06,40,Las Chicas del Can,Hacer El Amor Con Otro,34,30,9
+1993-02-13,1,Ricardo Montaner,Castillo Azul,1,1,12
+1993-02-13,2,Juan Luis Guerra 440,El Costo De La Vida,2,2,9
+1993-02-13,3,Paulina Rubio,Mio,3,3,12
+1993-02-13,4,Jon Secada,Cree En Nuestro Amor,5,4,9
+1993-02-13,5,Jose Jose,40 Y 20,4,4,12
+1993-02-13,6,Gloria Trevi,Con Los Ojos Cerrados,8,6,13
+1993-02-13,7,Bronco: El Gigante De America,Adoro,7,7,13
+1993-02-13,8,La Mafia,Dile,9,6,11
+1993-02-13,9,Vicente Fernandez,La Fiesta,22,9,4
+1993-02-13,10,Ednita Nazario,Tres Deseos,30,10,2
+1993-02-13,11,George LaMond,Baby Creo En Ti,12,11,4
+1993-02-13,12,Braulio,Que Tentacion,6,2,17
+1993-02-13,13,Banda Machos,Sangre De Indio,15,13,8
+1993-02-13,14,Los Bukis,Viendolo Bien,18,14,4
+1993-02-13,15,Chayanne,Exxtasis,31,15,2
+1993-02-13,16,Marisela,Te Devuelvo Tu Apellido,16,16,8
+1993-02-13,17,Jessica Cristina Y Ricky Martin,Todo Es Vida,19,17,4
+1993-02-13,18,Daniela Romo,Para Que Te Quedes Conmigo,10,1,18
+1993-02-13,19,Selena,Que Creias,14,14,12
+1993-02-13,20,Amanecer,Basta,24,20,4
+1993-02-13,21,Daniela Romo,Atame A Tu Vida,,21,1
+1993-02-13,22,Alvaro Torres,Te Olvidare,11,11,11
+1993-02-13,23,Los Fugitivos,Esta Carta,34,23,2
+1993-02-13,24,Julio Iglesias,Esos Amores,33,24,3
+1993-02-13,25,Ana Gabriel,Silueta,17,9,13
+1993-02-13,26,Tony Vega,Aparentemente,20,15,8
+1993-02-13,27,Chayanne,Provocame,13,4,15
+1993-02-13,28,La Mafia,Me Estoy Enamorando,,28,1
+1993-02-13,29,Jerry Rivera,Una En Un Millon,26,26,3
+1993-02-13,30,Rey Ruiz,Si Me Das Un Beso,21,21,4
+1993-02-13,31,Emmanuel,Magdalena,23,5,16
+1993-02-13,32,Pepe Aguilar,Recuerdame Bonito,,32,1
+1993-02-13,33,Los Temerarios,Extranandote,27,18,14
+1993-02-13,34,Texas Tornados,Tus Mentiras,38,34,2
+1993-02-13,35,Linda Ronstadt,Entre Abismos,39,35,2
+1993-02-13,36,Kiara,Que Suba La Temperatura,25,21,6
+1993-02-13,37,Gustavo Alarco,Fue La Noche,29,29,8
+1993-02-13,38,Braulio,Cronica De Un Viejo Amor,,38,1
+1993-02-13,39,Xuxa,Que Cosa Buena,37,37,3
+1993-02-13,40,Lisa M,Subeme El Radio,32,32,3
+1993-02-20,1,Juan Luis Guerra 440,El Costo De La Vida,2,1,10
+1993-02-20,2,Jon Secada,Cree En Nuestro Amor,4,2,10
+1993-02-20,3,Ricardo Montaner,Castillo Azul,1,1,13
+1993-02-20,4,Paulina Rubio,Mio,3,3,13
+1993-02-20,5,Jose Jose,40 Y 20,5,4,13
+1993-02-20,6,Ednita Nazario,Tres Deseos,10,6,3
+1993-02-20,7,La Mafia,Dile,8,6,12
+1993-02-20,8,Vicente Fernandez,La Fiesta,9,8,5
+1993-02-20,9,Gloria Trevi,Con Los Ojos Cerrados,6,6,14
+1993-02-20,10,Chayanne,Exxtasis,15,10,3
+1993-02-20,11,George LaMond,Baby Creo En Ti,11,11,5
+1993-02-20,12,Bronco: El Gigante De America,Adoro,7,7,14
+1993-02-20,13,Los Bukis,Viendolo Bien,14,13,5
+1993-02-20,14,Jessica Cristina Y Ricky Martin,Todo Es Vida,17,14,5
+1993-02-20,15,Daniela Romo,Atame A Tu Vida,21,15,2
+1993-02-20,16,Ricardo Montaner,Piel Adentro,,16,1
+1993-02-20,17,Los Fugitivos,Esta Carta,23,17,3
+1993-02-20,18,Amanecer,Basta,20,18,5
+1993-02-20,19,Braulio,Cronica De Un Viejo Amor,38,19,2
+1993-02-20,20,Marisela,Te Devuelvo Tu Apellido,16,16,9
+1993-02-20,21,Banda Machos,Sangre De Indio,13,13,9
+1993-02-20,22,La Mafia,Me Estoy Enamorando,28,22,2
+1993-02-20,23,Julio Iglesias,Esos Amores,24,23,4
+1993-02-20,24,Jerry Rivera,Una En Un Millon,29,24,4
+1993-02-20,25,Myriam Hernandez,Se Me Fue,,25,1
+1993-02-20,26,Daniela Romo,Para Que Te Quedes Conmigo,18,1,19
+1993-02-20,27,Braulio,Que Tentacion,12,2,18
+1993-02-20,28,Ana Gabriel,Todavia Tenemos Tiempo,,28,1
+1993-02-20,29,Kiara,Que Suba La Temperatura,36,21,7
+1993-02-20,30,Pepe Aguilar,Recuerdame Bonito,32,30,2
+1993-02-20,31,Xuxa,Que Cosa Buena,39,31,4
+1993-02-20,32,Chayanne,Provocame,27,4,16
+1993-02-20,33,Pandora,Pierdo El Control,,33,1
+1993-02-20,34,Selena,Que Creias,19,14,13
+1993-02-20,35,Linda Ronstadt,Entre Abismos,35,35,3
+1993-02-20,36,Texas Tornados,Tus Mentiras,34,34,3
+1993-02-20,37,Cristian,Solo Dame Una Noche,,37,1
+1993-02-20,38,Gustavo Alarco,Fue La Noche,37,29,9
+1993-02-20,39,Alvaro Torres,Te Olvidare,22,11,12
+1993-02-20,40,Lisa M,Subeme El Radio,40,32,4
+1993-02-27,1,Jon Secada,Cree En Nuestro Amor,2,1,11
+1993-02-27,2,Juan Luis Guerra 440,El Costo De La Vida,1,1,11
+1993-02-27,3,Ednita Nazario,Tres Deseos,6,3,4
+1993-02-27,4,Paulina Rubio,Mio,4,3,14
+1993-02-27,5,Jose Jose,40 Y 20,5,4,14
+1993-02-27,6,Ricardo Montaner,Castillo Azul,3,1,14
+1993-02-27,7,Chayanne,Exxtasis,10,7,4
+1993-02-27,8,Ricardo Montaner,Piel Adentro,16,8,2
+1993-02-27,9,La Mafia,Me Estoy Enamorando,22,9,3
+1993-02-27,10,George LaMond,Baby Creo En Ti,11,10,6
+1993-02-27,11,Vicente Fernandez,La Fiesta,8,8,6
+1993-02-27,12,Gloria Trevi,Con Los Ojos Cerrados,9,6,15
+1993-02-27,13,Ana Gabriel,Todavia Tenemos Tiempo,28,13,2
+1993-02-27,14,Los Bukis,Viendolo Bien,13,13,6
+1993-02-27,15,Braulio,Cronica De Un Viejo Amor,19,15,3
+1993-02-27,16,Daniela Romo,Atame A Tu Vida,15,15,3
+1993-02-27,17,Jessica Cristina Y Ricky Martin,Todo Es Vida,14,14,6
+1993-02-27,18,Los Fugitivos,Esta Carta,17,17,4
+1993-02-27,19,Pandora,Pierdo El Control,33,19,2
+1993-02-27,20,La Mafia,Dile,7,6,13
+1993-02-27,21,Marisela,Te Devuelvo Tu Apellido,20,16,10
+1993-02-27,22,Jerry Rivera,Una En Un Millon,24,22,5
+1993-02-27,23,Banda Machos,Sangre De Indio,21,13,10
+1993-02-27,24,Amanecer,Basta,18,18,6
+1993-02-27,25,Bronco: El Gigante De America,Adoro,12,7,15
+1993-02-27,26,Pepe Aguilar,Recuerdame Bonito,30,26,3
+1993-02-27,27,Myriam Hernandez,Se Me Fue,25,25,2
+1993-02-27,28,Julio Iglesias,Esos Amores,23,23,5
+1993-02-27,29,Victor Victor,Asi Es Mi Amor,,29,1
+1993-02-27,30,Xuxa,Que Cosa Buena,31,30,5
+1993-02-27,31,Selena,Que Creias,34,14,14
+1993-02-27,32,Maria Conchita Alonso,Promesas,,32,1
+1993-02-27,33,Linda Ronstadt,Entre Abismos,35,33,4
+1993-02-27,34,Jose Feliciano,Soy Alegre,,34,1
+1993-02-27,35,Texas Tornados,Tus Mentiras,36,34,4
+1993-02-27,36,Lisa M,Subeme El Radio,40,32,5
+1993-02-27,37,Kiara,Que Suba La Temperatura,29,21,8
+1993-02-27,38,Zona Roja,Ya Me Voy,,38,1
+1993-02-27,39,Cristian,Solo Dame Una Noche,37,37,2
+1993-02-27,40,Daniela Romo,Para Que Te Quedes Conmigo,26,1,20
+1993-03-06,1,Jon Secada,Cree En Nuestro Amor,1,1,12
+1993-03-06,2,Juan Luis Guerra 440,El Costo De La Vida,2,1,12
+1993-03-06,3,Ricardo Montaner,Piel Adentro,8,3,3
+1993-03-06,4,Chayanne,Exxtasis,7,4,5
+1993-03-06,5,Ednita Nazario,Tres Deseos,3,3,5
+1993-03-06,6,La Mafia,Me Estoy Enamorando,9,6,4
+1993-03-06,7,Braulio,Cronica De Un Viejo Amor,15,7,4
+1993-03-06,8,Daniela Romo,Atame A Tu Vida,16,8,4
+1993-03-06,9,Paulina Rubio,Mio,4,3,15
+1993-03-06,10,Jose Jose,40 Y 20,5,4,15
+1993-03-06,11,Cristian,Solo Dame Una Noche,39,11,3
+1993-03-06,12,Vicente Fernandez,La Fiesta,11,8,7
+1993-03-06,13,George LaMond,Baby Creo En Ti,10,10,7
+1993-03-06,14,Ana Gabriel,Todavia Tenemos Tiempo,13,13,3
+1993-03-06,15,Victor Victor,Asi Es Mi Amor,29,15,2
+1993-03-06,16,Los Bukis,Viendolo Bien,14,13,7
+1993-03-06,17,Pandora,Pierdo El Control,19,17,3
+1993-03-06,18,Los Fugitivos,Esta Carta,18,17,5
+1993-03-06,19,Gloria Trevi,Con Los Ojos Cerrados,12,6,16
+1993-03-06,20,Tony Vega,Donde Estas?,,20,1
+1993-03-06,21,Myriam Hernandez,Se Me Fue,27,21,3
+1993-03-06,22,Marisela,Te Devuelvo Tu Apellido,21,16,11
+1993-03-06,23,Maria Conchita Alonso,Promesas,32,23,2
+1993-03-06,24,Jerry Rivera,Una En Un Millon,22,22,6
+1993-03-06,25,Pepe Aguilar,Recuerdame Bonito,26,25,4
+1993-03-06,26,Jessica Cristina Y Ricky Martin,Todo Es Vida,17,14,7
+1993-03-06,27,Ricardo Montaner,Castillo Azul,6,1,15
+1993-03-06,28,Paulina Rubio,Abriendo Las Puertas Al Amor,,28,1
+1993-03-06,29,Emmanuel,Y Ahora Se Me Pasan,,29,1
+1993-03-06,30,Banda Machos,Sangre De Indio,23,13,11
+1993-03-06,31,Eddie Santiago,Vivo Para Ti,,31,1
+1993-03-06,32,Xuxa,Que Cosa Buena,30,30,6
+1993-03-06,33,Lucero,Veleta,,33,1
+1993-03-06,34,Kiara,Que Suba La Temperatura,37,21,9
+1993-03-06,35,Lisa M,Subeme El Radio,36,32,6
+1993-03-06,36,Bronco: El Gigante De America,Adoro,25,7,16
+1993-03-06,37,Julio Iglesias,Esos Amores,28,23,6
+1993-03-06,38,Jose Feliciano,Soy Alegre,34,34,2
+1993-03-06,39,Amanecer,Basta,24,18,7
+1993-03-06,40,Linda Ronstadt,Entre Abismos,33,33,5
+1993-03-13,1,Ricardo Montaner,Piel Adentro,3,1,4
+1993-03-13,2,Jon Secada,Cree En Nuestro Amor,1,1,13
+1993-03-13,3,Chayanne,Exxtasis,4,3,6
+1993-03-13,4,Ednita Nazario,Tres Deseos,5,3,6
+1993-03-13,5,La Mafia,Me Estoy Enamorando,6,5,5
+1993-03-13,6,Juan Luis Guerra 440,El Costo De La Vida,2,1,13
+1993-03-13,7,Braulio,Cronica De Un Viejo Amor,7,7,5
+1993-03-13,8,Daniela Romo,Atame A Tu Vida,8,8,5
+1993-03-13,9,Ana Gabriel,Todavia Tenemos Tiempo,14,9,4
+1993-03-13,10,Victor Victor,Asi Es Mi Amor,15,10,3
+1993-03-13,11,Vicente Fernandez,La Fiesta,12,8,8
+1993-03-13,12,Cristian,Solo Dame Una Noche,11,11,4
+1993-03-13,13,Pandora,Pierdo El Control,17,13,4
+1993-03-13,14,Los Bukis,Viendolo Bien,16,13,8
+1993-03-13,15,Tony Vega,Donde Estas?,20,15,2
+1993-03-13,16,Pepe Aguilar,Recuerdame Bonito,25,16,5
+1993-03-13,17,Paulina Rubio,Abriendo Las Puertas Al Amor,28,17,2
+1993-03-13,18,Jose Jose,40 Y 20,10,4,16
+1993-03-13,19,George LaMond,Baby Creo En Ti,13,10,8
+1993-03-13,20,Myriam Hernandez,Se Me Fue,21,20,4
+1993-03-13,21,Lucero,Veleta,33,21,2
+1993-03-13,22,Emmanuel,Y Ahora Se Me Pasan,29,22,2
+1993-03-13,23,Paulina Rubio,Mio,9,3,16
+1993-03-13,24,Marisela,Te Devuelvo Tu Apellido,22,16,12
+1993-03-13,25,Jerry Rivera,Una En Un Millon,24,22,7
+1993-03-13,26,Maria Conchita Alonso,Promesas,23,23,3
+1993-03-13,27,Los Fugitivos,Esta Carta,18,17,6
+1993-03-13,28,Eddie Santiago,Vivo Para Ti,31,28,2
+1993-03-13,29,Bronco: El Gigante De America,Aqui Nomas,,29,1
+1993-03-13,30,Bronco: El Gigante De America,Adoro,36,7,17
+1993-03-13,31,Jose Feliciano,Soy Alegre,38,31,3
+1993-03-13,32,Alvaro Torres,Me Arrepiento De Quererte,,32,1
+1993-03-13,33,Gloria Trevi,Con Los Ojos Cerrados,19,6,17
+1993-03-13,34,Banda Machos,La Secretaria,,34,1
+1993-03-13,35,Wilfrido Vargas,El Baile Del Perrito,,35,1
+1993-03-13,36,Jose Jose,Eso Nomas,,36,1
+1993-03-13,37,Julio Iglesias,Esos Amores,37,23,7
+1993-03-13,38,Xuxa,Que Cosa Buena,32,30,7
+1993-03-13,39,Lisa M,Subeme El Radio,35,32,7
+1993-03-13,40,Kiara,Que Suba La Temperatura,34,21,10
+1993-03-20,1,Ricardo Montaner,Piel Adentro,1,1,5
+1993-03-20,2,Chayanne,Exxtasis,3,2,7
+1993-03-20,3,Jon Secada,Cree En Nuestro Amor,2,1,14
+1993-03-20,4,Ednita Nazario,Tres Deseos,4,3,7
+1993-03-20,5,La Mafia,Me Estoy Enamorando,5,5,6
+1993-03-20,6,Braulio,Cronica De Un Viejo Amor,7,6,6
+1993-03-20,7,Daniela Romo,Atame A Tu Vida,8,7,6
+1993-03-20,8,Victor Victor,Asi Es Mi Amor,10,8,4
+1993-03-20,9,Ana Gabriel,Todavia Tenemos Tiempo,9,9,5
+1993-03-20,10,Juan Luis Guerra 440,El Costo De La Vida,6,1,14
+1993-03-20,11,Paulina Rubio,Abriendo Las Puertas Al Amor,17,11,3
+1993-03-20,12,Cristian,Solo Dame Una Noche,12,11,5
+1993-03-20,13,Vicente Fernandez,La Fiesta,11,8,9
+1993-03-20,14,Pandora,Pierdo El Control,13,13,5
+1993-03-20,15,Pepe Aguilar,Recuerdame Bonito,16,15,6
+1993-03-20,16,Tony Vega,Donde Estas?,15,15,3
+1993-03-20,17,Lucero,Veleta,21,17,3
+1993-03-20,18,Jose Jose,Eso Nomas,36,18,2
+1993-03-20,19,Los Bukis,Viendolo Bien,14,13,9
+1993-03-20,20,Maria Conchita Alonso,Promesas,26,20,4
+1993-03-20,21,Myriam Hernandez,Se Me Fue,20,20,5
+1993-03-20,22,George LaMond,Baby Creo En Ti,19,10,9
+1993-03-20,23,Emmanuel,Y Ahora Se Me Pasan,22,22,3
+1993-03-20,24,Eddie Santiago,Vivo Para Ti,28,24,3
+1993-03-20,25,Wilfrido Vargas,El Baile Del Perrito,35,25,2
+1993-03-20,26,Marisela,Te Devuelvo Tu Apellido,24,16,13
+1993-03-20,27,Bronco: El Gigante De America,Adoro,30,7,18
+1993-03-20,28,Alvaro Torres,Me Arrepiento De Quererte,32,28,2
+1993-03-20,29,Bronco: El Gigante De America,Aqui Nomas,29,29,2
+1993-03-20,30,Jose Jose,40 Y 20,18,4,17
+1993-03-20,31,Lunna,Mientras Vivas,,31,1
+1993-03-20,32,Gloria Trevi,Con Los Ojos Cerrados,33,6,18
+1993-03-20,33,Mazz,Popurri De Boleros,,33,3
+1993-03-20,34,Alvaro Torres,Te Dejo Libre,,34,1
+1993-03-20,35,Jose Feliciano,Soy Alegre,31,31,4
+1993-03-20,36,Guillermo Davila,Por Amarte Tanto,,36,1
+1993-03-20,37,Alex Bueno,Quiereme,,37,1
+1993-03-20,38,Banda Machos,La Secretaria,34,34,2
+1993-03-20,39,Paulina Rubio,Mio,23,3,17
+1993-03-20,40,Jerry Rivera,Una En Un Millon,25,22,8
+1993-03-27,1,Ricardo Montaner,Piel Adentro,1,1,6
+1993-03-27,2,La Mafia,Me Estoy Enamorando,5,2,7
+1993-03-27,3,Chayanne,Exxtasis,2,2,8
+1993-03-27,4,Ednita Nazario,Tres Deseos,4,3,8
+1993-03-27,5,Braulio,Cronica De Un Viejo Amor,6,5,7
+1993-03-27,6,Jon Secada,Cree En Nuestro Amor,3,1,15
+1993-03-27,7,Ana Gabriel,Todavia Tenemos Tiempo,9,7,6
+1993-03-27,8,Daniela Romo,Atame A Tu Vida,7,7,7
+1993-03-27,9,Cristian,Solo Dame Una Noche,12,9,6
+1993-03-27,10,Paulina Rubio,Abriendo Las Puertas Al Amor,11,10,4
+1993-03-27,11,Victor Victor,Asi Es Mi Amor,8,8,5
+1993-03-27,12,Pepe Aguilar,Recuerdame Bonito,15,12,7
+1993-03-27,13,Lucero,Veleta,17,13,4
+1993-03-27,14,Jose Jose,Eso Nomas,18,14,3
+1993-03-27,15,Pandora,Pierdo El Control,14,13,6
+1993-03-27,16,Juan Luis Guerra 440,El Costo De La Vida,10,1,15
+1993-03-27,17,Myriam Hernandez,Se Me Fue,21,17,6
+1993-03-27,18,Alvaro Torres,Te Dejo Libre,34,18,2
+1993-03-27,19,Emmanuel,Y Ahora Se Me Pasan,23,19,4
+1993-03-27,20,Vicente Fernandez,La Fiesta,13,8,10
+1993-03-27,21,Los Bukis,Viendolo Bien,19,13,10
+1993-03-27,22,Los Temerarios,Perdoname,,22,1
+1993-03-27,23,Bronco: El Gigante De America,Aqui Nomas,29,23,3
+1993-03-27,24,Tony Vega,Donde Estas?,16,15,4
+1993-03-27,25,Wilfrido Vargas,El Baile Del Perrito,25,25,3
+1993-03-27,26,Maria Conchita Alonso,Promesas,20,20,5
+1993-03-27,27,Lunna,Mientras Vivas,31,27,2
+1993-03-27,28,Alvaro Torres,Me Arrepiento De Quererte,28,28,3
+1993-03-27,29,Alex Bueno,Quiereme,37,29,2
+1993-03-27,30,Banda Machos,La Secretaria,38,30,3
+1993-03-27,31,Guillermo Davila,Por Amarte Tanto,36,31,2
+1993-03-27,32,Ole Ole,Adios,,32,1
+1993-03-27,33,Olga Tanon,Una Mujer Rota,,33,1
+1993-03-27,34,Ricardo Arjona,Mujeres,,34,1
+1993-03-27,35,George LaMond,Baby Creo En Ti,22,10,10
+1993-03-27,36,Bronco: El Gigante De America,Adoro,27,7,19
+1993-03-27,37,Eddie Santiago,Vivo Para Ti,24,24,4
+1993-03-27,38,Jose Feliciano,Soy Alegre,35,31,5
+1993-03-27,39,Marisela,Te Devuelvo Tu Apellido,26,16,14
+1993-03-27,40,Mazz,Popurri De Boleros,33,33,4
+1993-04-03,1,Ricardo Montaner,Piel Adentro,1,1,7
+1993-04-03,2,La Mafia,Me Estoy Enamorando,2,2,8
+1993-04-03,3,Chayanne,Exxtasis,3,2,9
+1993-04-03,4,Ednita Nazario,Tres Deseos,4,3,9
+1993-04-03,5,Braulio,Cronica De Un Viejo Amor,5,5,8
+1993-04-03,6,Ana Gabriel,Todavia Tenemos Tiempo,7,6,7
+1993-04-03,7,Daniela Romo,Atame A Tu Vida,8,7,8
+1993-04-03,8,Jose Jose,Eso Nomas,14,8,4
+1993-04-03,9,Lucero,Veleta,13,9,5
+1993-04-03,10,Victor Victor,Asi Es Mi Amor,11,8,6
+1993-04-03,11,Cristian,Solo Dame Una Noche,9,9,7
+1993-04-03,12,Paulina Rubio,Abriendo Las Puertas Al Amor,10,10,5
+1993-04-03,13,Alvaro Torres,Te Dejo Libre,18,13,3
+1993-04-03,14,Pandora,Pierdo El Control,15,13,7
+1993-04-03,15,Myriam Hernandez,Se Me Fue,17,15,7
+1993-04-03,16,Jon Secada,Cree En Nuestro Amor,6,1,16
+1993-04-03,17,Wilfrido Vargas,El Baile Del Perrito,25,17,4
+1993-04-03,18,Emmanuel,Y Ahora Se Me Pasan,19,18,5
+1993-04-03,19,Los Bukis,Viendolo Bien,21,13,11
+1993-04-03,20,Olga Tanon,Una Mujer Rota,33,20,2
+1993-04-03,21,Los Temerarios,Perdoname,22,21,2
+1993-04-03,22,Pepe Aguilar,Recuerdame Bonito,12,12,8
+1993-04-03,23,Gloria Trevi,Me Siento Tan Sola,,23,1
+1993-04-03,24,Alex Bueno,Quiereme,29,24,3
+1993-04-03,25,Juan Luis Guerra 440,El Costo De La Vida,16,1,16
+1993-04-03,26,Lunna,Mientras Vivas,27,26,3
+1993-04-03,27,Bronco: El Gigante De America,Aqui Nomas,23,23,4
+1993-04-03,28,Los Fantasmas del Caribe,Muchacha Triste,,28,1
+1993-04-03,29,Ole Ole,Adios,32,29,2
+1993-04-03,30,Maria Conchita Alonso,Promesas,26,20,6
+1993-04-03,31,Alvaro Torres,Me Arrepiento De Quererte,28,28,4
+1993-04-03,32,Tony Vega,Donde Estas?,24,15,5
+1993-04-03,33,Ricardo Arjona,Mujeres,34,33,2
+1993-04-03,34,Juan Luis Guerra 440,Mal De Amor,,34,1
+1993-04-03,35,Mijares,Encadenado,,35,1
+1993-04-03,36,Banda Machos,La Secretaria,30,30,4
+1993-04-03,37,Charanda Band,Josefina,,37,1
+1993-04-03,38,Eddie Santiago,Vivo Para Ti,37,24,5
+1993-04-03,39,Vicente Fernandez,La Fiesta,20,8,11
+1993-04-03,40,Guillermo Davila,Por Amarte Tanto,31,31,3
+1993-04-10,1,La Mafia,Me Estoy Enamorando,2,1,9
+1993-04-10,2,Ricardo Montaner,Piel Adentro,1,1,8
+1993-04-10,3,Chayanne,Exxtasis,3,2,10
+1993-04-10,4,Ednita Nazario,Tres Deseos,4,3,10
+1993-04-10,5,Braulio,Cronica De Un Viejo Amor,5,5,9
+1993-04-10,6,Ana Gabriel,Todavia Tenemos Tiempo,6,6,8
+1993-04-10,7,Daniela Romo,Atame A Tu Vida,7,7,9
+1993-04-10,8,Lucero,Veleta,9,8,6
+1993-04-10,9,Jose Jose,Eso Nomas,8,8,5
+1993-04-10,10,Alvaro Torres,Te Dejo Libre,13,10,4
+1993-04-10,11,Paulina Rubio,Abriendo Las Puertas Al Amor,12,10,6
+1993-04-10,12,Cristian,Solo Dame Una Noche,11,9,8
+1993-04-10,13,Victor Victor,Asi Es Mi Amor,10,8,7
+1993-04-10,14,Myriam Hernandez,Se Me Fue,15,14,8
+1993-04-10,15,Wilfrido Vargas,El Baile Del Perrito,17,15,5
+1993-04-10,16,Pandora,Pierdo El Control,14,13,8
+1993-04-10,17,Los Fantasmas del Caribe,Muchacha Triste,28,17,2
+1993-04-10,18,Los Bukis,Viendolo Bien,19,13,12
+1993-04-10,19,Olga Tanon,Una Mujer Rota,20,19,3
+1993-04-10,20,Juan Luis Guerra 440,Mal De Amor,34,20,2
+1993-04-10,21,Los Temerarios,Perdoname,21,21,3
+1993-04-10,22,Gloria Trevi,Me Siento Tan Sola,23,22,2
+1993-04-10,23,Alex Bueno,Quiereme,24,23,4
+1993-04-10,24,Ricardo Arjona,Mujeres,33,24,3
+1993-04-10,25,Bronco: El Gigante De America,Aqui Nomas,27,23,5
+1993-04-10,26,Mijares,Encadenado,35,26,2
+1993-04-10,27,Lunna,Mientras Vivas,26,26,4
+1993-04-10,28,Pepe Aguilar,Recuerdame Bonito,22,12,9
+1993-04-10,29,Ole Ole,Adios,29,29,3
+1993-04-10,30,Banda Machos,La Secretaria,36,30,5
+1993-04-10,31,Emmanuel,Y Ahora Se Me Pasan,18,18,6
+1993-04-10,32,Tony Vega,Donde Estas?,32,15,6
+1993-04-10,33,Jon Secada,Cree En Nuestro Amor,16,1,17
+1993-04-10,34,Vikki Carr,Dejame,,34,1
+1993-04-10,35,Tropical Caribe,Sexo Fuerte,,35,1
+1993-04-10,36,Alvaro Torres,Me Arrepiento De Quererte,31,28,5
+1993-04-10,37,Charanda Band,Josefina,37,37,2
+1993-04-10,38,Marc Anthony,Hasta Que Te Conoci,,38,1
+1993-04-10,39,Maria Conchita Alonso,Promesas,30,20,7
+1993-04-10,40,Vicente Fernandez,La Fiesta,39,8,12
+1993-04-17,1,La Mafia,Me Estoy Enamorando,1,1,10
+1993-04-17,2,Ricardo Montaner,Piel Adentro,2,1,9
+1993-04-17,3,Chayanne,Exxtasis,3,2,11
+1993-04-17,4,Ednita Nazario,Tres Deseos,4,3,11
+1993-04-17,5,Lucero,Veleta,8,5,7
+1993-04-17,6,Jose Jose,Eso Nomas,9,6,6
+1993-04-17,7,Braulio,Cronica De Un Viejo Amor,5,5,10
+1993-04-17,8,Daniela Romo,Atame A Tu Vida,7,7,10
+1993-04-17,9,Ana Gabriel,Todavia Tenemos Tiempo,6,6,9
+1993-04-17,10,Los Fantasmas del Caribe,Muchacha Triste,17,10,3
+1993-04-17,11,Alvaro Torres,Te Dejo Libre,10,10,5
+1993-04-17,12,Paulina Rubio,Abriendo Las Puertas Al Amor,11,10,7
+1993-04-17,13,Cristian,Solo Dame Una Noche,12,9,9
+1993-04-17,14,Juan Luis Guerra 440,Mal De Amor,20,14,3
+1993-04-17,15,Wilfrido Vargas,El Baile Del Perrito,15,15,6
+1993-04-17,16,Gloria Trevi,Me Siento Tan Sola,22,16,3
+1993-04-17,17,Myriam Hernandez,Se Me Fue,14,14,9
+1993-04-17,18,Victor Victor,Asi Es Mi Amor,13,8,8
+1993-04-17,19,Ricardo Arjona,Mujeres,24,19,4
+1993-04-17,20,Los Temerarios,Perdoname,21,20,4
+1993-04-17,21,Mijares,Encadenado,26,21,3
+1993-04-17,22,Olga Tanon,Una Mujer Rota,19,19,4
+1993-04-17,23,Banda Machos,La Secretaria,30,23,6
+1993-04-17,24,Bronco: El Gigante De America,Aqui Nomas,25,23,6
+1993-04-17,25,Pandora,Pierdo El Control,16,13,9
+1993-04-17,26,Tropical Caribe,Sexo Fuerte,35,26,2
+1993-04-17,27,Pepe Aguilar,Recuerdame Bonito,28,12,10
+1993-04-17,28,Los Bukis,Viendolo Bien,18,13,13
+1993-04-17,29,Lunna,Mientras Vivas,27,26,5
+1993-04-17,30,Marc Anthony,Hasta Que Te Conoci,38,30,2
+1993-04-17,31,Banda Superbandido,Maldicion Ranchera,,31,1
+1993-04-17,32,Alex Bueno,Quiereme,23,23,5
+1993-04-17,33,Jon Secada,Sentir,,33,1
+1993-04-17,34,Yuri,Como Te Ame,,34,1
+1993-04-17,35,Los Tigres del Norte,Pacas De A Kilo,,35,1
+1993-04-17,36,Emmanuel,Y Ahora Se Me Pasan,31,18,7
+1993-04-17,37,Tony Vega,Donde Estas?,32,15,7
+1993-04-17,38,Vikki Carr,Dejame,34,34,2
+1993-04-17,39,Ole Ole,Adios,29,29,4
+1993-04-17,40,Charanda Band,Josefina,37,37,3
+1993-04-24,1,La Mafia,Me Estoy Enamorando,1,1,11
+1993-04-24,2,Ricardo Montaner,Piel Adentro,2,1,10
+1993-04-24,3,Lucero,Veleta,5,3,8
+1993-04-24,4,Ednita Nazario,Tres Deseos,4,3,12
+1993-04-24,5,Jose Jose,Eso Nomas,6,5,7
+1993-04-24,6,Chayanne,Exxtasis,3,2,12
+1993-04-24,7,Los Fantasmas del Caribe,Muchacha Triste,10,7,4
+1993-04-24,8,Daniela Romo,Atame A Tu Vida,8,7,11
+1993-04-24,9,Alvaro Torres,Te Dejo Libre,11,9,6
+1993-04-24,10,Juan Luis Guerra 440,Mal De Amor,14,10,4
+1993-04-24,11,Paulina Rubio,Abriendo Las Puertas Al Amor,12,10,8
+1993-04-24,12,Ana Gabriel,Todavia Tenemos Tiempo,9,6,10
+1993-04-24,13,Gloria Trevi,Me Siento Tan Sola,16,13,4
+1993-04-24,14,Braulio,Cronica De Un Viejo Amor,7,5,11
+1993-04-24,15,Wilfrido Vargas,El Baile Del Perrito,15,15,7
+1993-04-24,16,Ricardo Arjona,Mujeres,19,16,5
+1993-04-24,17,Los Temerarios,Perdoname,20,17,5
+1993-04-24,18,Myriam Hernandez,Se Me Fue,17,14,10
+1993-04-24,19,Tropical Caribe,Sexo Fuerte,26,19,3
+1993-04-24,20,Mijares,Encadenado,21,20,4
+1993-04-24,21,Victor Victor,Asi Es Mi Amor,18,8,9
+1993-04-24,22,Olga Tanon,Una Mujer Rota,22,19,5
+1993-04-24,23,Cristian,Solo Dame Una Noche,13,9,10
+1993-04-24,24,Los Tigres del Norte,Pacas De A Kilo,35,24,2
+1993-04-24,25,Los Bukis,Viendolo Bien,28,13,14
+1993-04-24,26,Pepe Aguilar,Recuerdame Bonito,27,12,11
+1993-04-24,27,Marc Anthony,Hasta Que Te Conoci,30,27,3
+1993-04-24,28,Jon Secada,Sentir,33,28,2
+1993-04-24,29,Lunna,Mientras Vivas,29,26,6
+1993-04-24,30,Pandora,Pierdo El Control,25,13,10
+1993-04-24,31,Alex Bueno,Quiereme,32,23,6
+1993-04-24,32,Vikki Carr,Dejame,38,32,3
+1993-04-24,33,Bronco: El Gigante De America,Aqui Nomas,24,23,7
+1993-04-24,34,Yuri,Como Te Ame,34,34,2
+1993-04-24,35,Banda Machos,La Secretaria,23,23,7
+1993-04-24,36,Mazz,Que Sera?,,36,1
+1993-04-24,37,Banda Superbandido,Maldicion Ranchera,31,31,2
+1993-04-24,38,Gustavo Alarco,Asi Eres Tu,,38,1
+1993-04-24,39,Tony Vega,Donde Estas?,37,15,8
+1993-04-24,40,Selena,Amame,,40,1
+1993-05-01,1,La Mafia,Me Estoy Enamorando,1,1,12
+1993-05-01,2,Lucero,Veleta,3,2,9
+1993-05-01,3,Los Fantasmas del Caribe,Muchacha Triste,7,3,5
+1993-05-01,4,Ricardo Montaner,Piel Adentro,2,1,11
+1993-05-01,5,Jose Jose,Eso Nomas,5,5,8
+1993-05-01,6,Juan Luis Guerra 440,Mal De Amor,10,6,5
+1993-05-01,7,Alvaro Torres,Te Dejo Libre,9,7,7
+1993-05-01,8,Gloria Trevi,Me Siento Tan Sola,13,8,5
+1993-05-01,9,Ednita Nazario,Tres Deseos,4,3,13
+1993-05-01,10,Chayanne,Exxtasis,6,2,13
+1993-05-01,11,Daniela Romo,Atame A Tu Vida,8,7,12
+1993-05-01,12,Paulina Rubio,Abriendo Las Puertas Al Amor,11,10,9
+1993-05-01,13,Ricardo Arjona,Mujeres,16,13,6
+1993-05-01,14,Mijares,Encadenado,20,14,5
+1993-05-01,15,Wilfrido Vargas,El Baile Del Perrito,15,15,8
+1993-05-01,16,Los Temerarios,Perdoname,17,16,6
+1993-05-01,17,Jon Secada,Sentir,28,17,3
+1993-05-01,18,Ana Gabriel,Todavia Tenemos Tiempo,12,6,11
+1993-05-01,19,Myriam Hernandez,Se Me Fue,18,14,11
+1993-05-01,20,Tropical Caribe,Sexo Fuerte,19,19,4
+1993-05-01,21,Los Tigres del Norte,Pacas De A Kilo,24,21,3
+1993-05-01,22,Marc Anthony,Hasta Que Te Conoci,27,22,4
+1993-05-01,23,Ricardo Montaner,Al Final Del Arco Iris,,23,1
+1993-05-01,24,Olga Tanon,Una Mujer Rota,22,19,6
+1993-05-01,25,Alex Bueno,Quiereme,31,23,7
+1993-05-01,26,Braulio,Cronica De Un Viejo Amor,14,5,12
+1993-05-01,27,Chayanne,Mi Primer Amor,,27,1
+1993-05-01,28,Mazz,Que Sera?,36,28,2
+1993-05-01,29,Selena,Amame,40,29,2
+1993-05-01,30,Vikki Carr,Dejame,32,30,4
+1993-05-01,31,Pepe Aguilar,Recuerdame Bonito,26,12,12
+1993-05-01,32,Gustavo Alarco,Asi Eres Tu,38,32,2
+1993-05-01,33,Rey Ruiz,Amiga,,33,1
+1993-05-01,34,Los Bukis,Viendolo Bien,25,13,15
+1993-05-01,35,George Lamond Y Lisa Lopez,No Morira,,35,1
+1993-05-01,36,Bronco: El Gigante De America,Aqui Nomas,33,23,8
+1993-05-01,37,Yuri,Como Te Ame,34,34,3
+1993-05-01,38,Lunna,Mientras Vivas,29,26,7
+1993-05-01,39,Banda Machos,La Secretaria,35,23,8
+1993-05-01,40,Banda Superbandido,Maldicion Ranchera,37,31,3
+1993-05-08,1,La Mafia,Me Estoy Enamorando,1,1,13
+1993-05-08,2,Los Fantasmas del Caribe,Muchacha Triste,3,2,6
+1993-05-08,3,Lucero,Veleta,2,2,10
+1993-05-08,4,Juan Luis Guerra 440,Mal De Amor,6,4,6
+1993-05-08,5,Alvaro Torres,Te Dejo Libre,7,5,8
+1993-05-08,6,Jose Jose,Eso Nomas,5,5,9
+1993-05-08,7,Gloria Trevi,Me Siento Tan Sola,8,7,6
+1993-05-08,8,Ricardo Montaner,Piel Adentro,4,1,12
+1993-05-08,9,Paulina Rubio,Abriendo Las Puertas Al Amor,12,9,10
+1993-05-08,10,Ricardo Arjona,Mujeres,13,10,7
+1993-05-08,11,Mijares,Encadenado,14,11,6
+1993-05-08,12,Jon Secada,Sentir,17,12,4
+1993-05-08,13,Wilfrido Vargas,El Baile Del Perrito,15,13,9
+1993-05-08,14,Ednita Nazario,Tres Deseos,9,3,14
+1993-05-08,15,Daniela Romo,Atame A Tu Vida,11,7,13
+1993-05-08,16,Ricardo Montaner,Al Final Del Arco Iris,23,16,2
+1993-05-08,17,Los Temerarios,Perdoname,16,16,7
+1993-05-08,18,Myriam Hernandez,Se Me Fue,19,14,12
+1993-05-08,19,Los Tigres del Norte,Pacas De A Kilo,21,19,4
+1993-05-08,20,Marc Anthony,Hasta Que Te Conoci,22,20,5
+1993-05-08,21,Tropical Caribe,Sexo Fuerte,20,19,5
+1993-05-08,22,Chayanne,Exxtasis,10,2,14
+1993-05-08,23,Ana Gabriel,Todavia Tenemos Tiempo,18,6,12
+1993-05-08,24,Rey Ruiz,Amiga,33,24,2
+1993-05-08,25,Mazz,Que Sera?,28,25,3
+1993-05-08,26,Alex Bueno,Quiereme,25,23,8
+1993-05-08,27,Chayanne,Mi Primer Amor,27,27,2
+1993-05-08,28,Gustavo Alarco,Asi Eres Tu,32,28,3
+1993-05-08,29,George Lamond Y Lisa Lopez,No Morira,35,29,2
+1993-05-08,30,Selena,Amame,29,29,3
+1993-05-08,31,Vikki Carr,Dejame,30,30,5
+1993-05-08,32,Olga Tanon,Una Mujer Rota,24,19,7
+1993-05-08,33,Fandango USA,La Charanga,,33,1
+1993-05-08,34,Cristian,Agua Nueva,,34,1
+1993-05-08,35,Pepe Aguilar,Recuerdame Bonito,31,12,13
+1993-05-08,36,Banda Superbandido,Maldicion Ranchera,40,31,4
+1993-05-08,37,Bronco: El Gigante De America,Aqui Nomas,36,23,9
+1993-05-08,38,Ana Gabriel,Tu Y Yo,,38,1
+1993-05-08,39,Ednita Nazario,Un Corazon Hecho Pedazos,,39,1
+1993-05-08,40,Lunna,Mientras Vivas,38,26,8
+1993-05-15,1,La Mafia,Me Estoy Enamorando,1,1,14
+1993-05-15,2,Los Fantasmas del Caribe,Muchacha Triste,2,2,7
+1993-05-15,3,Lucero,Veleta,3,2,11
+1993-05-15,4,Alvaro Torres,Te Dejo Libre,5,4,9
+1993-05-15,5,Juan Luis Guerra 440,Mal De Amor,4,4,7
+1993-05-15,6,Gloria Trevi,Me Siento Tan Sola,7,6,7
+1993-05-15,7,Jose Jose,Eso Nomas,6,5,10
+1993-05-15,8,Ricardo Arjona,Mujeres,10,8,8
+1993-05-15,9,Jon Secada,Sentir,12,9,5
+1993-05-15,10,Mijares,Encadenado,11,10,7
+1993-05-15,11,Ricardo Montaner,Al Final Del Arco Iris,16,11,3
+1993-05-15,12,Wilfrido Vargas,El Baile Del Perrito,13,12,10
+1993-05-15,13,Paulina Rubio,Abriendo Las Puertas Al Amor,9,9,11
+1993-05-15,14,Marc Anthony,Hasta Que Te Conoci,20,14,6
+1993-05-15,15,Los Tigres del Norte,Pacas De A Kilo,19,15,5
+1993-05-15,16,Ricardo Montaner,Piel Adentro,8,1,13
+1993-05-15,17,Mazz,Que Sera?,25,17,4
+1993-05-15,18,Los Temerarios,Perdoname,17,16,8
+1993-05-15,19,Rey Ruiz,Amiga,24,19,3
+1993-05-15,20,Tropical Caribe,Sexo Fuerte,21,19,6
+1993-05-15,21,Chayanne,Mi Primer Amor,27,21,3
+1993-05-15,22,Myriam Hernandez,Se Me Fue,18,14,13
+1993-05-15,23,George Lamond Y Lisa Lopez,No Morira,29,23,3
+1993-05-15,24,Ednita Nazario,Un Corazon Hecho Pedazos,39,24,2
+1993-05-15,25,Maggie Carles,Amor Siempre Tu,,25,1
+1993-05-15,26,Gustavo Alarco,Asi Eres Tu,28,26,4
+1993-05-15,27,Ana Gabriel,Tu Y Yo,38,27,2
+1993-05-15,28,Selena,Amame,30,28,4
+1993-05-15,29,Ednita Nazario,Tres Deseos,14,3,15
+1993-05-15,30,Daniela Romo,Atame A Tu Vida,15,7,14
+1993-05-15,31,Magneto,Sugar Sugar,,31,1
+1993-05-15,32,Fandango USA,La Charanga,33,32,2
+1993-05-15,33,R. Durcal Y J. Sabina,Y Nos Dieron Las Diez,,33,1
+1993-05-15,34,Vikki Carr,Dejame,31,30,6
+1993-05-15,35,Ana Gabriel,Todavia Tenemos Tiempo,23,6,13
+1993-05-15,36,Alex Bueno,Quiereme,26,23,9
+1993-05-15,37,La Banda Show,Mayaya,,37,1
+1993-05-15,38,Cristian,Agua Nueva,34,34,2
+1993-05-15,39,Olga Tanon,Una Mujer Rota,32,19,8
+1993-05-15,40,Banda Superbandido,Maldicion Ranchera,36,31,5
+1993-05-22,1,La Mafia,Me Estoy Enamorando,1,1,15
+1993-05-22,2,Los Fantasmas del Caribe,Muchacha Triste,2,2,8
+1993-05-22,3,Lucero,Veleta,3,2,12
+1993-05-22,4,Alvaro Torres,Te Dejo Libre,4,4,10
+1993-05-22,5,Juan Luis Guerra 440,Mal De Amor,5,4,8
+1993-05-22,6,Ricardo Arjona,Mujeres,8,6,9
+1993-05-22,7,Jose Jose,Eso Nomas,7,5,11
+1993-05-22,8,Jon Secada,Sentir,9,8,6
+1993-05-22,9,Gloria Trevi,Me Siento Tan Sola,6,6,8
+1993-05-22,10,Ricardo Montaner,Al Final Del Arco Iris,11,10,4
+1993-05-22,11,Mijares,Encadenado,10,10,8
+1993-05-22,12,Ednita Nazario,Un Corazon Hecho Pedazos,24,12,3
+1993-05-22,13,Marc Anthony,Hasta Que Te Conoci,14,13,7
+1993-05-22,14,Mazz,Que Sera?,17,14,5
+1993-05-22,15,Chayanne,Mi Primer Amor,21,15,4
+1993-05-22,16,Wilfrido Vargas,El Baile Del Perrito,12,12,11
+1993-05-22,17,Rey Ruiz,Amiga,19,17,4
+1993-05-22,18,Maggie Carles,Amor Siempre Tu,25,18,2
+1993-05-22,19,Los Temerarios,Perdoname,18,16,9
+1993-05-22,20,Los Tigres del Norte,Pacas De A Kilo,15,15,6
+1993-05-22,21,Ana Gabriel,Tu Y Yo,27,21,3
+1993-05-22,22,George Lamond Y Lisa Lopez,No Morira,23,22,4
+1993-05-22,23,Tropical Caribe,Sexo Fuerte,20,19,7
+1993-05-22,24,R. Durcal Y J. Sabina,Y Nos Dieron Las Diez,33,24,2
+1993-05-22,25,Paulina Rubio,Abriendo Las Puertas Al Amor,13,9,12
+1993-05-22,26,Magneto,Sugar Sugar,31,26,2
+1993-05-22,27,Selena,Amame,28,27,5
+1993-05-22,28,Myriam Hernandez,Se Me Fue,22,14,14
+1993-05-22,29,Daniela Romo,Que Vengan Los Bomberos,,29,1
+1993-05-22,30,Fandango USA,La Charanga,32,30,3
+1993-05-22,31,La Banda Show,Mayaya,37,31,2
+1993-05-22,32,Ricardo Montaner,Piel Adentro,16,1,14
+1993-05-22,33,Gustavo Alarco,Asi Eres Tu,26,26,5
+1993-05-22,34,Cristian,Agua Nueva,38,34,3
+1993-05-22,35,Braulio,Llorando Ante La Tumba Del Amor,,35,1
+1993-05-22,36,Bonanza,Sabor A Nada,,36,1
+1993-05-22,37,Los Bukis,Que Duro Es Llorar Asi,,37,1
+1993-05-22,38,Cocoband,A Usted Lo Botan,,38,1
+1993-05-22,39,Banda Superbandido,Maldicion Ranchera,40,31,6
+1993-05-22,40,Alex Bueno,Quiereme,36,23,10
+1993-05-29,1,La Mafia,Me Estoy Enamorando,1,1,16
+1993-05-29,2,Los Fantasmas del Caribe,Muchacha Triste,2,2,9
+1993-05-29,3,Lucero,Veleta,3,2,13
+1993-05-29,4,Juan Luis Guerra 440,Mal De Amor,5,4,9
+1993-05-29,5,Alvaro Torres,Te Dejo Libre,4,4,11
+1993-05-29,6,Ricardo Montaner,Al Final Del Arco Iris,10,6,5
+1993-05-29,7,Jon Secada,Sentir,8,7,7
+1993-05-29,8,Ricardo Arjona,Mujeres,6,6,10
+1993-05-29,9,Mijares,Encadenado,11,9,9
+1993-05-29,10,Ednita Nazario,Un Corazon Hecho Pedazos,12,10,4
+1993-05-29,11,Ana Gabriel,Tu Y Yo,21,11,4
+1993-05-29,12,Jose Jose,Eso Nomas,7,5,12
+1993-05-29,13,Maggie Carles,Amor Siempre Tu,18,13,3
+1993-05-29,14,Gloria Trevi,Me Siento Tan Sola,9,6,9
+1993-05-29,15,Chayanne,Mi Primer Amor,15,15,5
+1993-05-29,16,Wilfrido Vargas,El Baile Del Perrito,16,12,12
+1993-05-29,17,George Lamond Y Lisa Lopez,No Morira,22,17,5
+1993-05-29,18,Magneto,Sugar Sugar,26,18,3
+1993-05-29,19,Marc Anthony,Hasta Que Te Conoci,13,13,8
+1993-05-29,20,Daniela Romo,Que Vengan Los Bomberos,29,20,2
+1993-05-29,21,Mazz,Que Sera?,14,14,6
+1993-05-29,22,Rey Ruiz,Amiga,17,17,5
+1993-05-29,23,Los Temerarios,Perdoname,19,16,10
+1993-05-29,24,R. Durcal Y J. Sabina,Y Nos Dieron Las Diez,24,24,3
+1993-05-29,25,Los Tigres del Norte,Pacas De A Kilo,20,15,7
+1993-05-29,26,La Banda Show,Mayaya,31,26,3
+1993-05-29,27,Braulio,Llorando Ante La Tumba Del Amor,35,27,2
+1993-05-29,28,Tropical Caribe,Sexo Fuerte,23,19,8
+1993-05-29,29,Cristian,Agua Nueva,34,29,4
+1993-05-29,30,Vicente Fernandez,Lo Quiero Todo,,30,1
+1993-05-29,31,Fandango USA,La Charanga,30,30,4
+1993-05-29,32,Cocoband,A Usted Lo Botan,38,32,2
+1993-05-29,33,Banda Superbandido,Maldicion Ranchera,39,31,7
+1993-05-29,34,Bonanza,Sabor A Nada,36,34,2
+1993-05-29,35,Gustavo Alarco,Asi Eres Tu,33,26,6
+1993-05-29,36,Los Bukis,Que Duro Es Llorar Asi,37,36,2
+1993-05-29,37,David Pabon,Por Instinto,,37,1
+1993-05-29,38,Selena,Amame,27,27,6
+1993-05-29,39,Paulina Rubio,Abriendo Las Puertas Al Amor,25,9,13
+1993-05-29,40,Myriam Hernandez,Se Me Fue,28,14,15
+1993-06-05,1,La Mafia,Me Estoy Enamorando,1,1,17
+1993-06-05,2,Los Fantasmas del Caribe,Muchacha Triste,2,2,10
+1993-06-05,3,Lucero,Veleta,3,2,14
+1993-06-05,4,Alvaro Torres,Te Dejo Libre,5,4,12
+1993-06-05,5,Juan Luis Guerra 440,Mal De Amor,4,4,10
+1993-06-05,6,Jon Secada,Sentir,7,6,8
+1993-06-05,7,Ricardo Montaner,Al Final Del Arco Iris,6,6,6
+1993-06-05,8,Ednita Nazario,Un Corazon Hecho Pedazos,10,8,5
+1993-06-05,9,Ricardo Arjona,Mujeres,8,6,11
+1993-06-05,10,Ana Gabriel,Tu Y Yo,11,10,5
+1993-06-05,11,Maggie Carles,Amor Siempre Tu,13,11,4
+1993-06-05,12,Mijares,Encadenado,9,9,10
+1993-06-05,13,Chayanne,Mi Primer Amor,15,13,6
+1993-06-05,14,Daniela Romo,Que Vengan Los Bomberos,20,14,3
+1993-06-05,15,George Lamond Y Lisa Lopez,No Morira,17,15,6
+1993-06-05,16,Magneto,Sugar Sugar,18,16,4
+1993-06-05,17,Jose Jose,Eso Nomas,12,5,13
+1993-06-05,18,Gloria Trevi,Me Siento Tan Sola,14,6,10
+1993-06-05,19,Marc Anthony,Hasta Que Te Conoci,19,13,9
+1993-06-05,20,Rey Ruiz,Amiga,22,17,6
+1993-06-05,21,R. Durcal Y J. Sabina,Y Nos Dieron Las Diez,24,21,4
+1993-06-05,22,Wilfrido Vargas,El Baile Del Perrito,16,12,13
+1993-06-05,23,Mazz,Que Sera?,21,14,7
+1993-06-05,24,Braulio,Llorando Ante La Tumba Del Amor,27,24,3
+1993-06-05,25,Los Tigres del Norte,Pacas De A Kilo,25,15,8
+1993-06-05,26,Los Temerarios,Perdoname,23,16,11
+1993-06-05,27,Vicente Fernandez,Lo Quiero Todo,30,27,2
+1993-06-05,28,La Banda Show,Mayaya,26,26,4
+1993-06-05,29,Cocoband,A Usted Lo Botan,32,29,3
+1993-06-05,30,Cristian,Agua Nueva,29,29,5
+1993-06-05,31,Alejandro Fernandez,Piel De Nina,,31,1
+1993-06-05,32,Jordy,Dur Dur D'etre Bebe,,32,1
+1993-06-05,33,Los Bukis,Que Duro Es Llorar Asi,36,33,3
+1993-06-05,34,Banda Superbandido,Maldicion Ranchera,33,31,8
+1993-06-05,35,La Grande De Madrid,Medley De Julio Iglesias,,35,1
+1993-06-05,36,Ricky Martin,Me Amaras,,36,1
+1993-06-05,37,David Pabon,Por Instinto,37,37,2
+1993-06-05,38,Bonanza,Sabor A Nada,34,34,3
+1993-06-05,39,Tropical Caribe,Sexo Fuerte,28,19,9
+1993-06-05,40,Fandango USA,La Charanga,31,30,5
+1993-06-12,1,Los Fantasmas del Caribe,Muchacha Triste,2,1,11
+1993-06-12,2,La Mafia,Me Estoy Enamorando,1,1,18
+1993-06-12,3,Jon Secada,Sentir,6,3,9
+1993-06-12,4,Ricardo Montaner,Al Final Del Arco Iris,7,4,7
+1993-06-12,5,Ana Gabriel,Tu Y Yo,10,5,6
+1993-06-12,6,Alvaro Torres,Te Dejo Libre,4,4,13
+1993-06-12,7,Ednita Nazario,Un Corazon Hecho Pedazos,8,7,6
+1993-06-12,8,Maggie Carles,Amor Siempre Tu,11,8,5
+1993-06-12,9,Juan Luis Guerra 440,Mal De Amor,5,4,11
+1993-06-12,10,Lucero,Veleta,3,2,15
+1993-06-12,11,Daniela Romo,Que Vengan Los Bomberos,14,11,4
+1993-06-12,12,Chayanne,Mi Primer Amor,13,12,7
+1993-06-12,13,Mijares,Encadenado,12,9,11
+1993-06-12,14,Magneto,Sugar Sugar,16,14,5
+1993-06-12,15,Ricardo Arjona,Mujeres,9,6,12
+1993-06-12,16,R. Durcal Y J. Sabina,Y Nos Dieron Las Diez,21,16,5
+1993-06-12,17,Rey Ruiz,Amiga,20,17,7
+1993-06-12,18,George Lamond Y Lisa Lopez,No Morira,15,15,7
+1993-06-12,19,Braulio,Llorando Ante La Tumba Del Amor,24,19,4
+1993-06-12,20,Luis Miguel,Ayer,,20,1
+1993-06-12,21,Jose Jose,Eso Nomas,17,5,14
+1993-06-12,22,Marc Anthony,Hasta Que Te Conoci,19,13,10
+1993-06-12,23,Jordy,Dur Dur D'etre Bebe,32,23,2
+1993-06-12,24,Wilfrido Vargas,El Baile Del Perrito,22,12,14
+1993-06-12,25,Vicente Fernandez,Lo Quiero Todo,27,25,3
+1993-06-12,26,Ricky Martin,Me Amaras,36,26,2
+1993-06-12,27,Gloria Trevi,Me Siento Tan Sola,18,6,11
+1993-06-12,28,Selena,No Debes Jugar,,28,1
+1993-06-12,29,Los Temerarios,Perdoname,26,16,12
+1993-06-12,30,Bonanza,Sabor A Nada,38,30,4
+1993-06-12,31,Mazz,Que Sera?,23,14,8
+1993-06-12,32,David Pabon,Por Instinto,37,32,3
+1993-06-12,33,Los Tigres del Norte,Pacas De A Kilo,25,15,9
+1993-06-12,34,La Grande De Madrid,Medley De Julio Iglesias,35,34,2
+1993-06-12,35,Paulina Rubio,Amor De Mujer,,35,1
+1993-06-12,36,Alejandro Fernandez,Piel De Nina,31,31,2
+1993-06-12,37,Victor Victor,Tu Corazon,,37,1
+1993-06-12,38,Cocoband,A Usted Lo Botan,29,29,4
+1993-06-12,39,Fandango USA,La Charanga,40,30,6
+1993-06-12,40,Los Bukis,Que Duro Es Llorar Asi,33,33,4
+1993-06-19,1,Los Fantasmas del Caribe,Muchacha Triste,1,1,12
+1993-06-19,2,La Mafia,Me Estoy Enamorando,2,1,19
+1993-06-19,3,Jon Secada,Sentir,3,3,10
+1993-06-19,4,Ricardo Montaner,Al Final Del Arco Iris,4,4,8
+1993-06-19,5,Ednita Nazario,Un Corazon Hecho Pedazos,7,5,7
+1993-06-19,6,Maggie Carles,Amor Siempre Tu,8,6,6
+1993-06-19,7,Ana Gabriel,Tu Y Yo,5,5,7
+1993-06-19,8,Chayanne,Mi Primer Amor,12,8,8
+1993-06-19,9,Daniela Romo,Que Vengan Los Bomberos,11,9,5
+1993-06-19,10,Alvaro Torres,Te Dejo Libre,6,4,14
+1993-06-19,11,Juan Luis Guerra 440,Mal De Amor,9,4,12
+1993-06-19,12,Luis Miguel,Ayer,20,12,2
+1993-06-19,13,Mijares,Encadenado,13,9,12
+1993-06-19,14,Magneto,Sugar Sugar,14,14,6
+1993-06-19,15,Lucero,Veleta,10,2,16
+1993-06-19,16,Rey Ruiz,Amiga,17,16,8
+1993-06-19,17,R. Durcal Y J. Sabina,Y Nos Dieron Las Diez,16,16,6
+1993-06-19,18,Selena,No Debes Jugar,28,18,2
+1993-06-19,19,Jordy,Dur Dur D'etre Bebe,23,19,3
+1993-06-19,20,Vicente Fernandez,Lo Quiero Todo,25,20,4
+1993-06-19,21,Ricky Martin,Me Amaras,26,21,3
+1993-06-19,22,Ricardo Arjona,Mujeres,15,6,13
+1993-06-19,23,Paulina Rubio,Amor De Mujer,35,23,2
+1993-06-19,24,Bonanza,Sabor A Nada,30,24,5
+1993-06-19,25,Marc Anthony,Hasta Que Te Conoci,22,13,11
+1993-06-19,26,Los Temerarios,Perdoname,29,16,13
+1993-06-19,27,La Grande De Madrid,Medley De Julio Iglesias,34,27,3
+1993-06-19,28,Alejandro Fernandez,Piel De Nina,36,28,3
+1993-06-19,29,Banda Machos,Al Gato Y Al Raton,,29,1
+1993-06-19,30,Mazz,Que Sera?,31,14,9
+1993-06-19,31,Wilfrido Vargas,El Baile Del Perrito,24,12,15
+1993-06-19,32,Victor Victor,Tu Corazon,37,32,2
+1993-06-19,33,Lucero,Sobrevivire,,33,1
+1993-06-19,34,David Pabon,Por Instinto,32,32,4
+1993-06-19,35,Stephanie Salas,Ave Maria,,35,1
+1993-06-19,36,George Lamond Y Lisa Lopez,No Morira,18,15,8
+1993-06-19,37,Gloria Trevi,Me Siento Tan Sola,27,6,12
+1993-06-19,38,Braulio,Llorando Ante La Tumba Del Amor,19,19,5
+1993-06-19,39,Jose Jose,Eso Nomas,21,5,15
+1993-06-19,40,Fandango USA,La Charanga,39,30,7
+1993-06-26,1,Los Fantasmas del Caribe,Muchacha Triste,1,1,13
+1993-06-26,2,Jon Secada,Sentir,3,2,11
+1993-06-26,3,La Mafia,Me Estoy Enamorando,2,1,20
+1993-06-26,4,Ricardo Montaner,Al Final Del Arco Iris,4,4,9
+1993-06-26,5,Ednita Nazario,Un Corazon Hecho Pedazos,5,5,8
+1993-06-26,6,Ana Gabriel,Tu Y Yo,7,5,8
+1993-06-26,7,Luis Miguel,Ayer,12,7,3
+1993-06-26,8,Maggie Carles,Amor Siempre Tu,6,6,7
+1993-06-26,9,Chayanne,Mi Primer Amor,8,8,9
+1993-06-26,10,Daniela Romo,Que Vengan Los Bomberos,9,9,6
+1993-06-26,11,Mijares,Encadenado,13,9,13
+1993-06-26,12,Magneto,Sugar Sugar,14,12,7
+1993-06-26,13,Juan Luis Guerra 440,Mal De Amor,11,4,13
+1993-06-26,14,Selena,No Debes Jugar,18,14,3
+1993-06-26,15,Jordy,Dur Dur D'etre Bebe,19,15,4
+1993-06-26,16,Alvaro Torres,Te Dejo Libre,10,4,15
+1993-06-26,17,R. Durcal Y J. Sabina,Y Nos Dieron Las Diez,17,16,7
+1993-06-26,18,Gloria Estefan,Mi Tierra,,18,1
+1993-06-26,19,Guillermo Davila,Cuando Se Acaba El Amor,,19,1
+1993-06-26,20,Ricky Martin,Me Amaras,21,20,4
+1993-06-26,21,Paulina Rubio,Amor De Mujer,23,21,3
+1993-06-26,22,Rey Ruiz,Amiga,16,16,9
+1993-06-26,23,Vicente Fernandez,Lo Quiero Todo,20,20,5
+1993-06-26,24,Alejandro Fernandez,Piel De Nina,28,24,4
+1993-06-26,25,Victor Victor,Tu Corazon,32,25,3
+1993-06-26,26,Industria del Amor,Rey De Oros,,26,1
+1993-06-26,27,Lucero,Sobrevivire,33,27,2
+1993-06-26,28,Bonanza,Sabor A Nada,24,24,6
+1993-06-26,29,Lucero,Veleta,15,2,17
+1993-06-26,30,Los Temerarios,Perdoname,26,16,14
+1993-06-26,31,Banda Machos,Al Gato Y Al Raton,29,29,2
+1993-06-26,32,Los Carlos,Pideme La Luna,,32,1
+1993-06-26,33,Ricardo Arjona,Mujeres,22,6,14
+1993-06-26,34,La Mafia,Ahora Y Siempre,,34,1
+1993-06-26,35,Stephanie Salas,Ave Maria,35,35,2
+1993-06-26,36,Edgar Joel,Hasta El Sol De Hoy,,36,1
+1993-06-26,37,David Pabon,Por Instinto,34,32,5
+1993-06-26,38,Yolandita Monge,Entrega Total,,38,1
+1993-06-26,39,Industria del Amor,Me Quede Llorando,,39,1
+1993-06-26,40,La Grande De Madrid,Medley De Julio Iglesias,27,27,4
+1993-07-03,1,Jon Secada,Sentir,2,1,12
+1993-07-03,2,Los Fantasmas del Caribe,Muchacha Triste,1,1,14
+1993-07-03,3,Ednita Nazario,Un Corazon Hecho Pedazos,5,3,9
+1993-07-03,4,Ricardo Montaner,Al Final Del Arco Iris,4,4,10
+1993-07-03,5,Luis Miguel,Ayer,7,5,4
+1993-07-03,6,Ana Gabriel,Tu Y Yo,6,5,9
+1993-07-03,7,La Mafia,Me Estoy Enamorando,3,1,21
+1993-07-03,8,Maggie Carles,Amor Siempre Tu,8,6,8
+1993-07-03,9,Daniela Romo,Que Vengan Los Bomberos,10,9,7
+1993-07-03,10,Gloria Estefan,Mi Tierra,18,10,2
+1993-07-03,11,Chayanne,Mi Primer Amor,9,8,10
+1993-07-03,12,Selena,No Debes Jugar,14,12,4
+1993-07-03,13,Jordy,Dur Dur D'etre Bebe,15,13,5
+1993-07-03,14,Magneto,Sugar Sugar,12,12,8
+1993-07-03,15,Mijares,Encadenado,11,9,14
+1993-07-03,16,Paulina Rubio,Amor De Mujer,21,16,4
+1993-07-03,17,Ricky Martin,Me Amaras,20,17,5
+1993-07-03,18,Guillermo Davila,Cuando Se Acaba El Amor,19,18,2
+1993-07-03,19,Victor Victor,Tu Corazon,25,19,4
+1993-07-03,20,R. Durcal Y J. Sabina,Y Nos Dieron Las Diez,17,16,8
+1993-07-03,21,Lucero,Sobrevivire,27,21,3
+1993-07-03,22,Vicente Fernandez,Lo Quiero Todo,23,20,6
+1993-07-03,23,Alejandro Fernandez,Piel De Nina,24,23,5
+1993-07-03,24,Luis Enrique,No Tienes Que Pedir Permiso,,24,1
+1993-07-03,25,Rey Ruiz,Amiga,22,16,10
+1993-07-03,26,La Mafia,Ahora Y Siempre,34,26,2
+1993-07-03,27,Industria del Amor,Rey De Oros,26,26,2
+1993-07-03,28,Juan Luis Guerra 440,Mal De Amor,13,4,14
+1993-07-03,29,Edgar Joel,Hasta El Sol De Hoy,36,29,2
+1993-07-03,30,Banda Machos,Al Gato Y Al Raton,31,29,3
+1993-07-03,31,Los Carlos,Pideme La Luna,32,31,2
+1993-07-03,32,Alvaro Torres,Te Dejo Libre,16,4,16
+1993-07-03,33,David Pabon,Por Instinto,37,32,6
+1993-07-03,34,Stephanie Salas,Ave Maria,35,34,3
+1993-07-03,35,La Sabrosura,Tu Amigo O Tu Amante,,35,1
+1993-07-03,36,Los Temerarios,Perdoname,30,16,15
+1993-07-03,37,Mazz,Mi Tesoro,,37,1
+1993-07-03,38,Lunna,Por El Fuego,,38,1
+1993-07-03,39,Industria del Amor,Me Quede Llorando,39,39,2
+1993-07-03,40,Yolandita Monge,Entrega Total,38,38,2
+1993-07-10,1,Jon Secada,Sentir,1,1,13
+1993-07-10,2,Luis Miguel,Ayer,5,2,5
+1993-07-10,3,Ednita Nazario,Un Corazon Hecho Pedazos,3,3,10
+1993-07-10,4,Gloria Estefan,Mi Tierra,10,4,3
+1993-07-10,5,Ricardo Montaner,Al Final Del Arco Iris,4,4,11
+1993-07-10,6,Los Fantasmas del Caribe,Muchacha Triste,2,1,15
+1993-07-10,7,Ana Gabriel,Tu Y Yo,6,5,10
+1993-07-10,8,La Mafia,Me Estoy Enamorando,7,1,22
+1993-07-10,9,Selena,No Debes Jugar,12,9,5
+1993-07-10,10,Maggie Carles,Amor Siempre Tu,8,6,9
+1993-07-10,11,Daniela Romo,Que Vengan Los Bomberos,9,9,8
+1993-07-10,12,Magneto,Sugar Sugar,14,12,9
+1993-07-10,13,Jordy,Dur Dur D'etre Bebe,13,13,6
+1993-07-10,14,Chayanne,Mi Primer Amor,11,8,11
+1993-07-10,15,Paulina Rubio,Amor De Mujer,16,15,5
+1993-07-10,16,Guillermo Davila,Cuando Se Acaba El Amor,18,16,3
+1993-07-10,17,Ricky Martin,Me Amaras,17,17,6
+1993-07-10,18,Lucero,Sobrevivire,21,18,4
+1993-07-10,19,La Mafia,Ahora Y Siempre,26,19,3
+1993-07-10,20,Luis Enrique,No Tienes Que Pedir Permiso,24,20,2
+1993-07-10,21,Victor Victor,Tu Corazon,19,19,5
+1993-07-10,22,Los Carlos,Pideme La Luna,31,22,3
+1993-07-10,23,Yolandita Monge,Entrega Total,40,23,3
+1993-07-10,24,Edgar Joel,Hasta El Sol De Hoy,29,24,3
+1993-07-10,25,Alejandro Fernandez,Piel De Nina,23,23,6
+1993-07-10,26,Marc Anthony,Palabras Del Alma,,26,1
+1993-07-10,27,Mazz,Mi Tesoro,37,27,2
+1993-07-10,28,Juan Luis Guerra 440,Coronita De Flores,,28,1
+1993-07-10,29,Industria del Amor,Rey De Oros,27,26,3
+1993-07-10,30,La Sabrosura,Tu Amigo O Tu Amante,35,30,2
+1993-07-10,31,R. Durcal Y J. Sabina,Y Nos Dieron Las Diez,20,16,9
+1993-07-10,32,Vicente Fernandez,Lo Quiero Todo,22,20,7
+1993-07-10,33,Grupo Viento Y Sol,Cenizas Y Fuego,,33,1
+1993-07-10,34,Stephanie Salas,Ave Maria,34,34,4
+1993-07-10,35,Banda Machos,Al Gato Y Al Raton,30,29,4
+1993-07-10,36,Bronco: El Gigante De America,Tres Heridas,,36,1
+1993-07-10,37,Lunna,Por El Fuego,38,37,2
+1993-07-10,38,Mijares,Encadenado,15,9,15
+1993-07-10,39,Los Hermanos Rosario,Amor Amor,,39,1
+1993-07-10,40,David Pabon,Por Instinto,33,32,7
+1993-07-17,1,Luis Miguel,Ayer,2,1,6
+1993-07-17,2,Gloria Estefan,Mi Tierra,4,2,4
+1993-07-17,3,Jon Secada,Sentir,1,1,14
+1993-07-17,4,Ednita Nazario,Un Corazon Hecho Pedazos,3,3,11
+1993-07-17,5,Ricardo Montaner,Al Final Del Arco Iris,5,4,12
+1993-07-17,6,Ana Gabriel,Tu Y Yo,7,5,11
+1993-07-17,7,Selena,No Debes Jugar,9,7,6
+1993-07-17,8,Paulina Rubio,Amor De Mujer,15,8,6
+1993-07-17,9,Los Fantasmas del Caribe,Muchacha Triste,6,1,16
+1993-07-17,10,Guillermo Davila,Cuando Se Acaba El Amor,16,10,4
+1993-07-17,11,Jordy,Dur Dur D'etre Bebe,13,11,7
+1993-07-17,12,Magneto,Sugar Sugar,12,12,10
+1993-07-17,13,Daniela Romo,Que Vengan Los Bomberos,11,9,9
+1993-07-17,14,Ricky Martin,Me Amaras,17,14,7
+1993-07-17,15,La Mafia,Ahora Y Siempre,19,15,4
+1993-07-17,16,Edgar Joel,Hasta El Sol De Hoy,24,16,4
+1993-07-17,17,La Mafia,Me Estoy Enamorando,8,1,23
+1993-07-17,18,Maggie Carles,Amor Siempre Tu,10,6,10
+1993-07-17,19,Los Carlos,Pideme La Luna,22,19,4
+1993-07-17,20,Lucero,Sobrevivire,18,18,5
+1993-07-17,21,Juan Luis Guerra 440,Coronita De Flores,28,21,2
+1993-07-17,22,Luis Enrique,No Tienes Que Pedir Permiso,20,20,3
+1993-07-17,23,Chayanne,Mi Primer Amor,14,8,12
+1993-07-17,24,Mazz,Mi Tesoro,27,24,3
+1993-07-17,25,Yolandita Monge,Entrega Total,23,23,4
+1993-07-17,26,Victor Victor,Tu Corazon,21,19,6
+1993-07-17,27,La Sabrosura,Tu Amigo O Tu Amante,30,27,3
+1993-07-17,28,Bronco: El Gigante De America,Tres Heridas,36,28,2
+1993-07-17,29,Marc Anthony,Palabras Del Alma,26,26,2
+1993-07-17,30,Alejandro Fernandez,Piel De Nina,25,23,7
+1993-07-17,31,Lunna,Por El Fuego,37,31,3
+1993-07-17,32,Ricardo Arjona,Primera Vez,,32,1
+1993-07-17,33,Rocio Jurado Y Ana Gabriel,Amor Callado,,33,1
+1993-07-17,34,Los Hermanos Rosario,Amor Amor,39,34,2
+1993-07-17,35,El Gran Combo de Puerto Rico,Te Deseo,,35,1
+1993-07-17,36,R. Durcal Y J. Sabina,Y Nos Dieron Las Diez,31,16,10
+1993-07-17,37,Stephanie Salas,Ave Maria,34,34,5
+1993-07-17,38,Yuri,Poligamia,,38,1
+1993-07-17,39,Grupo Viento Y Sol,Cenizas Y Fuego,33,33,2
+1993-07-17,40,Industria del Amor,Rey De Oros,29,26,4
+1993-07-24,1,Luis Miguel,Ayer,1,1,7
+1993-07-24,2,Gloria Estefan,Mi Tierra,2,2,5
+1993-07-24,3,Ednita Nazario,Un Corazon Hecho Pedazos,4,3,12
+1993-07-24,4,Jon Secada,Sentir,3,1,15
+1993-07-24,5,Selena,No Debes Jugar,7,5,7
+1993-07-24,6,Ricardo Montaner,Al Final Del Arco Iris,5,4,13
+1993-07-24,7,Ana Gabriel,Tu Y Yo,6,5,12
+1993-07-24,8,Paulina Rubio,Amor De Mujer,8,8,7
+1993-07-24,9,Los Carlos,Pideme La Luna,19,9,5
+1993-07-24,10,Ricky Martin,Me Amaras,14,10,8
+1993-07-24,11,Guillermo Davila,Cuando Se Acaba El Amor,10,10,5
+1993-07-24,12,Juan Luis Guerra 440,Coronita De Flores,21,12,3
+1993-07-24,13,Jordy,Dur Dur D'etre Bebe,11,11,8
+1993-07-24,14,La Mafia,Ahora Y Siempre,15,14,5
+1993-07-24,15,Lucero,Sobrevivire,20,15,6
+1993-07-24,16,Magneto,Sugar Sugar,12,12,11
+1993-07-24,17,Edgar Joel,Hasta El Sol De Hoy,16,16,5
+1993-07-24,18,Mazz,Mi Tesoro,24,18,4
+1993-07-24,19,Daniela Romo,Que Vengan Los Bomberos,13,9,10
+1993-07-24,20,Los Fantasmas del Caribe,Muchacha Triste,9,1,17
+1993-07-24,21,Luis Enrique,No Tienes Que Pedir Permiso,22,20,4
+1993-07-24,22,Bronco: El Gigante De America,Tres Heridas,28,22,3
+1993-07-24,23,Marc Anthony,Palabras Del Alma,29,23,3
+1993-07-24,24,Chayanne,Mi Primer Amor,23,8,13
+1993-07-24,25,La Sabrosura,Tu Amigo O Tu Amante,27,25,4
+1993-07-24,26,Victor Victor,Tu Corazon,26,19,7
+1993-07-24,27,La Mafia,Me Estoy Enamorando,17,1,24
+1993-07-24,28,Alejandro Fernandez,Piel De Nina,30,23,8
+1993-07-24,29,Ricardo Arjona,Primera Vez,32,29,2
+1993-07-24,30,Yolandita Monge,Entrega Total,25,23,5
+1993-07-24,31,Rocio Jurado Y Ana Gabriel,Amor Callado,33,31,2
+1993-07-24,32,Lunna,Por El Fuego,31,31,4
+1993-07-24,33,Los Hermanos Rosario,Amor Amor,34,33,3
+1993-07-24,34,Maggie Carles,Amor Siempre Tu,18,6,11
+1993-07-24,35,Cristian,Diez Mil Lagrimas,,35,1
+1993-07-24,36,El Gran Combo de Puerto Rico,Te Deseo,35,35,2
+1993-07-24,37,Stephanie Salas,Ave Maria,37,34,6
+1993-07-24,38,Los Fantasmas del Caribe,Ella Es,,38,1
+1993-07-24,39,Grupo Viento Y Sol,Cenizas Y Fuego,39,33,3
+1993-07-24,40,Yuri,Poligamia,38,38,2
+1993-07-31,1,Luis Miguel,Ayer,1,1,8
+1993-07-31,2,Gloria Estefan,Mi Tierra,2,2,6
+1993-07-31,3,Ednita Nazario,Un Corazon Hecho Pedazos,3,3,13
+1993-07-31,4,Selena,No Debes Jugar,5,4,8
+1993-07-31,5,Guillermo Davila,Cuando Se Acaba El Amor,11,5,6
+1993-07-31,6,Juan Luis Guerra 440,Coronita De Flores,12,6,4
+1993-07-31,7,Jon Secada,Sentir,4,1,16
+1993-07-31,8,Ricky Martin,Me Amaras,10,8,9
+1993-07-31,9,Los Carlos,Pideme La Luna,9,9,6
+1993-07-31,10,Lucero,Sobrevivire,15,10,7
+1993-07-31,11,Edgar Joel,Hasta El Sol De Hoy,17,11,6
+1993-07-31,12,Paulina Rubio,Amor De Mujer,8,8,8
+1993-07-31,13,Jordy,Dur Dur D'etre Bebe,13,11,9
+1993-07-31,14,La Mafia,Ahora Y Siempre,14,14,6
+1993-07-31,15,Los Fantasmas del Caribe,Ella Es,38,15,2
+1993-07-31,16,Mazz,Mi Tesoro,18,16,5
+1993-07-31,17,Ana Gabriel,Tu Y Yo,7,5,13
+1993-07-31,18,Vicente Fernandez,Lastima Que Seas Ajena,,18,1
+1993-07-31,19,Ricardo Montaner,Al Final Del Arco Iris,6,4,14
+1993-07-31,20,Marc Anthony,Palabras Del Alma,23,20,4
+1993-07-31,21,Magneto,Sugar Sugar,16,12,12
+1993-07-31,22,Rocio Jurado Y Ana Gabriel,Amor Callado,31,22,3
+1993-07-31,23,Luis Enrique,No Tienes Que Pedir Permiso,21,20,5
+1993-07-31,24,Yuri,Poligamia,40,24,3
+1993-07-31,25,Los Hermanos Rosario,Amor Amor,33,25,4
+1993-07-31,26,Ricardo Arjona,Primera Vez,29,26,3
+1993-07-31,27,Alvaro Torres,Estoy Enamorado De Ti,,27,1
+1993-07-31,28,Mijares,Ahora Se Me Va,,28,1
+1993-07-31,29,Daniela Romo,Que Vengan Los Bomberos,19,9,11
+1993-07-31,30,Bronco: El Gigante De America,Tres Heridas,22,22,4
+1993-07-31,31,Chayanne,Mi Primer Amor,24,8,14
+1993-07-31,32,Los Rodarte,No Soy Un Cualquiera,,32,1
+1993-07-31,33,Lunna,Por El Fuego,32,31,5
+1993-07-31,34,Grupo Viento Y Sol,Cenizas Y Fuego,39,33,4
+1993-07-31,35,El Gran Combo de Puerto Rico,Te Deseo,36,35,3
+1993-07-31,36,Tito Nieves,Manias,,36,1
+1993-07-31,37,Cristian,Diez Mil Lagrimas,35,35,2
+1993-07-31,38,Sergio Dalma,Ave Lucia,,38,1
+1993-07-31,39,Alejandro Fernandez,Piel De Nina,28,23,9
+1993-07-31,40,La Sabrosura,Tu Amigo O Tu Amante,25,25,5
+1993-08-07,1,Gloria Estefan,Mi Tierra,2,1,7
+1993-08-07,2,Luis Miguel,Ayer,1,1,9
+1993-08-07,3,Ednita Nazario,Un Corazon Hecho Pedazos,3,3,14
+1993-08-07,4,Selena,No Debes Jugar,4,4,9
+1993-08-07,5,Juan Luis Guerra 440,Coronita De Flores,6,5,5
+1993-08-07,6,Ricky Martin,Me Amaras,8,6,10
+1993-08-07,7,Guillermo Davila,Cuando Se Acaba El Amor,5,5,7
+1993-08-07,8,Lucero,Sobrevivire,10,8,8
+1993-08-07,9,Los Fantasmas del Caribe,Ella Es,15,9,3
+1993-08-07,10,Los Carlos,Pideme La Luna,9,9,7
+1993-08-07,11,Edgar Joel,Hasta El Sol De Hoy,11,11,7
+1993-08-07,12,Paulina Rubio,Amor De Mujer,12,8,9
+1993-08-07,13,La Mafia,Ahora Y Siempre,14,13,7
+1993-08-07,14,Vicente Fernandez,Lastima Que Seas Ajena,18,14,2
+1993-08-07,15,Jordy,Dur Dur D'etre Bebe,13,11,10
+1993-08-07,16,Mazz,Mi Tesoro,16,16,6
+1993-08-07,17,Marc Anthony,Palabras Del Alma,20,17,5
+1993-08-07,18,Ana Gabriel,Tu Y Yo,17,5,14
+1993-08-07,19,Jon Secada,Sentir,7,1,17
+1993-08-07,20,Ricardo Arjona,Primera Vez,26,20,4
+1993-08-07,21,Rocio Jurado Y Ana Gabriel,Amor Callado,22,21,4
+1993-08-07,22,Alvaro Torres,Estoy Enamorado De Ti,27,22,2
+1993-08-07,23,Luis Enrique,No Tienes Que Pedir Permiso,23,20,6
+1993-08-07,24,Los Hermanos Rosario,Amor Amor,25,24,5
+1993-08-07,25,Yuri,Poligamia,24,24,4
+1993-08-07,26,Magneto,Sugar Sugar,21,12,13
+1993-08-07,27,Mijares,Ahora Se Me Va,28,27,2
+1993-08-07,28,Bronco: El Gigante De America,Tres Heridas,30,22,5
+1993-08-07,29,Sergio Dalma,Ave Lucia,38,29,2
+1993-08-07,30,Ricardo Montaner,Al Final Del Arco Iris,19,4,15
+1993-08-07,31,Los Rodarte,No Soy Un Cualquiera,32,31,2
+1993-08-07,32,Grupo Viento Y Sol,Cenizas Y Fuego,34,32,5
+1993-08-07,33,Milton Cortez,Tras Un Cristal Empanado,,33,1
+1993-08-07,34,Daniela Romo,Que Vengan Los Bomberos,29,9,12
+1993-08-07,35,Pochy Familia Y Su Cocoband,Canciones Cocomanticas,,35,1
+1993-08-07,36,Tito Nieves,Manias,36,36,2
+1993-08-07,37,Lunna,Por El Fuego,33,31,6
+1993-08-07,38,Johnny Ventura,Pitaste,,38,1
+1993-08-07,39,Cristian,Diez Mil Lagrimas,37,35,3
+1993-08-07,40,El Gran Combo de Puerto Rico,Te Deseo,35,35,4
+1993-08-14,1,Gloria Estefan,Mi Tierra,1,1,8
+1993-08-14,2,Luis Miguel,Ayer,2,1,10
+1993-08-14,3,Selena,No Debes Jugar,4,3,10
+1993-08-14,4,Juan Luis Guerra 440,Coronita De Flores,5,4,6
+1993-08-14,5,Los Fantasmas del Caribe,Ella Es,9,5,4
+1993-08-14,6,Ednita Nazario,Un Corazon Hecho Pedazos,3,3,15
+1993-08-14,7,Ricky Martin,Me Amaras,6,6,11
+1993-08-14,8,Guillermo Davila,Cuando Se Acaba El Amor,7,5,8
+1993-08-14,9,Lucero,Sobrevivire,8,8,9
+1993-08-14,10,La Mafia,Ahora Y Siempre,13,10,8
+1993-08-14,11,Los Carlos,Pideme La Luna,10,9,8
+1993-08-14,12,Vicente Fernandez,Lastima Que Seas Ajena,14,12,3
+1993-08-14,13,Edgar Joel,Hasta El Sol De Hoy,11,11,8
+1993-08-14,14,Ricardo Arjona,Primera Vez,20,14,5
+1993-08-14,15,Marc Anthony,Palabras Del Alma,17,15,6
+1993-08-14,16,Paulina Rubio,Amor De Mujer,12,8,10
+1993-08-14,17,Jordy,Dur Dur D'etre Bebe,15,11,11
+1993-08-14,18,Mazz,Mi Tesoro,16,16,7
+1993-08-14,19,Yuri,Poligamia,25,19,5
+1993-08-14,20,Mijares,Ahora Se Me Va,27,20,3
+1993-08-14,21,Rocio Jurado Y Ana Gabriel,Amor Callado,21,21,5
+1993-08-14,22,Alvaro Torres,Estoy Enamorado De Ti,22,22,3
+1993-08-14,23,Bronco: El Gigante De America,Tres Heridas,28,22,6
+1993-08-14,24,Sergio Dalma,Ave Lucia,29,24,3
+1993-08-14,25,Magneto,Sugar Sugar,26,12,14
+1993-08-14,26,Luis Enrique,No Tienes Que Pedir Permiso,23,20,7
+1993-08-14,27,Milton Cortez,Tras Un Cristal Empanado,33,27,2
+1993-08-14,28,Los Rodarte,No Soy Un Cualquiera,31,28,3
+1993-08-14,29,Ana Gabriel,Tu Y Yo,18,5,15
+1993-08-14,30,Los Hermanos Rosario,Amor Amor,24,24,6
+1993-08-14,31,Cristian,Nunca Voy A Olvidarte,,31,1
+1993-08-14,32,Johnny Ventura,Pitaste,38,32,2
+1993-08-14,33,Jon Secada,Tiempo Al Tiempo,,33,1
+1993-08-14,34,Pochy Familia Y Su Cocoband,Canciones Cocomanticas,35,34,2
+1993-08-14,35,Los Tigres del Norte,El Canelo,,35,1
+1993-08-14,36,Grupo Viento Y Sol,Cenizas Y Fuego,32,32,6
+1993-08-14,37,Jose Luis Perales,Amor Sin Limite,,37,1
+1993-08-14,38,Eros Ramazzotti,Cosas De La Vida,,38,1
+1993-08-14,39,Ricardo Montaner,Honda,,39,1
+1993-08-14,40,Jon Secada,Sentir,19,1,18
+1993-08-21,1,Gloria Estefan,Mi Tierra,1,1,9
+1993-08-21,2,Luis Miguel,Ayer,2,1,11
+1993-08-21,3,Selena,No Debes Jugar,3,3,11
+1993-08-21,4,Los Fantasmas del Caribe,Ella Es,5,4,5
+1993-08-21,5,Juan Luis Guerra 440,Coronita De Flores,4,4,7
+1993-08-21,6,Ricardo Arjona,Primera Vez,14,6,6
+1993-08-21,7,Vicente Fernandez,Lastima Que Seas Ajena,12,7,4
+1993-08-21,8,Ricky Martin,Me Amaras,7,6,12
+1993-08-21,9,Guillermo Davila,Cuando Se Acaba El Amor,8,5,9
+1993-08-21,10,Ednita Nazario,Un Corazon Hecho Pedazos,6,3,16
+1993-08-21,11,Edgar Joel,Hasta El Sol De Hoy,13,11,9
+1993-08-21,12,La Mafia,Ahora Y Siempre,10,10,9
+1993-08-21,13,Los Carlos,Pideme La Luna,11,9,9
+1993-08-21,14,Lucero,Sobrevivire,9,8,10
+1993-08-21,15,Yuri,Poligamia,19,15,6
+1993-08-21,16,Marc Anthony,Palabras Del Alma,15,15,7
+1993-08-21,17,Cristian,Nunca Voy A Olvidarte,31,17,2
+1993-08-21,18,Mijares,Ahora Se Me Va,20,18,4
+1993-08-21,19,Alvaro Torres,Estoy Enamorado De Ti,22,19,4
+1993-08-21,20,Rocio Jurado Y Ana Gabriel,Amor Callado,21,20,6
+1993-08-21,21,Sergio Dalma,Ave Lucia,24,21,4
+1993-08-21,22,Paulina Rubio,Amor De Mujer,16,8,11
+1993-08-21,23,Jon Secada,Tiempo Al Tiempo,33,23,2
+1993-08-21,24,Bronco: El Gigante De America,Tres Heridas,23,22,7
+1993-08-21,25,Johnny Ventura,Pitaste,32,25,3
+1993-08-21,26,Jordy,Dur Dur D'etre Bebe,17,11,12
+1993-08-21,27,Mazz,Mi Tesoro,18,16,8
+1993-08-21,28,Milton Cortez,Tras Un Cristal Empanado,27,27,3
+1993-08-21,29,Magneto,Sugar Sugar,25,12,15
+1993-08-21,30,Eros Ramazzotti,Cosas De La Vida,38,30,2
+1993-08-21,31,Jose Luis Perales,Amor Sin Limite,37,31,2
+1993-08-21,32,Pochy Familia Y Su Cocoband,Canciones Cocomanticas,34,32,3
+1993-08-21,33,Ricardo Montaner,Honda,39,33,2
+1993-08-21,34,Luis Enrique,No Tienes Que Pedir Permiso,26,20,8
+1993-08-21,35,Los Rodarte,No Soy Un Cualquiera,28,28,4
+1993-08-21,36,Pandora,Puede Ser Genial,,36,1
+1993-08-21,37,Grupo Viento Y Sol,Cenizas Y Fuego,36,32,7
+1993-08-21,38,Johnny Rivera,Por Eso Esta Conmigo,,38,1
+1993-08-21,39,Alejandro Fernandez,Cascos Ligeros,,39,1
+1993-08-21,40,Los Tigres del Norte,El Canelo,35,35,2
+1993-08-28,1,Gloria Estefan,Mi Tierra,1,1,10
+1993-08-28,2,Luis Miguel,Ayer,2,1,12
+1993-08-28,3,Los Fantasmas del Caribe,Ella Es,4,3,6
+1993-08-28,4,Selena,No Debes Jugar,3,3,12
+1993-08-28,5,Vicente Fernandez,Lastima Que Seas Ajena,7,5,5
+1993-08-28,6,Juan Luis Guerra 440,Coronita De Flores,5,4,8
+1993-08-28,7,Cristian,Nunca Voy A Olvidarte,17,7,3
+1993-08-28,8,Ricardo Arjona,Primera Vez,6,6,7
+1993-08-28,9,Edgar Joel,Hasta El Sol De Hoy,11,9,10
+1993-08-28,10,Ricky Martin,Me Amaras,8,6,13
+1993-08-28,11,Yuri,Poligamia,15,11,7
+1993-08-28,12,Guillermo Davila,Cuando Se Acaba El Amor,9,5,10
+1993-08-28,13,La Mafia,Ahora Y Siempre,12,10,10
+1993-08-28,14,Los Carlos,Pideme La Luna,13,9,10
+1993-08-28,15,Lucero,Sobrevivire,14,8,11
+1993-08-28,16,Marc Anthony,Palabras Del Alma,16,15,8
+1993-08-28,17,Mijares,Ahora Se Me Va,18,17,5
+1993-08-28,18,Ednita Nazario,Un Corazon Hecho Pedazos,10,3,17
+1993-08-28,19,Alvaro Torres,Estoy Enamorado De Ti,19,19,5
+1993-08-28,20,Sergio Dalma,Ave Lucia,21,20,5
+1993-08-28,21,Jon Secada,Tiempo Al Tiempo,23,21,3
+1993-08-28,22,Johnny Ventura,Pitaste,25,22,4
+1993-08-28,23,Rocio Jurado Y Ana Gabriel,Amor Callado,20,20,7
+1993-08-28,24,Ricardo Montaner,Honda,33,24,3
+1993-08-28,25,Jose Luis Perales,Amor Sin Limite,31,25,3
+1993-08-28,26,Bronco: El Gigante De America,Tres Heridas,24,22,8
+1993-08-28,27,Ednita Nazario,Mirame,,27,1
+1993-08-28,28,Jose Y Durval,Guadalupe,,28,1
+1993-08-28,29,Eros Ramazzotti,Cosas De La Vida,30,29,3
+1993-08-28,30,Alejandro Fernandez,Cascos Ligeros,39,30,2
+1993-08-28,31,Mazz,Mi Tesoro,27,16,9
+1993-08-28,32,Johnny Rivera,Por Eso Esta Conmigo,38,32,2
+1993-08-28,33,Pandora,Puede Ser Genial,36,33,2
+1993-08-28,34,Paulina Rubio,Amor De Mujer,22,8,12
+1993-08-28,35,Chayanne,Isla Desnuda,,35,1
+1993-08-28,36,Pochy Familia Y Su Cocoband,Canciones Cocomanticas,32,32,4
+1993-08-28,37,Los Caminantes,Sueno De Amor,,37,1
+1993-08-28,38,Grupo Viento Y Sol,Cenizas Y Fuego,37,32,8
+1993-08-28,39,Luis Enrique,No Tienes Que Pedir Permiso,34,20,9
+1993-08-28,40,Grupo Latino,Pantalon Vaquero,,40,1
+1993-09-04,1,Gloria Estefan,Mi Tierra,1,1,11
+1993-09-04,2,Luis Miguel,Ayer,2,1,13
+1993-09-04,3,Cristian,Nunca Voy A Olvidarte,7,3,4
+1993-09-04,4,Los Fantasmas del Caribe,Ella Es,3,3,7
+1993-09-04,5,Selena,No Debes Jugar,4,3,13
+1993-09-04,6,Vicente Fernandez,Lastima Que Seas Ajena,5,5,6
+1993-09-04,7,Juan Luis Guerra 440,Coronita De Flores,6,4,9
+1993-09-04,8,Edgar Joel,Hasta El Sol De Hoy,9,8,11
+1993-09-04,9,Guillermo Davila,Cuando Se Acaba El Amor,12,5,11
+1993-09-04,10,Jon Secada,Tiempo Al Tiempo,21,10,4
+1993-09-04,11,Ednita Nazario,Mirame,27,11,2
+1993-09-04,12,Yuri,Poligamia,11,11,8
+1993-09-04,13,Johnny Ventura,Pitaste,22,13,5
+1993-09-04,14,Ricardo Arjona,Primera Vez,8,6,8
+1993-09-04,15,La Mafia,Ahora Y Siempre,13,10,11
+1993-09-04,16,Jose Y Durval,Guadalupe,28,16,2
+1993-09-04,17,Sergio Dalma,Ave Lucia,20,17,6
+1993-09-04,18,Los Carlos,Pideme La Luna,14,9,11
+1993-09-04,19,Lucero,Sobrevivire,15,8,12
+1993-09-04,20,Ricardo Montaner,Honda,24,20,4
+1993-09-04,21,Ricky Martin,Me Amaras,10,6,14
+1993-09-04,22,Alvaro Torres,Estoy Enamorado De Ti,19,19,6
+1993-09-04,23,Johnny Rivera,Por Eso Esta Conmigo,32,23,3
+1993-09-04,24,Mijares,Ahora Se Me Va,17,17,6
+1993-09-04,25,Rocio Jurado Y Ana Gabriel,Amor Callado,23,20,8
+1993-09-04,26,Alejandro Fernandez,Cascos Ligeros,30,26,3
+1993-09-04,27,Eros Ramazzotti,Cosas De La Vida,29,27,4
+1993-09-04,28,Pandora,Puede Ser Genial,33,28,3
+1993-09-04,29,Jose Luis Perales,Amor Sin Limite,25,25,4
+1993-09-04,30,Los Bukis,Morenita,,30,1
+1993-09-04,31,Chayanne,Isla Desnuda,35,31,2
+1993-09-04,32,Marc Anthony,Palabras Del Alma,16,15,9
+1993-09-04,33,Ednita Nazario,Un Corazon Hecho Pedazos,18,3,18
+1993-09-04,34,Bronco: El Gigante De America,Tres Heridas,26,22,9
+1993-09-04,35,Grupo Latino,Pantalon Vaquero,40,35,2
+1993-09-04,36,Victor Manuelle,Estas Tocando Fuego,,36,1
+1993-09-04,37,Olga Tanon,Contigo O Sin Ti,,37,1
+1993-09-04,38,Daniela Romo,De Mil Colores,,38,1
+1993-09-04,39,Grupo Viento Y Sol,Cenizas Y Fuego,38,32,9
+1993-09-04,40,Los Caminantes,Sueno De Amor,37,37,2
+1993-09-11,1,Gloria Estefan,Mi Tierra,1,1,12
+1993-09-11,2,Cristian,Nunca Voy A Olvidarte,3,2,5
+1993-09-11,3,Los Fantasmas del Caribe,Ella Es,4,3,8
+1993-09-11,4,Vicente Fernandez,Lastima Que Seas Ajena,6,4,7
+1993-09-11,5,Selena,No Debes Jugar,5,3,14
+1993-09-11,6,Luis Miguel,Ayer,2,1,14
+1993-09-11,7,Ednita Nazario,Mirame,11,7,3
+1993-09-11,8,Jose Y Durval,Guadalupe,16,8,3
+1993-09-11,9,Jon Secada,Tiempo Al Tiempo,10,9,5
+1993-09-11,10,Ricardo Arjona,Primera Vez,14,6,9
+1993-09-11,11,Edgar Joel,Hasta El Sol De Hoy,8,8,12
+1993-09-11,12,Johnny Rivera,Por Eso Esta Conmigo,23,12,4
+1993-09-11,13,Ricardo Montaner,Honda,20,13,5
+1993-09-11,14,Los Carlos,Pideme La Luna,18,9,12
+1993-09-11,15,Luis Miguel,Hasta Que Me Olvides,,15,1
+1993-09-11,16,La Mafia,Ahora Y Siempre,15,10,12
+1993-09-11,17,Johnny Ventura,Pitaste,13,13,6
+1993-09-11,18,Sergio Dalma,Ave Lucia,17,17,7
+1993-09-11,19,Juan Luis Guerra 440,Coronita De Flores,7,4,10
+1993-09-11,20,Alejandro Fernandez,Cascos Ligeros,26,20,4
+1993-09-11,21,Mijares,Ahora Se Me Va,24,17,7
+1993-09-11,22,Eros Ramazzotti,Cosas De La Vida,27,22,5
+1993-09-11,23,Yuri,Poligamia,12,11,9
+1993-09-11,24,Jose Luis Perales,Amor Sin Limite,29,24,5
+1993-09-11,25,Guillermo Davila,Cuando Se Acaba El Amor,9,5,12
+1993-09-11,26,Chayanne,Isla Desnuda,31,26,3
+1993-09-11,27,Los Bukis,Morenita,30,27,2
+1993-09-11,28,Alvaro Torres,Estoy Enamorado De Ti,22,19,7
+1993-09-11,29,Rocio Jurado Y Ana Gabriel,Amor Callado,25,20,9
+1993-09-11,30,Daniela Romo,De Mil Colores,38,30,2
+1993-09-11,31,Frankie Ruiz,Tu Me Vuelves Loco,,31,1
+1993-09-11,32,Ricky Martin,Me Amaras,21,6,15
+1993-09-11,33,Pandora,Puede Ser Genial,28,28,4
+1993-09-11,34,Lucero,Sobrevivire,19,8,13
+1993-09-11,35,Olga Tanon,Contigo O Sin Ti,37,35,2
+1993-09-11,36,Los Bukis,Acepto Mi Derrota,,36,1
+1993-09-11,37,Grupo Wao,Pa' To' El Ano,,37,1
+1993-09-11,38,Grupo Latino,Pantalon Vaquero,35,35,3
+1993-09-11,39,Bronco: El Gigante De America,Tres Heridas,34,22,10
+1993-09-11,40,Victor Manuelle,Estas Tocando Fuego,36,36,2
+1993-09-18,1,Cristian,Nunca Voy A Olvidarte,2,1,6
+1993-09-18,2,Los Fantasmas del Caribe,Ella Es,3,2,9
+1993-09-18,3,Gloria Estefan,Mi Tierra,1,1,13
+1993-09-18,4,Vicente Fernandez,Lastima Que Seas Ajena,4,4,8
+1993-09-18,5,Jose Y Durval,Guadalupe,8,5,4
+1993-09-18,6,Luis Miguel,Hasta Que Me Olvides,15,6,2
+1993-09-18,7,Ednita Nazario,Mirame,7,7,4
+1993-09-18,8,Selena,No Debes Jugar,5,3,15
+1993-09-18,9,Ricardo Arjona,Primera Vez,10,6,10
+1993-09-18,10,Ricardo Montaner,Honda,13,10,6
+1993-09-18,11,Jon Secada,Tiempo Al Tiempo,9,9,6
+1993-09-18,12,Luis Miguel,Ayer,6,1,15
+1993-09-18,13,Johnny Rivera,Por Eso Esta Conmigo,12,12,5
+1993-09-18,14,Alejandro Fernandez,Cascos Ligeros,20,14,5
+1993-09-18,15,Los Bukis,Morenita,27,15,3
+1993-09-18,16,Los Carlos,Pideme La Luna,14,9,13
+1993-09-18,17,Edgar Joel,Hasta El Sol De Hoy,11,8,13
+1993-09-18,18,Johnny Ventura,Pitaste,17,13,7
+1993-09-18,19,Chayanne,Isla Desnuda,26,19,4
+1993-09-18,20,La Mafia,Ahora Y Siempre,16,10,13
+1993-09-18,21,Eros Ramazzotti,Cosas De La Vida,22,21,6
+1993-09-18,22,Sergio Dalma,Ave Lucia,18,17,8
+1993-09-18,23,Jose Luis Perales,Amor Sin Limite,24,23,6
+1993-09-18,24,Frankie Ruiz,Tu Me Vuelves Loco,31,24,2
+1993-09-18,25,Los Bukis,Acepto Mi Derrota,36,25,2
+1993-09-18,26,Olga Tanon,Contigo O Sin Ti,35,26,3
+1993-09-18,27,Gloria Estefan,Con Los Anos Que Me Quedan,,27,1
+1993-09-18,28,Mijares,Ahora Se Me Va,21,17,8
+1993-09-18,29,Rocio Jurado Y Ana Gabriel,Amor Callado,29,20,10
+1993-09-18,30,Daniela Romo,De Mil Colores,30,30,3
+1993-09-18,31,Pandora,Puede Ser Genial,33,28,5
+1993-09-18,32,Yuri,Poligamia,23,11,10
+1993-09-18,33,Juan Luis Guerra 440,Coronita De Flores,19,4,11
+1993-09-18,34,Guillermo Davila,Cuando Se Acaba El Amor,25,5,13
+1993-09-18,35,Victor Manuelle,Estas Tocando Fuego,40,35,3
+1993-09-18,36,Grupo Latino,Pantalon Vaquero,38,35,4
+1993-09-18,37,Bachata Magic,Lluvia De Besos,,37,1
+1993-09-18,38,La Onda Vaselina,"Ponganse Botas, Quitense Tenis",,38,1
+1993-09-18,39,Los Hermanos Rosario,Morena Ven,,39,1
+1993-09-18,40,Grupo Wao,Pa' To' El Ano,37,37,2
+1993-09-25,1,Cristian,Nunca Voy A Olvidarte,1,1,7
+1993-09-25,2,Los Fantasmas del Caribe,Ella Es,2,2,10
+1993-09-25,3,Vicente Fernandez,Lastima Que Seas Ajena,4,3,9
+1993-09-25,4,Luis Miguel,Hasta Que Me Olvides,6,4,3
+1993-09-25,5,Jose Y Durval,Guadalupe,5,5,5
+1993-09-25,6,Gloria Estefan,Mi Tierra,3,1,14
+1993-09-25,7,Ednita Nazario,Mirame,7,7,5
+1993-09-25,8,Ricardo Montaner,Honda,10,8,7
+1993-09-25,9,Ricardo Arjona,Primera Vez,9,6,11
+1993-09-25,10,Gloria Estefan,Con Los Anos Que Me Quedan,27,10,2
+1993-09-25,11,Los Bukis,Morenita,15,11,4
+1993-09-25,12,Johnny Rivera,Por Eso Esta Conmigo,13,12,6
+1993-09-25,13,Jon Secada,Tiempo Al Tiempo,11,9,7
+1993-09-25,14,Alejandro Fernandez,Cascos Ligeros,14,14,6
+1993-09-25,15,Chayanne,Isla Desnuda,19,15,5
+1993-09-25,16,Selena,No Debes Jugar,8,3,16
+1993-09-25,17,Frankie Ruiz,Tu Me Vuelves Loco,24,17,3
+1993-09-25,18,Los Carlos,Pideme La Luna,16,9,14
+1993-09-25,19,Los Bukis,Acepto Mi Derrota,25,19,3
+1993-09-25,20,Olga Tanon,Contigo O Sin Ti,26,20,4
+1993-09-25,21,Eros Ramazzotti,Cosas De La Vida,21,21,7
+1993-09-25,22,Mijares,Ahora Se Me Va,28,17,9
+1993-09-25,23,Los Hermanos Rosario,Morena Ven,39,23,2
+1993-09-25,24,Paulina Rubio,Sabor A Miel,,24,1
+1993-09-25,25,Sergio Dalma,Ave Lucia,22,17,9
+1993-09-25,26,Johnny Ventura,Pitaste,18,13,8
+1993-09-25,27,Victor Manuelle,Estas Tocando Fuego,35,27,4
+1993-09-25,28,Luis Miguel,Ayer,12,1,16
+1993-09-25,29,Jose Luis Perales,Amor Sin Limite,23,23,7
+1993-09-25,30,Gilberto Santa Rosa,Sin Voluntad,,30,1
+1993-09-25,31,La Mafia,Ahora Y Siempre,20,10,14
+1993-09-25,32,Mazz,Traicionera,,32,1
+1993-09-25,33,Alvaro Torres,Que Lastima,,33,1
+1993-09-25,34,Pandora,Puede Ser Genial,31,28,6
+1993-09-25,35,Bachata Magic,Lluvia De Besos,37,35,2
+1993-09-25,36,Daniela Romo,De Mil Colores,30,30,4
+1993-09-25,37,Edgar Joel,Hasta El Sol De Hoy,17,8,14
+1993-09-25,38,Magneto,Mi Amada,,38,1
+1993-09-25,39,Grupo Latino,Pantalon Vaquero,36,35,5
+1993-09-25,40,La Onda Vaselina,"Ponganse Botas, Quitense Tenis",38,38,2
+1993-10-02,1,Cristian,Nunca Voy A Olvidarte,1,1,8
+1993-10-02,2,Jose Y Durval,Guadalupe,5,2,6
+1993-10-02,3,Luis Miguel,Hasta Que Me Olvides,4,3,4
+1993-10-02,4,Vicente Fernandez,Lastima Que Seas Ajena,3,3,10
+1993-10-02,5,Los Fantasmas del Caribe,Ella Es,2,2,11
+1993-10-02,6,Gloria Estefan,Con Los Anos Que Me Quedan,10,6,3
+1993-10-02,7,Ednita Nazario,Mirame,7,7,6
+1993-10-02,8,Los Bukis,Acepto Mi Derrota,19,8,4
+1993-10-02,9,Gloria Estefan,Mi Tierra,6,1,15
+1993-10-02,10,Ricardo Montaner,Honda,8,8,8
+1993-10-02,11,Ricardo Arjona,Primera Vez,9,6,12
+1993-10-02,12,Alejandro Fernandez,Cascos Ligeros,14,12,7
+1993-10-02,13,Jon Secada,Tiempo Al Tiempo,13,9,8
+1993-10-02,14,Los Bukis,Morenita,11,11,5
+1993-10-02,15,Los Hermanos Rosario,Morena Ven,23,15,3
+1993-10-02,16,Frankie Ruiz,Tu Me Vuelves Loco,17,16,4
+1993-10-02,17,Johnny Rivera,Por Eso Esta Conmigo,12,12,7
+1993-10-02,18,Eros Ramazzotti,Cosas De La Vida,21,18,8
+1993-10-02,19,Chayanne,Isla Desnuda,15,15,6
+1993-10-02,20,Mazz,Traicionera,32,20,2
+1993-10-02,21,Olga Tanon,Contigo O Sin Ti,20,20,5
+1993-10-02,22,Paulina Rubio,Sabor A Miel,24,22,2
+1993-10-02,23,Gilberto Santa Rosa,Sin Voluntad,30,23,2
+1993-10-02,24,Selena,La Llamada,,24,1
+1993-10-02,25,Mijares,Ahora Se Me Va,22,17,10
+1993-10-02,26,Alvaro Torres,Que Lastima,33,26,2
+1993-10-02,27,Alejandra Guzman,Mala Hierba,,27,1
+1993-10-02,28,Bachata Magic,Lluvia De Besos,35,28,3
+1993-10-02,29,Los Mier,Retrato Hablado,,29,1
+1993-10-02,30,Pandora,Puede Ser Genial,34,28,7
+1993-10-02,31,Luis Enrique,La Manana,,31,1
+1993-10-02,32,Selena,No Debes Jugar,16,3,17
+1993-10-02,33,Magneto,Mi Amada,38,33,2
+1993-10-02,34,The Barrio Boyzz,Cerca De Ti,,34,1
+1993-10-02,35,Braulio,Un Viaje Por Tu Cuerpo,,35,1
+1993-10-02,36,Ana Gabriel,Hay Que Hablar,,36,1
+1993-10-02,37,Victor Manuelle,Estas Tocando Fuego,27,27,5
+1993-10-02,38,Sergio Dalma,Ave Lucia,25,17,10
+1993-10-02,39,Banda Toro,La Noche Que Murio Chicago,,39,1
+1993-10-02,40,Los Carlos,Pideme La Luna,18,9,15
+1993-10-09,1,Cristian,Nunca Voy A Olvidarte,1,1,9
+1993-10-09,2,Jose Y Durval,Guadalupe,2,2,7
+1993-10-09,3,Luis Miguel,Hasta Que Me Olvides,3,3,5
+1993-10-09,4,Vicente Fernandez,Lastima Que Seas Ajena,4,3,11
+1993-10-09,5,Gloria Estefan,Con Los Anos Que Me Quedan,6,5,4
+1993-10-09,6,Ednita Nazario,Mirame,7,6,7
+1993-10-09,7,Los Bukis,Acepto Mi Derrota,8,7,5
+1993-10-09,8,Los Fantasmas del Caribe,Ella Es,5,2,12
+1993-10-09,9,Selena,La Llamada,24,9,2
+1993-10-09,10,Los Hermanos Rosario,Morena Ven,15,10,4
+1993-10-09,11,Alejandro Fernandez,Cascos Ligeros,12,11,8
+1993-10-09,12,Frankie Ruiz,Tu Me Vuelves Loco,16,12,5
+1993-10-09,13,Los Bukis,Morenita,14,11,6
+1993-10-09,14,Alvaro Torres,Que Lastima,26,14,3
+1993-10-09,15,Ricardo Montaner,Honda,10,8,9
+1993-10-09,16,Ricardo Arjona,Primera Vez,11,6,13
+1993-10-09,17,Eros Ramazzotti,Cosas De La Vida,18,17,9
+1993-10-09,18,Gloria Estefan,Mi Tierra,9,1,16
+1993-10-09,19,Alejandra Guzman,Mala Hierba,27,19,2
+1993-10-09,20,Jon Secada,Tiempo Al Tiempo,13,9,9
+1993-10-09,21,Olga Tanon,Contigo O Sin Ti,21,20,6
+1993-10-09,22,Gilberto Santa Rosa,Sin Voluntad,23,22,3
+1993-10-09,23,Paulina Rubio,Sabor A Miel,22,22,3
+1993-10-09,24,Mazz,Traicionera,20,20,3
+1993-10-09,25,Magneto,Mi Amada,33,25,3
+1993-10-09,26,Johnny Rivera,Por Eso Esta Conmigo,17,12,8
+1993-10-09,27,Chayanne,Isla Desnuda,19,15,7
+1993-10-09,28,Bachata Magic,Lluvia De Besos,28,28,4
+1993-10-09,29,Las Triplets,Algo Mas Que Amor,,29,1
+1993-10-09,30,Luis Enrique,La Manana,31,30,2
+1993-10-09,31,Pandora,Puede Ser Genial,30,28,8
+1993-10-09,32,The Barrio Boyzz,Cerca De Ti,34,32,2
+1993-10-09,33,Los Mier,Retrato Hablado,29,29,2
+1993-10-09,34,Mijares,Ahora Se Me Va,25,17,11
+1993-10-09,35,Roxie Y Los Frijolitos,Nunca Dejes De Sonar,,35,1
+1993-10-09,36,Braulio,Un Viaje Por Tu Cuerpo,35,35,2
+1993-10-09,37,Banda Toro,La Noche Que Murio Chicago,39,37,2
+1993-10-09,38,Juan Luis Guerra 440,Rompiendo Fuente,,38,1
+1993-10-09,39,Selena,No Debes Jugar,32,3,18
+1993-10-09,40,Ana Gabriel,Hay Que Hablar,36,36,2
+1993-10-16,1,Jose Y Durval,Guadalupe,2,1,8
+1993-10-16,2,Cristian,Nunca Voy A Olvidarte,1,1,10
+1993-10-16,3,Luis Miguel,Hasta Que Me Olvides,3,3,6
+1993-10-16,4,Gloria Estefan,Con Los Anos Que Me Quedan,5,4,5
+1993-10-16,5,Vicente Fernandez,Lastima Que Seas Ajena,4,3,12
+1993-10-16,6,Los Bukis,Acepto Mi Derrota,7,6,6
+1993-10-16,7,Ednita Nazario,Mirame,6,6,8
+1993-10-16,8,Selena,La Llamada,9,8,3
+1993-10-16,9,Los Hermanos Rosario,Morena Ven,10,9,5
+1993-10-16,10,Alvaro Torres,Que Lastima,14,10,4
+1993-10-16,11,Frankie Ruiz,Tu Me Vuelves Loco,12,11,6
+1993-10-16,12,Alejandra Guzman,Mala Hierba,19,12,3
+1993-10-16,13,Magneto,Mi Amada,25,13,4
+1993-10-16,14,Alejandro Fernandez,Cascos Ligeros,11,11,9
+1993-10-16,15,Los Bukis,Morenita,13,11,7
+1993-10-16,16,Las Triplets,Algo Mas Que Amor,29,16,2
+1993-10-16,17,Eros Ramazzotti,Cosas De La Vida,17,17,10
+1993-10-16,18,Ricardo Montaner,Honda,15,8,10
+1993-10-16,19,Roxie Y Los Frijolitos,Nunca Dejes De Sonar,35,19,2
+1993-10-16,20,Gilberto Santa Rosa,Sin Voluntad,22,20,4
+1993-10-16,21,Ricardo Arjona,Primera Vez,16,6,14
+1993-10-16,22,Olga Tanon,Contigo O Sin Ti,21,20,7
+1993-10-16,23,The Barrio Boyzz,Cerca De Ti,32,23,3
+1993-10-16,24,Mazz,Traicionera,24,20,4
+1993-10-16,25,Bachata Magic,Lluvia De Besos,28,25,5
+1993-10-16,26,Paulina Rubio,Sabor A Miel,23,22,4
+1993-10-16,27,Los Fantasmas del Caribe,Ella Es,8,2,13
+1993-10-16,28,Jon Secada,Tiempo Al Tiempo,20,9,10
+1993-10-16,29,Chayanne,Isla Desnuda,27,15,8
+1993-10-16,30,Luis Enrique,La Manana,30,30,3
+1993-10-16,31,Gloria Estefan,Mi Tierra,18,1,17
+1993-10-16,32,Braulio,Un Viaje Por Tu Cuerpo,36,32,3
+1993-10-16,33,Banda Toro,La Noche Que Murio Chicago,37,33,3
+1993-10-16,34,Pandora,Puede Ser Genial,31,28,9
+1993-10-16,35,Juan Luis Guerra 440,Rompiendo Fuente,38,35,2
+1993-10-16,36,Johnny Rivera,Por Eso Esta Conmigo,26,12,9
+1993-10-16,37,Dyango,Morir De Amor,,37,1
+1993-10-16,38,La Mafia,Gracias,,38,1
+1993-10-16,39,Ricky Martin,Que Dia Es Hoy,,39,1
+1993-10-16,40,Marc Anthony,Si Tu No Fueras,,40,1
+1993-10-23,1,Luis Miguel,Hasta Que Me Olvides,3,1,7
+1993-10-23,2,Jose Y Durval,Guadalupe,1,1,9
+1993-10-23,3,Cristian,Nunca Voy A Olvidarte,2,1,11
+1993-10-23,4,Gloria Estefan,Con Los Anos Que Me Quedan,4,4,6
+1993-10-23,5,Selena,La Llamada,8,5,4
+1993-10-23,6,Los Bukis,Acepto Mi Derrota,6,6,7
+1993-10-23,7,Vicente Fernandez,Lastima Que Seas Ajena,5,3,13
+1993-10-23,8,Alvaro Torres,Que Lastima,10,8,5
+1993-10-23,9,Las Triplets,Algo Mas Que Amor,16,9,3
+1993-10-23,10,Ednita Nazario,Mirame,7,6,9
+1993-10-23,11,Los Hermanos Rosario,Morena Ven,9,9,6
+1993-10-23,12,Alejandra Guzman,Mala Hierba,12,12,4
+1993-10-23,13,Roxie Y Los Frijolitos,Nunca Dejes De Sonar,19,13,3
+1993-10-23,14,Los Bukis,Morenita,15,11,8
+1993-10-23,15,Gilberto Santa Rosa,Sin Voluntad,20,15,5
+1993-10-23,16,The Barrio Boyzz,Cerca De Ti,23,16,4
+1993-10-23,17,Frankie Ruiz,Tu Me Vuelves Loco,11,11,7
+1993-10-23,18,Magneto,Mi Amada,13,13,5
+1993-10-23,19,Mazz,Traicionera,24,19,5
+1993-10-23,20,Olga Tanon,Contigo O Sin Ti,22,20,8
+1993-10-23,21,Alejandro Fernandez,Cascos Ligeros,14,11,10
+1993-10-23,22,Los Fantasmas del Caribe,Por Una Lagrima,,22,1
+1993-10-23,23,Bachata Magic,Lluvia De Besos,25,23,6
+1993-10-23,24,Ricardo Montaner,Honda,18,8,11
+1993-10-23,25,Paulina Rubio,Sabor A Miel,26,22,5
+1993-10-23,26,Banda Toro,La Noche Que Murio Chicago,33,26,4
+1993-10-23,27,Ricardo Arjona,Primera Vez,21,6,15
+1993-10-23,28,Juan Luis Guerra 440,Rompiendo Fuente,35,28,3
+1993-10-23,29,Eros Ramazzotti,Cosas De La Vida,17,17,11
+1993-10-23,30,Chayanne,Isla Desnuda,29,15,9
+1993-10-23,31,Marc Anthony,Si Tu No Fueras,40,31,2
+1993-10-23,32,Ricky Martin,Que Dia Es Hoy,39,32,2
+1993-10-23,33,Los Aguirre,Con Las Manos Vacias,,33,1
+1993-10-23,34,Edgar Joel,Si Tuviera Tus Ojos,,34,1
+1993-10-23,35,Braulio,Un Viaje Por Tu Cuerpo,32,32,4
+1993-10-23,36,Dyango,Morir De Amor,37,36,2
+1993-10-23,37,La Mafia,Gracias,38,37,2
+1993-10-23,38,Lourdes Robles,Donde Se Ha Ido Tu Amor,,38,1
+1993-10-23,39,Jon Secada,Tiempo Al Tiempo,28,9,11
+1993-10-23,40,Luis Enrique,La Manana,30,30,4
+1993-10-30,1,Luis Miguel,Hasta Que Me Olvides,1,1,8
+1993-10-30,2,Gloria Estefan,Con Los Anos Que Me Quedan,4,2,7
+1993-10-30,3,Cristian,Nunca Voy A Olvidarte,3,1,12
+1993-10-30,4,Jose Y Durval,Guadalupe,2,1,10
+1993-10-30,5,Selena,La Llamada,5,5,5
+1993-10-30,6,Los Bukis,Acepto Mi Derrota,6,6,8
+1993-10-30,7,Vicente Fernandez,Lastima Que Seas Ajena,7,3,14
+1993-10-30,8,Alvaro Torres,Que Lastima,8,8,6
+1993-10-30,9,Roxie Y Los Frijolitos,Nunca Dejes De Sonar,13,9,4
+1993-10-30,10,Las Triplets,Algo Mas Que Amor,9,9,4
+1993-10-30,11,The Barrio Boyzz,Cerca De Ti,16,11,5
+1993-10-30,12,Alejandra Guzman,Mala Hierba,12,12,5
+1993-10-30,13,Los Hermanos Rosario,Morena Ven,11,9,7
+1993-10-30,14,Los Bukis,Morenita,14,11,9
+1993-10-30,15,Los Fantasmas del Caribe,Por Una Lagrima,22,15,2
+1993-10-30,16,Gilberto Santa Rosa,Sin Voluntad,15,15,6
+1993-10-30,17,Magneto,Mi Amada,18,13,6
+1993-10-30,18,Mazz,Traicionera,19,18,6
+1993-10-30,19,Ednita Nazario,Mirame,10,6,10
+1993-10-30,20,Olga Tanon,Contigo O Sin Ti,20,20,9
+1993-10-30,21,Los Aguirre,Con Las Manos Vacias,33,21,2
+1993-10-30,22,Frankie Ruiz,Tu Me Vuelves Loco,17,11,8
+1993-10-30,23,Bachata Magic,Lluvia De Besos,23,23,7
+1993-10-30,24,Lourdes Robles,Donde Se Ha Ido Tu Amor,38,24,2
+1993-10-30,25,La Mafia,Gracias,37,25,3
+1993-10-30,26,Edgar Joel,Si Tuviera Tus Ojos,34,26,2
+1993-10-30,27,Juan Luis Guerra 440,Rompiendo Fuente,28,27,4
+1993-10-30,28,Alejandro Fernandez,Cascos Ligeros,21,11,11
+1993-10-30,29,Ricardo Arjona,Primera Vez,27,6,16
+1993-10-30,30,Ricky Martin,Que Dia Es Hoy,32,30,3
+1993-10-30,31,Pimpinela,El Amor No Se Puede Olvidar,,31,1
+1993-10-30,32,Paulina Rubio,Sabor A Miel,25,22,6
+1993-10-30,33,Braulio,Un Viaje Por Tu Cuerpo,35,32,5
+1993-10-30,34,Banda Toro,La Noche Que Murio Chicago,26,26,5
+1993-10-30,35,Los Rehenes,Verdades Que Duelen,,35,1
+1993-10-30,36,Eros Ramazzotti,Cosas De La Vida,29,17,12
+1993-10-30,37,Marc Anthony,Si Tu No Fueras,31,31,3
+1993-10-30,38,Chayanne,Isla Desnuda,30,15,10
+1993-10-30,39,Tiranos del Norte,Hasta La Miel Amarga,,39,1
+1993-10-30,40,Dyango,Morir De Amor,36,36,3
+1993-11-06,1,Luis Miguel,Hasta Que Me Olvides,1,1,9
+1993-11-06,2,Gloria Estefan,Con Los Anos Que Me Quedan,2,2,8
+1993-11-06,3,Cristian,Nunca Voy A Olvidarte,3,1,13
+1993-11-06,4,Jose Y Durval,Guadalupe,4,1,11
+1993-11-06,5,Selena,La Llamada,5,5,6
+1993-11-06,6,Los Bukis,Acepto Mi Derrota,6,6,9
+1993-11-06,7,Alvaro Torres,Que Lastima,8,7,7
+1993-11-06,8,Los Fantasmas del Caribe,Por Una Lagrima,15,8,3
+1993-11-06,9,Roxie Y Los Frijolitos,Nunca Dejes De Sonar,9,9,5
+1993-11-06,10,Alejandra Guzman,Mala Hierba,12,10,6
+1993-11-06,11,Las Triplets,Algo Mas Que Amor,10,9,5
+1993-11-06,12,Vicente Fernandez,Lastima Que Seas Ajena,7,3,15
+1993-11-06,13,The Barrio Boyzz,Cerca De Ti,11,11,6
+1993-11-06,14,Los Hermanos Rosario,Morena Ven,13,9,8
+1993-11-06,15,Gilberto Santa Rosa,Sin Voluntad,16,15,7
+1993-11-06,16,Los Bukis,Morenita,14,11,10
+1993-11-06,17,Mazz,Traicionera,18,17,7
+1993-11-06,18,Magneto,Mi Amada,17,13,7
+1993-11-06,19,La Mafia,Gracias,25,19,4
+1993-11-06,20,Los Aguirre,Con Las Manos Vacias,21,20,3
+1993-11-06,21,Pimpinela,El Amor No Se Puede Olvidar,31,21,2
+1993-11-06,22,Lourdes Robles,Donde Se Ha Ido Tu Amor,24,22,3
+1993-11-06,23,Edgar Joel,Si Tuviera Tus Ojos,26,23,3
+1993-11-06,24,Frankie Ruiz,Tu Me Vuelves Loco,22,11,9
+1993-11-06,25,Olga Tanon,Contigo O Sin Ti,20,20,10
+1993-11-06,26,Ricky Martin,Que Dia Es Hoy,30,26,4
+1993-11-06,27,Bronco: El Gigante De America,Dos Mujeres Un Camino,,27,1
+1993-11-06,28,Paulina Rubio,Sabor A Miel,32,22,7
+1993-11-06,29,Bachata Magic,Lluvia De Besos,23,23,8
+1993-11-06,30,Alejandro Fernandez,Cascos Ligeros,28,11,12
+1993-11-06,31,Juan Luis Guerra 440,Rompiendo Fuente,27,27,5
+1993-11-06,32,Los Rehenes,Verdades Que Duelen,35,32,2
+1993-11-06,33,Ricardo Arjona,Primera Vez,29,6,17
+1993-11-06,34,Banda Superbandido,Cosas,,34,1
+1993-11-06,35,Marc Anthony,Si Tu No Fueras,37,31,4
+1993-11-06,36,Tiranos del Norte,Hasta La Miel Amarga,39,36,2
+1993-11-06,37,Ednita Nazario,Mirame,19,6,11
+1993-11-06,38,Miriam Y Las Chicas,Tomalo Tu,,38,1
+1993-11-06,39,Chayanne,Isla Desnuda,38,15,11
+1993-11-06,40,Braulio,Un Viaje Por Tu Cuerpo,33,32,6
+1993-11-13,1,Gloria Estefan,Con Los Anos Que Me Quedan,2,1,9
+1993-11-13,2,Luis Miguel,Hasta Que Me Olvides,1,1,10
+1993-11-13,3,Cristian,Nunca Voy A Olvidarte,3,1,14
+1993-11-13,4,Los Fantasmas del Caribe,Por Una Lagrima,8,4,4
+1993-11-13,5,The Barrio Boyzz,Cerca De Ti,13,5,7
+1993-11-13,6,Selena,La Llamada,5,5,7
+1993-11-13,7,Las Triplets,Algo Mas Que Amor,11,7,6
+1993-11-13,8,Los Bukis,Acepto Mi Derrota,6,6,10
+1993-11-13,9,Roxie Y Los Frijolitos,Nunca Dejes De Sonar,9,9,6
+1993-11-13,10,Alvaro Torres,Que Lastima,7,7,8
+1993-11-13,11,Jose Y Durval,Guadalupe,4,1,12
+1993-11-13,12,Alejandra Guzman,Mala Hierba,10,10,7
+1993-11-13,13,La Mafia,Gracias,19,13,5
+1993-11-13,14,Pimpinela,El Amor No Se Puede Olvidar,21,14,3
+1993-11-13,15,Bronco: El Gigante De America,Dos Mujeres Un Camino,27,15,2
+1993-11-13,16,Lourdes Robles,Donde Se Ha Ido Tu Amor,22,16,4
+1993-11-13,17,Los Aguirre,Con Las Manos Vacias,20,17,4
+1993-11-13,18,Magneto,Mi Amada,18,13,8
+1993-11-13,19,Los Bukis,Morenita,16,11,11
+1993-11-13,20,Vicente Fernandez,Lastima Que Seas Ajena,12,3,16
+1993-11-13,21,Gilberto Santa Rosa,Sin Voluntad,15,15,8
+1993-11-13,22,Mazz,Traicionera,17,17,8
+1993-11-13,23,Los Hermanos Rosario,Morena Ven,14,9,9
+1993-11-13,24,Los Rehenes,Verdades Que Duelen,32,24,3
+1993-11-13,25,Tiranos del Norte,Hasta La Miel Amarga,36,25,3
+1993-11-13,26,Banda Superbandido,Cosas,34,26,2
+1993-11-13,27,Edgar Joel,Si Tuviera Tus Ojos,23,23,4
+1993-11-13,28,Ricky Martin,Que Dia Es Hoy,26,26,5
+1993-11-13,29,Banda Machos,Los Machos Tambien Lloran,,29,1
+1993-11-13,30,Rocio Jurado/Jose Luis Rodriguez,Amigo Amor,,30,1
+1993-11-13,31,Juan Luis Guerra 440,Rompiendo Fuente,31,27,6
+1993-11-13,32,Frankie Ruiz,Tu Me Vuelves Loco,24,11,10
+1993-11-13,33,Eddie Santiago,Jamas,,33,1
+1993-11-13,34,Jerry Rivera,Que Hay De Malo,,34,1
+1993-11-13,35,Bachata Magic,Lluvia De Besos,29,23,9
+1993-11-13,36,Ricardo Arjona,Primera Vez,33,6,18
+1993-11-13,37,Alejandro Fernandez,Cascos Ligeros,30,11,13
+1993-11-13,38,Marc Anthony,Si Tu No Fueras,35,31,5
+1993-11-13,39,Miriam Y Las Chicas,Tomalo Tu,38,38,2
+1993-11-13,40,Paulina Rubio,Sabor A Miel,28,22,8
+1993-11-20,1,Gloria Estefan,Con Los Anos Que Me Quedan,1,1,10
+1993-11-20,2,Luis Miguel,Hasta Que Me Olvides,2,1,11
+1993-11-20,3,Cristian,Nunca Voy A Olvidarte,3,1,15
+1993-11-20,4,Los Fantasmas del Caribe,Por Una Lagrima,4,4,5
+1993-11-20,5,The Barrio Boyzz,Cerca De Ti,5,5,8
+1993-11-20,6,Las Triplets,Algo Mas Que Amor,7,6,7
+1993-11-20,7,Selena,La Llamada,6,5,8
+1993-11-20,8,Los Bukis,Acepto Mi Derrota,8,6,11
+1993-11-20,9,Alvaro Torres,Que Lastima,10,7,9
+1993-11-20,10,Roxie Y Los Frijolitos,Nunca Dejes De Sonar,9,9,7
+1993-11-20,11,Bronco: El Gigante De America,Dos Mujeres Un Camino,15,11,3
+1993-11-20,12,Jose Y Durval,Guadalupe,11,1,13
+1993-11-20,13,Pimpinela,El Amor No Se Puede Olvidar,14,13,4
+1993-11-20,14,Lourdes Robles,Donde Se Ha Ido Tu Amor,16,14,5
+1993-11-20,15,La Mafia,Gracias,13,13,6
+1993-11-20,16,Alejandra Guzman,Mala Hierba,12,10,8
+1993-11-20,17,Magneto,Mi Amada,18,13,9
+1993-11-20,18,Jerry Rivera,Que Hay De Malo,34,18,2
+1993-11-20,19,Los Aguirre,Con Las Manos Vacias,17,17,5
+1993-11-20,20,Los Bukis,Morenita,19,11,12
+1993-11-20,21,Banda Superbandido,Cosas,26,21,3
+1993-11-20,22,Banda Machos,Los Machos Tambien Lloran,29,22,2
+1993-11-20,23,Tiranos del Norte,Hasta La Miel Amarga,25,23,4
+1993-11-20,24,Rocio Jurado/Jose Luis Rodriguez,Amigo Amor,30,24,2
+1993-11-20,25,Vicente Fernandez,Lastima Que Seas Ajena,20,3,17
+1993-11-20,26,Eddie Santiago,Jamas,33,26,2
+1993-11-20,27,Edgar Joel,Si Tuviera Tus Ojos,27,23,5
+1993-11-20,28,Ricky Martin,Que Dia Es Hoy,28,26,6
+1993-11-20,29,Ricardo Montaner,Los Hijos Del Sol,,29,1
+1993-11-20,30,Los Hermanos Rosario,Morena Ven,23,9,10
+1993-11-20,31,Los Rehenes,Verdades Que Duelen,24,24,4
+1993-11-20,32,Mazz,Traicionera,22,17,9
+1993-11-20,33,Lucero,El Numero Uno,,33,1
+1993-11-20,34,Jose Luis Perales,Gente Maravillosa,,34,1
+1993-11-20,35,Mijares,Que Puedo Hacer Yo Con Tanto Amor,,35,1
+1993-11-20,36,Juan Luis Guerra 440,Rompiendo Fuente,31,27,7
+1993-11-20,37,Fama,Llorando,,37,1
+1993-11-20,38,Gilberto Santa Rosa,Sin Voluntad,21,15,9
+1993-11-20,39,Simone,Se Fue,,39,1
+1993-11-20,40,Frankie Ruiz,Tu Me Vuelves Loco,32,11,11
+1993-11-27,1,Gloria Estefan,Con Los Anos Que Me Quedan,1,1,11
+1993-11-27,2,Luis Miguel,Hasta Que Me Olvides,2,1,12
+1993-11-27,3,Los Fantasmas del Caribe,Por Una Lagrima,4,3,6
+1993-11-27,4,The Barrio Boyzz,Cerca De Ti,5,4,9
+1993-11-27,5,Las Triplets,Algo Mas Que Amor,6,5,8
+1993-11-27,6,Cristian,Nunca Voy A Olvidarte,3,1,16
+1993-11-27,7,Alvaro Torres,Que Lastima,9,7,10
+1993-11-27,8,Los Bukis,Acepto Mi Derrota,8,6,12
+1993-11-27,9,Selena,La Llamada,7,5,9
+1993-11-27,10,Bronco: El Gigante De America,Dos Mujeres Un Camino,11,10,4
+1993-11-27,11,Roxie Y Los Frijolitos,Nunca Dejes De Sonar,10,9,8
+1993-11-27,12,Pimpinela,El Amor No Se Puede Olvidar,13,12,5
+1993-11-27,13,Jerry Rivera,Que Hay De Malo,18,13,3
+1993-11-27,14,Lourdes Robles,Donde Se Ha Ido Tu Amor,14,14,6
+1993-11-27,15,La Mafia,Gracias,15,13,7
+1993-11-27,16,Los Aguirre,Con Las Manos Vacias,19,16,6
+1993-11-27,17,Alejandra Guzman,Mala Hierba,16,10,9
+1993-11-27,18,Los Bukis,Morenita,20,11,13
+1993-11-27,19,Magneto,Mi Amada,17,13,10
+1993-11-27,20,Banda Machos,Los Machos Tambien Lloran,22,20,3
+1993-11-27,21,Banda Superbandido,Cosas,21,21,4
+1993-11-27,22,Lucero,El Numero Uno,33,22,2
+1993-11-27,23,Jose Y Durval,Guadalupe,12,1,14
+1993-11-27,24,Rocio Jurado/Jose Luis Rodriguez,Amigo Amor,24,24,3
+1993-11-27,25,Eddie Santiago,Jamas,26,25,3
+1993-11-27,26,Marcos Llunas,Reconquistarte,,26,1
+1993-11-27,27,Edgar Joel,Si Tuviera Tus Ojos,27,23,6
+1993-11-27,28,Los Temerarios,Una Tarde Fue,,28,1
+1993-11-27,29,Tiranos del Norte,Hasta La Miel Amarga,23,23,5
+1993-11-27,30,Jose Luis Perales,Gente Maravillosa,34,30,2
+1993-11-27,31,Fama,Llorando,37,31,2
+1993-11-27,32,Los Rehenes,Verdades Que Duelen,31,24,5
+1993-11-27,33,Ricky Martin,Que Dia Es Hoy,28,26,7
+1993-11-27,34,Alex D'Castro,En Hora Buena,,34,1
+1993-11-27,35,Johnny Rivera,Cuando Parara La Lluvia,,35,1
+1993-11-27,36,Mijares,Que Puedo Hacer Yo Con Tanto Amor,35,35,2
+1993-11-27,37,Ednita Nazario,Y Te Vas,,37,1
+1993-11-27,38,Vicente Fernandez,Lastima Que Seas Ajena,25,3,18
+1993-11-27,39,Simone,Se Fue,39,39,2
+1993-11-27,40,Ricardo Montaner,Los Hijos Del Sol,29,29,2
+1993-12-04,1,Gloria Estefan,Con Los Anos Que Me Quedan,1,1,12
+1993-12-04,2,Los Fantasmas del Caribe,Por Una Lagrima,3,2,7
+1993-12-04,3,The Barrio Boyzz,Cerca De Ti,4,3,10
+1993-12-04,4,Luis Miguel,Hasta Que Me Olvides,2,1,13
+1993-12-04,5,Las Triplets,Algo Mas Que Amor,5,5,9
+1993-12-04,6,Bronco: El Gigante De America,Dos Mujeres Un Camino,10,6,5
+1993-12-04,7,Pimpinela,El Amor No Se Puede Olvidar,12,7,6
+1993-12-04,8,Alvaro Torres,Que Lastima,7,7,11
+1993-12-04,9,Jerry Rivera,Que Hay De Malo,13,9,4
+1993-12-04,10,Cristian,Nunca Voy A Olvidarte,6,1,17
+1993-12-04,11,Los Bukis,Acepto Mi Derrota,8,6,13
+1993-12-04,12,Lourdes Robles,Donde Se Ha Ido Tu Amor,14,12,7
+1993-12-04,13,Roxie Y Los Frijolitos,Nunca Dejes De Sonar,11,9,9
+1993-12-04,14,Selena,La Llamada,9,5,10
+1993-12-04,15,La Mafia,Gracias,15,13,8
+1993-12-04,16,Los Temerarios,Una Tarde Fue,28,16,2
+1993-12-04,17,Banda Machos,Los Machos Tambien Lloran,20,17,4
+1993-12-04,18,Los Aguirre,Con Las Manos Vacias,16,16,7
+1993-12-04,19,Los Bukis,Morenita,18,11,14
+1993-12-04,20,Alejandra Guzman,Mala Hierba,17,10,10
+1993-12-04,21,Ana Gabriel,Luna,,21,1
+1993-12-04,22,Banda Superbandido,Cosas,21,21,5
+1993-12-04,23,Eddie Santiago,Jamas,25,23,4
+1993-12-04,24,Marcos Llunas,Reconquistarte,26,24,2
+1993-12-04,25,Pandora,Cuando Quieras Dejame,,25,1
+1993-12-04,26,Los Rehenes,Verdades Que Duelen,32,24,6
+1993-12-04,27,Lucero,El Numero Uno,22,22,3
+1993-12-04,28,Edgar Joel,Si Tuviera Tus Ojos,27,23,7
+1993-12-04,29,Magneto,Mi Amada,19,13,11
+1993-12-04,30,Victor Manuelle,Me Dara El Consentimiento,,30,1
+1993-12-04,31,Rocio Jurado/Jose Luis Rodriguez,Amigo Amor,24,24,4
+1993-12-04,32,Yuri,Detras De Mi Ventana,,32,1
+1993-12-04,33,Fama,Llorando,31,31,3
+1993-12-04,34,Jose Luis Perales,Gente Maravillosa,30,30,3
+1993-12-04,35,Cristian,Es Mejor Asi,,35,1
+1993-12-04,36,Vicente Fernandez,Te Me Vas Al Diablo,,36,1
+1993-12-04,37,Ednita Nazario,Y Te Vas,37,37,2
+1993-12-04,38,Fito Olivares y Su Grupo,Juana Maria,,38,1
+1993-12-04,39,Alex D'Castro,En Hora Buena,34,34,2
+1993-12-04,40,Johnny Rivera,Cuando Parara La Lluvia,35,35,2
+1993-12-11,1,Los Fantasmas del Caribe,Por Una Lagrima,2,1,8
+1993-12-11,2,The Barrio Boyzz,Cerca De Ti,3,2,11
+1993-12-11,3,Gloria Estefan,Con Los Anos Que Me Quedan,1,1,13
+1993-12-11,4,Las Triplets,Algo Mas Que Amor,5,4,10
+1993-12-11,5,Pimpinela,El Amor No Se Puede Olvidar,7,5,7
+1993-12-11,6,Bronco: El Gigante De America,Dos Mujeres Un Camino,6,6,6
+1993-12-11,7,Luis Miguel,Hasta Que Me Olvides,4,1,14
+1993-12-11,8,Jerry Rivera,Que Hay De Malo,9,8,5
+1993-12-11,9,Lourdes Robles,Donde Se Ha Ido Tu Amor,12,9,8
+1993-12-11,10,Alvaro Torres,Que Lastima,8,7,12
+1993-12-11,11,Roxie Y Los Frijolitos,Nunca Dejes De Sonar,13,9,10
+1993-12-11,12,Selena,La Llamada,14,5,11
+1993-12-11,13,Los Temerarios,Una Tarde Fue,16,13,3
+1993-12-11,14,Los Bukis,Acepto Mi Derrota,11,6,14
+1993-12-11,15,La Mafia,Gracias,15,13,9
+1993-12-11,16,Cristian,Nunca Voy A Olvidarte,10,1,18
+1993-12-11,17,Yuri,Detras De Mi Ventana,32,17,2
+1993-12-11,18,Ana Gabriel,Luna,21,18,2
+1993-12-11,19,Banda Machos,Los Machos Tambien Lloran,17,17,5
+1993-12-11,20,Pandora,Cuando Quieras Dejame,25,20,2
+1993-12-11,21,Los Aguirre,Con Las Manos Vacias,18,16,8
+1993-12-11,22,Eddie Santiago,Jamas,23,22,5
+1993-12-11,23,Marcos Llunas,Reconquistarte,24,23,3
+1993-12-11,24,Vicente Fernandez,Te Me Vas Al Diablo,36,24,2
+1993-12-11,25,Banda Superbandido,Cosas,22,21,6
+1993-12-11,26,Victor Manuelle,Me Dara El Consentimiento,30,26,2
+1993-12-11,27,Los Bukis,Morenita,19,11,15
+1993-12-11,28,Cristian,Es Mejor Asi,35,28,2
+1993-12-11,29,Lucero,El Numero Uno,27,22,4
+1993-12-11,30,Los Rehenes,Verdades Que Duelen,26,24,7
+1993-12-11,31,Fama,Llorando,33,31,4
+1993-12-11,32,Ednita Nazario,Y Te Vas,37,32,3
+1993-12-11,33,Luis Miguel,Suave,,33,1
+1993-12-11,34,Dyango,Rey De Corazones,,34,1
+1993-12-11,35,Rocio Jurado/Jose Luis Rodriguez,Amigo Amor,31,24,5
+1993-12-11,36,Alex D'Castro,En Hora Buena,39,34,3
+1993-12-11,37,Paulina Rubio,Nieva Nieva,,37,1
+1993-12-11,38,Fito Olivares y Su Grupo,Juana Maria,38,38,2
+1993-12-11,39,Jose Luis Perales,Gente Maravillosa,34,30,4
+1993-12-11,40,Alejandra Guzman,Mala Hierba,20,10,11
+1993-12-18,1,The Barrio Boyzz,Cerca De Ti,2,1,12
+1993-12-18,2,Los Fantasmas del Caribe,Por Una Lagrima,1,1,9
+1993-12-18,3,Las Triplets,Algo Mas Que Amor,4,3,11
+1993-12-18,4,Gloria Estefan,Con Los Anos Que Me Quedan,3,1,14
+1993-12-18,5,Pimpinela,El Amor No Se Puede Olvidar,5,5,8
+1993-12-18,6,Bronco: El Gigante De America,Dos Mujeres Un Camino,6,6,7
+1993-12-18,7,Jerry Rivera,Que Hay De Malo,8,7,6
+1993-12-18,8,Los Temerarios,Una Tarde Fue,13,8,4
+1993-12-18,9,Lourdes Robles,Donde Se Ha Ido Tu Amor,9,9,9
+1993-12-18,10,Alvaro Torres,Que Lastima,10,7,13
+1993-12-18,11,Selena,La Llamada,12,5,12
+1993-12-18,12,Yuri,Detras De Mi Ventana,17,12,3
+1993-12-18,13,Pandora,Cuando Quieras Dejame,20,13,3
+1993-12-18,14,La Mafia,Gracias,15,13,10
+1993-12-18,15,Roxie Y Los Frijolitos,Nunca Dejes De Sonar,11,9,11
+1993-12-18,16,Ana Gabriel,Luna,18,16,3
+1993-12-18,17,Los Bukis,Acepto Mi Derrota,14,6,15
+1993-12-18,18,Vicente Fernandez,Te Me Vas Al Diablo,24,18,3
+1993-12-18,19,Cristian,Nunca Voy A Olvidarte,16,1,19
+1993-12-18,20,Luis Miguel,Hasta Que Me Olvides,7,1,15
+1993-12-18,21,Banda Machos,Los Machos Tambien Lloran,19,17,6
+1993-12-18,22,Luis Miguel,Suave,33,22,2
+1993-12-18,23,Marcos Llunas,Reconquistarte,23,23,4
+1993-12-18,24,Cristian,Es Mejor Asi,28,24,3
+1993-12-18,25,Fama,Llorando,31,25,5
+1993-12-18,26,Franco de Vita,Calido Y Frio,,26,1
+1993-12-18,27,Eddie Santiago,Jamas,22,22,6
+1993-12-18,28,Lucero,El Numero Uno,29,22,5
+1993-12-18,29,Los Rehenes,Verdades Que Duelen,30,24,8
+1993-12-18,30,Victor Manuelle,Me Dara El Consentimiento,26,26,3
+1993-12-18,31,Alejandro Fernandez,Acabe Por Llorar,,31,1
+1993-12-18,32,Dyango,Rey De Corazones,34,32,2
+1993-12-18,33,Ednita Nazario,Y Te Vas,32,32,4
+1993-12-18,34,Paulina Rubio,Nieva Nieva,37,34,2
+1993-12-18,35,Los Aguirre,Con Las Manos Vacias,21,16,9
+1993-12-18,36,Banda Superbandido,Cosas,25,21,7
+1993-12-18,37,Rocio Durcal,Desaires,,37,1
+1993-12-18,38,Los Bukis,Morenita,27,11,16
+1993-12-18,39,Alex D'Castro,En Hora Buena,36,34,4
+1993-12-18,40,Marco Antonio Solis y Los Bukis,Tu Ingratitud,,40,1
+1993-12-25,1,The Barrio Boyzz,Cerca De Ti,1,1,13
+1993-12-25,2,Los Fantasmas del Caribe,Por Una Lagrima,2,1,10
+1993-12-25,3,Las Triplets,Algo Mas Que Amor,3,3,12
+1993-12-25,4,Bronco: El Gigante De America,Dos Mujeres Un Camino,6,4,8
+1993-12-25,5,Pimpinela,El Amor No Se Puede Olvidar,5,5,9
+1993-12-25,6,Jerry Rivera,Que Hay De Malo,7,6,7
+1993-12-25,7,Los Temerarios,Una Tarde Fue,8,7,5
+1993-12-25,8,Lourdes Robles,Donde Se Ha Ido Tu Amor,9,8,10
+1993-12-25,9,Gloria Estefan,Con Los Anos Que Me Quedan,4,1,15
+1993-12-25,10,Yuri,Detras De Mi Ventana,12,10,4
+1993-12-25,11,Ana Gabriel,Luna,16,11,4
+1993-12-25,12,Alvaro Torres,Que Lastima,10,7,14
+1993-12-25,13,Pandora,Cuando Quieras Dejame,13,13,4
+1993-12-25,14,Luis Miguel,Suave,22,14,3
+1993-12-25,15,La Mafia,Gracias,14,13,11
+1993-12-25,16,Vicente Fernandez,Te Me Vas Al Diablo,18,16,4
+1993-12-25,17,Marcos Llunas,Reconquistarte,23,17,5
+1993-12-25,18,Fama,Llorando,25,18,6
+1993-12-25,19,Roxie Y Los Frijolitos,Nunca Dejes De Sonar,15,9,12
+1993-12-25,20,Rocio Durcal,Desaires,37,20,2
+1993-12-25,21,Selena,La Llamada,11,5,13
+1993-12-25,22,Cristian,Nunca Voy A Olvidarte,19,1,20
+1993-12-25,23,Banda Machos,Los Machos Tambien Lloran,21,17,7
+1993-12-25,24,Franco de Vita,Calido Y Frio,26,24,2
+1993-12-25,25,Victor Manuelle,Me Dara El Consentimiento,30,25,4
+1993-12-25,26,Eddie Santiago,Jamas,27,22,7
+1993-12-25,27,Paulina Rubio,Nieva Nieva,34,27,3
+1993-12-25,28,Lucero,El Numero Uno,28,22,6
+1993-12-25,29,Dyango,Rey De Corazones,32,29,3
+1993-12-25,30,Alejandro Fernandez,Acabe Por Llorar,31,30,2
+1993-12-25,31,Cristian,Es Mejor Asi,24,24,4
+1993-12-25,32,Los Bukis,Acepto Mi Derrota,17,6,16
+1993-12-25,33,Marco Antonio Solis y Los Bukis,Tu Ingratitud,40,33,2
+1993-12-25,34,Ednita Nazario,Y Te Vas,33,32,5
+1993-12-25,35,Olga Tanon,Muchacho Malo,,35,1
+1993-12-25,36,Eros Ramazzotti,Otra Como Tu,,36,1
+1993-12-25,37,Banda Superbandido,Cosas,36,21,8
+1993-12-25,38,Liberacion,Ese Loco Soy Yo,,38,1
+1993-12-25,39,Gilberto Santa Rosa,Buscame,,39,1
+1993-12-25,40,Los Rehenes,Verdades Que Duelen,29,24,9

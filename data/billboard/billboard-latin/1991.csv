@@ -1,0 +1,2081 @@
+date,this_week,artist,song,last_week,peak_position,weeks_on_chart
+1991-01-05,1,Ana Gabriel,Es Demasiado Tarde,1,1,10
+1991-01-05,2,Roberto Carlos,Pajaro Herido,2,2,7
+1991-01-05,3,Marisela,Y Se Que Vas A Llorar,4,3,9
+1991-01-05,4,Braulio,El Tribunal Del Amor,3,3,10
+1991-01-05,5,Luis Miguel,Entregate,6,1,16
+1991-01-05,6,Rudy La Scala,Cuando Yo Amo,5,5,9
+1991-01-05,7,Jose Jose,Atrapado,7,7,9
+1991-01-05,8,Emmanuel,Bella Senora,18,8,3
+1991-01-05,9,Gloria Estefan,Renacer,8,7,11
+1991-01-05,10,Myriam Hernandez,Te Pareces Tanto A El,13,10,4
+1991-01-05,11,Gilberto Santa Rosa,Perdoname,25,11,5
+1991-01-05,12,Jose Luis Rodriguez,La Fiesta,12,12,5
+1991-01-05,13,Luis Enrique,Y Pensar,24,13,5
+1991-01-05,14,Angelica Maria,Reina Y Cenicienta,9,9,12
+1991-01-05,15,Bronco: El Gigante De America,Corazon Duro,16,5,15
+1991-01-05,16,Vicente Y Alejandro Fernandez,Amor De los Dos,17,14,10
+1991-01-05,17,Juan Luis Guerra 440,A Pedir Su Mano,20,17,6
+1991-01-05,18,Wilfrido Vargas,Bachata Merengue,21,18,3
+1991-01-05,19,Rocio Durcal,La Balanza,11,11,8
+1991-01-05,20,Luna,Un Amor Como El Mio,15,15,6
+1991-01-05,21,Juan Luis Guerra 440,Burbujas De Amor,14,2,27
+1991-01-05,22,Yordano,Madera Fina,35,22,3
+1991-01-05,23,Chayanne,Completamente Enamorados,10,1,18
+1991-01-05,24,Lourdes Robles,Abrazame Fuerte,19,1,15
+1991-01-05,25,Alejandra Guzman,Ten Cuidado Con El Corazon,22,22,4
+1991-01-05,26,Yolandita Monge,Fuiste Un Sueno,,26,1
+1991-01-05,27,Jose Feliciano,No Puedo Estar Sin Ti,37,27,6
+1991-01-05,28,Alvaro Torres,Mi Verdadero Amor,28,28,3
+1991-01-05,29,Los Temerarios,Solo Te Quiero A Ti,33,17,18
+1991-01-05,30,Los Temerarios,Creo Que Voy A Llorar,26,26,13
+1991-01-05,31,David Pabon,Y Nos Amamos,23,19,7
+1991-01-05,32,Los Bondadosos,Un Angel No Debe Llorar,,32,1
+1991-01-05,33,Maria Conchita Alonso,Hazme Sentir,29,24,6
+1991-01-05,34,Juan Ramon,Pero Vas A Extranarme,,34,1
+1991-01-05,35,Joan Sebastian,Caricatura,32,24,9
+1991-01-05,36,Bronco: El Gigante De America,Los Castigados,31,31,7
+1991-01-05,37,Pimpinela,Cuanto Te Quiero,30,13,16
+1991-01-05,38,Tony Vega,Me Quito El Nombre,36,25,6
+1991-01-05,39,La Sonora Dinamita,El Viejo del Sombreron,27,16,13
+1991-01-05,40,Los Hijos de Puerto Rico,Fiesta En La Vecindad,34,34,3
+1991-01-12,1,Ana Gabriel,Es Demasiado Tarde,1,1,11
+1991-01-12,2,Roberto Carlos,Pajaro Herido,2,2,8
+1991-01-12,3,Marisela,Y Se Que Vas A Llorar,3,3,10
+1991-01-12,4,Braulio,El Tribunal Del Amor,4,3,11
+1991-01-12,5,Rudy La Scala,Cuando Yo Amo,6,5,10
+1991-01-12,6,Emmanuel,Bella Senora,8,6,4
+1991-01-12,7,Luis Miguel,Entregate,5,1,17
+1991-01-12,8,Jose Luis Rodriguez,La Fiesta,12,8,6
+1991-01-12,9,Jose Jose,Atrapado,7,7,10
+1991-01-12,10,Myriam Hernandez,Te Pareces Tanto A El,10,10,5
+1991-01-12,11,Rocio Durcal,La Balanza,19,11,9
+1991-01-12,12,Gloria Estefan,Renacer,9,7,12
+1991-01-12,13,Juan Luis Guerra 440,A Pedir Su Mano,17,13,7
+1991-01-12,14,Gilberto Santa Rosa,Perdoname,11,11,6
+1991-01-12,15,Luis Enrique,Y Pensar,13,13,6
+1991-01-12,16,Bronco: El Gigante De America,Corazon Duro,15,5,16
+1991-01-12,17,Luna,Un Amor Como El Mio,20,15,7
+1991-01-12,18,Vicente Y Alejandro Fernandez,Amor De los Dos,16,14,11
+1991-01-12,19,Yordano,Madera Fina,22,19,4
+1991-01-12,20,Juan Luis Guerra 440,Burbujas De Amor,21,2,28
+1991-01-12,21,Alejandra Guzman,Ten Cuidado Con El Corazon,25,21,5
+1991-01-12,22,Angelica Maria,Reina Y Cenicienta,14,9,13
+1991-01-12,23,Yolandita Monge,Fuiste Un Sueno,26,23,2
+1991-01-12,24,Wilfrido Vargas,Bachata Merengue,18,18,4
+1991-01-12,25,Chayanne,Completamente Enamorados,23,1,19
+1991-01-12,26,Alvaro Torres,Mi Verdadero Amor,28,26,4
+1991-01-12,27,Juan Ramon,Pero Vas A Extranarme,34,27,2
+1991-01-12,28,Los Bondadosos,Un Angel No Debe Llorar,32,28,2
+1991-01-12,29,Lourdes Robles,Abrazame Fuerte,24,1,16
+1991-01-12,30,Bonny Cepeda,Que Canten Los Ninos,,30,1
+1991-01-12,31,Jose Feliciano,No Puedo Estar Sin Ti,27,27,7
+1991-01-12,32,Chayanne,Tiempo De Vals,,32,1
+1991-01-12,33,Los Temerarios,Solo Te Quiero A Ti,29,17,19
+1991-01-12,34,David Pabon,Y Nos Amamos,31,19,8
+1991-01-12,35,Bronco: El Gigante De America,Los Castigados,36,31,8
+1991-01-12,36,Los Temerarios,Creo Que Voy A Llorar,30,26,14
+1991-01-12,37,Los Hijos de Puerto Rico,Fiesta En La Vecindad,40,34,4
+1991-01-12,38,Joan Sebastian,Caricatura,35,24,10
+1991-01-12,39,Maria Conchita Alonso,Hazme Sentir,33,24,7
+1991-01-12,40,Pimpinela,Cuanto Te Quiero,37,13,17
+1991-01-19,1,Ana Gabriel,Es Demasiado Tarde,1,1,12
+1991-01-19,2,Marisela,Y Se Que Vas A Llorar,3,2,11
+1991-01-19,3,Roberto Carlos,Pajaro Herido,2,2,9
+1991-01-19,4,Emmanuel,Bella Senora,6,4,5
+1991-01-19,5,Rudy La Scala,Cuando Yo Amo,5,5,11
+1991-01-19,6,Jose Luis Rodriguez,La Fiesta,8,6,7
+1991-01-19,7,Jose Jose,Atrapado,9,7,11
+1991-01-19,8,Luis Miguel,Entregate,7,1,18
+1991-01-19,9,Braulio,El Tribunal Del Amor,4,3,12
+1991-01-19,10,Rocio Durcal,La Balanza,11,10,10
+1991-01-19,11,Myriam Hernandez,Te Pareces Tanto A El,10,10,6
+1991-01-19,12,Yordano,Madera Fina,19,12,5
+1991-01-19,13,Bronco: El Gigante De America,Corazon Duro,16,5,17
+1991-01-19,14,Gloria Estefan,Renacer,12,7,13
+1991-01-19,15,Banda Blanca,Sopa de Caracol,,15,1
+1991-01-19,16,Chayanne,Tiempo De Vals,32,16,2
+1991-01-19,17,Luis Enrique,Y Pensar,15,13,7
+1991-01-19,18,Juan Luis Guerra 440,Burbujas De Amor,20,2,29
+1991-01-19,19,Alejandra Guzman,Ten Cuidado Con El Corazon,21,19,6
+1991-01-19,20,Chayanne,Completamente Enamorados,25,1,20
+1991-01-19,21,Los Bondadosos,Un Angel No Debe Llorar,28,21,3
+1991-01-19,22,Juan Luis Guerra 440,A Pedir Su Mano,13,13,8
+1991-01-19,23,Gilberto Santa Rosa,Perdoname,14,11,7
+1991-01-19,24,Wilfrido Vargas,Bachata Merengue,24,18,5
+1991-01-19,25,Luna,Un Amor Como El Mio,17,15,8
+1991-01-19,26,Angelica Maria,Reina Y Cenicienta,22,9,14
+1991-01-19,27,Alvaro Torres,Mi Verdadero Amor,26,26,5
+1991-01-19,28,Bronco: El Gigante De America,Los Castigados,35,28,9
+1991-01-19,29,Jose Feliciano,No Puedo Estar Sin Ti,31,27,8
+1991-01-19,30,Vicente Y Alejandro Fernandez,Amor De los Dos,18,14,12
+1991-01-19,31,Los Temerarios,Creo Que Voy A Llorar,36,26,15
+1991-01-19,32,Beatriz Adriana,Tu Gaban,,32,1
+1991-01-19,33,Lisa M Y La Duende Band,Pum Pum,,33,1
+1991-01-19,34,Los Temerarios,Solo Te Quiero A Ti,33,17,20
+1991-01-19,35,Guillermo Davila,Yo Nesecito Mas De Ti,,35,1
+1991-01-19,36,La Patrulla 15,Bebo De Dia Bebo De Noche,,36,1
+1991-01-19,37,Bonny Cepeda,Que Canten Los Ninos,30,30,2
+1991-01-19,38,Yolandita Monge,Fuiste Un Sueno,23,23,3
+1991-01-19,39,Juan Ramon,Pero Vas A Extranarme,27,27,3
+1991-01-19,40,Los Hijos de Puerto Rico,Fiesta En La Vecindad,37,34,5
+1991-01-26,1,Ana Gabriel,Es Demasiado Tarde,1,1,13
+1991-01-26,2,Emmanuel,Bella Senora,4,2,6
+1991-01-26,3,Jose Luis Rodriguez,La Fiesta,6,3,8
+1991-01-26,4,Roberto Carlos,Pajaro Herido,3,2,10
+1991-01-26,5,Marisela,Y Se Que Vas A Llorar,2,2,12
+1991-01-26,6,Myriam Hernandez,Te Pareces Tanto A El,11,6,7
+1991-01-26,7,Chayanne,Tiempo De Vals,16,7,3
+1991-01-26,8,Rudy La Scala,Cuando Yo Amo,5,5,12
+1991-01-26,9,Braulio,El Tribunal Del Amor,9,3,13
+1991-01-26,10,Banda Blanca,Sopa de Caracol,15,10,2
+1991-01-26,11,Jose Jose,Atrapado,7,7,12
+1991-01-26,12,Luis Miguel,Entregate,8,1,19
+1991-01-26,13,Bronco: El Gigante De America,Corazon Duro,13,5,18
+1991-01-26,14,Juan Luis Guerra 440,Estrellitas Y Duendes,,14,1
+1991-01-26,15,Yordano,Madera Fina,12,12,6
+1991-01-26,16,Rocio Durcal,La Balanza,10,10,11
+1991-01-26,17,Guillermo Davila,Yo Nesecito Mas De Ti,35,17,2
+1991-01-26,18,Juan Gabriel,Hasta Que Te Conoci Popurri,,18,1
+1991-01-26,19,Beatriz Adriana,Tu Gaban,32,19,2
+1991-01-26,20,Gloria Estefan,Renacer,14,7,14
+1991-01-26,21,Luna,Un Amor Como El Mio,25,15,9
+1991-01-26,22,Jose Feliciano,No Puedo Estar Sin Ti,29,22,9
+1991-01-26,23,Los Temerarios,Creo Que Voy A Llorar,31,23,16
+1991-01-26,24,Juan Luis Guerra 440,Burbujas De Amor,18,2,30
+1991-01-26,25,Angelica Maria,Reina Y Cenicienta,26,9,15
+1991-01-26,26,Alvaro Torres,Mi Verdadero Amor,27,26,6
+1991-01-26,27,Bronco: El Gigante De America,Los Castigados,28,27,10
+1991-01-26,28,Lisa M Y La Duende Band,Pum Pum,33,28,2
+1991-01-26,29,Vicente Y Alejandro Fernandez,Amor De los Dos,30,14,13
+1991-01-26,30,Alejandra Guzman,Ten Cuidado Con El Corazon,19,19,7
+1991-01-26,31,Mariana Garza,Alcanzar Una Estrella,,31,1
+1991-01-26,32,Los Temerarios,Solo Te Quiero A Ti,34,17,21
+1991-01-26,33,Gilberto Santa Rosa,Perdoname,23,11,8
+1991-01-26,34,Los Bondadosos,Un Angel No Debe Llorar,21,21,4
+1991-01-26,35,Ramiro Aguilar,Cruz De Cemento,,35,1
+1991-01-26,36,Wilfrido Vargas,Bachata Merengue,24,18,6
+1991-01-26,37,Luis Enrique,Y Pensar,17,13,8
+1991-01-26,38,Chayanne,Completamente Enamorados,20,1,21
+1991-01-26,39,La Patrulla 15,Bebo De Dia Bebo De Noche,36,36,2
+1991-01-26,40,Juan Luis Guerra 440,A Pedir Su Mano,22,13,9
+1991-02-02,1,Ana Gabriel,Es Demasiado Tarde,1,1,14
+1991-02-02,2,Emmanuel,Bella Senora,2,2,7
+1991-02-02,3,Jose Luis Rodriguez,La Fiesta,3,3,9
+1991-02-02,4,Roberto Carlos,Pajaro Herido,4,2,11
+1991-02-02,5,Marisela,Y Se Que Vas A Llorar,5,2,13
+1991-02-02,6,Myriam Hernandez,Te Pareces Tanto A El,6,6,8
+1991-02-02,7,Chayanne,Tiempo De Vals,7,7,4
+1991-02-02,8,Banda Blanca,Sopa de Caracol,10,8,3
+1991-02-02,9,Juan Luis Guerra 440,Estrellitas Y Duendes,14,9,2
+1991-02-02,10,Rudy La Scala,Cuando Yo Amo,8,5,13
+1991-02-02,11,Bronco: El Gigante De America,Corazon Duro,13,5,19
+1991-02-02,12,Yordano,Madera Fina,15,12,7
+1991-02-02,13,Roberto Carlos,Tengo Que Olvidar,,13,1
+1991-02-02,14,Luis Miguel,Entregate,12,1,20
+1991-02-02,15,Juan Luis Guerra 440,Burbujas De Amor,24,2,31
+1991-02-02,16,Juan Gabriel,Hasta Que Te Conoci Popurri,18,16,2
+1991-02-02,17,Rocio Durcal,La Balanza,16,10,12
+1991-02-02,18,Alejandra Guzman,Ten Cuidado Con El Corazon,30,18,8
+1991-02-02,19,Jose Feliciano,No Puedo Estar Sin Ti,22,19,10
+1991-02-02,20,Braulio,El Tribunal Del Amor,9,3,14
+1991-02-02,21,Lourdes Robles,Que Lastima,,21,1
+1991-02-02,22,Ramiro Aguilar,Cruz De Cemento,35,22,2
+1991-02-02,23,Guillermo Davila,Yo Nesecito Mas De Ti,17,17,3
+1991-02-02,24,Alvaro Torres,Mi Verdadero Amor,26,24,7
+1991-02-02,25,Gloria Estefan,Renacer,20,7,15
+1991-02-02,26,Beatriz Adriana,Tu Gaban,19,19,3
+1991-02-02,27,Jose Jose,Atrapado,11,7,13
+1991-02-02,28,Luna,Un Amor Como El Mio,21,15,10
+1991-02-02,29,Vicente Fernandez,El Descinfle,,29,1
+1991-02-02,30,Los Temerarios,Creo Que Voy A Llorar,23,23,17
+1991-02-02,31,Bronco: El Gigante De America,Los Castigados,27,27,11
+1991-02-02,32,Paloma San Basilio,Demasiado Herida,,32,1
+1991-02-02,33,Yolandita Monge,Cantare,,33,1
+1991-02-02,34,Los Temerarios,Solo Te Quiero A Ti,32,17,22
+1991-02-02,35,Wilfrido Vargas,Bachata Merengue,36,18,7
+1991-02-02,36,Mariana Garza,Alcanzar Una Estrella,31,31,2
+1991-02-02,37,Gilberto Santa Rosa,Perdoname,33,11,9
+1991-02-02,38,Angelica Maria,Reina Y Cenicienta,25,9,16
+1991-02-02,39,Vicente Y Alejandro Fernandez,Amor De los Dos,29,14,14
+1991-02-02,40,Lisa M Y La Duende Band,Pum Pum,28,28,3
+1991-02-09,1,Ana Gabriel,Es Demasiado Tarde,1,1,15
+1991-02-09,2,Emmanuel,Bella Senora,2,2,8
+1991-02-09,3,Myriam Hernandez,Te Pareces Tanto A El,6,3,9
+1991-02-09,4,Jose Luis Rodriguez,La Fiesta,3,3,10
+1991-02-09,5,Banda Blanca,Sopa de Caracol,8,5,4
+1991-02-09,6,Marisela,Y Se Que Vas A Llorar,5,2,14
+1991-02-09,7,Juan Luis Guerra 440,Estrellitas Y Duendes,9,7,3
+1991-02-09,8,Chayanne,Tiempo De Vals,7,7,5
+1991-02-09,9,Roberto Carlos,Pajaro Herido,4,2,12
+1991-02-09,10,Juan Gabriel,Hasta Que Te Conoci Popurri,16,10,3
+1991-02-09,11,Rudy La Scala,Cuando Yo Amo,10,5,14
+1991-02-09,12,Roberto Carlos,Tengo Que Olvidar,13,12,2
+1991-02-09,13,Jose Feliciano,No Puedo Estar Sin Ti,19,13,11
+1991-02-09,14,Bronco: El Gigante De America,Corazon Duro,11,5,20
+1991-02-09,15,Alvaro Torres,Mi Verdadero Amor,24,15,8
+1991-02-09,16,Yordano,Madera Fina,12,12,8
+1991-02-09,17,Guillermo Davila,Yo Nesecito Mas De Ti,23,17,4
+1991-02-09,18,Lourdes Robles,Que Lastima,21,18,2
+1991-02-09,19,Vicente Fernandez,El Descinfle,29,19,2
+1991-02-09,20,Luis Miguel,Entregate,14,1,21
+1991-02-09,21,Rocio Durcal,La Balanza,17,10,13
+1991-02-09,22,Juan Luis Guerra 440,Burbujas De Amor,15,2,32
+1991-02-09,23,Ramiro Aguilar,Cruz De Cemento,22,22,3
+1991-02-09,24,Paloma San Basilio,Demasiado Herida,32,24,2
+1991-02-09,25,Lucia Mendez,Amor De Nadie,,25,1
+1991-02-09,26,Franco de Vita,No Basta,,26,1
+1991-02-09,27,Gloria Estefan,Renacer,25,7,16
+1991-02-09,28,Los Temerarios,Creo Que Voy A Llorar,30,23,18
+1991-02-09,29,Beatriz Adriana,Tu Gaban,26,19,4
+1991-02-09,30,Gilberto Santa Rosa,De Cualquier Manera,,30,1
+1991-02-09,31,Luis Enrique,Date Un Chance,,31,1
+1991-02-09,32,Mariana Garza,Alcanzar Una Estrella,36,31,3
+1991-02-09,33,Alejandra Guzman,Ten Cuidado Con El Corazon,18,18,9
+1991-02-09,34,Braulio,El Tribunal Del Amor,20,3,15
+1991-02-09,35,Yolandita Monge,Cantare,33,33,2
+1991-02-09,36,Jose Jose,Esa Mujer,,36,1
+1991-02-09,37,Jose Jose,Atrapado,27,7,14
+1991-02-09,38,Luna,Un Amor Como El Mio,28,15,11
+1991-02-09,39,Bronco: El Gigante De America,Los Castigados,31,27,12
+1991-02-09,40,Wilfrido Vargas,Bachata Merengue,35,18,8
+1991-02-16,1,Myriam Hernandez,Te Pareces Tanto A El,3,1,10
+1991-02-16,2,Emmanuel,Bella Senora,2,2,9
+1991-02-16,3,Ana Gabriel,Es Demasiado Tarde,1,1,16
+1991-02-16,4,Jose Luis Rodriguez,La Fiesta,4,3,11
+1991-02-16,5,Banda Blanca,Sopa de Caracol,5,5,5
+1991-02-16,6,Juan Luis Guerra 440,Estrellitas Y Duendes,7,6,4
+1991-02-16,7,Marisela,Y Se Que Vas A Llorar,6,2,15
+1991-02-16,8,Chayanne,Tiempo De Vals,8,7,6
+1991-02-16,9,Roberto Carlos,Pajaro Herido,9,2,13
+1991-02-16,10,Jose Feliciano,No Puedo Estar Sin Ti,13,10,12
+1991-02-16,11,Paloma San Basilio,Demasiado Herida,24,11,3
+1991-02-16,12,Jose Jose,Esa Mujer,36,12,2
+1991-02-16,13,Alvaro Torres,Mi Verdadero Amor,15,13,9
+1991-02-16,14,Lourdes Robles,Que Lastima,18,14,3
+1991-02-16,15,Ana Gabriel,Destino,,15,1
+1991-02-16,16,Juan Gabriel,Hasta Que Te Conoci Popurri,10,10,4
+1991-02-16,17,Vicente Fernandez,El Descinfle,19,17,3
+1991-02-16,18,Rudy La Scala,Cuando Yo Amo,11,5,15
+1991-02-16,19,Roberto Carlos,Tengo Que Olvidar,12,12,3
+1991-02-16,20,Guillermo Davila,Yo Nesecito Mas De Ti,17,17,5
+1991-02-16,21,Lucia Mendez,Amor De Nadie,25,21,2
+1991-02-16,22,Luis Enrique,Date Un Chance,31,22,2
+1991-02-16,23,Yordano,Madera Fina,16,12,9
+1991-02-16,24,Bronco: El Gigante De America,Si Te Vuelves A Enamorar,,24,1
+1991-02-16,25,Yuri,Quien Eres Tu,,25,1
+1991-02-16,26,Gilberto Santa Rosa,De Cualquier Manera,30,26,2
+1991-02-16,27,Beatriz Adriana,Tu Gaban,29,19,5
+1991-02-16,28,Franco de Vita,No Basta,26,26,2
+1991-02-16,29,Bronco: El Gigante De America,Corazon Duro,14,5,21
+1991-02-16,30,Jose Jose,Atrapado,37,7,15
+1991-02-16,31,Emmanuel,No He Podido Verte,,31,1
+1991-02-16,32,Rocio Durcal,La Balanza,21,10,14
+1991-02-16,33,Juan Luis Guerra 440,Burbujas De Amor,22,2,33
+1991-02-16,34,Braulio,Como Cualquier Jardinero,,34,1
+1991-02-16,35,Yolandita Monge,Cantare,35,33,3
+1991-02-16,36,Mariana Garza,Alcanzar Una Estrella,32,31,4
+1991-02-16,37,Gloria Estefan,Renacer,27,7,17
+1991-02-16,38,Los Temerarios,Creo Que Voy A Llorar,28,23,19
+1991-02-16,39,Luis Miguel,Entregate,20,1,22
+1991-02-16,40,Ramiro Aguilar,Cruz De Cemento,23,22,4
+1991-02-23,1,Myriam Hernandez,Te Pareces Tanto A El,1,1,11
+1991-02-23,2,Banda Blanca,Sopa de Caracol,5,2,6
+1991-02-23,3,Ana Gabriel,Es Demasiado Tarde,3,1,17
+1991-02-23,4,Emmanuel,Bella Senora,2,2,10
+1991-02-23,5,Juan Luis Guerra 440,Estrellitas Y Duendes,6,5,5
+1991-02-23,6,Jose Luis Rodriguez,La Fiesta,4,3,12
+1991-02-23,7,Chayanne,Tiempo De Vals,8,7,7
+1991-02-23,8,Paloma San Basilio,Demasiado Herida,11,8,4
+1991-02-23,9,Marisela,Y Se Que Vas A Llorar,7,2,16
+1991-02-23,10,Jose Jose,Esa Mujer,12,10,3
+1991-02-23,11,Franco de Vita,No Basta,28,11,3
+1991-02-23,12,Vicente Fernandez,El Descinfle,17,12,4
+1991-02-23,13,Roberto Carlos,Tengo Que Olvidar,19,12,4
+1991-02-23,14,Juan Gabriel,Hasta Que Te Conoci Popurri,16,10,5
+1991-02-23,15,Alvaro Torres,Mi Verdadero Amor,13,13,10
+1991-02-23,16,Rudy La Scala,Cuando Yo Amo,18,5,16
+1991-02-23,17,Lourdes Robles,Que Lastima,14,14,4
+1991-02-23,18,Jose Feliciano,No Puedo Estar Sin Ti,10,10,13
+1991-02-23,19,Guillermo Davila,Yo Nesecito Mas De Ti,20,17,6
+1991-02-23,20,Roberto Carlos,Pajaro Herido,9,2,14
+1991-02-23,21,Ana Gabriel,Destino,15,15,2
+1991-02-23,22,Mariana Garza,Alcanzar Una Estrella,36,22,5
+1991-02-23,23,Luis Enrique,Date Un Chance,22,22,3
+1991-02-23,24,Yuri,Quien Eres Tu,25,24,2
+1991-02-23,25,Jose Javier Solis,Sentimental,,25,1
+1991-02-23,26,Lucia Mendez,Amor De Nadie,21,21,3
+1991-02-23,27,Bronco: El Gigante De America,Si Te Vuelves A Enamorar,24,24,2
+1991-02-23,28,Daniela Romo,Y Cae La Gota De Agua,,28,1
+1991-02-23,29,Emmanuel,No He Podido Verte,31,29,2
+1991-02-23,30,Los Huracanes del Norte,Cruz De Cemento,,30,1
+1991-02-23,31,Gilberto Santa Rosa,De Cualquier Manera,26,26,3
+1991-02-23,32,Bronco: El Gigante De America,Corazon Duro,29,5,22
+1991-02-23,33,Beatriz Adriana,Tu Gaban,27,19,6
+1991-02-23,34,Juan Luis Guerra 440,Burbujas De Amor,33,2,34
+1991-02-23,35,Yolandita Monge,Cantare,35,33,4
+1991-02-23,36,Yordano,Madera Fina,23,12,10
+1991-02-23,37,Braulio,Como Cualquier Jardinero,34,34,2
+1991-02-23,38,Rocio Durcal,La Balanza,32,10,15
+1991-02-23,39,Jose Jose,Atrapado,30,7,16
+1991-02-23,40,Luis Miguel,Entregate,39,1,23
+1991-03-02,1,Myriam Hernandez,Te Pareces Tanto A El,1,1,12
+1991-03-02,2,Banda Blanca,Sopa de Caracol,2,2,7
+1991-03-02,3,Emmanuel,Bella Senora,4,2,11
+1991-03-02,4,Ana Gabriel,Es Demasiado Tarde,3,1,18
+1991-03-02,5,Juan Luis Guerra 440,Estrellitas Y Duendes,5,5,6
+1991-03-02,6,Franco de Vita,No Basta,11,6,4
+1991-03-02,7,Jose Jose,Esa Mujer,10,7,4
+1991-03-02,8,Paloma San Basilio,Demasiado Herida,8,8,5
+1991-03-02,9,Chayanne,Tiempo De Vals,7,7,8
+1991-03-02,10,Jose Luis Rodriguez,La Fiesta,6,3,13
+1991-03-02,11,Roberto Carlos,Tengo Que Olvidar,13,11,5
+1991-03-02,12,Vicente Fernandez,El Descinfle,12,12,5
+1991-03-02,13,Ana Gabriel,Destino,21,13,3
+1991-03-02,14,Lourdes Robles,Que Lastima,17,14,5
+1991-03-02,15,Juan Gabriel,Hasta Que Te Conoci Popurri,14,10,6
+1991-03-02,16,Jose Javier Solis,Sentimental,25,16,2
+1991-03-02,17,Marisela,Y Se Que Vas A Llorar,9,2,17
+1991-03-02,18,Jose Feliciano,No Puedo Estar Sin Ti,18,10,14
+1991-03-02,19,Luis Enrique,Date Un Chance,23,19,4
+1991-03-02,20,Daniela Romo,Y Cae La Gota De Agua,28,20,2
+1991-03-02,21,Yuri,Quien Eres Tu,24,21,3
+1991-03-02,22,Alvaro Torres,Mi Verdadero Amor,15,13,11
+1991-03-02,23,Bronco: El Gigante De America,Si Te Vuelves A Enamorar,27,23,3
+1991-03-02,24,Rudy La Scala,Cuando Yo Amo,16,5,17
+1991-03-02,25,Gilberto Santa Rosa,De Cualquier Manera,31,25,4
+1991-03-02,26,Los Huracanes del Norte,Cruz De Cemento,30,26,2
+1991-03-02,27,Mariana Garza,Alcanzar Una Estrella,22,22,6
+1991-03-02,28,Guillermo Davila,Yo Nesecito Mas De Ti,19,17,7
+1991-03-02,29,Yolandita Monge,Cantare,35,29,5
+1991-03-02,30,Bronco: El Gigante De America,Corazon Duro,32,5,23
+1991-03-02,31,Lucia Mendez,Amor De Nadie,26,21,4
+1991-03-02,32,Angel Javier,Quiero Amarte Al Aire Libre,,32,1
+1991-03-02,33,Emmanuel,No He Podido Verte,29,29,3
+1991-03-02,34,Tito Rojas,Siempre Sere,,34,1
+1991-03-02,35,Juan Luis Guerra 440,Burbujas De Amor,34,2,35
+1991-03-02,36,Roberto Carlos,Pajaro Herido,20,2,15
+1991-03-02,37,Gloria Estefan,Desde La Oscuridad,,37,1
+1991-03-02,38,Mazz,Canciones De Amor,,38,1
+1991-03-02,39,Beatriz Adriana,Tu Gaban,33,19,7
+1991-03-02,40,Braulio,Como Cualquier Jardinero,37,34,3
+1991-03-09,1,Myriam Hernandez,Te Pareces Tanto A El,1,1,13
+1991-03-09,2,Banda Blanca,Sopa de Caracol,2,2,8
+1991-03-09,3,Juan Luis Guerra 440,Estrellitas Y Duendes,5,3,7
+1991-03-09,4,Emmanuel,Bella Senora,3,2,12
+1991-03-09,5,Ana Gabriel,Es Demasiado Tarde,4,1,19
+1991-03-09,6,Franco de Vita,No Basta,6,6,5
+1991-03-09,7,Paloma San Basilio,Demasiado Herida,8,7,6
+1991-03-09,8,Chayanne,Tiempo De Vals,9,7,9
+1991-03-09,9,Roberto Carlos,Tengo Que Olvidar,11,9,6
+1991-03-09,10,Jose Jose,Esa Mujer,7,7,5
+1991-03-09,11,Jose Javier Solis,Sentimental,16,11,3
+1991-03-09,12,Juan Gabriel,Hasta Que Te Conoci Popurri,15,10,7
+1991-03-09,13,Ana Gabriel,Destino,13,13,4
+1991-03-09,14,Lourdes Robles,Que Lastima,14,14,6
+1991-03-09,15,Vicente Fernandez,El Descinfle,12,12,6
+1991-03-09,16,Jose Luis Rodriguez,La Fiesta,10,3,14
+1991-03-09,17,Alvaro Torres,Mi Verdadero Amor,22,13,12
+1991-03-09,18,Bronco: El Gigante De America,Si Te Vuelves A Enamorar,23,18,4
+1991-03-09,19,Yuri,Quien Eres Tu,21,19,4
+1991-03-09,20,Daniela Romo,Y Cae La Gota De Agua,20,20,3
+1991-03-09,21,Luis Enrique,Date Un Chance,19,19,5
+1991-03-09,22,Jose Feliciano,No Puedo Estar Sin Ti,18,10,15
+1991-03-09,23,Gloria Estefan,Desde La Oscuridad,37,23,2
+1991-03-09,24,Rudy La Scala,Cuando Yo Amo,24,5,18
+1991-03-09,25,Lucia Mendez,Amor De Nadie,31,21,5
+1991-03-09,26,Emmanuel,No He Podido Verte,33,26,4
+1991-03-09,27,Yolandita Monge,Cantare,29,27,6
+1991-03-09,28,Los Huracanes del Norte,Cruz De Cemento,26,26,3
+1991-03-09,29,Juan Luis Guerra 440,Burbujas De Amor,35,2,36
+1991-03-09,30,Ednita Nazario,Lo Que Son Las Cosas,,30,1
+1991-03-09,31,Johnny Rivera,Nesecito Una Amiga,,31,1
+1991-03-09,32,Tito Rojas,Siempre Sere,34,32,2
+1991-03-09,33,Mazz,Canciones De Amor,38,33,2
+1991-03-09,34,Bronco: El Gigante De America,Corazon Duro,30,5,24
+1991-03-09,35,Mariana Garza,Alcanzar Una Estrella,27,22,7
+1991-03-09,36,Gilberto Santa Rosa,De Cualquier Manera,25,25,5
+1991-03-09,37,Braulio,Como Cualquier Jardinero,40,34,4
+1991-03-09,38,Guillermo Davila,Yo Nesecito Mas De Ti,28,17,8
+1991-03-09,39,Angel Javier,Quiero Amarte Al Aire Libre,32,32,2
+1991-03-09,40,Marisela,Y Se Que Vas A Llorar,17,2,18
+1991-03-16,1,Banda Blanca,Sopa de Caracol,2,1,9
+1991-03-16,2,Myriam Hernandez,Te Pareces Tanto A El,1,1,14
+1991-03-16,3,Franco de Vita,No Basta,6,3,6
+1991-03-16,4,Juan Luis Guerra 440,Estrellitas Y Duendes,3,3,8
+1991-03-16,5,Emmanuel,Bella Senora,4,2,13
+1991-03-16,6,Ana Gabriel,Es Demasiado Tarde,5,1,20
+1991-03-16,7,Chayanne,Tiempo De Vals,8,7,10
+1991-03-16,8,Jose Jose,Esa Mujer,10,7,6
+1991-03-16,9,Paloma San Basilio,Demasiado Herida,7,7,7
+1991-03-16,10,Roberto Carlos,Tengo Que Olvidar,9,9,7
+1991-03-16,11,Jose Javier Solis,Sentimental,11,11,4
+1991-03-16,12,Ana Gabriel,Destino,13,12,5
+1991-03-16,13,Bronco: El Gigante De America,Si Te Vuelves A Enamorar,18,13,5
+1991-03-16,14,Jose Feliciano,No Puedo Estar Sin Ti,22,10,16
+1991-03-16,15,Daniela Romo,Y Cae La Gota De Agua,20,15,4
+1991-03-16,16,Lourdes Robles,Que Lastima,14,14,7
+1991-03-16,17,Juan Gabriel,Hasta Que Te Conoci Popurri,12,10,8
+1991-03-16,18,Gloria Estefan,Desde La Oscuridad,23,18,3
+1991-03-16,19,Jose Luis Rodriguez,La Fiesta,16,3,15
+1991-03-16,20,Vicente Fernandez,El Descinfle,15,12,7
+1991-03-16,21,Yuri,Quien Eres Tu,19,19,5
+1991-03-16,22,Emmanuel,No He Podido Verte,26,22,5
+1991-03-16,23,Alvaro Torres,Mi Verdadero Amor,17,13,13
+1991-03-16,24,Ednita Nazario,Lo Que Son Las Cosas,30,24,2
+1991-03-16,25,Los Bukis,Mi Deseo,,25,1
+1991-03-16,26,Luis Enrique,Date Un Chance,21,19,6
+1991-03-16,27,Willy Chirino,Pobre Diabla,,27,1
+1991-03-16,28,Juan Ramon,Por Haberte Amado Tanto,,28,1
+1991-03-16,29,Lucia Mendez,Amor De Nadie,25,21,6
+1991-03-16,30,Yolandita Monge,Cantare,27,27,7
+1991-03-16,31,Johnny Rivera,Nesecito Una Amiga,31,31,2
+1991-03-16,32,Tito Rojas,Siempre Sere,32,32,3
+1991-03-16,33,Rocio Durcal,Falso,,33,1
+1991-03-16,34,Los Huracanes del Norte,Cruz De Cemento,28,26,4
+1991-03-16,35,Braulio,Como Cualquier Jardinero,37,34,5
+1991-03-16,36,Mazz,Canciones De Amor,33,33,3
+1991-03-16,37,Gilberto Santa Rosa,De Cualquier Manera,36,25,6
+1991-03-16,38,Juan Luis Guerra 440,Burbujas De Amor,29,2,37
+1991-03-16,39,Angel Javier,Quiero Amarte Al Aire Libre,39,32,3
+1991-03-16,40,Rudy La Scala,Cuando Yo Amo,24,5,19
+1991-03-23,1,Banda Blanca,Sopa de Caracol,1,1,10
+1991-03-23,2,Franco de Vita,No Basta,3,2,7
+1991-03-23,3,Myriam Hernandez,Te Pareces Tanto A El,2,1,15
+1991-03-23,4,Juan Luis Guerra 440,Estrellitas Y Duendes,4,3,9
+1991-03-23,5,Paloma San Basilio,Demasiado Herida,9,5,8
+1991-03-23,6,Ana Gabriel,Es Demasiado Tarde,6,1,21
+1991-03-23,7,Chayanne,Tiempo De Vals,7,7,11
+1991-03-23,8,Jose Jose,Esa Mujer,8,7,7
+1991-03-23,9,Emmanuel,Bella Senora,5,2,14
+1991-03-23,10,Ana Gabriel,Destino,12,10,6
+1991-03-23,11,Jose Javier Solis,Sentimental,11,11,5
+1991-03-23,12,Roberto Carlos,Tengo Que Olvidar,10,9,8
+1991-03-23,13,Yuri,Quien Eres Tu,21,13,6
+1991-03-23,14,Ednita Nazario,Lo Que Son Las Cosas,24,14,3
+1991-03-23,15,Los Bukis,Mi Deseo,25,15,2
+1991-03-23,16,Gloria Estefan,Desde La Oscuridad,18,16,4
+1991-03-23,17,Emmanuel,No He Podido Verte,22,17,6
+1991-03-23,18,Bronco: El Gigante De America,Si Te Vuelves A Enamorar,13,13,6
+1991-03-23,19,Jose Feliciano,No Puedo Estar Sin Ti,14,10,17
+1991-03-23,20,Lourdes Robles,Que Lastima,16,14,8
+1991-03-23,21,Daniela Romo,Y Cae La Gota De Agua,15,15,5
+1991-03-23,22,Lucia Mendez,Amor De Nadie,29,21,7
+1991-03-23,23,Luis Enrique,Date Un Chance,26,19,7
+1991-03-23,24,Vicente Fernandez,El Descinfle,20,12,8
+1991-03-23,25,Mazz,Canciones De Amor,36,25,4
+1991-03-23,26,Angel Javier,Quiero Amarte Al Aire Libre,39,26,4
+1991-03-23,27,Willy Chirino,Pobre Diabla,27,27,2
+1991-03-23,28,Juan Gabriel,Hasta Que Te Conoci Popurri,17,10,9
+1991-03-23,29,Juan Ramon,Por Haberte Amado Tanto,28,28,2
+1991-03-23,30,Johnny Rivera,Nesecito Una Amiga,31,30,3
+1991-03-23,31,Alvaro Torres,Mi Verdadero Amor,23,13,14
+1991-03-23,32,Jose Luis Rodriguez,La Fiesta,19,3,16
+1991-03-23,33,Braulio,Como Cualquier Jardinero,35,33,6
+1991-03-23,34,Lunna,Como Ser Amantes,,34,1
+1991-03-23,35,Los Tigres del Norte,Ya Te Vele,,35,1
+1991-03-23,36,Yolandita Monge,Cantare,30,27,8
+1991-03-23,37,Tito Rojas,Siempre Sere,32,32,4
+1991-03-23,38,Jose Luis Rodriguez,De Punta A Punta,,38,1
+1991-03-23,39,Rocio Durcal,Falso,33,33,2
+1991-03-23,40,Los Huracanes del Norte,Cruz De Cemento,34,26,5
+1991-03-30,1,Franco de Vita,No Basta,2,1,8
+1991-03-30,2,Banda Blanca,Sopa de Caracol,1,1,11
+1991-03-30,3,Myriam Hernandez,Te Pareces Tanto A El,3,1,16
+1991-03-30,4,Paloma San Basilio,Demasiado Herida,5,4,9
+1991-03-30,5,Los Bukis,Mi Deseo,15,5,3
+1991-03-30,6,Jose Jose,Esa Mujer,8,6,8
+1991-03-30,7,Juan Luis Guerra 440,Estrellitas Y Duendes,4,3,10
+1991-03-30,8,Chayanne,Tiempo De Vals,7,7,12
+1991-03-30,9,Ana Gabriel,Es Demasiado Tarde,6,1,22
+1991-03-30,10,Ednita Nazario,Lo Que Son Las Cosas,14,10,4
+1991-03-30,11,Yuri,Quien Eres Tu,13,11,7
+1991-03-30,12,Jose Javier Solis,Sentimental,11,11,6
+1991-03-30,13,Bronco: El Gigante De America,Si Te Vuelves A Enamorar,18,13,7
+1991-03-30,14,Roberto Carlos,Tengo Que Olvidar,12,9,9
+1991-03-30,15,Ana Gabriel,Destino,10,10,7
+1991-03-30,16,Emmanuel,Bella Senora,9,2,15
+1991-03-30,17,Gloria Estefan,Desde La Oscuridad,16,16,5
+1991-03-30,18,Jose Feliciano,No Puedo Estar Sin Ti,19,10,18
+1991-03-30,19,Emmanuel,No He Podido Verte,17,17,7
+1991-03-30,20,Lourdes Robles,Que Lastima,20,14,9
+1991-03-30,21,Luis Enrique,Date Un Chance,23,19,8
+1991-03-30,22,Lunna,Como Ser Amantes,34,22,2
+1991-03-30,23,Daniela Romo,Y Cae La Gota De Agua,21,15,6
+1991-03-30,24,Juan Gabriel,Hasta Que Te Conoci Popurri,28,10,10
+1991-03-30,25,Willy Chirino,Pobre Diabla,27,25,3
+1991-03-30,26,Los Tigres del Norte,Ya Te Vele,35,26,2
+1991-03-30,27,Lucia Mendez,Amor De Nadie,22,21,8
+1991-03-30,28,Juan Ramon,Por Haberte Amado Tanto,29,28,3
+1991-03-30,29,Angel Javier,Quiero Amarte Al Aire Libre,26,26,5
+1991-03-30,30,Los Temerarios,Te Quiero,,30,1
+1991-03-30,31,Jose Luis Rodriguez,La Fiesta,32,3,17
+1991-03-30,32,Dyango Y Mijares,Para Que No Me Olvides,,32,1
+1991-03-30,33,Yolandita Monge,Cantare,36,27,9
+1991-03-30,34,Jose Luis Rodriguez,De Punta A Punta,38,34,2
+1991-03-30,35,Tito Rojas,Siempre Sere,37,32,5
+1991-03-30,36,Braulio,Como Cualquier Jardinero,33,33,7
+1991-03-30,37,Johnny Rivera,Nesecito Una Amiga,30,30,4
+1991-03-30,38,Alvaro Torres,Mi Verdadero Amor,31,13,15
+1991-03-30,39,Rocio Durcal,Falso,39,33,3
+1991-03-30,40,Mazz,Canciones De Amor,25,25,5
+1991-04-06,1,Franco de Vita,No Basta,1,1,9
+1991-04-06,2,Banda Blanca,Sopa de Caracol,2,1,12
+1991-04-06,3,Myriam Hernandez,Te Pareces Tanto A El,3,1,17
+1991-04-06,4,Paloma San Basilio,Demasiado Herida,4,4,10
+1991-04-06,5,Los Bukis,Mi Deseo,5,5,4
+1991-04-06,6,Jose Jose,Esa Mujer,6,6,9
+1991-04-06,7,Juan Luis Guerra 440,Estrellitas Y Duendes,7,3,11
+1991-04-06,8,Jose Javier Solis,Sentimental,12,8,7
+1991-04-06,9,Chayanne,Tiempo De Vals,8,7,13
+1991-04-06,10,Roberto Carlos,Tengo Que Olvidar,14,9,10
+1991-04-06,11,Ednita Nazario,Lo Que Son Las Cosas,10,10,5
+1991-04-06,12,Bronco: El Gigante De America,Si Te Vuelves A Enamorar,13,12,8
+1991-04-06,13,Ana Gabriel,Destino,15,10,8
+1991-04-06,14,Yuri,Quien Eres Tu,11,11,8
+1991-04-06,15,Gloria Estefan,Desde La Oscuridad,17,15,6
+1991-04-06,16,Ana Gabriel,Es Demasiado Tarde,9,1,23
+1991-04-06,17,Emmanuel,No He Podido Verte,19,17,8
+1991-04-06,18,Lourdes Robles,Que Lastima,20,14,10
+1991-04-06,19,Luis Enrique,Date Un Chance,21,19,9
+1991-04-06,20,Emmanuel,Bella Senora,16,2,16
+1991-04-06,21,Jose Feliciano,No Puedo Estar Sin Ti,18,10,19
+1991-04-06,22,Dyango Y Mijares,Para Que No Me Olvides,32,22,2
+1991-04-06,23,Marisela,A Partir De Hoy,,23,1
+1991-04-06,24,Juan Ramon,Por Haberte Amado Tanto,28,24,4
+1991-04-06,25,Lunna,Como Ser Amantes,22,22,3
+1991-04-06,26,Daniela Romo,Y Cae La Gota De Agua,23,15,7
+1991-04-06,27,Willy Chirino,Pobre Diabla,25,25,4
+1991-04-06,28,Lucia Mendez,Amor De Nadie,27,21,9
+1991-04-06,29,Juan Gabriel,Hasta Que Te Conoci Popurri,24,10,11
+1991-04-06,30,Los Tigres del Norte,Ya Te Vele,26,26,3
+1991-04-06,31,Los Temerarios,Te Quiero,30,30,2
+1991-04-06,32,Pandora,Con Tu Amor,,32,1
+1991-04-06,33,Angel Javier,Quiero Amarte Al Aire Libre,29,26,6
+1991-04-06,34,Yolandita Monge,Cantare,33,27,10
+1991-04-06,35,Braulio,Como Cualquier Jardinero,36,33,8
+1991-04-06,36,Mazz,Canciones De Amor,40,25,6
+1991-04-06,37,Jose Luis Rodriguez,De Punta A Punta,34,34,3
+1991-04-06,38,Alvaro Torres,Mi Verdadero Amor,38,13,16
+1991-04-06,39,Rocio Durcal,Falso,39,33,4
+1991-04-06,40,Johnny Rivera,Nesecito Una Amiga,37,30,5
+1991-04-13,1,Franco de Vita,No Basta,1,1,10
+1991-04-13,2,Banda Blanca,Sopa de Caracol,2,1,13
+1991-04-13,3,Myriam Hernandez,Te Pareces Tanto A El,3,1,18
+1991-04-13,4,Los Bukis,Mi Deseo,5,4,5
+1991-04-13,5,Paloma San Basilio,Demasiado Herida,4,4,11
+1991-04-13,6,Jose Jose,Esa Mujer,6,6,10
+1991-04-13,7,Gloria Estefan,Desde La Oscuridad,15,7,7
+1991-04-13,8,Juan Luis Guerra 440,Estrellitas Y Duendes,7,3,12
+1991-04-13,9,Jose Javier Solis,Sentimental,8,8,8
+1991-04-13,10,Ednita Nazario,Lo Que Son Las Cosas,11,10,6
+1991-04-13,11,Chayanne,Tiempo De Vals,9,7,14
+1991-04-13,12,Bronco: El Gigante De America,Si Te Vuelves A Enamorar,12,12,9
+1991-04-13,13,Ana Gabriel,Destino,13,10,9
+1991-04-13,14,Yuri,Quien Eres Tu,14,11,9
+1991-04-13,15,Roberto Carlos,Tengo Que Olvidar,10,9,11
+1991-04-13,16,Emmanuel,No He Podido Verte,17,16,9
+1991-04-13,17,Ana Gabriel,Es Demasiado Tarde,16,1,24
+1991-04-13,18,Luis Enrique,Date Un Chance,19,18,10
+1991-04-13,19,Lourdes Robles,Que Lastima,18,14,11
+1991-04-13,20,Marisela,A Partir De Hoy,23,20,2
+1991-04-13,21,Jose Feliciano,No Puedo Estar Sin Ti,21,10,20
+1991-04-13,22,Dyango Y Mijares,Para Que No Me Olvides,22,22,3
+1991-04-13,23,Lunna,Como Ser Amantes,25,22,4
+1991-04-13,24,Willy Chirino,Pobre Diabla,27,24,5
+1991-04-13,25,Daniela Romo,Y Cae La Gota De Agua,26,15,8
+1991-04-13,26,Emmanuel,Bella Senora,20,2,17
+1991-04-13,27,Rudy La Scala,Vamos A Enamorarnos,,27,1
+1991-04-13,28,Los Temerarios,Te Quiero,31,28,3
+1991-04-13,29,Angel Javier,Quiero Amarte Al Aire Libre,33,26,7
+1991-04-13,30,Juan Ramon,Por Haberte Amado Tanto,24,24,5
+1991-04-13,31,Lucia Mendez,Amor De Nadie,28,21,10
+1991-04-13,32,Alvaro Torres,Mi Verdadero Amor,38,13,17
+1991-04-13,33,Pandora,Con Tu Amor,32,32,2
+1991-04-13,34,Braulio,Como Cualquier Jardinero,35,33,9
+1991-04-13,35,Juan Gabriel,Hasta Que Te Conoci Popurri,29,10,12
+1991-04-13,36,Los Tigres del Norte,Ya Te Vele,30,26,4
+1991-04-13,37,Yolandita Monge,Cantare,34,27,11
+1991-04-13,38,Mazz,Canciones De Amor,36,25,7
+1991-04-13,39,Rocio Durcal,Falso,39,33,5
+1991-04-13,40,Johnny Rivera,Nesecito Una Amiga,40,30,6
+1991-04-20,1,Franco de Vita,No Basta,1,1,11
+1991-04-20,2,Banda Blanca,Sopa de Caracol,2,1,14
+1991-04-20,3,Los Bukis,Mi Deseo,4,3,6
+1991-04-20,4,Myriam Hernandez,Te Pareces Tanto A El,3,1,19
+1991-04-20,5,Gloria Estefan,Desde La Oscuridad,7,5,8
+1991-04-20,6,Paloma San Basilio,Demasiado Herida,5,4,12
+1991-04-20,7,Jose Jose,Esa Mujer,6,6,11
+1991-04-20,8,Yuri,Quien Eres Tu,14,8,10
+1991-04-20,9,Jose Javier Solis,Sentimental,9,8,9
+1991-04-20,10,Ednita Nazario,Lo Que Son Las Cosas,10,10,7
+1991-04-20,11,Juan Luis Guerra 440,Estrellitas Y Duendes,8,3,13
+1991-04-20,12,Ana Gabriel,Destino,13,10,10
+1991-04-20,13,Chayanne,Tiempo De Vals,11,7,15
+1991-04-20,14,Emmanuel,No He Podido Verte,16,14,10
+1991-04-20,15,Dyango Y Mijares,Para Que No Me Olvides,22,15,4
+1991-04-20,16,Bronco: El Gigante De America,Si Te Vuelves A Enamorar,12,12,10
+1991-04-20,17,Ana Gabriel,Es Demasiado Tarde,17,1,25
+1991-04-20,18,Roberto Carlos,Tengo Que Olvidar,15,9,12
+1991-04-20,19,Angel Javier,Quiero Amarte Al Aire Libre,29,19,8
+1991-04-20,20,Rudy La Scala,Vamos A Enamorarnos,27,20,2
+1991-04-20,21,Marisela,A Partir De Hoy,20,20,3
+1991-04-20,22,Luis Enrique,Date Un Chance,18,18,11
+1991-04-20,23,Los Temerarios,Te Quiero,28,23,4
+1991-04-20,24,Gilberto Santa Rosa,Impaciencia,,24,1
+1991-04-20,25,Lourdes Robles,Que Lastima,19,14,12
+1991-04-20,26,Pandora,Con Tu Amor,33,26,3
+1991-04-20,27,Lunna,Como Ser Amantes,23,22,5
+1991-04-20,28,Alvaro Torres,Mi Verdadero Amor,32,13,18
+1991-04-20,29,Jose Feliciano,No Puedo Estar Sin Ti,21,10,21
+1991-04-20,30,Juan Ramon,Por Haberte Amado Tanto,30,24,6
+1991-04-20,31,Mijares,No Hace Falta,,31,1
+1991-04-20,32,Daniela Romo,Y Cae La Gota De Agua,25,15,9
+1991-04-20,33,Juan Gabriel,Hasta Que Te Conoci Popurri,35,10,13
+1991-04-20,34,Los Tigres del Norte,Ya Te Vele,36,26,5
+1991-04-20,35,La Patrulla 15,Me Gusta Tambien,,35,1
+1991-04-20,36,Willy Chirino,Pobre Diabla,24,24,6
+1991-04-20,37,Emmanuel,Bella Senora,26,2,18
+1991-04-20,38,Lucia Mendez,Amor De Nadie,31,21,11
+1991-04-20,39,Rocio Durcal,Falso,39,33,6
+1991-04-20,40,Braulio,Como Cualquier Jardinero,34,33,10
+1991-04-27,1,Franco de Vita,No Basta,1,1,12
+1991-04-27,2,Banda Blanca,Sopa de Caracol,2,1,15
+1991-04-27,3,Los Bukis,Mi Deseo,3,3,7
+1991-04-27,4,Gloria Estefan,Desde La Oscuridad,5,4,9
+1991-04-27,5,Jose Jose,Esa Mujer,7,5,12
+1991-04-27,6,Myriam Hernandez,Te Pareces Tanto A El,4,1,20
+1991-04-27,7,Paloma San Basilio,Demasiado Herida,6,4,13
+1991-04-27,8,Ednita Nazario,Lo Que Son Las Cosas,10,8,8
+1991-04-27,9,Yuri,Quien Eres Tu,8,8,11
+1991-04-27,10,Rudy La Scala,Vamos A Enamorarnos,20,10,3
+1991-04-27,11,Ana Gabriel,Destino,12,10,11
+1991-04-27,12,Jose Javier Solis,Sentimental,9,8,10
+1991-04-27,13,Juan Luis Guerra 440,Estrellitas Y Duendes,11,3,14
+1991-04-27,14,Emmanuel,No He Podido Verte,14,14,11
+1991-04-27,15,Dyango Y Mijares,Para Que No Me Olvides,15,15,5
+1991-04-27,16,Chayanne,Tiempo De Vals,13,7,16
+1991-04-27,17,Bronco: El Gigante De America,Si Te Vuelves A Enamorar,16,12,11
+1991-04-27,18,Los Temerarios,Te Quiero,23,18,5
+1991-04-27,19,Roberto Carlos,Tengo Que Olvidar,18,9,13
+1991-04-27,20,Pandora,Con Tu Amor,26,20,4
+1991-04-27,21,Marisela,A Partir De Hoy,21,20,4
+1991-04-27,22,Ana Gabriel,Es Demasiado Tarde,17,1,26
+1991-04-27,23,Luis Enrique,Date Un Chance,22,18,12
+1991-04-27,24,Gilberto Santa Rosa,Impaciencia,24,24,2
+1991-04-27,25,Angel Javier,Quiero Amarte Al Aire Libre,19,19,9
+1991-04-27,26,Mijares,No Hace Falta,31,26,2
+1991-04-27,27,Juan Gabriel,Hasta Que Te Conoci Popurri,33,10,14
+1991-04-27,28,Lunna,Como Ser Amantes,27,22,6
+1991-04-27,29,Juan Ramon,Por Haberte Amado Tanto,30,24,7
+1991-04-27,30,Alvaro Torres,Mi Verdadero Amor,28,13,19
+1991-04-27,31,La Patrulla 15,Me Gusta Tambien,35,31,2
+1991-04-27,32,Juan Luis Guerra 440,Bachata Rosa,,32,1
+1991-04-27,33,Myriam Hernandez,Herida,,33,1
+1991-04-27,34,Luis Miguel,Amante Del Amor,,34,1
+1991-04-27,35,Juan Luis Guerra 440,Cartas De Amor,,35,1
+1991-04-27,36,Willy Chirino,Pobre Diabla,36,24,7
+1991-04-27,37,Emmanuel,Bella Senora,37,2,19
+1991-04-27,38,Lourdes Robles,Que Lastima,25,14,13
+1991-04-27,39,Daniela Romo,Y Cae La Gota De Agua,32,15,10
+1991-04-27,40,Jose Feliciano,No Puedo Estar Sin Ti,29,10,22
+1991-05-04,1,Franco de Vita,No Basta,1,1,13
+1991-05-04,2,Banda Blanca,Sopa de Caracol,2,1,16
+1991-05-04,3,Los Bukis,Mi Deseo,3,3,8
+1991-05-04,4,Ednita Nazario,Lo Que Son Las Cosas,8,4,9
+1991-05-04,5,Gloria Estefan,Desde La Oscuridad,4,4,10
+1991-05-04,6,Paloma San Basilio,Demasiado Herida,7,4,14
+1991-05-04,7,Jose Jose,Esa Mujer,5,5,13
+1991-05-04,8,Myriam Hernandez,Te Pareces Tanto A El,6,1,21
+1991-05-04,9,Yuri,Quien Eres Tu,9,8,12
+1991-05-04,10,Emmanuel,No He Podido Verte,14,10,12
+1991-05-04,11,Ana Gabriel,Destino,11,10,12
+1991-05-04,12,Los Temerarios,Te Quiero,18,12,6
+1991-05-04,13,Jose Javier Solis,Sentimental,12,8,11
+1991-05-04,14,Dyango Y Mijares,Para Que No Me Olvides,15,14,6
+1991-05-04,15,Juan Luis Guerra 440,Estrellitas Y Duendes,13,3,15
+1991-05-04,16,Rudy La Scala,Vamos A Enamorarnos,10,10,4
+1991-05-04,17,Pandora,Con Tu Amor,20,17,5
+1991-05-04,18,Bronco: El Gigante De America,Si Te Vuelves A Enamorar,17,12,12
+1991-05-04,19,Marisela,A Partir De Hoy,21,19,5
+1991-05-04,20,Ana Gabriel,Es Demasiado Tarde,22,1,27
+1991-05-04,21,Mijares,No Hace Falta,26,21,3
+1991-05-04,22,Chayanne,Tiempo De Vals,16,7,17
+1991-05-04,23,Gilberto Santa Rosa,Impaciencia,24,23,3
+1991-05-04,24,Luis Miguel,Amante Del Amor,34,24,2
+1991-05-04,25,Roberto Carlos,Tengo Que Olvidar,19,9,14
+1991-05-04,26,Angel Javier,Quiero Amarte Al Aire Libre,25,19,10
+1991-05-04,27,La Patrulla 15,Me Gusta Tambien,31,27,3
+1991-05-04,28,Myriam Hernandez,Herida,33,28,2
+1991-05-04,29,Luis Enrique,Date Un Chance,23,18,13
+1991-05-04,30,Tierra Tejana Band,Las Hijas De Don Simon,,30,1
+1991-05-04,31,Lunna,Como Ser Amantes,28,22,7
+1991-05-04,32,Xavier,Esperando Tu Volver,,32,1
+1991-05-04,33,Lourdes Robles,Miedo,,33,1
+1991-05-04,34,Alvaro Torres,Mi Verdadero Amor,30,13,20
+1991-05-04,35,Lourdes Robles,Que Lastima,38,14,14
+1991-05-04,36,Willy Chirino,Pobre Diabla,36,24,8
+1991-05-04,37,Juan Ramon,Por Haberte Amado Tanto,29,24,8
+1991-05-04,38,Juan Luis Guerra 440,Cartas De Amor,35,35,2
+1991-05-04,39,Juan Gabriel,Hasta Que Te Conoci Popurri,27,10,15
+1991-05-04,40,Juan Luis Guerra 440,Bachata Rosa,32,32,2
+1991-05-11,1,Los Bukis,Mi Deseo,3,1,9
+1991-05-11,2,Banda Blanca,Sopa de Caracol,2,1,17
+1991-05-11,3,Franco de Vita,No Basta,1,1,14
+1991-05-11,4,Emmanuel,No He Podido Verte,10,4,13
+1991-05-11,5,Ednita Nazario,Lo Que Son Las Cosas,4,4,10
+1991-05-11,6,Gloria Estefan,Desde La Oscuridad,5,4,11
+1991-05-11,7,Marisela,A Partir De Hoy,19,7,6
+1991-05-11,8,Jose Javier Solis,Sentimental,13,8,12
+1991-05-11,9,Jose Jose,Esa Mujer,7,5,14
+1991-05-11,10,Dyango Y Mijares,Para Que No Me Olvides,14,10,7
+1991-05-11,11,Pandora,Con Tu Amor,17,11,6
+1991-05-11,12,Ana Gabriel,Destino,11,10,13
+1991-05-11,13,Paloma San Basilio,Demasiado Herida,6,4,15
+1991-05-11,14,Yuri,Quien Eres Tu,9,8,13
+1991-05-11,15,Mijares,No Hace Falta,21,15,4
+1991-05-11,16,Rudy La Scala,Vamos A Enamorarnos,16,10,5
+1991-05-11,17,Luis Miguel,Amante Del Amor,24,17,3
+1991-05-11,18,Myriam Hernandez,Te Pareces Tanto A El,8,1,22
+1991-05-11,19,Gilberto Santa Rosa,Impaciencia,23,19,4
+1991-05-11,20,Bronco: El Gigante De America,Si Te Vuelves A Enamorar,18,12,13
+1991-05-11,21,Chayanne,Tiempo De Vals,22,7,18
+1991-05-11,22,Juan Luis Guerra 440,Estrellitas Y Duendes,15,3,16
+1991-05-11,23,Juan Luis Guerra 440,Bachata Rosa,40,23,3
+1991-05-11,24,Myriam Hernandez,Herida,28,24,3
+1991-05-11,25,Los Temerarios,Te Quiero,12,12,7
+1991-05-11,26,Tierra Tejana Band,Las Hijas De Don Simon,30,26,2
+1991-05-11,27,Lunna,Como Ser Amantes,31,22,8
+1991-05-11,28,Lourdes Robles,Miedo,33,28,2
+1991-05-11,29,Vicente Fernandez,Que Sepan todos,,29,1
+1991-05-11,30,Angel Javier,Quiero Amarte Al Aire Libre,26,19,11
+1991-05-11,31,Lourdes Robles,Que Lastima,35,14,15
+1991-05-11,32,Ana Gabriel,Es Demasiado Tarde,20,1,28
+1991-05-11,33,Roberto Carlos,Tengo Que Olvidar,25,9,15
+1991-05-11,34,Alvaro Torres,Mi Verdadero Amor,34,13,21
+1991-05-11,35,Xavier,Esperando Tu Volver,32,32,2
+1991-05-11,36,Juan Luis Guerra 440,Cartas De Amor,38,35,3
+1991-05-11,37,Luis Enrique,Date Un Chance,29,18,14
+1991-05-11,38,Tatiana Y Alvaro Torres,Quiero Volver A Tu Lado,,38,1
+1991-05-11,39,La Patrulla 15,Me Gusta Tambien,27,27,4
+1991-05-11,40,Willy Chirino,Pobre Diabla,36,24,9
+1991-05-18,1,Los Bukis,Mi Deseo,1,1,10
+1991-05-18,2,Emmanuel,No He Podido Verte,4,2,14
+1991-05-18,3,Ednita Nazario,Lo Que Son Las Cosas,5,3,11
+1991-05-18,4,Franco de Vita,No Basta,3,1,15
+1991-05-18,5,Banda Blanca,Sopa de Caracol,2,1,18
+1991-05-18,6,Gloria Estefan,Desde La Oscuridad,6,4,12
+1991-05-18,7,Marisela,A Partir De Hoy,7,7,7
+1991-05-18,8,Pandora,Con Tu Amor,11,8,7
+1991-05-18,9,Luis Miguel,Amante Del Amor,17,9,4
+1991-05-18,10,Jose Javier Solis,Sentimental,8,8,13
+1991-05-18,11,Mijares,No Hace Falta,15,11,5
+1991-05-18,12,Ana Gabriel,Destino,12,10,14
+1991-05-18,13,Rudy La Scala,Vamos A Enamorarnos,16,10,6
+1991-05-18,14,Myriam Hernandez,Herida,24,14,4
+1991-05-18,15,Jose Jose,Esa Mujer,9,5,15
+1991-05-18,16,Dyango Y Mijares,Para Que No Me Olvides,10,10,8
+1991-05-18,17,Yuri,Quien Eres Tu,14,8,14
+1991-05-18,18,Paloma San Basilio,Demasiado Herida,13,4,16
+1991-05-18,19,Chayanne,Tiempo De Vals,21,7,19
+1991-05-18,20,Vicente Fernandez,Que Sepan todos,29,20,2
+1991-05-18,21,Myriam Hernandez,Te Pareces Tanto A El,18,1,23
+1991-05-18,22,Gilberto Santa Rosa,Impaciencia,19,19,5
+1991-05-18,23,Angel Javier,Quiero Amarte Al Aire Libre,30,19,12
+1991-05-18,24,Tierra Tejana Band,Las Hijas De Don Simon,26,24,3
+1991-05-18,25,Juan Luis Guerra 440,Estrellitas Y Duendes,22,3,17
+1991-05-18,26,Lourdes Robles,Miedo,28,26,3
+1991-05-18,27,Juan Luis Guerra 440,Bachata Rosa,23,23,4
+1991-05-18,28,Bronco: El Gigante De America,Si Te Vuelves A Enamorar,20,12,14
+1991-05-18,29,Lourdes Robles,Que Lastima,31,14,16
+1991-05-18,30,Gloria Trevi,Pelo Suelto,,30,1
+1991-05-18,31,Los Temerarios,Te Quiero,25,12,8
+1991-05-18,32,Luis Enrique,Date Un Chance,37,18,15
+1991-05-18,33,Kiara,De Nuevo Estoy Temblando,,33,1
+1991-05-18,34,Suzy Gonzales,Corazon De Acero,,34,1
+1991-05-18,35,Lunna,Como Ser Amantes,27,22,9
+1991-05-18,36,Yolandita Monge,No Me Acostumbro,,36,1
+1991-05-18,37,Tatiana Y Alvaro Torres,Quiero Volver A Tu Lado,38,37,2
+1991-05-18,38,La Patrulla 15,Me Gusta Tambien,39,27,5
+1991-05-18,39,Juan Luis Guerra 440,Cartas De Amor,36,35,4
+1991-05-18,40,Xavier,Esperando Tu Volver,35,32,3
+1991-05-25,1,Los Bukis,Mi Deseo,1,1,11
+1991-05-25,2,Ednita Nazario,Lo Que Son Las Cosas,3,2,12
+1991-05-25,3,Emmanuel,No He Podido Verte,2,2,15
+1991-05-25,4,Franco de Vita,No Basta,4,1,16
+1991-05-25,5,Myriam Hernandez,Herida,14,5,5
+1991-05-25,6,Luis Miguel,Amante Del Amor,9,6,5
+1991-05-25,7,Banda Blanca,Sopa de Caracol,5,1,19
+1991-05-25,8,Vicente Fernandez,Que Sepan todos,20,8,3
+1991-05-25,9,Gloria Estefan,Desde La Oscuridad,6,4,13
+1991-05-25,10,Marisela,A Partir De Hoy,7,7,8
+1991-05-25,11,Pandora,Con Tu Amor,8,8,8
+1991-05-25,12,Jose Javier Solis,Sentimental,10,8,14
+1991-05-25,13,Mijares,No Hace Falta,11,11,6
+1991-05-25,14,Rudy La Scala,Vamos A Enamorarnos,13,10,7
+1991-05-25,15,Yuri,Quien Eres Tu,17,8,15
+1991-05-25,16,Tierra Tejana Band,Las Hijas De Don Simon,24,16,4
+1991-05-25,17,Ana Gabriel,Destino,12,10,15
+1991-05-25,18,Gilberto Santa Rosa,Impaciencia,22,18,6
+1991-05-25,19,Dyango Y Mijares,Para Que No Me Olvides,16,10,9
+1991-05-25,20,Paloma San Basilio,Demasiado Herida,18,4,17
+1991-05-25,21,Chayanne,Tiempo De Vals,19,7,20
+1991-05-25,22,Wilkins,Sereno,,22,1
+1991-05-25,23,Juan Luis Guerra 440,Bachata Rosa,27,23,5
+1991-05-25,24,Roberto Carlos,Mujer,,24,1
+1991-05-25,25,Gloria Trevi,Pelo Suelto,30,25,2
+1991-05-25,26,Rocio Durcal,A Que Me Quedo Contigo,,26,1
+1991-05-25,27,Los Temerarios,Te Quiero,31,12,9
+1991-05-25,28,Jose Jose,Esa Mujer,15,5,16
+1991-05-25,29,Daniela Romo,Todo Todo Todo,,29,1
+1991-05-25,30,Bronco: El Gigante De America,Si Te Vuelves A Enamorar,28,12,15
+1991-05-25,31,Suzy Gonzales,Corazon De Acero,34,31,2
+1991-05-25,32,Lourdes Robles,Que Lastima,29,14,17
+1991-05-25,33,Juan Luis Guerra 440,Estrellitas Y Duendes,25,3,18
+1991-05-25,34,Kiara,De Nuevo Estoy Temblando,33,33,2
+1991-05-25,35,Lourdes Robles,Miedo,26,26,4
+1991-05-25,36,La Patrulla 15,Me Gusta Tambien,38,27,6
+1991-05-25,37,Myriam Hernandez,Te Pareces Tanto A El,21,1,24
+1991-05-25,38,Yolandita Monge,No Me Acostumbro,36,36,2
+1991-05-25,39,Angel Javier,Quiero Amarte Al Aire Libre,23,19,13
+1991-05-25,40,Luis Enrique,Date Un Chance,32,18,16
+1991-06-01,1,Los Bukis,Mi Deseo,1,1,12
+1991-06-01,2,Emmanuel,No He Podido Verte,3,2,16
+1991-06-01,3,Ednita Nazario,Lo Que Son Las Cosas,2,2,13
+1991-06-01,4,Myriam Hernandez,Herida,5,4,6
+1991-06-01,5,Luis Miguel,Amante Del Amor,6,5,6
+1991-06-01,6,Vicente Fernandez,Que Sepan todos,8,6,4
+1991-06-01,7,Pandora,Con Tu Amor,11,7,9
+1991-06-01,8,Mijares,No Hace Falta,13,8,7
+1991-06-01,9,Franco de Vita,No Basta,4,1,17
+1991-06-01,10,Gloria Estefan,Desde La Oscuridad,9,4,14
+1991-06-01,11,Daniela Romo,Todo Todo Todo,29,11,2
+1991-06-01,12,Banda Blanca,Sopa de Caracol,7,1,20
+1991-06-01,13,Marisela,A Partir De Hoy,10,7,9
+1991-06-01,14,Jose Javier Solis,Sentimental,12,8,15
+1991-06-01,15,Rudy La Scala,Vamos A Enamorarnos,14,10,8
+1991-06-01,16,Tierra Tejana Band,Las Hijas De Don Simon,16,16,5
+1991-06-01,17,Dyango Y Mijares,Para Que No Me Olvides,19,10,10
+1991-06-01,18,Ana Gabriel,Destino,17,10,16
+1991-06-01,19,Rocio Durcal,A Que Me Quedo Contigo,26,19,2
+1991-06-01,20,Wilkins,Sereno,22,20,2
+1991-06-01,21,Yuri,Quien Eres Tu,15,8,16
+1991-06-01,22,Juan Luis Guerra 440,Bachata Rosa,23,22,6
+1991-06-01,23,Roberto Carlos,Mujer,24,23,2
+1991-06-01,24,Gloria Trevi,Pelo Suelto,25,24,3
+1991-06-01,25,Ricardo Montaner,Dejame Llorar,,25,1
+1991-06-01,26,Chayanne,Tiempo De Vals,21,7,21
+1991-06-01,27,Braulio,Navegar En Ti,,27,1
+1991-06-01,28,Jerry Rivera,Dime,,28,1
+1991-06-01,29,Di Blasio,Barroco,,29,1
+1991-06-01,30,Paloma San Basilio,Demasiado Herida,20,4,18
+1991-06-01,31,Jose Jose,Esa Mujer,28,5,17
+1991-06-01,32,Lourdes Robles,Miedo,35,26,5
+1991-06-01,33,Kiara,De Nuevo Estoy Temblando,34,33,3
+1991-06-01,34,Gilberto Santa Rosa,Impaciencia,18,18,7
+1991-06-01,35,Jose Luis Rodriguez,Esta Vez,,35,1
+1991-06-01,36,Suzy Gonzales,Corazon De Acero,31,31,3
+1991-06-01,37,Lourdes Robles,Que Lastima,32,14,18
+1991-06-01,38,Bronco: El Gigante De America,Si Te Vuelves A Enamorar,30,12,16
+1991-06-01,39,Los Temerarios,Te Quiero,27,12,10
+1991-06-01,40,Yolandita Monge,No Me Acostumbro,38,36,3
+1991-06-08,1,Los Bukis,Mi Deseo,1,1,13
+1991-06-08,2,Emmanuel,No He Podido Verte,2,2,17
+1991-06-08,3,Myriam Hernandez,Herida,4,3,7
+1991-06-08,4,Daniela Romo,Todo Todo Todo,11,4,3
+1991-06-08,5,Ednita Nazario,Lo Que Son Las Cosas,3,2,14
+1991-06-08,6,Mijares,No Hace Falta,8,6,8
+1991-06-08,7,Vicente Fernandez,Que Sepan todos,6,6,5
+1991-06-08,8,Luis Miguel,Amante Del Amor,5,5,7
+1991-06-08,9,Pandora,Con Tu Amor,7,7,10
+1991-06-08,10,Franco de Vita,No Basta,9,1,18
+1991-06-08,11,Ricardo Montaner,Dejame Llorar,25,11,2
+1991-06-08,12,Wilkins,Sereno,20,12,3
+1991-06-08,13,Tierra Tejana Band,Las Hijas De Don Simon,16,13,6
+1991-06-08,14,Roberto Carlos,Mujer,23,14,3
+1991-06-08,15,Ana Gabriel,Destino,18,10,17
+1991-06-08,16,Banda Blanca,Sopa de Caracol,12,1,21
+1991-06-08,17,Marisela,A Partir De Hoy,13,7,10
+1991-06-08,18,Gloria Estefan,Desde La Oscuridad,10,4,15
+1991-06-08,19,Gloria Trevi,Pelo Suelto,24,19,4
+1991-06-08,20,Juan Luis Guerra 440,Bachata Rosa,22,20,7
+1991-06-08,21,Dyango Y Mijares,Para Que No Me Olvides,17,10,11
+1991-06-08,22,Rocio Durcal,A Que Me Quedo Contigo,19,19,3
+1991-06-08,23,Jose Javier Solis,Sentimental,14,8,16
+1991-06-08,24,Jose Luis Rodriguez,Esta Vez,35,24,2
+1991-06-08,25,Braulio,Navegar En Ti,27,25,2
+1991-06-08,26,Di Blasio,Barroco,29,26,2
+1991-06-08,27,Jose Jose,Esa Mujer,31,5,18
+1991-06-08,28,Alejandra Guzman,Reina De Corazones,,28,1
+1991-06-08,29,Jerry Rivera,Dime,28,28,2
+1991-06-08,30,Los Yonic's,Por Que Volvi Contigo,,30,1
+1991-06-08,31,Yuri,Quien Eres Tu,21,8,17
+1991-06-08,32,Kiara,De Nuevo Estoy Temblando,33,32,4
+1991-06-08,33,Rudy La Scala,Vamos A Enamorarnos,15,10,9
+1991-06-08,34,El Gran Combo de Puerto Rico,La Curandera,,34,1
+1991-06-08,35,H2o,Si Esto No Es Amor,,35,1
+1991-06-08,36,Paloma San Basilio,Demasiado Herida,30,4,19
+1991-06-08,37,Ana Gabriel,Hasta Que Te Conoci,,37,1
+1991-06-08,38,Chayanne,Tiempo De Vals,26,7,22
+1991-06-08,39,Suzy Gonzales,Corazon De Acero,36,31,4
+1991-06-08,40,Lourdes Robles,Miedo,32,26,6
+1991-06-15,1,Los Bukis,Mi Deseo,1,1,14
+1991-06-15,2,Daniela Romo,Todo Todo Todo,4,2,4
+1991-06-15,3,Emmanuel,No He Podido Verte,2,2,18
+1991-06-15,4,Luis Miguel,Amante Del Amor,8,4,8
+1991-06-15,5,Mijares,No Hace Falta,6,5,9
+1991-06-15,6,Myriam Hernandez,Herida,3,3,8
+1991-06-15,7,Ednita Nazario,Lo Que Son Las Cosas,5,2,15
+1991-06-15,8,Vicente Fernandez,Que Sepan todos,7,6,6
+1991-06-15,9,Ricardo Montaner,Dejame Llorar,11,9,3
+1991-06-15,10,Pandora,Con Tu Amor,9,7,11
+1991-06-15,11,Wilkins,Sereno,12,11,4
+1991-06-15,12,Rocio Durcal,A Que Me Quedo Contigo,22,12,4
+1991-06-15,13,Roberto Carlos,Mujer,14,13,4
+1991-06-15,14,Tierra Tejana Band,Las Hijas De Don Simon,13,13,7
+1991-06-15,15,Banda Blanca,Sopa de Caracol,16,1,22
+1991-06-15,16,Juan Luis Guerra 440,Bachata Rosa,20,16,8
+1991-06-15,17,Braulio,Navegar En Ti,25,17,3
+1991-06-15,18,Banda Blanca,Fiesta,,18,1
+1991-06-15,19,Jose Luis Rodriguez,Esta Vez,24,19,3
+1991-06-15,20,Marisela,A Partir De Hoy,17,7,11
+1991-06-15,21,Ana Gabriel,Destino,15,10,18
+1991-06-15,22,Dyango Y Mijares,Para Que No Me Olvides,21,10,12
+1991-06-15,23,Di Blasio,Barroco,26,23,3
+1991-06-15,24,Gloria Trevi,Pelo Suelto,19,19,5
+1991-06-15,25,Ana Gabriel,Hasta Que Te Conoci,37,25,2
+1991-06-15,26,Jerry Rivera,Dime,29,26,3
+1991-06-15,27,Jose Javier Solis,Sentimental,23,8,17
+1991-06-15,28,Kiara,De Nuevo Estoy Temblando,32,28,5
+1991-06-15,29,Los Yonic's,Por Que Volvi Contigo,30,29,2
+1991-06-15,30,Ruben Blades,Camaleon,,30,1
+1991-06-15,31,Alejandra Guzman,Reina De Corazones,28,28,2
+1991-06-15,32,H2o,Si Esto No Es Amor,35,32,2
+1991-06-15,33,Franco de Vita,No Basta,10,1,19
+1991-06-15,34,Xuxa,Chindolele,,34,1
+1991-06-15,35,El Gran Combo de Puerto Rico,La Curandera,34,34,2
+1991-06-15,36,Paloma San Basilio,Demasiado Herida,36,4,20
+1991-06-15,37,Yuri,Quien Eres Tu,31,8,18
+1991-06-15,38,Jose Jose,Esa Mujer,27,5,19
+1991-06-15,39,Rudy La Scala,Vamos A Enamorarnos,33,10,10
+1991-06-15,40,Gloria Estefan,Desde La Oscuridad,18,4,16
+1991-06-22,1,Daniela Romo,Todo Todo Todo,2,1,5
+1991-06-22,2,Los Bukis,Mi Deseo,1,1,15
+1991-06-22,3,Emmanuel,No He Podido Verte,3,2,19
+1991-06-22,4,Luis Miguel,Amante Del Amor,4,4,9
+1991-06-22,5,Ricardo Montaner,Dejame Llorar,9,5,4
+1991-06-22,6,Vicente Fernandez,Que Sepan todos,8,6,7
+1991-06-22,7,Myriam Hernandez,Herida,6,3,9
+1991-06-22,8,Mijares,No Hace Falta,5,5,10
+1991-06-22,9,Braulio,Navegar En Ti,17,9,4
+1991-06-22,10,Ednita Nazario,Lo Que Son Las Cosas,7,2,16
+1991-06-22,11,Rocio Durcal,A Que Me Quedo Contigo,12,11,5
+1991-06-22,12,Banda Blanca,Fiesta,18,12,2
+1991-06-22,13,Pandora,Con Tu Amor,10,7,12
+1991-06-22,14,Wilkins,Sereno,11,11,5
+1991-06-22,15,Jose Luis Rodriguez,Esta Vez,19,15,4
+1991-06-22,16,Tierra Tejana Band,Las Hijas De Don Simon,14,13,8
+1991-06-22,17,Roberto Carlos,Mujer,13,13,5
+1991-06-22,18,Juan Luis Guerra 440,Bachata Rosa,16,16,9
+1991-06-22,19,Ana Gabriel,Destino,21,10,19
+1991-06-22,20,Banda Blanca,Sopa de Caracol,15,1,23
+1991-06-22,21,Di Blasio,Barroco,23,21,4
+1991-06-22,22,Gloria Trevi,Pelo Suelto,24,19,6
+1991-06-22,23,Marisela,A Partir De Hoy,20,7,12
+1991-06-22,24,Los Yonic's,Por Que Volvi Contigo,29,24,3
+1991-06-22,25,Dyango Y Mijares,Para Que No Me Olvides,22,10,13
+1991-06-22,26,Franco de Vita,Ya Lo He Vivido,,26,1
+1991-06-22,27,Alejandra Guzman,Reina De Corazones,31,27,3
+1991-06-22,28,Jerry Rivera,Dime,26,26,4
+1991-06-22,29,Xuxa,Chindolele,34,29,2
+1991-06-22,30,Kiara,De Nuevo Estoy Temblando,28,28,6
+1991-06-22,31,Ruben Blades,Camaleon,30,30,2
+1991-06-22,32,El Gran Combo de Puerto Rico,La Curandera,35,32,3
+1991-06-22,33,Sergio Dalma,Bailar Pegados,,33,1
+1991-06-22,34,Los Caminantes,Amor Querido,,34,1
+1991-06-22,35,Ana Gabriel,Hasta Que Te Conoci,25,25,3
+1991-06-22,36,Ednita Nazario,Despues De Tanto,,36,1
+1991-06-22,37,H2o,Si Esto No Es Amor,32,32,3
+1991-06-22,38,Jose Javier Solis,Sentimental,27,8,18
+1991-06-22,39,Franco de Vita,No Basta,33,1,20
+1991-06-22,40,Paloma San Basilio,Demasiado Herida,36,4,21
+1991-06-29,1,Daniela Romo,Todo Todo Todo,1,1,6
+1991-06-29,2,Los Bukis,Mi Deseo,2,1,16
+1991-06-29,3,Ricardo Montaner,Dejame Llorar,5,3,5
+1991-06-29,4,Luis Miguel,Amante Del Amor,4,4,10
+1991-06-29,5,Emmanuel,No He Podido Verte,3,2,20
+1991-06-29,6,Mijares,No Hace Falta,8,5,11
+1991-06-29,7,Banda Blanca,Fiesta,12,7,3
+1991-06-29,8,Vicente Fernandez,Que Sepan todos,6,6,8
+1991-06-29,9,Braulio,Navegar En Ti,9,9,5
+1991-06-29,10,Myriam Hernandez,Herida,7,3,10
+1991-06-29,11,Rocio Durcal,A Que Me Quedo Contigo,11,11,6
+1991-06-29,12,Pandora,Con Tu Amor,13,7,13
+1991-06-29,13,Wilkins,Sereno,14,11,6
+1991-06-29,14,Jose Luis Rodriguez,Esta Vez,15,14,5
+1991-06-29,15,Ednita Nazario,Lo Que Son Las Cosas,10,2,17
+1991-06-29,16,Tierra Tejana Band,Las Hijas De Don Simon,16,13,9
+1991-06-29,17,Roberto Carlos,Mujer,17,13,6
+1991-06-29,18,Ana Gabriel,Destino,19,10,20
+1991-06-29,19,Juan Luis Guerra 440,Bachata Rosa,18,16,10
+1991-06-29,20,Gloria Trevi,Pelo Suelto,22,19,7
+1991-06-29,21,Xuxa,Chindolele,29,21,3
+1991-06-29,22,Los Yonic's,Por Que Volvi Contigo,24,22,4
+1991-06-29,23,Sergio Dalma,Bailar Pegados,33,23,2
+1991-06-29,24,Marisela,A Partir De Hoy,23,7,13
+1991-06-29,25,Franco de Vita,Ya Lo He Vivido,26,25,2
+1991-06-29,26,El Gran Combo de Puerto Rico,La Curandera,32,26,4
+1991-06-29,27,Di Blasio,Barroco,21,21,5
+1991-06-29,28,Ruben Blades,Camaleon,31,28,3
+1991-06-29,29,Los Caminantes,Amor Querido,34,29,2
+1991-06-29,30,Jerry Rivera,Dime,28,26,5
+1991-06-29,31,Kiara,De Nuevo Estoy Temblando,30,28,7
+1991-06-29,32,Alejandra Guzman,Reina De Corazones,27,27,4
+1991-06-29,33,Dyango Y Mijares,Para Que No Me Olvides,25,10,14
+1991-06-29,34,Ednita Nazario,Despues De Tanto,36,34,2
+1991-06-29,35,H2o,Si Esto No Es Amor,37,32,4
+1991-06-29,36,Ana Gabriel,Hasta Que Te Conoci,35,25,4
+1991-06-29,37,Guillermo Fernandez,Ensename,,37,1
+1991-06-29,38,Los Freddy's,Tu Condena,,38,1
+1991-06-29,39,Jose Javier Solis,El Velador,,39,1
+1991-06-29,40,Banda Blanca,Sopa de Caracol,20,1,24
+1991-07-06,1,Daniela Romo,Todo Todo Todo,1,1,7
+1991-07-06,2,Los Bukis,Mi Deseo,2,1,17
+1991-07-06,3,Ricardo Montaner,Dejame Llorar,3,3,6
+1991-07-06,4,Banda Blanca,Fiesta,7,4,4
+1991-07-06,5,Luis Miguel,Amante Del Amor,4,4,11
+1991-07-06,6,Braulio,Navegar En Ti,9,6,6
+1991-07-06,7,Mijares,No Hace Falta,6,5,12
+1991-07-06,8,Emmanuel,No He Podido Verte,5,2,21
+1991-07-06,9,Myriam Hernandez,Herida,10,3,11
+1991-07-06,10,Vicente Fernandez,Que Sepan todos,8,6,9
+1991-07-06,11,Wilkins,Sereno,13,11,7
+1991-07-06,12,Rocio Durcal,A Que Me Quedo Contigo,11,11,7
+1991-07-06,13,Pandora,Con Tu Amor,12,7,14
+1991-07-06,14,Tierra Tejana Band,Las Hijas De Don Simon,16,13,10
+1991-07-06,15,Juan Luis Guerra 440,Bachata Rosa,19,15,11
+1991-07-06,16,Ednita Nazario,Lo Que Son Las Cosas,15,2,18
+1991-07-06,17,Roberto Carlos,Mujer,17,13,7
+1991-07-06,18,Sergio Dalma,Bailar Pegados,23,18,3
+1991-07-06,19,Ana Gabriel,Destino,18,10,21
+1991-07-06,20,Xuxa,Chindolele,21,20,4
+1991-07-06,21,Gloria Trevi,Pelo Suelto,20,19,8
+1991-07-06,22,Los Yonic's,Por Que Volvi Contigo,22,22,5
+1991-07-06,23,Franco de Vita,Ya Lo He Vivido,25,23,3
+1991-07-06,24,Los Caminantes,Amor Querido,29,24,3
+1991-07-06,25,Jose Luis Rodriguez,Esta Vez,14,14,6
+1991-07-06,26,El Gran Combo de Puerto Rico,La Curandera,26,26,5
+1991-07-06,27,Di Blasio,Barroco,27,21,6
+1991-07-06,28,Marisela,A Partir De Hoy,24,7,14
+1991-07-06,29,Yuri,Todo Mi Corazon,,29,1
+1991-07-06,30,Ruben Blades,Camaleon,28,28,4
+1991-07-06,31,La Sombra,El Sancho,,31,1
+1991-07-06,32,Ednita Nazario,Despues De Tanto,34,32,3
+1991-07-06,33,Dyango Y Mijares,Para Que No Me Olvides,33,10,15
+1991-07-06,34,H2o,Si Esto No Es Amor,35,32,5
+1991-07-06,35,Oscar D'Leon,Detalles,,35,1
+1991-07-06,36,Kiara,De Nuevo Estoy Temblando,31,28,8
+1991-07-06,37,Jerry Rivera,Dime,30,26,6
+1991-07-06,38,Maria Conchita Alonso,A El Lo Quiero,,38,1
+1991-07-06,39,Alejandra Guzman,Reina De Corazones,32,27,5
+1991-07-06,40,Guillermo Fernandez,Ensename,37,37,2
+1991-07-13,1,Daniela Romo,Todo Todo Todo,1,1,8
+1991-07-13,2,Ricardo Montaner,Dejame Llorar,3,2,7
+1991-07-13,3,Los Bukis,Mi Deseo,2,1,18
+1991-07-13,4,Banda Blanca,Fiesta,4,4,5
+1991-07-13,5,Luis Miguel,Amante Del Amor,5,4,12
+1991-07-13,6,Braulio,Navegar En Ti,6,6,7
+1991-07-13,7,Mijares,No Hace Falta,7,5,13
+1991-07-13,8,Pandora,Con Tu Amor,13,7,15
+1991-07-13,9,Emmanuel,No He Podido Verte,8,2,22
+1991-07-13,10,Wilkins,Sereno,11,10,8
+1991-07-13,11,Rocio Durcal,A Que Me Quedo Contigo,12,11,8
+1991-07-13,12,Xuxa,Chindolele,20,12,5
+1991-07-13,13,Vicente Fernandez,Que Sepan todos,10,6,10
+1991-07-13,14,Myriam Hernandez,Herida,9,3,12
+1991-07-13,15,Roberto Carlos,Mujer,17,13,8
+1991-07-13,16,Yuri,Todo Mi Corazon,29,16,2
+1991-07-13,17,Sergio Dalma,Bailar Pegados,18,17,4
+1991-07-13,18,Franco de Vita,Ya Lo He Vivido,23,18,4
+1991-07-13,19,Gloria Trevi,Pelo Suelto,21,19,9
+1991-07-13,20,Ednita Nazario,Lo Que Son Las Cosas,16,2,19
+1991-07-13,21,Juan Luis Guerra 440,Bachata Rosa,15,15,12
+1991-07-13,22,Tierra Tejana Band,Las Hijas De Don Simon,14,13,11
+1991-07-13,23,Victor Victor,Mesita De Noche,,23,1
+1991-07-13,24,Los Yonic's,Por Que Volvi Contigo,22,22,6
+1991-07-13,25,Ana Gabriel,Destino,19,10,22
+1991-07-13,26,Di Blasio,Barroco,27,21,7
+1991-07-13,27,El Gran Combo de Puerto Rico,La Curandera,26,26,6
+1991-07-13,28,Simone,Procuro Olvidarte,,28,1
+1991-07-13,29,Oscar D'Leon,Detalles,35,29,2
+1991-07-13,30,Ruben Blades,Camaleon,30,28,5
+1991-07-13,31,Ednita Nazario,Despues De Tanto,32,31,4
+1991-07-13,32,Marisela,A Partir De Hoy,28,7,15
+1991-07-13,33,Los Caminantes,Amor Querido,24,24,4
+1991-07-13,34,H2o,Si Esto No Es Amor,34,32,6
+1991-07-13,35,Lisa Lopez,Dime Quien Es,,35,1
+1991-07-13,36,Pimpinela,Hipocrecia,,36,1
+1991-07-13,37,Jose Luis Rodriguez,Esta Vez,25,14,7
+1991-07-13,38,La Sombra,El Sancho,31,31,2
+1991-07-13,39,Dyango Y Mijares,Para Que No Me Olvides,33,10,16
+1991-07-13,40,Maria Conchita Alonso,A El Lo Quiero,38,38,2
+1991-07-20,1,Daniela Romo,Todo Todo Todo,1,1,9
+1991-07-20,2,Ricardo Montaner,Dejame Llorar,2,2,8
+1991-07-20,3,Banda Blanca,Fiesta,4,3,6
+1991-07-20,4,Los Bukis,Mi Deseo,3,1,19
+1991-07-20,5,Luis Miguel,Amante Del Amor,5,4,13
+1991-07-20,6,Braulio,Navegar En Ti,6,6,8
+1991-07-20,7,Rocio Durcal,A Que Me Quedo Contigo,11,7,9
+1991-07-20,8,Wilkins,Sereno,10,8,9
+1991-07-20,9,Pandora,Con Tu Amor,8,7,16
+1991-07-20,10,Xuxa,Chindolele,12,10,6
+1991-07-20,11,Yuri,Todo Mi Corazon,16,11,3
+1991-07-20,12,Franco de Vita,Ya Lo He Vivido,18,12,5
+1991-07-20,13,Sergio Dalma,Bailar Pegados,17,13,5
+1991-07-20,14,Vicente Fernandez,Que Sepan todos,13,6,11
+1991-07-20,15,Mijares,No Hace Falta,7,5,14
+1991-07-20,16,Lisa Lopez,Dime Quien Es,35,16,2
+1991-07-20,17,Ruben Blades,Camaleon,30,17,6
+1991-07-20,18,Los Yonic's,Por Que Volvi Contigo,24,18,7
+1991-07-20,19,Myriam Hernandez,Herida,14,3,13
+1991-07-20,20,Gloria Trevi,Pelo Suelto,19,19,10
+1991-07-20,21,Victor Victor,Mesita De Noche,23,21,2
+1991-07-20,22,Emmanuel,No He Podido Verte,9,2,23
+1991-07-20,23,El Gran Combo de Puerto Rico,La Curandera,27,23,7
+1991-07-20,24,Oscar D'Leon,Detalles,29,24,3
+1991-07-20,25,Ana Gabriel,Destino,25,10,23
+1991-07-20,26,Roberto Carlos,Mujer,15,13,9
+1991-07-20,27,Ednita Nazario,Despues De Tanto,31,27,5
+1991-07-20,28,Simone,Procuro Olvidarte,28,28,2
+1991-07-20,29,Naomi,Quedate,,29,1
+1991-07-20,30,Di Blasio,Barroco,26,21,8
+1991-07-20,31,Ednita Nazario,Lo Que Son Las Cosas,20,2,20
+1991-07-20,32,Jose Luis Rodriguez,Se Me Hace Aguita La Boca,,32,1
+1991-07-20,33,Los Caminantes,Amor Querido,33,24,5
+1991-07-20,34,H2o,Si Esto No Es Amor,34,32,7
+1991-07-20,35,Maria Conchita Alonso,A El Lo Quiero,40,35,3
+1991-07-20,36,Tierra Tejana Band,Las Hijas De Don Simon,22,13,12
+1991-07-20,37,Pimpinela,Hipocrecia,36,36,2
+1991-07-20,38,La Sombra,El Sancho,38,31,3
+1991-07-20,39,Juan Luis Guerra 440,Bachata Rosa,21,15,13
+1991-07-20,40,Marisela,A Partir De Hoy,32,7,16
+1991-07-27,1,Daniela Romo,Todo Todo Todo,1,1,10
+1991-07-27,2,Ricardo Montaner,Dejame Llorar,2,2,9
+1991-07-27,3,Banda Blanca,Fiesta,3,3,7
+1991-07-27,4,Braulio,Navegar En Ti,6,4,9
+1991-07-27,5,Los Bukis,Mi Deseo,4,1,20
+1991-07-27,6,Luis Miguel,Amante Del Amor,5,4,14
+1991-07-27,7,Sergio Dalma,Bailar Pegados,13,7,6
+1991-07-27,8,Lisa Lopez,Dime Quien Es,16,8,3
+1991-07-27,9,Rocio Durcal,A Que Me Quedo Contigo,7,7,10
+1991-07-27,10,Mijares,No Hace Falta,15,5,15
+1991-07-27,11,Victor Victor,Mesita De Noche,21,11,3
+1991-07-27,12,Pandora,Con Tu Amor,9,7,17
+1991-07-27,13,Yuri,Todo Mi Corazon,11,11,4
+1991-07-27,14,Wilkins,Sereno,8,8,10
+1991-07-27,15,Vicente Fernandez,Que Sepan todos,14,6,12
+1991-07-27,16,Xuxa,Chindolele,10,10,7
+1991-07-27,17,Ruben Blades,Camaleon,17,17,7
+1991-07-27,18,Franco de Vita,Ya Lo He Vivido,12,12,6
+1991-07-27,19,La Sombra,El Sancho,38,19,4
+1991-07-27,20,Naomi,Quedate,29,20,2
+1991-07-27,21,Vikki Carr Y Ana Gabriel,Cosas Del Amor,,21,1
+1991-07-27,22,Los Yonic's,Por Que Volvi Contigo,18,18,8
+1991-07-27,23,Gloria Trevi,Pelo Suelto,20,19,11
+1991-07-27,24,Oscar D'Leon,Detalles,24,24,4
+1991-07-27,25,Simone,Procuro Olvidarte,28,25,3
+1991-07-27,26,El Gran Combo de Puerto Rico,La Curandera,23,23,8
+1991-07-27,27,Ednita Nazario,Despues De Tanto,27,27,6
+1991-07-27,28,Emmanuel,No He Podido Verte,22,2,24
+1991-07-27,29,Roberto Carlos,Mujer,26,13,10
+1991-07-27,30,Di Blasio,Barroco,30,21,9
+1991-07-27,31,Los Bukis,Chiquilla Bonita,,31,1
+1991-07-27,32,Alejandra Guzman,Hacer El Amor Con Otro,,32,1
+1991-07-27,33,Myriam Hernandez,Herida,19,3,14
+1991-07-27,34,Jose Luis Rodriguez,Se Me Hace Aguita La Boca,32,32,2
+1991-07-27,35,El Tiempo,Se Me Escapa De Los Brasos,,35,1
+1991-07-27,36,Los Caminantes,Amor Querido,33,24,6
+1991-07-27,37,Ana Gabriel,Ahora,,37,1
+1991-07-27,38,Ednita Nazario,Lo Que Son Las Cosas,31,2,21
+1991-07-27,39,Pimpinela,Hipocrecia,37,36,3
+1991-07-27,40,Maria Conchita Alonso,A El Lo Quiero,35,35,4
+1991-08-03,1,Daniela Romo,Todo Todo Todo,1,1,11
+1991-08-03,2,Banda Blanca,Fiesta,3,2,8
+1991-08-03,3,Ricardo Montaner,Dejame Llorar,2,2,10
+1991-08-03,4,Vikki Carr Y Ana Gabriel,Cosas Del Amor,21,4,2
+1991-08-03,5,Yuri,Todo Mi Corazon,13,5,5
+1991-08-03,6,Sergio Dalma,Bailar Pegados,7,6,7
+1991-08-03,7,Victor Victor,Mesita De Noche,11,7,4
+1991-08-03,8,Lisa Lopez,Dime Quien Es,8,8,4
+1991-08-03,9,Braulio,Navegar En Ti,4,4,10
+1991-08-03,10,Luis Miguel,Amante Del Amor,6,4,15
+1991-08-03,11,Ana Gabriel,Ahora,37,11,2
+1991-08-03,12,Los Bukis,Mi Deseo,5,1,21
+1991-08-03,13,La Sombra,El Sancho,19,13,5
+1991-08-03,14,Xuxa,Chindolele,16,10,8
+1991-08-03,15,Mijares,No Hace Falta,10,5,16
+1991-08-03,16,Pandora,Con Tu Amor,12,7,18
+1991-08-03,17,Rocio Durcal,A Que Me Quedo Contigo,9,7,11
+1991-08-03,18,Ruben Blades,Camaleon,17,17,8
+1991-08-03,19,Oscar D'Leon,Detalles,24,19,5
+1991-08-03,20,Naomi,Quedate,20,20,3
+1991-08-03,21,Vicente Fernandez,Que Sepan todos,15,6,13
+1991-08-03,22,Wilkins,Sereno,14,8,11
+1991-08-03,23,Franco de Vita,Ya Lo He Vivido,18,12,7
+1991-08-03,24,Ednita Nazario,Despues De Tanto,27,24,7
+1991-08-03,25,Juan Gabriel,Amor Eterno,,25,1
+1991-08-03,26,Jose Luis Rodriguez,Se Me Hace Aguita La Boca,34,26,3
+1991-08-03,27,Alejandra Guzman,Hacer El Amor Con Otro,32,27,2
+1991-08-03,28,Gloria Trevi,Pelo Suelto,23,19,12
+1991-08-03,29,Simone,Procuro Olvidarte,25,25,4
+1991-08-03,30,El Gran Combo de Puerto Rico,La Curandera,26,23,9
+1991-08-03,31,Los Yonic's,Por Que Volvi Contigo,22,18,9
+1991-08-03,32,Los Bukis,Chiquilla Bonita,31,31,2
+1991-08-03,33,Los Tigres del Norte,Hoy No Es Mi Dia,,33,1
+1991-08-03,34,Bronco: El Gigante De America,Amigo,,34,1
+1991-08-03,35,Gipsy Kings,Baila Me,,35,1
+1991-08-03,36,Roberto Carlos,Mujer,29,13,11
+1991-08-03,37,Jose Jose,Un Hotel En Vez De Corazon,,37,1
+1991-08-03,38,Ole Ole,Soldados Del Amor,,38,1
+1991-08-03,39,Impacto De Montemorelos,Endulzame El Cafe Maria,,39,1
+1991-08-03,40,Lourdes Robles,Es El,,40,1
+1991-08-10,1,Daniela Romo,Todo Todo Todo,1,1,12
+1991-08-10,2,Banda Blanca,Fiesta,2,2,9
+1991-08-10,3,Ricardo Montaner,Dejame Llorar,3,2,11
+1991-08-10,4,Vikki Carr Y Ana Gabriel,Cosas Del Amor,4,4,3
+1991-08-10,5,Victor Victor,Mesita De Noche,7,5,5
+1991-08-10,6,Ana Gabriel,Ahora,11,6,3
+1991-08-10,7,Lisa Lopez,Dime Quien Es,8,7,5
+1991-08-10,8,Yuri,Todo Mi Corazon,5,5,6
+1991-08-10,9,Braulio,Navegar En Ti,9,4,11
+1991-08-10,10,Sergio Dalma,Bailar Pegados,6,6,8
+1991-08-10,11,Luis Miguel,Amante Del Amor,10,4,16
+1991-08-10,12,La Sombra,El Sancho,13,12,6
+1991-08-10,13,Oscar D'Leon,Detalles,19,13,6
+1991-08-10,14,Ednita Nazario,Despues De Tanto,24,14,8
+1991-08-10,15,Xuxa,Chindolele,14,10,9
+1991-08-10,16,Jose Jose,Un Hotel En Vez De Corazon,37,16,2
+1991-08-10,17,Rocio Durcal,A Que Me Quedo Contigo,17,7,12
+1991-08-10,18,Jose Luis Rodriguez,Se Me Hace Aguita La Boca,26,18,4
+1991-08-10,19,Los Bukis,Mi Deseo,12,1,22
+1991-08-10,20,Vicente Fernandez,Que Sepan todos,21,6,14
+1991-08-10,21,Naomi,Quedate,20,20,4
+1991-08-10,22,Juan Gabriel,Amor Eterno,25,22,2
+1991-08-10,23,Lucero,Electricidad,,23,1
+1991-08-10,24,Alejandra Guzman,Hacer El Amor Con Otro,27,24,3
+1991-08-10,25,Franco de Vita,Ya Lo He Vivido,23,12,8
+1991-08-10,26,Juan Luis Guerra 440,Frio Frio,,26,1
+1991-08-10,27,Pandora,Popurri,,27,1
+1991-08-10,28,Wilkins,Sereno,22,8,12
+1991-08-10,29,Gipsy Kings,Baila Me,35,29,2
+1991-08-10,30,Bronco: El Gigante De America,Amigo,34,30,2
+1991-08-10,31,Ole Ole,Soldados Del Amor,38,31,2
+1991-08-10,32,Gloria Trevi,Pelo Suelto,28,19,13
+1991-08-10,33,Ruben Blades,Camaleon,18,17,9
+1991-08-10,34,Simone,Procuro Olvidarte,29,25,5
+1991-08-10,35,Pandora,Con Tu Amor,16,7,19
+1991-08-10,36,Los Tigres del Norte,Hoy No Es Mi Dia,33,33,2
+1991-08-10,37,Lourdes Robles,Es El,40,37,2
+1991-08-10,38,Los Yonic's,Por Que Volvi Contigo,31,18,10
+1991-08-10,39,Los Bukis,Chiquilla Bonita,32,31,3
+1991-08-10,40,Mijares,No Hace Falta,15,5,17
+1991-08-17,1,Daniela Romo,Todo Todo Todo,1,1,13
+1991-08-17,2,Ricardo Montaner,Dejame Llorar,3,2,12
+1991-08-17,3,Banda Blanca,Fiesta,2,2,10
+1991-08-17,4,Vikki Carr Y Ana Gabriel,Cosas Del Amor,4,4,4
+1991-08-17,5,Ana Gabriel,Ahora,6,5,4
+1991-08-17,6,Victor Victor,Mesita De Noche,5,5,6
+1991-08-17,7,Yuri,Todo Mi Corazon,8,5,7
+1991-08-17,8,Lisa Lopez,Dime Quien Es,7,7,6
+1991-08-17,9,La Sombra,El Sancho,12,9,7
+1991-08-17,10,Sergio Dalma,Bailar Pegados,10,6,9
+1991-08-17,11,Braulio,Navegar En Ti,9,4,12
+1991-08-17,12,Franco de Vita,Ya Lo He Vivido,25,12,9
+1991-08-17,13,Ednita Nazario,Despues De Tanto,14,13,9
+1991-08-17,14,Xuxa,Chindolele,15,10,10
+1991-08-17,15,Jose Jose,Un Hotel En Vez De Corazon,16,15,3
+1991-08-17,16,Luis Miguel,Amante Del Amor,11,4,17
+1991-08-17,17,Lucero,Electricidad,23,17,2
+1991-08-17,18,Gipsy Kings,Baila Me,29,18,3
+1991-08-17,19,Oscar D'Leon,Detalles,13,13,7
+1991-08-17,20,Los Bukis,Mi Deseo,19,1,23
+1991-08-17,21,Pandora,Popurri,27,21,2
+1991-08-17,22,Jose Luis Rodriguez,Se Me Hace Aguita La Boca,18,18,5
+1991-08-17,23,Juan Luis Guerra 440,Frio Frio,26,23,2
+1991-08-17,24,Alejandra Guzman,Hacer El Amor Con Otro,24,24,4
+1991-08-17,25,Simone,Procuro Olvidarte,34,25,6
+1991-08-17,26,Juan Gabriel,Amor Eterno,22,22,3
+1991-08-17,27,Naomi,Quedate,21,20,5
+1991-08-17,28,Los Tigres del Norte,Hoy No Es Mi Dia,36,28,3
+1991-08-17,29,Angel (Latin),Yo No Siento Amor,,29,1
+1991-08-17,30,Rocio Durcal,A Que Me Quedo Contigo,17,7,13
+1991-08-17,31,Ole Ole,Soldados Del Amor,31,31,3
+1991-08-17,32,Lourdes Robles,Es El,37,32,3
+1991-08-17,33,Los Bukis,Dos,,33,1
+1991-08-17,34,Gloria Trevi,Pelo Suelto,32,19,14
+1991-08-17,35,Bronco: El Gigante De America,Amigo,30,30,3
+1991-08-17,36,Vicente Fernandez,Que Sepan todos,20,6,15
+1991-08-17,37,Pandora,Con Tu Amor,35,7,20
+1991-08-17,38,Los Bukis,Chiquilla Bonita,39,31,4
+1991-08-17,39,Paloma San Basilio,Pacto De Amor,,39,1
+1991-08-17,40,Azucar Moreno,Tu Quieres Mas,,40,1
+1991-08-24,1,Daniela Romo,Todo Todo Todo,1,1,14
+1991-08-24,2,Ricardo Montaner,Dejame Llorar,2,2,13
+1991-08-24,3,Vikki Carr Y Ana Gabriel,Cosas Del Amor,4,3,5
+1991-08-24,4,Ana Gabriel,Ahora,5,4,5
+1991-08-24,5,Banda Blanca,Fiesta,3,2,11
+1991-08-24,6,Victor Victor,Mesita De Noche,6,5,7
+1991-08-24,7,Lisa Lopez,Dime Quien Es,8,7,7
+1991-08-24,8,Yuri,Todo Mi Corazon,7,5,8
+1991-08-24,9,Gipsy Kings,Baila Me,18,9,4
+1991-08-24,10,Sergio Dalma,Bailar Pegados,10,6,10
+1991-08-24,11,La Sombra,El Sancho,9,9,8
+1991-08-24,12,Lucero,Electricidad,17,12,3
+1991-08-24,13,Azucar Moreno,Tu Quieres Mas,40,13,2
+1991-08-24,14,Franco de Vita,Ya Lo He Vivido,12,12,10
+1991-08-24,15,Pandora,Popurri,21,15,3
+1991-08-24,16,Alejandra Guzman,Hacer El Amor Con Otro,24,16,5
+1991-08-24,17,Jose Jose,Un Hotel En Vez De Corazon,15,15,4
+1991-08-24,18,Braulio,Navegar En Ti,11,4,13
+1991-08-24,19,Juan Luis Guerra 440,Frio Frio,23,19,3
+1991-08-24,20,Jose Luis Rodriguez,Se Me Hace Aguita La Boca,22,18,6
+1991-08-24,21,Luis Miguel,Amante Del Amor,16,4,18
+1991-08-24,22,Xuxa,Chindolele,14,10,11
+1991-08-24,23,Ednita Nazario,Despues De Tanto,13,13,10
+1991-08-24,24,Oscar D'Leon,Detalles,19,13,8
+1991-08-24,25,Los Bukis,Dos,33,25,2
+1991-08-24,26,Paloma San Basilio,Pacto De Amor,39,26,2
+1991-08-24,27,Angel (Latin),Yo No Siento Amor,29,27,2
+1991-08-24,28,Bronco: El Gigante De America,Amigo,35,28,4
+1991-08-24,29,Simone,Procuro Olvidarte,25,25,7
+1991-08-24,30,Los Tigres del Norte,Hoy No Es Mi Dia,28,28,4
+1991-08-24,31,Ole Ole,Soldados Del Amor,31,31,4
+1991-08-24,32,Naomi,Quedate,27,20,6
+1991-08-24,33,Lourdes Robles,Es El,32,32,4
+1991-08-24,34,Juan Gabriel,Amor Eterno,26,22,4
+1991-08-24,35,Vicente Fernandez,Que Sepan todos,36,6,16
+1991-08-24,36,Marisela,Ya Te Olvide,,36,1
+1991-08-24,37,Gloria Trevi,Pelo Suelto,34,19,15
+1991-08-24,38,Los Bukis,Chiquilla Bonita,38,31,5
+1991-08-24,39,Rocio Durcal,A Que Me Quedo Contigo,30,7,14
+1991-08-24,40,Los Bukis,Mi Deseo,20,1,24
+1991-08-31,1,Vikki Carr Y Ana Gabriel,Cosas Del Amor,3,1,6
+1991-08-31,2,Daniela Romo,Todo Todo Todo,1,1,15
+1991-08-31,3,Ana Gabriel,Ahora,4,3,6
+1991-08-31,4,Ricardo Montaner,Dejame Llorar,2,2,14
+1991-08-31,5,Victor Victor,Mesita De Noche,6,5,8
+1991-08-31,6,Banda Blanca,Fiesta,5,2,12
+1991-08-31,7,Lisa Lopez,Dime Quien Es,7,7,8
+1991-08-31,8,Sergio Dalma,Bailar Pegados,10,6,11
+1991-08-31,9,Lucero,Electricidad,12,9,4
+1991-08-31,10,Gipsy Kings,Baila Me,9,9,5
+1991-08-31,11,Pandora,Popurri,15,11,4
+1991-08-31,12,Juan Luis Guerra 440,Frio Frio,19,12,4
+1991-08-31,13,Yuri,Todo Mi Corazon,8,5,9
+1991-08-31,14,Azucar Moreno,Tu Quieres Mas,13,13,3
+1991-08-31,15,La Sombra,El Sancho,11,9,9
+1991-08-31,16,Franco de Vita,Ya Lo He Vivido,14,12,11
+1991-08-31,17,Alejandra Guzman,Hacer El Amor Con Otro,16,16,6
+1991-08-31,18,Paloma San Basilio,Pacto De Amor,26,18,3
+1991-08-31,19,Jose Jose,Un Hotel En Vez De Corazon,17,15,5
+1991-08-31,20,Xuxa,Chindolele,22,10,12
+1991-08-31,21,Los Tigres del Norte,Hoy No Es Mi Dia,30,21,5
+1991-08-31,22,Ednita Nazario,Despues De Tanto,23,13,11
+1991-08-31,23,Marisela,Ya Te Olvide,36,23,2
+1991-08-31,24,Simone,Procuro Olvidarte,29,24,8
+1991-08-31,25,Los Bukis,Chiquilla Bonita,38,25,6
+1991-08-31,26,Luis Miguel,Amante Del Amor,21,4,19
+1991-08-31,27,Oscar D'Leon,Detalles,24,13,9
+1991-08-31,28,Los Bukis,Dos,25,25,3
+1991-08-31,29,Vicente Fernandez,Que Sepan todos,35,6,17
+1991-08-31,30,Ole Ole,Soldados Del Amor,31,30,5
+1991-08-31,31,Juan Gabriel,Amor Eterno,34,22,5
+1991-08-31,32,Lourdes Robles,Es El,33,32,5
+1991-08-31,33,Braulio,Navegar En Ti,18,4,14
+1991-08-31,34,Gloria Trevi,Pelo Suelto,37,19,16
+1991-08-31,35,Angel (Latin),Yo No Siento Amor,27,27,3
+1991-08-31,36,El Gran Combo de Puerto Rico,Aguas Pasadas,,36,1
+1991-08-31,37,Jose Luis Rodriguez,Se Me Hace Aguita La Boca,20,18,7
+1991-08-31,38,Rocio Durcal,A Que Me Quedo Contigo,39,7,15
+1991-08-31,39,Naomi,Quedate,32,20,7
+1991-08-31,40,Bronco: El Gigante De America,Amigo,28,28,5
+1991-09-07,1,Vikki Carr Y Ana Gabriel,Cosas Del Amor,1,1,7
+1991-09-07,2,Ana Gabriel,Ahora,3,2,7
+1991-09-07,3,Daniela Romo,Todo Todo Todo,2,1,16
+1991-09-07,4,Ricardo Montaner,Dejame Llorar,4,2,15
+1991-09-07,5,Victor Victor,Mesita De Noche,5,5,9
+1991-09-07,6,Banda Blanca,Fiesta,6,2,13
+1991-09-07,7,Lisa Lopez,Dime Quien Es,7,7,9
+1991-09-07,8,Pandora,Popurri,11,8,5
+1991-09-07,9,Lucero,Electricidad,9,9,5
+1991-09-07,10,Gipsy Kings,Baila Me,10,9,6
+1991-09-07,11,Sergio Dalma,Bailar Pegados,8,6,12
+1991-09-07,12,Juan Luis Guerra 440,Frio Frio,12,12,5
+1991-09-07,13,Azucar Moreno,Tu Quieres Mas,14,13,4
+1991-09-07,14,Yuri,Todo Mi Corazon,13,5,10
+1991-09-07,15,La Sombra,El Sancho,15,9,10
+1991-09-07,16,Alejandra Guzman,Hacer El Amor Con Otro,17,16,7
+1991-09-07,17,Franco de Vita,Ya Lo He Vivido,16,12,12
+1991-09-07,18,Los Bukis,Chiquilla Bonita,25,18,7
+1991-09-07,19,Simone,Procuro Olvidarte,24,19,9
+1991-09-07,20,Los Tigres del Norte,Hoy No Es Mi Dia,21,20,6
+1991-09-07,21,Los Bukis,Dos,28,21,4
+1991-09-07,22,Paloma San Basilio,Pacto De Amor,18,18,4
+1991-09-07,23,Jose Jose,Un Hotel En Vez De Corazon,19,15,6
+1991-09-07,24,Marisela,Ya Te Olvide,23,23,3
+1991-09-07,25,Tito Nieves,De Mi Enamorate,,25,1
+1991-09-07,26,Oscar D'Leon,Detalles,27,13,10
+1991-09-07,27,Xuxa,Chindolele,20,10,13
+1991-09-07,28,Grupo Yndio,Melodia Desencadenada,,28,1
+1991-09-07,29,Ednita Nazario,Despues De Tanto,22,13,12
+1991-09-07,30,Sergio Vargas,Muneco De Trapo,,30,1
+1991-09-07,31,Gloria Trevi,Pelo Suelto,34,19,17
+1991-09-07,32,Juan Gabriel,Amor Eterno,31,22,6
+1991-09-07,33,Mijares,Que Nada Nos Separe,,33,1
+1991-09-07,34,Lissette,Mal Sueno,,34,1
+1991-09-07,35,Beatriz Adriana,No Volvere Jamas Contigo,,35,1
+1991-09-07,36,Lourdes Robles,Es El,32,32,6
+1991-09-07,37,El Gran Combo de Puerto Rico,Aguas Pasadas,36,36,2
+1991-09-07,38,Naomi,Quedate,39,20,8
+1991-09-07,39,Ole Ole,Soldados Del Amor,30,30,6
+1991-09-07,40,Vicente Fernandez,Que Sepan todos,29,6,18
+1991-09-14,1,Vikki Carr Y Ana Gabriel,Cosas Del Amor,1,1,8
+1991-09-14,2,Ana Gabriel,Ahora,2,2,8
+1991-09-14,3,Daniela Romo,Todo Todo Todo,3,1,17
+1991-09-14,4,Ricardo Montaner,Dejame Llorar,4,2,16
+1991-09-14,5,Victor Victor,Mesita De Noche,5,5,10
+1991-09-14,6,Pandora,Popurri,8,6,6
+1991-09-14,7,Lucero,Electricidad,9,7,6
+1991-09-14,8,Lisa Lopez,Dime Quien Es,7,7,10
+1991-09-14,9,Banda Blanca,Fiesta,6,2,14
+1991-09-14,10,Gipsy Kings,Baila Me,10,9,7
+1991-09-14,11,Sergio Dalma,Bailar Pegados,11,6,13
+1991-09-14,12,Azucar Moreno,Tu Quieres Mas,13,12,5
+1991-09-14,13,Juan Luis Guerra 440,Frio Frio,12,12,6
+1991-09-14,14,Yuri,Todo Mi Corazon,14,5,11
+1991-09-14,15,Marisela,Ya Te Olvide,24,15,4
+1991-09-14,16,Mijares,Que Nada Nos Separe,33,16,2
+1991-09-14,17,Alejandra Guzman,Hacer El Amor Con Otro,16,16,8
+1991-09-14,18,Los Bukis,Chiquilla Bonita,18,18,8
+1991-09-14,19,Tito Nieves,De Mi Enamorate,25,19,2
+1991-09-14,20,Los Tigres del Norte,Hoy No Es Mi Dia,20,20,7
+1991-09-14,21,La Sombra,El Sancho,15,9,11
+1991-09-14,22,Rudy La Scala,Porque Sera,,22,1
+1991-09-14,23,Grupo Yndio,Melodia Desencadenada,28,23,2
+1991-09-14,24,Los Bukis,Dos,21,21,5
+1991-09-14,25,Beatriz Adriana,No Volvere Jamas Contigo,35,25,2
+1991-09-14,26,Jose Jose,Un Hotel En Vez De Corazon,23,15,7
+1991-09-14,27,Simone,Procuro Olvidarte,19,19,10
+1991-09-14,28,Lissette,Mal Sueno,34,28,2
+1991-09-14,29,Paloma San Basilio,Pacto De Amor,22,18,5
+1991-09-14,30,Xuxa,Chindolele,27,10,14
+1991-09-14,31,Oscar D'Leon,Detalles,26,13,11
+1991-09-14,32,Los Caminantes,Dos Cartas Y Una Flor,,32,1
+1991-09-14,33,Ole Ole,Soldados Del Amor,39,30,7
+1991-09-14,34,El Gran Combo de Puerto Rico,Aguas Pasadas,37,34,3
+1991-09-14,35,Jerry Rivera,Mas Que Tu,,35,1
+1991-09-14,36,Ednita Nazario,Despues De Tanto,29,13,13
+1991-09-14,37,Ricardo Montaner,Sera,,37,1
+1991-09-14,38,Jose Javier Solis,Solos,,38,1
+1991-09-14,39,Sergio Vargas,Muneco De Trapo,30,30,2
+1991-09-14,40,Franco de Vita,Ya Lo He Vivido,17,12,13
+1991-09-21,1,Vikki Carr Y Ana Gabriel,Cosas Del Amor,1,1,9
+1991-09-21,2,Ana Gabriel,Ahora,2,2,9
+1991-09-21,3,Daniela Romo,Todo Todo Todo,3,1,18
+1991-09-21,4,Ricardo Montaner,Dejame Llorar,4,2,17
+1991-09-21,5,Lucero,Electricidad,7,5,7
+1991-09-21,6,Victor Victor,Mesita De Noche,5,5,11
+1991-09-21,7,Pandora,Popurri,6,6,7
+1991-09-21,8,Lisa Lopez,Dime Quien Es,8,7,11
+1991-09-21,9,Gipsy Kings,Baila Me,10,9,8
+1991-09-21,10,Juan Luis Guerra 440,Frio Frio,13,10,7
+1991-09-21,11,Mijares,Que Nada Nos Separe,16,11,3
+1991-09-21,12,Azucar Moreno,Tu Quieres Mas,12,12,6
+1991-09-21,13,Yuri,Todo Mi Corazon,14,5,12
+1991-09-21,14,Banda Blanca,Fiesta,9,2,15
+1991-09-21,15,Rudy La Scala,Porque Sera,22,15,2
+1991-09-21,16,Marisela,Ya Te Olvide,15,15,5
+1991-09-21,17,Grupo Yndio,Melodia Desencadenada,23,17,3
+1991-09-21,18,Sergio Dalma,Bailar Pegados,11,6,14
+1991-09-21,19,Tito Nieves,De Mi Enamorate,19,19,3
+1991-09-21,20,Alejandra Guzman,Hacer El Amor Con Otro,17,16,9
+1991-09-21,21,Beatriz Adriana,No Volvere Jamas Contigo,25,21,3
+1991-09-21,22,Lissette,Mal Sueno,28,22,3
+1991-09-21,23,Los Bukis,Chiquilla Bonita,18,18,9
+1991-09-21,24,Los Tigres del Norte,Hoy No Es Mi Dia,20,20,8
+1991-09-21,25,Jose Jose,Un Hotel En Vez De Corazon,26,15,8
+1991-09-21,26,Los Bukis,Dos,24,21,6
+1991-09-21,27,Ricardo Montaner,Sera,37,27,2
+1991-09-21,28,Los Caminantes,Dos Cartas Y Una Flor,32,28,2
+1991-09-21,29,Oscar D'Leon,Detalles,31,13,12
+1991-09-21,30,El Gran Combo de Puerto Rico,Aguas Pasadas,34,30,4
+1991-09-21,31,La Sombra,El Sancho,21,9,12
+1991-09-21,32,Simone,Procuro Olvidarte,27,19,11
+1991-09-21,33,Vicente Fernandez,El Charro Mexicano,,33,1
+1991-09-21,34,Pimpinela,Esa Chica Y Yo,,34,1
+1991-09-21,35,Ilan Chester,Sabe A Calidad,,35,1
+1991-09-21,36,Jose Javier Solis,Solos,38,36,2
+1991-09-21,37,Ednita Nazario,Despues De Tanto,36,13,14
+1991-09-21,38,Sergio Vargas,Muneco De Trapo,39,30,3
+1991-09-21,39,Jerry Rivera,Mas Que Tu,35,35,2
+1991-09-21,40,Ole Ole,Soldados Del Amor,33,30,8
+1991-09-28,1,Vikki Carr Y Ana Gabriel,Cosas Del Amor,1,1,10
+1991-09-28,2,Ana Gabriel,Ahora,2,2,10
+1991-09-28,3,Ricardo Montaner,Dejame Llorar,4,2,18
+1991-09-28,4,Daniela Romo,Todo Todo Todo,3,1,19
+1991-09-28,5,Pandora,Popurri,7,5,8
+1991-09-28,6,Lucero,Electricidad,5,5,8
+1991-09-28,7,Victor Victor,Mesita De Noche,6,5,12
+1991-09-28,8,Mijares,Que Nada Nos Separe,11,8,4
+1991-09-28,9,Juan Luis Guerra 440,Frio Frio,10,9,8
+1991-09-28,10,Lisa Lopez,Dime Quien Es,8,7,12
+1991-09-28,11,Grupo Yndio,Melodia Desencadenada,17,11,4
+1991-09-28,12,Azucar Moreno,Tu Quieres Mas,12,12,7
+1991-09-28,13,Rudy La Scala,Porque Sera,15,13,3
+1991-09-28,14,Marisela,Ya Te Olvide,16,14,6
+1991-09-28,15,Beatriz Adriana,No Volvere Jamas Contigo,21,15,4
+1991-09-28,16,Alejandra Guzman,Hacer El Amor Con Otro,20,16,10
+1991-09-28,17,Gipsy Kings,Baila Me,9,9,9
+1991-09-28,18,Los Bukis,Chiquilla Bonita,23,18,10
+1991-09-28,19,Tito Nieves,De Mi Enamorate,19,19,4
+1991-09-28,20,Lissette,Mal Sueno,22,20,4
+1991-09-28,21,Yuri,Todo Mi Corazon,13,5,13
+1991-09-28,22,Los Tigres del Norte,Hoy No Es Mi Dia,24,20,9
+1991-09-28,23,Ilan Chester,Sabe A Calidad,35,23,2
+1991-09-28,24,Sergio Dalma,Bailar Pegados,18,6,15
+1991-09-28,25,Banda Blanca,Fiesta,14,2,16
+1991-09-28,26,Angeles Ochoa,Como Que No,,26,1
+1991-09-28,27,Ricardo Montaner,Sera,27,27,3
+1991-09-28,28,Jose Jose,Un Hotel En Vez De Corazon,25,15,9
+1991-09-28,29,Los Caminantes,Dos Cartas Y Una Flor,28,28,3
+1991-09-28,30,Los Bukis,Dos,26,21,7
+1991-09-28,31,Vicente Fernandez,El Charro Mexicano,33,31,2
+1991-09-28,32,Menudo,Besame En La Playa,,32,1
+1991-09-28,33,Nino Segarra,Eres La Unica,,33,1
+1991-09-28,34,Oscar D'Leon,Detalles,29,13,13
+1991-09-28,35,Eddie Santiago,Me Faltas Tu,,35,1
+1991-09-28,36,Gloria Trevi,Tu Angel De La Guarda,,36,1
+1991-09-28,37,Simone,Procuro Olvidarte,32,19,12
+1991-09-28,38,Pimpinela,Esa Chica Y Yo,34,34,2
+1991-09-28,39,Jose Javier Solis,Solos,36,36,3
+1991-09-28,40,El Gran Combo de Puerto Rico,Aguas Pasadas,30,30,5
+1991-10-05,1,Vikki Carr Y Ana Gabriel,Cosas Del Amor,1,1,11
+1991-10-05,2,Ana Gabriel,Ahora,2,2,11
+1991-10-05,3,Pandora,Popurri,5,3,9
+1991-10-05,4,Daniela Romo,Todo Todo Todo,4,1,20
+1991-10-05,5,Lucero,Electricidad,6,5,9
+1991-10-05,6,Mijares,Que Nada Nos Separe,8,6,5
+1991-10-05,7,Ricardo Montaner,Dejame Llorar,3,2,19
+1991-10-05,8,Juan Luis Guerra 440,Frio Frio,9,8,9
+1991-10-05,9,Grupo Yndio,Melodia Desencadenada,11,9,5
+1991-10-05,10,Victor Victor,Mesita De Noche,7,5,13
+1991-10-05,11,Rudy La Scala,Porque Sera,13,11,4
+1991-10-05,12,Azucar Moreno,Tu Quieres Mas,12,12,8
+1991-10-05,13,Lisa Lopez,Dime Quien Es,10,7,13
+1991-10-05,14,Marisela,Ya Te Olvide,14,14,7
+1991-10-05,15,Angeles Ochoa,Como Que No,26,15,2
+1991-10-05,16,Alejandra Guzman,Hacer El Amor Con Otro,16,16,11
+1991-10-05,17,Los Bukis,Chiquilla Bonita,18,17,11
+1991-10-05,18,Ricardo Montaner,Sera,27,18,4
+1991-10-05,19,Beatriz Adriana,No Volvere Jamas Contigo,15,15,5
+1991-10-05,20,Tito Nieves,De Mi Enamorate,19,19,5
+1991-10-05,21,Lissette,Mal Sueno,20,20,5
+1991-10-05,22,Ilan Chester,Sabe A Calidad,23,22,3
+1991-10-05,23,Los Tigres del Norte,Hoy No Es Mi Dia,22,20,10
+1991-10-05,24,Gipsy Kings,Baila Me,17,9,10
+1991-10-05,25,Yuri,Todo Mi Corazon,21,5,14
+1991-10-05,26,Menudo,Besame En La Playa,32,26,2
+1991-10-05,27,Gloria Trevi,Tu Angel De La Guarda,36,27,2
+1991-10-05,28,Los Caminantes,Dos Cartas Y Una Flor,29,28,4
+1991-10-05,29,Vicente Fernandez,El Charro Mexicano,31,29,3
+1991-10-05,30,Eddie Santiago,Me Faltas Tu,35,30,2
+1991-10-05,31,Sergio Dalma,Bailar Pegados,24,6,16
+1991-10-05,32,Los Bukis,Dos,30,21,8
+1991-10-05,33,Nino Segarra,Eres La Unica,33,33,2
+1991-10-05,34,Ednita Nazario,Eres Libre,,34,1
+1991-10-05,35,Jose Jose,Un Hotel En Vez De Corazon,28,15,10
+1991-10-05,36,Susy Gonzales,Adios,,36,1
+1991-10-05,37,Alex D'Castro,Perdido,,37,1
+1991-10-05,38,Simone,Procuro Olvidarte,37,19,13
+1991-10-05,39,Pimpinela,Esa Chica Y Yo,38,34,3
+1991-10-05,40,Banda Blanca,Fiesta,25,2,17
+1991-10-12,1,Vikki Carr Y Ana Gabriel,Cosas Del Amor,1,1,12
+1991-10-12,2,Ana Gabriel,Ahora,2,2,12
+1991-10-12,3,Pandora,Popurri,3,3,10
+1991-10-12,4,Rudy La Scala,Porque Sera,11,4,5
+1991-10-12,5,Lucero,Electricidad,5,5,10
+1991-10-12,6,Juan Luis Guerra 440,Frio Frio,8,6,10
+1991-10-12,7,Mijares,Que Nada Nos Separe,6,6,6
+1991-10-12,8,Ricardo Montaner,Dejame Llorar,7,2,20
+1991-10-12,9,Grupo Yndio,Melodia Desencadenada,9,9,6
+1991-10-12,10,Ricardo Montaner,Sera,18,10,5
+1991-10-12,11,Daniela Romo,Todo Todo Todo,4,1,21
+1991-10-12,12,Victor Victor,Mesita De Noche,10,5,14
+1991-10-12,13,Lissette,Mal Sueno,21,13,6
+1991-10-12,14,Marisela,Ya Te Olvide,14,14,8
+1991-10-12,15,Angeles Ochoa,Como Que No,15,15,3
+1991-10-12,16,Eddie Santiago,Me Faltas Tu,30,16,3
+1991-10-12,17,Alejandra Guzman,Hacer El Amor Con Otro,16,16,12
+1991-10-12,18,Azucar Moreno,Tu Quieres Mas,12,12,9
+1991-10-12,19,Los Caminantes,Dos Cartas Y Una Flor,28,19,5
+1991-10-12,20,Los Bukis,Chiquilla Bonita,17,17,12
+1991-10-12,21,Lisa Lopez,Dime Quien Es,13,7,14
+1991-10-12,22,Gloria Trevi,Tu Angel De La Guarda,27,22,3
+1991-10-12,23,Ilan Chester,Sabe A Calidad,22,22,4
+1991-10-12,24,Victor Victor,Ando Buscando Un Amor,,24,1
+1991-10-12,25,Gipsy Kings,Baila Me,24,9,11
+1991-10-12,26,Beatriz Adriana,No Volvere Jamas Contigo,19,15,6
+1991-10-12,27,Tito Nieves,De Mi Enamorate,20,19,6
+1991-10-12,28,Menudo,Besame En La Playa,26,26,3
+1991-10-12,29,Nino Segarra,Eres La Unica,33,29,3
+1991-10-12,30,Vicente Fernandez,El Charro Mexicano,29,29,4
+1991-10-12,31,Los Bukis,Dos,32,21,9
+1991-10-12,32,Sergio Dalma,Bailar Pegados,31,6,17
+1991-10-12,33,Yuri,Todo Mi Corazon,25,5,15
+1991-10-12,34,Ednita Nazario,Eres Libre,34,34,2
+1991-10-12,35,Sergio Dalma,Como Me Gusta,,35,1
+1991-10-12,36,Chayanne,Daria Cualquier Cosa,,36,1
+1991-10-12,37,Susy Gonzales,Adios,36,36,2
+1991-10-12,38,Alex D'Castro,Perdido,37,37,2
+1991-10-12,39,Pimpinela,Esa Chica Y Yo,39,34,4
+1991-10-12,40,Los Tigres del Norte,Hoy No Es Mi Dia,23,20,11
+1991-10-19,1,Vikki Carr Y Ana Gabriel,Cosas Del Amor,1,1,13
+1991-10-19,2,Rudy La Scala,Porque Sera,4,2,6
+1991-10-19,3,Ana Gabriel,Ahora,2,2,13
+1991-10-19,4,Pandora,Popurri,3,3,11
+1991-10-19,5,Lucero,Electricidad,5,5,11
+1991-10-19,6,Mijares,Que Nada Nos Separe,7,6,7
+1991-10-19,7,Juan Luis Guerra 440,Frio Frio,6,6,11
+1991-10-19,8,Grupo Yndio,Melodia Desencadenada,9,8,7
+1991-10-19,9,Ricardo Montaner,Sera,10,9,6
+1991-10-19,10,Eddie Santiago,Me Faltas Tu,16,10,4
+1991-10-19,11,Ricardo Montaner,Dejame Llorar,8,2,21
+1991-10-19,12,Lissette,Mal Sueno,13,12,7
+1991-10-19,13,Victor Victor,Mesita De Noche,12,5,15
+1991-10-19,14,Victor Victor,Ando Buscando Un Amor,24,14,2
+1991-10-19,15,Los Caminantes,Dos Cartas Y Una Flor,19,15,6
+1991-10-19,16,Daniela Romo,Todo Todo Todo,11,1,22
+1991-10-19,17,Angeles Ochoa,Como Que No,15,15,4
+1991-10-19,18,Los Bukis,Chiquilla Bonita,20,17,13
+1991-10-19,19,Azucar Moreno,Mambo,,19,1
+1991-10-19,20,Gloria Trevi,Tu Angel De La Guarda,22,20,4
+1991-10-19,21,Alejandra Guzman,Hacer El Amor Con Otro,17,16,13
+1991-10-19,22,Marisela,Ya Te Olvide,14,14,9
+1991-10-19,23,Ilan Chester,Sabe A Calidad,23,22,5
+1991-10-19,24,Beatriz Adriana,No Volvere Jamas Contigo,26,15,7
+1991-10-19,25,Sergio Dalma,Como Me Gusta,35,25,2
+1991-10-19,26,Vicente Fernandez,El Charro Mexicano,30,26,5
+1991-10-19,27,Los Freddy's,Pero Acuerdate De Mi,,27,1
+1991-10-19,28,Azucar Moreno,Tu Quieres Mas,18,12,10
+1991-10-19,29,La Mafia,Como Me Duele Amor,,29,1
+1991-10-19,30,Lisa Lopez,Pecado De Amor,,30,1
+1991-10-19,31,Gipsy Kings,Baila Me,25,9,12
+1991-10-19,32,Nino Segarra,Eres La Unica,29,29,4
+1991-10-19,33,Tito Nieves,De Mi Enamorate,27,19,7
+1991-10-19,34,Ednita Nazario,Eres Libre,34,34,3
+1991-10-19,35,Camilo Sesto,"Amor Mio, Que Me Has Hecho?",,35,1
+1991-10-19,36,Chayanne,Daria Cualquier Cosa,36,36,2
+1991-10-19,37,Los Bukis,Dos,31,21,10
+1991-10-19,38,Sergio Dalma,Bailar Pegados,32,6,18
+1991-10-19,39,Pimpinela,Esa Chica Y Yo,39,34,5
+1991-10-19,40,Alex D'Castro,Perdido,38,37,3
+1991-10-26,1,Vikki Carr Y Ana Gabriel,Cosas Del Amor,1,1,14
+1991-10-26,2,Rudy La Scala,Porque Sera,2,2,7
+1991-10-26,3,Pandora,Popurri,4,3,12
+1991-10-26,4,Ricardo Montaner,Sera,9,4,7
+1991-10-26,5,Ana Gabriel,Ahora,3,2,14
+1991-10-26,6,Mijares,Que Nada Nos Separe,6,6,8
+1991-10-26,7,Grupo Yndio,Melodia Desencadenada,8,7,8
+1991-10-26,8,Lucero,Electricidad,5,5,12
+1991-10-26,9,Juan Luis Guerra 440,Frio Frio,7,6,12
+1991-10-26,10,Eddie Santiago,Me Faltas Tu,10,10,5
+1991-10-26,11,Lissette,Mal Sueno,12,11,8
+1991-10-26,12,Azucar Moreno,Mambo,19,12,2
+1991-10-26,13,Camilo Sesto,"Amor Mio, Que Me Has Hecho?",35,13,2
+1991-10-26,14,Victor Victor,Ando Buscando Un Amor,14,14,3
+1991-10-26,15,Los Caminantes,Dos Cartas Y Una Flor,15,15,7
+1991-10-26,16,Los Bukis,Chiquilla Bonita,18,16,14
+1991-10-26,17,Lisa Lopez,Pecado De Amor,30,17,2
+1991-10-26,18,Marisela,Ya Te Olvide,22,14,10
+1991-10-26,19,Angeles Ochoa,Como Que No,17,15,5
+1991-10-26,20,Sergio Dalma,Como Me Gusta,25,20,3
+1991-10-26,21,Victor Victor,Mesita De Noche,13,5,16
+1991-10-26,22,Gloria Trevi,Tu Angel De La Guarda,20,20,5
+1991-10-26,23,Ilan Chester,Sabe A Calidad,23,22,6
+1991-10-26,24,Beatriz Adriana,No Volvere Jamas Contigo,24,15,8
+1991-10-26,25,La Mafia,Como Me Duele Amor,29,25,2
+1991-10-26,26,Daniela Romo,Nadie Entiende,,26,1
+1991-10-26,27,Ricardo Montaner,Dejame Llorar,11,2,22
+1991-10-26,28,Alejandra Guzman,Hacer El Amor Con Otro,21,16,14
+1991-10-26,29,Chayanne,Daria Cualquier Cosa,36,29,3
+1991-10-26,30,Nino Segarra,Eres La Unica,32,29,5
+1991-10-26,31,Ednita Nazario,Eres Libre,34,31,4
+1991-10-26,32,Lucero,Ya No,,32,1
+1991-10-26,33,Vicente Fernandez,El Charro Mexicano,26,26,6
+1991-10-26,34,Daniela Romo,Todo Todo Todo,16,1,23
+1991-10-26,35,Gipsy Kings,Baila Me,31,9,13
+1991-10-26,36,Tony Vega,Esa Mujer,,36,1
+1991-10-26,37,Los Freddy's,Pero Acuerdate De Mi,27,27,2
+1991-10-26,38,Alex D'Castro,Perdido,40,37,4
+1991-10-26,39,Los Bukis,Dos,37,21,11
+1991-10-26,40,Tito Nieves,De Mi Enamorate,33,19,8
+1991-11-02,1,Vikki Carr Y Ana Gabriel,Cosas Del Amor,1,1,15
+1991-11-02,2,Rudy La Scala,Porque Sera,2,2,8
+1991-11-02,3,Ricardo Montaner,Sera,4,3,8
+1991-11-02,4,Pandora,Popurri,3,3,13
+1991-11-02,5,Mijares,Que Nada Nos Separe,6,5,9
+1991-11-02,6,Ana Gabriel,Ahora,5,2,15
+1991-11-02,7,Grupo Yndio,Melodia Desencadenada,7,7,9
+1991-11-02,8,Camilo Sesto,"Amor Mio, Que Me Has Hecho?",13,8,3
+1991-11-02,9,Juan Luis Guerra 440,Frio Frio,9,6,13
+1991-11-02,10,Azucar Moreno,Mambo,12,10,3
+1991-11-02,11,Eddie Santiago,Me Faltas Tu,10,10,6
+1991-11-02,12,Lucero,Electricidad,8,5,13
+1991-11-02,13,Lissette,Mal Sueno,11,11,9
+1991-11-02,14,Los Caminantes,Dos Cartas Y Una Flor,15,14,8
+1991-11-02,15,Victor Victor,Ando Buscando Un Amor,14,14,4
+1991-11-02,16,Lisa Lopez,Pecado De Amor,17,16,3
+1991-11-02,17,Angeles Ochoa,Como Que No,19,15,6
+1991-11-02,18,Daniela Romo,Nadie Entiende,26,18,2
+1991-11-02,19,Sergio Dalma,Como Me Gusta,20,19,4
+1991-11-02,20,Los Bukis,Chiquilla Bonita,16,16,15
+1991-11-02,21,Chayanne,Daria Cualquier Cosa,29,21,4
+1991-11-02,22,La Mafia,Como Me Duele Amor,25,22,3
+1991-11-02,23,Lucero,Ya No,32,23,2
+1991-11-02,24,Gloria Trevi,Tu Angel De La Guarda,22,20,6
+1991-11-02,25,Marisela,Ya Te Olvide,18,14,11
+1991-11-02,26,Bronco: El Gigante De America,Dejame Amarte Otra Vez,,26,1
+1991-11-02,27,Ednita Nazario,Eres Libre,31,27,5
+1991-11-02,28,Alejandra Guzman,Hacer El Amor Con Otro,28,16,15
+1991-11-02,29,Magneto,Vuela Vuela,,29,1
+1991-11-02,30,Beatriz Adriana,No Volvere Jamas Contigo,24,15,9
+1991-11-02,31,Ilan Chester,Sabe A Calidad,23,22,7
+1991-11-02,32,Los Freddy's,Pero Acuerdate De Mi,37,27,3
+1991-11-02,33,Victor Victor,Mesita De Noche,21,5,17
+1991-11-02,34,Nino Segarra,Eres La Unica,30,29,6
+1991-11-02,35,Yolandita Monge,La Sombra De Lo Que Fui,,35,1
+1991-11-02,36,Ricardo Montaner,Dejame Llorar,27,2,23
+1991-11-02,37,Alex D'Castro,Perdido,38,37,5
+1991-11-02,38,Tito Nieves,De Mi Enamorate,40,19,9
+1991-11-02,39,Tony Vega,Esa Mujer,36,36,2
+1991-11-02,40,Vicente Fernandez,El Charro Mexicano,33,26,7
+1991-11-09,1,Rudy La Scala,Porque Sera,2,1,9
+1991-11-09,2,Vikki Carr Y Ana Gabriel,Cosas Del Amor,1,1,16
+1991-11-09,3,Camilo Sesto,"Amor Mio, Que Me Has Hecho?",8,3,4
+1991-11-09,4,Ricardo Montaner,Sera,3,3,9
+1991-11-09,5,Grupo Yndio,Melodia Desencadenada,7,5,10
+1991-11-09,6,Pandora,Popurri,4,3,14
+1991-11-09,7,Mijares,Que Nada Nos Separe,5,5,10
+1991-11-09,8,Juan Luis Guerra 440,Frio Frio,9,6,14
+1991-11-09,9,Eddie Santiago,Me Faltas Tu,11,9,7
+1991-11-09,10,Ana Gabriel,Ahora,6,2,16
+1991-11-09,11,Los Caminantes,Dos Cartas Y Una Flor,14,11,9
+1991-11-09,12,Azucar Moreno,Mambo,10,10,4
+1991-11-09,13,Victor Victor,Ando Buscando Un Amor,15,13,5
+1991-11-09,14,Angeles Ochoa,Como Que No,17,14,7
+1991-11-09,15,Los Bukis,Chiquilla Bonita,20,15,16
+1991-11-09,16,Lisa Lopez,Pecado De Amor,16,16,4
+1991-11-09,17,Lissette,Mal Sueno,13,11,10
+1991-11-09,18,Lucero,Electricidad,12,5,14
+1991-11-09,19,Bronco: El Gigante De America,Dejame Amarte Otra Vez,26,19,2
+1991-11-09,20,Lucero,Ya No,23,20,3
+1991-11-09,21,Daniela Romo,Nadie Entiende,18,18,3
+1991-11-09,22,La Mafia,Como Me Duele Amor,22,22,4
+1991-11-09,23,Ednita Nazario,Eres Libre,27,23,6
+1991-11-09,24,Sergio Dalma,Como Me Gusta,19,19,5
+1991-11-09,25,Gloria Trevi,Tu Angel De La Guarda,24,20,7
+1991-11-09,26,Marisela,Ya Te Olvide,25,14,12
+1991-11-09,27,Chayanne,Daria Cualquier Cosa,21,21,5
+1991-11-09,28,Magneto,Vuela Vuela,29,28,2
+1991-11-09,29,Los Freddy's,Pero Acuerdate De Mi,32,27,4
+1991-11-09,30,Proyecto M,Que Hare Sin Ti,,30,1
+1991-11-09,31,Beatriz Adriana,No Volvere Jamas Contigo,30,15,10
+1991-11-09,32,Los Yonic's,Ella No Es Culpable,,32,1
+1991-11-09,33,Ilan Chester,Sabe A Calidad,31,22,8
+1991-11-09,34,Los Mier,Cosa Triste,,34,1
+1991-11-09,35,Alejandra Guzman,Hacer El Amor Con Otro,28,16,16
+1991-11-09,36,Nino Segarra,Eres La Unica,34,29,7
+1991-11-09,37,Ana Gabriel,Mi Gusto Es,,37,1
+1991-11-09,38,Yolandita Monge,La Sombra De Lo Que Fui,35,35,2
+1991-11-09,39,Alex D'Castro,Perdido,37,37,6
+1991-11-09,40,Tito Nieves,De Mi Enamorate,38,19,10
+1991-11-16,1,Rudy La Scala,Porque Sera,1,1,10
+1991-11-16,2,Camilo Sesto,"Amor Mio, Que Me Has Hecho?",3,2,5
+1991-11-16,3,Ricardo Montaner,Sera,4,3,10
+1991-11-16,4,Vikki Carr Y Ana Gabriel,Cosas Del Amor,2,1,17
+1991-11-16,5,Grupo Yndio,Melodia Desencadenada,5,5,11
+1991-11-16,6,Azucar Moreno,Mambo,12,6,5
+1991-11-16,7,Mijares,Que Nada Nos Separe,7,5,11
+1991-11-16,8,Juan Luis Guerra 440,Frio Frio,8,6,15
+1991-11-16,9,Victor Victor,Ando Buscando Un Amor,13,9,6
+1991-11-16,10,Pandora,Popurri,6,3,15
+1991-11-16,11,Eddie Santiago,Me Faltas Tu,9,9,8
+1991-11-16,12,Lucero,Ya No,20,12,4
+1991-11-16,13,Los Caminantes,Dos Cartas Y Una Flor,11,11,10
+1991-11-16,14,Angeles Ochoa,Como Que No,14,14,8
+1991-11-16,15,Ana Gabriel,Ahora,10,2,17
+1991-11-16,16,Bronco: El Gigante De America,Dejame Amarte Otra Vez,19,16,3
+1991-11-16,17,Lisa Lopez,Pecado De Amor,16,16,5
+1991-11-16,18,Lissette,Mal Sueno,17,11,11
+1991-11-16,19,Daniela Romo,Nadie Entiende,21,18,4
+1991-11-16,20,Ednita Nazario,Eres Libre,23,20,7
+1991-11-16,21,Sergio Dalma,Como Me Gusta,24,19,6
+1991-11-16,22,La Mafia,Como Me Duele Amor,22,22,5
+1991-11-16,23,Lucero,Electricidad,18,5,15
+1991-11-16,24,Chayanne,Daria Cualquier Cosa,27,21,6
+1991-11-16,25,Gloria Trevi,Tu Angel De La Guarda,25,20,8
+1991-11-16,26,Los Bukis,Chiquilla Bonita,15,15,17
+1991-11-16,27,Magneto,Vuela Vuela,28,27,3
+1991-11-16,28,Los Mier,Cosa Triste,34,28,2
+1991-11-16,29,Los Yonic's,Ella No Es Culpable,32,29,2
+1991-11-16,30,Los Freddy's,Pero Acuerdate De Mi,29,27,5
+1991-11-16,31,Marisela,Ya Te Olvide,26,14,13
+1991-11-16,32,Ana Gabriel,Mi Gusto Es,37,32,2
+1991-11-16,33,Proyecto M,Que Hare Sin Ti,30,30,2
+1991-11-16,34,Ilan Chester,Sabe A Calidad,33,22,9
+1991-11-16,35,Yolandita Monge,La Sombra De Lo Que Fui,38,35,3
+1991-11-16,36,Jose Luis Perales,America,,36,1
+1991-11-16,37,Lourdes Robles,Sola,,37,1
+1991-11-16,38,Xuxa,Luna De Cristal,,38,1
+1991-11-16,39,Nino Segarra,Eres La Unica,36,29,8
+1991-11-16,40,Beatriz Adriana,No Volvere Jamas Contigo,31,15,11
+1991-11-23,1,Camilo Sesto,"Amor Mio, Que Me Has Hecho?",2,1,6
+1991-11-23,2,Rudy La Scala,Porque Sera,1,1,11
+1991-11-23,3,Ricardo Montaner,Sera,3,3,11
+1991-11-23,4,Vikki Carr Y Ana Gabriel,Cosas Del Amor,4,1,18
+1991-11-23,5,Juan Luis Guerra 440,Frio Frio,8,5,16
+1991-11-23,6,Grupo Yndio,Melodia Desencadenada,5,5,12
+1991-11-23,7,Lucero,Ya No,12,7,5
+1991-11-23,8,Mijares,Que Nada Nos Separe,7,5,12
+1991-11-23,9,Azucar Moreno,Mambo,6,6,6
+1991-11-23,10,Sergio Dalma,Como Me Gusta,21,10,7
+1991-11-23,11,Ednita Nazario,Eres Libre,20,11,8
+1991-11-23,12,Daniela Romo,Nadie Entiende,19,12,5
+1991-11-23,13,Bronco: El Gigante De America,Dejame Amarte Otra Vez,16,13,4
+1991-11-23,14,Victor Victor,Ando Buscando Un Amor,9,9,7
+1991-11-23,15,Pandora,Popurri,10,3,16
+1991-11-23,16,Magneto,Vuela Vuela,27,16,4
+1991-11-23,17,Lisa Lopez,Pecado De Amor,17,16,6
+1991-11-23,18,Lissette,Mal Sueno,18,11,12
+1991-11-23,19,Eddie Santiago,Me Faltas Tu,11,9,9
+1991-11-23,20,Los Caminantes,Dos Cartas Y Una Flor,13,11,11
+1991-11-23,21,Ana Gabriel,Ahora,15,2,18
+1991-11-23,22,La Mafia,Como Me Duele Amor,22,22,6
+1991-11-23,23,Chayanne,Daria Cualquier Cosa,24,21,7
+1991-11-23,24,Angeles Ochoa,Como Que No,14,14,9
+1991-11-23,25,Los Bukis,Chiquilla Bonita,26,15,18
+1991-11-23,26,Los Freddy's,Pero Acuerdate De Mi,30,26,6
+1991-11-23,27,Proyecto M,Que Hare Sin Ti,33,27,3
+1991-11-23,28,Gloria Trevi,Tu Angel De La Guarda,25,20,9
+1991-11-23,29,Ana Gabriel,Mi Gusto Es,32,29,3
+1991-11-23,30,Luis Miguel,Inolvidable,,30,1
+1991-11-23,31,Marisela,Ya Te Olvide,31,14,14
+1991-11-23,32,Los Yonic's,Ella No Es Culpable,29,29,3
+1991-11-23,33,Los Mier,Cosa Triste,28,28,3
+1991-11-23,34,Lucero,Electricidad,23,5,16
+1991-11-23,35,Lourdes Robles,Sola,37,35,2
+1991-11-23,36,Alejandra Guzman,Rosas Rojas,,36,1
+1991-11-23,37,Yolandita Monge,La Sombra De Lo Que Fui,35,35,4
+1991-11-23,38,Jose Luis Perales,America,36,36,2
+1991-11-23,39,Las Chicas del Can,Culeca,,39,1
+1991-11-23,40,Xuxa,Luna De Cristal,38,38,2
+1991-11-30,1,Camilo Sesto,"Amor Mio, Que Me Has Hecho?",1,1,7
+1991-11-30,2,Ricardo Montaner,Sera,3,2,12
+1991-11-30,3,Rudy La Scala,Porque Sera,2,1,12
+1991-11-30,4,Juan Luis Guerra 440,Frio Frio,5,4,17
+1991-11-30,5,Grupo Yndio,Melodia Desencadenada,6,5,13
+1991-11-30,6,Vikki Carr Y Ana Gabriel,Cosas Del Amor,4,1,19
+1991-11-30,7,Lucero,Ya No,7,7,6
+1991-11-30,8,Victor Victor,Ando Buscando Un Amor,14,8,8
+1991-11-30,9,Azucar Moreno,Mambo,9,6,7
+1991-11-30,10,Bronco: El Gigante De America,Dejame Amarte Otra Vez,13,10,5
+1991-11-30,11,Sergio Dalma,Como Me Gusta,10,10,8
+1991-11-30,12,Daniela Romo,Nadie Entiende,12,12,6
+1991-11-30,13,Mijares,Que Nada Nos Separe,8,5,13
+1991-11-30,14,Ednita Nazario,Eres Libre,11,11,9
+1991-11-30,15,Magneto,Vuela Vuela,16,15,5
+1991-11-30,16,Eddie Santiago,Me Faltas Tu,19,9,10
+1991-11-30,17,Lisa Lopez,Pecado De Amor,17,16,7
+1991-11-30,18,Los Caminantes,Dos Cartas Y Una Flor,20,11,12
+1991-11-30,19,Luis Miguel,Inolvidable,30,19,2
+1991-11-30,20,Pandora,Popurri,15,3,17
+1991-11-30,21,Lissette,Mal Sueno,18,11,13
+1991-11-30,22,Ana Gabriel,Mi Gusto Es,29,22,4
+1991-11-30,23,Chayanne,Daria Cualquier Cosa,23,21,8
+1991-11-30,24,La Mafia,Como Me Duele Amor,22,22,7
+1991-11-30,25,Angeles Ochoa,Como Que No,24,14,10
+1991-11-30,26,Los Bukis,Chiquilla Bonita,25,15,19
+1991-11-30,27,Lourdes Robles,Sola,35,27,3
+1991-11-30,28,Ana Gabriel,Ahora,21,2,19
+1991-11-30,29,Los Freddy's,Pero Acuerdate De Mi,26,26,7
+1991-11-30,30,Los Mier,Cosa Triste,33,28,4
+1991-11-30,31,Proyecto M,Que Hare Sin Ti,27,27,4
+1991-11-30,32,Gilberto Santa Rosa,Conciencia,,32,1
+1991-11-30,33,Los Yonic's,Ella No Es Culpable,32,29,4
+1991-11-30,34,Gloria Trevi,Tu Angel De La Guarda,28,20,10
+1991-11-30,35,Las Chicas del Can,Culeca,39,35,2
+1991-11-30,36,Gipsy Kings,Sin Ella,,36,1
+1991-11-30,37,Xuxa,Luna De Cristal,40,37,3
+1991-11-30,38,Alejandra Guzman,Rosas Rojas,36,36,2
+1991-11-30,39,Marisela,Ya Te Olvide,31,14,15
+1991-11-30,40,Jose Luis Perales,America,38,36,3
+1991-12-07,1,Camilo Sesto,"Amor Mio, Que Me Has Hecho?",1,1,8
+1991-12-07,2,Ricardo Montaner,Sera,2,2,13
+1991-12-07,3,Rudy La Scala,Porque Sera,3,1,13
+1991-12-07,4,Juan Luis Guerra 440,Frio Frio,4,4,18
+1991-12-07,5,Grupo Yndio,Melodia Desencadenada,5,5,14
+1991-12-07,6,Victor Victor,Ando Buscando Un Amor,8,6,9
+1991-12-07,7,Bronco: El Gigante De America,Dejame Amarte Otra Vez,10,7,6
+1991-12-07,8,Magneto,Vuela Vuela,15,8,6
+1991-12-07,9,Lucero,Ya No,7,7,7
+1991-12-07,10,Vikki Carr Y Ana Gabriel,Cosas Del Amor,6,1,20
+1991-12-07,11,Daniela Romo,Nadie Entiende,12,11,7
+1991-12-07,12,Sergio Dalma,Como Me Gusta,11,10,9
+1991-12-07,13,Luis Miguel,Inolvidable,19,13,3
+1991-12-07,14,Ednita Nazario,Eres Libre,14,11,10
+1991-12-07,15,Azucar Moreno,Mambo,9,6,8
+1991-12-07,16,Mijares,Que Nada Nos Separe,13,5,14
+1991-12-07,17,Ana Gabriel,Mi Gusto Es,22,17,5
+1991-12-07,18,Gilberto Santa Rosa,Conciencia,32,18,2
+1991-12-07,19,Los Caminantes,Dos Cartas Y Una Flor,18,11,13
+1991-12-07,20,Lisa Lopez,Pecado De Amor,17,16,8
+1991-12-07,21,La Mafia,Como Me Duele Amor,24,21,8
+1991-12-07,22,Lourdes Robles,Sola,27,22,4
+1991-12-07,23,Los Freddy's,Pero Acuerdate De Mi,29,23,8
+1991-12-07,24,Chayanne,Daria Cualquier Cosa,23,21,9
+1991-12-07,25,Los Bukis,Chiquilla Bonita,26,15,20
+1991-12-07,26,Lissette,Mal Sueno,21,11,14
+1991-12-07,27,Eddie Santiago,Me Faltas Tu,16,9,11
+1991-12-07,28,Gloria Trevi,Tu Angel De La Guarda,34,20,11
+1991-12-07,29,Angeles Ochoa,Como Que No,25,14,11
+1991-12-07,30,Franco de Vita,Sera,,30,1
+1991-12-07,31,Pandora,Popurri,20,3,18
+1991-12-07,32,Los Mier,Cosa Triste,30,28,5
+1991-12-07,33,Proyecto M,Que Hare Sin Ti,31,27,5
+1991-12-07,34,Mazz,Que Me Lleven Canciones,,34,1
+1991-12-07,35,Roberto Carlos Y Rocio Durcal,"Si Piensas,Si Quieres",,35,1
+1991-12-07,36,Los Yonic's,Ella No Es Culpable,33,29,5
+1991-12-07,37,Las Chicas del Can,Culeca,35,35,3
+1991-12-07,38,Gipsy Kings,Sin Ella,36,36,2
+1991-12-07,39,Xuxa,Luna De Cristal,37,37,4
+1991-12-07,40,Alejandra Guzman,Rosas Rojas,38,36,3
+1991-12-14,1,Camilo Sesto,"Amor Mio, Que Me Has Hecho?",1,1,9
+1991-12-14,2,Ricardo Montaner,Sera,2,2,14
+1991-12-14,3,Rudy La Scala,Porque Sera,3,1,14
+1991-12-14,4,Juan Luis Guerra 440,Frio Frio,4,4,19
+1991-12-14,5,Bronco: El Gigante De America,Dejame Amarte Otra Vez,7,5,7
+1991-12-14,6,Magneto,Vuela Vuela,8,6,7
+1991-12-14,7,Luis Miguel,Inolvidable,13,7,4
+1991-12-14,8,Grupo Yndio,Melodia Desencadenada,5,5,15
+1991-12-14,9,Lucero,Ya No,9,7,8
+1991-12-14,10,Sergio Dalma,Como Me Gusta,12,10,10
+1991-12-14,11,Victor Victor,Ando Buscando Un Amor,6,6,10
+1991-12-14,12,Daniela Romo,Nadie Entiende,11,11,8
+1991-12-14,13,Ednita Nazario,Eres Libre,14,11,11
+1991-12-14,14,Ana Gabriel,Mi Gusto Es,17,14,6
+1991-12-14,15,Mijares,Que Nada Nos Separe,16,5,15
+1991-12-14,16,Azucar Moreno,Mambo,15,6,9
+1991-12-14,17,Vikki Carr Y Ana Gabriel,Cosas Del Amor,10,1,21
+1991-12-14,18,La Mafia,Como Me Duele Amor,21,18,9
+1991-12-14,19,Los Caminantes,Dos Cartas Y Una Flor,19,11,14
+1991-12-14,20,Lourdes Robles,Sola,22,20,5
+1991-12-14,21,Lisa Lopez,Pecado De Amor,20,16,9
+1991-12-14,22,Roberto Carlos Y Rocio Durcal,"Si Piensas,Si Quieres",35,22,2
+1991-12-14,23,Los Bukis,Chiquilla Bonita,25,15,21
+1991-12-14,24,Gilberto Santa Rosa,Conciencia,18,18,3
+1991-12-14,25,Los Freddy's,Pero Acuerdate De Mi,23,23,9
+1991-12-14,26,Chayanne,Daria Cualquier Cosa,24,21,10
+1991-12-14,27,Gloria Trevi,Tu Angel De La Guarda,28,20,12
+1991-12-14,28,Mazz,Que Me Lleven Canciones,34,28,2
+1991-12-14,29,Los Mier,Cosa Triste,32,28,6
+1991-12-14,30,Las Chicas del Can,Culeca,37,30,4
+1991-12-14,31,Pandora,Popurri,31,3,19
+1991-12-14,32,Lissette,Mal Sueno,26,11,15
+1991-12-14,33,Gipsy Kings,Sin Ella,38,33,3
+1991-12-14,34,Los Yonic's,Ella No Es Culpable,36,29,6
+1991-12-14,35,Xuxa,Luna De Cristal,39,35,5
+1991-12-14,36,Angeles Ochoa,Como Que No,29,14,12
+1991-12-14,37,Tierra Tejana Band,Yo Quiero Bailar,,37,1
+1991-12-14,38,Proyecto M,Que Hare Sin Ti,33,27,6
+1991-12-14,39,Alejandra Guzman,Rosas Rojas,40,36,4
+1991-12-14,40,Franco de Vita,Sera,30,30,2
+1991-12-21,1,Camilo Sesto,"Amor Mio, Que Me Has Hecho?",1,1,10
+1991-12-21,2,Ricardo Montaner,Sera,2,2,15
+1991-12-21,3,Bronco: El Gigante De America,Dejame Amarte Otra Vez,5,3,8
+1991-12-21,4,Magneto,Vuela Vuela,6,4,8
+1991-12-21,5,Luis Miguel,Inolvidable,7,5,5
+1991-12-21,6,Juan Luis Guerra 440,Frio Frio,4,4,20
+1991-12-21,7,Lucero,Ya No,9,7,9
+1991-12-21,8,Grupo Yndio,Melodia Desencadenada,8,5,16
+1991-12-21,9,Rudy La Scala,Porque Sera,3,1,15
+1991-12-21,10,Roberto Carlos Y Rocio Durcal,"Si Piensas,Si Quieres",22,10,3
+1991-12-21,11,Sergio Dalma,Como Me Gusta,10,10,11
+1991-12-21,12,Daniela Romo,Nadie Entiende,12,11,9
+1991-12-21,13,Ednita Nazario,Eres Libre,13,11,12
+1991-12-21,14,Victor Victor,Ando Buscando Un Amor,11,6,11
+1991-12-21,15,Lourdes Robles,Sola,20,15,6
+1991-12-21,16,Ana Gabriel,Mi Gusto Es,14,14,7
+1991-12-21,17,Mijares,Que Nada Nos Separe,15,5,16
+1991-12-21,18,Gilberto Santa Rosa,Conciencia,24,18,4
+1991-12-21,19,Lisa Lopez,Pecado De Amor,21,16,10
+1991-12-21,20,La Mafia,Como Me Duele Amor,18,18,10
+1991-12-21,21,Azucar Moreno,Mambo,16,6,10
+1991-12-21,22,Gipsy Kings,Sin Ella,33,22,4
+1991-12-21,23,Los Caminantes,Dos Cartas Y Una Flor,19,11,15
+1991-12-21,24,Chayanne,Daria Cualquier Cosa,26,21,11
+1991-12-21,25,Los Bukis,Chiquilla Bonita,23,15,22
+1991-12-21,26,Los Freddy's,Pero Acuerdate De Mi,25,23,10
+1991-12-21,27,Vikki Carr Y Ana Gabriel,Cosas Del Amor,17,1,22
+1991-12-21,28,Pandora,No Lastimes Mas,,28,1
+1991-12-21,29,Tierra Tejana Band,Yo Quiero Bailar,37,29,2
+1991-12-21,30,Jose Luis Rodriguez,Esa Chica Me Vacila,,30,1
+1991-12-21,31,Mazz,Que Me Lleven Canciones,28,28,3
+1991-12-21,32,Gloria Trevi,Tu Angel De La Guarda,27,20,13
+1991-12-21,33,Los Mier,Cosa Triste,29,28,7
+1991-12-21,34,Angeles Ochoa,Como Que No,36,14,13
+1991-12-21,35,La Banda Show,Ella Me Vacila,,35,1
+1991-12-21,36,Las Chicas del Can,Culeca,30,30,5
+1991-12-21,37,Alejandra Guzman,Rosas Rojas,39,36,5
+1991-12-21,38,Lissette,Mal Sueno,32,11,16
+1991-12-21,39,Xuxa,Luna De Cristal,35,35,6
+1991-12-21,40,Los Yonic's,Ella No Es Culpable,34,29,7
+1991-12-28,1,Camilo Sesto,"Amor Mio, Que Me Has Hecho?",1,1,11
+1991-12-28,2,Ricardo Montaner,Sera,2,2,16
+1991-12-28,3,Bronco: El Gigante De America,Dejame Amarte Otra Vez,3,3,9
+1991-12-28,4,Magneto,Vuela Vuela,4,4,9
+1991-12-28,5,Luis Miguel,Inolvidable,5,5,6
+1991-12-28,6,Juan Luis Guerra 440,Frio Frio,6,4,21
+1991-12-28,7,Lucero,Ya No,7,7,10
+1991-12-28,8,Grupo Yndio,Melodia Desencadenada,8,5,17
+1991-12-28,9,Rudy La Scala,Porque Sera,9,1,16
+1991-12-28,10,Roberto Carlos Y Rocio Durcal,"Si Piensas,Si Quieres",10,10,4
+1991-12-28,11,Sergio Dalma,Como Me Gusta,11,10,12
+1991-12-28,12,Daniela Romo,Nadie Entiende,12,11,10
+1991-12-28,13,Ednita Nazario,Eres Libre,13,11,13
+1991-12-28,14,Victor Victor,Ando Buscando Un Amor,14,6,12
+1991-12-28,15,Lourdes Robles,Sola,15,15,7
+1991-12-28,16,Ana Gabriel,Mi Gusto Es,16,14,8
+1991-12-28,17,Mijares,Que Nada Nos Separe,17,5,17
+1991-12-28,18,Gilberto Santa Rosa,Conciencia,18,18,5
+1991-12-28,19,Lisa Lopez,Pecado De Amor,19,16,11
+1991-12-28,20,La Mafia,Como Me Duele Amor,20,18,11
+1991-12-28,21,Azucar Moreno,Mambo,21,6,11
+1991-12-28,22,Gipsy Kings,Sin Ella,22,22,5
+1991-12-28,23,Los Caminantes,Dos Cartas Y Una Flor,23,11,16
+1991-12-28,24,Chayanne,Daria Cualquier Cosa,24,21,12
+1991-12-28,25,Los Bukis,Chiquilla Bonita,25,15,23
+1991-12-28,26,Los Freddy's,Pero Acuerdate De Mi,26,23,11
+1991-12-28,27,Vikki Carr Y Ana Gabriel,Cosas Del Amor,27,1,23
+1991-12-28,28,Pandora,No Lastimes Mas,28,28,2
+1991-12-28,29,Tierra Tejana Band,Yo Quiero Bailar,29,29,3
+1991-12-28,30,Jose Luis Rodriguez,Esa Chica Me Vacila,30,30,2
+1991-12-28,31,Mazz,Que Me Lleven Canciones,31,28,4
+1991-12-28,32,Gloria Trevi,Tu Angel De La Guarda,32,20,14
+1991-12-28,33,Los Mier,Cosa Triste,33,28,8
+1991-12-28,34,Angeles Ochoa,Como Que No,34,14,14
+1991-12-28,35,La Banda Show,Ella Me Vacila,35,35,2
+1991-12-28,36,Las Chicas del Can,Culeca,36,30,6
+1991-12-28,37,Alejandra Guzman,Rosas Rojas,37,36,6
+1991-12-28,38,Lissette,Mal Sueno,38,11,17
+1991-12-28,39,Xuxa,Luna De Cristal,39,35,7
+1991-12-28,40,Los Yonic's,Ella No Es Culpable,40,29,8

@@ -1,0 +1,3 @@
+# API Reference
+
+::: chartix.api

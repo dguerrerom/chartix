@@ -1,0 +1,2121 @@
+date,this_week,artist,song,last_week,peak_position,weeks_on_chart
+1994-01-01,1,The Barrio Boyzz,Cerca De Ti,1,1,14
+1994-01-01,2,Los Fantasmas del Caribe,Por Una Lagrima,2,1,11
+1994-01-01,3,Las Triplets,Algo Mas Que Amor,3,3,13
+1994-01-01,4,Bronco: El Gigante De America,Dos Mujeres Un Camino,4,4,9
+1994-01-01,5,Pimpinela,El Amor No Se Puede Olvidar,5,5,10
+1994-01-01,6,Jerry Rivera,Que Hay De Malo,6,6,8
+1994-01-01,7,Los Temerarios,Una Tarde Fue,7,7,6
+1994-01-01,8,Lourdes Robles,Donde Se Ha Ido Tu Amor,8,8,11
+1994-01-01,9,Gloria Estefan,Con Los Anos Que Me Quedan,9,1,16
+1994-01-01,10,Yuri,Detras De Mi Ventana,10,10,5
+1994-01-01,11,Ana Gabriel,Luna,11,11,5
+1994-01-01,12,Alvaro Torres,Que Lastima,12,7,15
+1994-01-01,13,Pandora,Cuando Quieras Dejame,13,13,5
+1994-01-01,14,Luis Miguel,Suave,14,14,4
+1994-01-01,15,La Mafia,Gracias,15,13,12
+1994-01-01,16,Vicente Fernandez,Te Me Vas Al Diablo,16,16,5
+1994-01-01,17,Marcos Llunas,Reconquistarte,17,17,6
+1994-01-01,18,Fama,Llorando,18,18,7
+1994-01-01,19,Roxie Y Los Frijolitos,Nunca Dejes De Sonar,19,9,13
+1994-01-01,20,Rocio Durcal,Desaires,20,20,3
+1994-01-01,21,Selena,La Llamada,21,5,14
+1994-01-01,22,Cristian,Nunca Voy A Olvidarte,22,1,21
+1994-01-01,23,Banda Machos,Los Machos Tambien Lloran,23,17,8
+1994-01-01,24,Franco de Vita,Calido Y Frio,24,24,3
+1994-01-01,25,Victor Manuelle,Me Dara El Consentimiento,25,25,5
+1994-01-01,26,Eddie Santiago,Jamas,26,22,8
+1994-01-01,27,Paulina Rubio,Nieva Nieva,27,27,4
+1994-01-01,28,Lucero,El Numero Uno,28,22,7
+1994-01-01,29,Dyango,Rey De Corazones,29,29,4
+1994-01-01,30,Alejandro Fernandez,Acabe Por Llorar,30,30,3
+1994-01-01,31,Cristian,Es Mejor Asi,31,24,5
+1994-01-01,32,Los Bukis,Acepto Mi Derrota,32,6,17
+1994-01-01,33,Marco Antonio Solis y Los Bukis,Tu Ingratitud,33,33,3
+1994-01-01,34,Ednita Nazario,Y Te Vas,34,32,6
+1994-01-01,35,Olga Tanon,Muchacho Malo,35,35,2
+1994-01-01,36,Eros Ramazzotti,Otra Como Tu,36,36,2
+1994-01-01,37,Banda Superbandido,Cosas,37,21,9
+1994-01-01,38,Liberacion,Ese Loco Soy Yo,38,38,2
+1994-01-01,39,Gilberto Santa Rosa,Buscame,39,39,2
+1994-01-01,40,Los Rehenes,Verdades Que Duelen,40,24,10
+1994-01-08,1,The Barrio Boyzz,Cerca De Ti,1,1,15
+1994-01-08,2,Los Fantasmas del Caribe,Por Una Lagrima,2,1,12
+1994-01-08,3,Las Triplets,Algo Mas Que Amor,3,3,14
+1994-01-08,4,Los Temerarios,Una Tarde Fue,7,4,7
+1994-01-08,5,Pimpinela,El Amor No Se Puede Olvidar,5,5,11
+1994-01-08,6,Jerry Rivera,Que Hay De Malo,6,6,9
+1994-01-08,7,Lourdes Robles,Donde Se Ha Ido Tu Amor,8,7,12
+1994-01-08,8,Yuri,Detras De Mi Ventana,10,8,6
+1994-01-08,9,Bronco: El Gigante De America,Dos Mujeres Un Camino,4,4,10
+1994-01-08,10,Ana Gabriel,Luna,11,10,6
+1994-01-08,11,Luis Miguel,Suave,14,11,5
+1994-01-08,12,Gloria Estefan,Con Los Anos Que Me Quedan,9,1,17
+1994-01-08,13,Pandora,Cuando Quieras Dejame,13,13,6
+1994-01-08,14,Rocio Durcal,Desaires,20,14,4
+1994-01-08,15,Franco de Vita,Calido Y Frio,24,15,4
+1994-01-08,16,Vicente Fernandez,Te Me Vas Al Diablo,16,16,6
+1994-01-08,17,Alvaro Torres,Que Lastima,12,7,16
+1994-01-08,18,Marcos Llunas,Reconquistarte,17,17,7
+1994-01-08,19,La Mafia,Gracias,15,13,13
+1994-01-08,20,Fama,Llorando,18,18,8
+1994-01-08,21,Marco Antonio Solis y Los Bukis,Tu Ingratitud,33,21,4
+1994-01-08,22,Roxie Y Los Frijolitos,Nunca Dejes De Sonar,19,9,14
+1994-01-08,23,Victor Manuelle,Me Dara El Consentimiento,25,23,6
+1994-01-08,24,Cristian,Es Mejor Asi,31,24,6
+1994-01-08,25,Cristian,Nunca Voy A Olvidarte,22,1,22
+1994-01-08,26,Dyango,Rey De Corazones,29,26,5
+1994-01-08,27,Eddie Santiago,Jamas,26,22,9
+1994-01-08,28,Selena,La Llamada,21,5,15
+1994-01-08,29,Lucero,El Numero Uno,28,22,8
+1994-01-08,30,Liberacion,Ese Loco Soy Yo,38,30,3
+1994-01-08,31,Alejandro Fernandez,Acabe Por Llorar,30,30,4
+1994-01-08,32,Olga Tanon,Muchacho Malo,35,32,3
+1994-01-08,33,Paulina Rubio,Nieva Nieva,27,27,5
+1994-01-08,34,Los Dinnosaurios,Si Te Vas,,34,1
+1994-01-08,35,Banda Machos,Los Machos Tambien Lloran,23,17,9
+1994-01-08,36,Gilberto Santa Rosa,Buscame,39,36,3
+1994-01-08,37,Eros Ramazzotti,Otra Como Tu,36,36,3
+1994-01-08,38,Banda Superbandido,Cosas,37,21,10
+1994-01-08,39,Miriam Y Las Chicas,Me Siento Tan Sola,,39,1
+1994-01-08,40,Los Bukis,Acepto Mi Derrota,32,6,18
+1994-01-15,1,The Barrio Boyzz,Cerca De Ti,1,1,16
+1994-01-15,2,Las Triplets,Algo Mas Que Amor,3,2,15
+1994-01-15,3,Los Fantasmas del Caribe,Por Una Lagrima,2,1,13
+1994-01-15,4,Yuri,Detras De Mi Ventana,8,4,7
+1994-01-15,5,Jerry Rivera,Que Hay De Malo,6,5,10
+1994-01-15,6,Ana Gabriel,Luna,10,6,7
+1994-01-15,7,Los Temerarios,Una Tarde Fue,4,4,8
+1994-01-15,8,Lourdes Robles,Donde Se Ha Ido Tu Amor,7,7,13
+1994-01-15,9,Pimpinela,El Amor No Se Puede Olvidar,5,5,12
+1994-01-15,10,Luis Miguel,Suave,11,10,6
+1994-01-15,11,Bronco: El Gigante De America,Dos Mujeres Un Camino,9,4,11
+1994-01-15,12,Franco de Vita,Calido Y Frio,15,12,5
+1994-01-15,13,Rocio Durcal,Desaires,14,13,5
+1994-01-15,14,Pandora,Cuando Quieras Dejame,13,13,7
+1994-01-15,15,Vicente Fernandez,Te Me Vas Al Diablo,16,15,7
+1994-01-15,16,Fama,Llorando,20,16,9
+1994-01-15,17,Gloria Estefan,Con Los Anos Que Me Quedan,12,1,18
+1994-01-15,18,Marco Antonio Solis y Los Bukis,Tu Ingratitud,21,18,5
+1994-01-15,19,La Mafia,Gracias,19,13,14
+1994-01-15,20,Cristian,Es Mejor Asi,24,20,7
+1994-01-15,21,Victor Manuelle,Me Dara El Consentimiento,23,21,7
+1994-01-15,22,Eros Ramazzotti,Otra Como Tu,37,22,4
+1994-01-15,23,Alvaro Torres,Que Lastima,17,7,17
+1994-01-15,24,Olga Tanon,Muchacho Malo,32,24,4
+1994-01-15,25,Gilberto Santa Rosa,Buscame,36,25,4
+1994-01-15,26,Marcos Llunas,Reconquistarte,18,17,8
+1994-01-15,27,Alejandro Fernandez,Acabe Por Llorar,31,27,5
+1994-01-15,28,Lucero,El Numero Uno,29,22,9
+1994-01-15,29,Los Fugitivos,La Loca,,29,1
+1994-01-15,30,Paulina Rubio,Nieva Nieva,33,27,6
+1994-01-15,31,Selena,La Llamada,28,5,16
+1994-01-15,32,Los Dinnosaurios,Si Te Vas,34,32,2
+1994-01-15,33,Banda Machos,Los Machos Tambien Lloran,35,17,10
+1994-01-15,34,Eddie Santiago,Jamas,27,22,10
+1994-01-15,35,Industria del Amor,Rosas Rojas,,35,1
+1994-01-15,36,Los Hermanos Rosario,El Desdichado,,36,1
+1994-01-15,37,Cristian,Nunca Voy A Olvidarte,25,1,23
+1994-01-15,38,Karina,Nunca Te Olvidare,,38,1
+1994-01-15,39,Banda Superbandido,Cosas,38,21,11
+1994-01-15,40,Dyango,Rey De Corazones,26,26,6
+1994-01-22,1,The Barrio Boyzz,Cerca De Ti,1,1,17
+1994-01-22,2,Yuri,Detras De Mi Ventana,4,2,8
+1994-01-22,3,Ana Gabriel,Luna,6,3,8
+1994-01-22,4,Jerry Rivera,Que Hay De Malo,5,4,11
+1994-01-22,5,Los Temerarios,Una Tarde Fue,7,4,9
+1994-01-22,6,Los Fantasmas del Caribe,Por Una Lagrima,3,1,14
+1994-01-22,7,Las Triplets,Algo Mas Que Amor,2,2,16
+1994-01-22,8,Lourdes Robles,Donde Se Ha Ido Tu Amor,8,7,14
+1994-01-22,9,Luis Miguel,Suave,10,9,7
+1994-01-22,10,Pimpinela,El Amor No Se Puede Olvidar,9,5,13
+1994-01-22,11,Franco de Vita,Calido Y Frio,12,11,6
+1994-01-22,12,Rocio Durcal,Desaires,13,12,6
+1994-01-22,13,Pandora,Cuando Quieras Dejame,14,13,8
+1994-01-22,14,Vicente Fernandez,Te Me Vas Al Diablo,15,14,8
+1994-01-22,15,Marco Antonio Solis y Los Bukis,Tu Ingratitud,18,15,6
+1994-01-22,16,Bronco: El Gigante De America,Dos Mujeres Un Camino,11,4,12
+1994-01-22,17,Los Fugitivos,La Loca,29,17,2
+1994-01-22,18,Cristian,Es Mejor Asi,20,18,8
+1994-01-22,19,Gilberto Santa Rosa,Buscame,25,19,5
+1994-01-22,20,Eros Ramazzotti,Otra Como Tu,22,20,5
+1994-01-22,21,Fama,Llorando,16,16,10
+1994-01-22,22,La Mafia,Gracias,19,13,15
+1994-01-22,23,Karina,Nunca Te Olvidare,38,23,2
+1994-01-22,24,Gloria Estefan,Mi Buen Amor,,24,1
+1994-01-22,25,Ricky Martin,Entre El Amor Y El Halago,,25,1
+1994-01-22,26,Olga Tanon,Muchacho Malo,24,24,5
+1994-01-22,27,Marcos Llunas,Reconquistarte,26,17,9
+1994-01-22,28,Alejandro Fernandez,Acabe Por Llorar,27,27,6
+1994-01-22,29,Los Hermanos Rosario,El Desdichado,36,29,2
+1994-01-22,30,Juan Luis Guerra 440,Cuando Te Beso,,30,1
+1994-01-22,31,Victor Manuelle,Me Dara El Consentimiento,21,21,8
+1994-01-22,32,Alvaro Torres,Que Lastima,23,7,18
+1994-01-22,33,Gloria Estefan,Con Los Anos Que Me Quedan,17,1,19
+1994-01-22,34,Lucero,El Numero Uno,28,22,10
+1994-01-22,35,Paulina Rubio,Nieva Nieva,30,27,7
+1994-01-22,36,Los Dinnosaurios,Si Te Vas,32,32,3
+1994-01-22,37,Laura Leon,Dos Mujeres Un Camino,,37,1
+1994-01-22,38,Industria del Amor,Rosas Rojas,35,35,2
+1994-01-22,39,Bronco: El Gigante De America,Aunque No Me Quieras,,39,1
+1994-01-22,40,Roberto Carlos,Mujer Pequena,,40,1
+1994-01-29,1,Yuri,Detras De Mi Ventana,2,1,9
+1994-01-29,2,Ana Gabriel,Luna,3,2,9
+1994-01-29,3,Los Temerarios,Una Tarde Fue,5,3,10
+1994-01-29,4,Jerry Rivera,Que Hay De Malo,4,4,12
+1994-01-29,5,The Barrio Boyzz,Cerca De Ti,1,1,18
+1994-01-29,6,Rocio Durcal,Desaires,12,6,7
+1994-01-29,7,Franco de Vita,Calido Y Frio,11,7,7
+1994-01-29,8,Los Fugitivos,La Loca,17,8,3
+1994-01-29,9,Luis Miguel,Suave,9,9,8
+1994-01-29,10,Los Fantasmas del Caribe,Por Una Lagrima,6,1,15
+1994-01-29,11,Marco Antonio Solis y Los Bukis,Tu Ingratitud,15,11,7
+1994-01-29,12,Vicente Fernandez,Te Me Vas Al Diablo,14,12,9
+1994-01-29,13,Lourdes Robles,Donde Se Ha Ido Tu Amor,8,7,15
+1994-01-29,14,Eros Ramazzotti,Otra Como Tu,20,14,6
+1994-01-29,15,Las Triplets,Algo Mas Que Amor,7,2,17
+1994-01-29,16,Pimpinela,El Amor No Se Puede Olvidar,10,5,14
+1994-01-29,17,Ricky Martin,Entre El Amor Y El Halago,25,17,2
+1994-01-29,18,Bronco: El Gigante De America,Dos Mujeres Un Camino,16,4,13
+1994-01-29,19,Gloria Estefan,Mi Buen Amor,24,19,2
+1994-01-29,20,Los Hermanos Rosario,El Desdichado,29,20,3
+1994-01-29,21,La Mafia,Gracias,22,13,16
+1994-01-29,22,Roberto Carlos,Mujer Pequena,40,22,2
+1994-01-29,23,Gilberto Santa Rosa,Buscame,19,19,6
+1994-01-29,24,Alejandro Fernandez,Acabe Por Llorar,28,24,7
+1994-01-29,25,Fama,Llorando,21,16,11
+1994-01-29,26,Pandora,Cuando Quieras Dejame,13,13,9
+1994-01-29,27,Banda Machos,"Mi Luna, Mi Estrella",,27,1
+1994-01-29,28,Karina,Nunca Te Olvidare,23,23,3
+1994-01-29,29,Liberacion,Ese Loco Soy Yo,,29,4
+1994-01-29,30,Cristian,Es Mejor Asi,18,18,9
+1994-01-29,31,Lucia Mendez,Vete,,31,1
+1994-01-29,32,Bronco: El Gigante De America,Aunque No Me Quieras,39,32,2
+1994-01-29,33,Juan Luis Guerra 440,Cuando Te Beso,30,30,2
+1994-01-29,34,Laura Leon,Dos Mujeres Un Camino,37,34,2
+1994-01-29,35,Banda Arkangel R-15,El Onceavo Mandamiento,,35,1
+1994-01-29,36,Industria del Amor,Rosas Rojas,38,35,3
+1994-01-29,37,Los Dinnosaurios,Si Te Vas,36,32,4
+1994-01-29,38,Ramon Orlando,Te Compro Tu Novia,,38,1
+1994-01-29,39,Marcos Llunas,Reconquistarte,27,17,10
+1994-01-29,40,Olga Tanon,Muchacho Malo,26,24,6
+1994-02-05,1,Yuri,Detras De Mi Ventana,1,1,10
+1994-02-05,2,Ana Gabriel,Luna,2,2,10
+1994-02-05,3,Los Fugitivos,La Loca,8,3,4
+1994-02-05,4,Los Temerarios,Una Tarde Fue,3,3,11
+1994-02-05,5,Rocio Durcal,Desaires,6,5,8
+1994-02-05,6,Franco de Vita,Calido Y Frio,7,6,8
+1994-02-05,7,Jerry Rivera,Que Hay De Malo,4,4,13
+1994-02-05,8,Gloria Estefan,Mi Buen Amor,19,8,3
+1994-02-05,9,Banda Machos,"Mi Luna, Mi Estrella",27,9,2
+1994-02-05,10,The Barrio Boyzz,Cerca De Ti,5,1,19
+1994-02-05,11,Marco Antonio Solis y Los Bukis,Tu Ingratitud,11,11,8
+1994-02-05,12,Ricky Martin,Entre El Amor Y El Halago,17,12,3
+1994-02-05,13,Vicente Fernandez,Te Me Vas Al Diablo,12,12,10
+1994-02-05,14,Eros Ramazzotti,Otra Como Tu,14,14,7
+1994-02-05,15,Bronco: El Gigante De America,Dos Mujeres Un Camino,18,4,14
+1994-02-05,16,Roberto Carlos,Mujer Pequena,22,16,3
+1994-02-05,17,Luis Miguel,Suave,9,9,9
+1994-02-05,18,Luis Miguel,Hasta El Fin,,18,1
+1994-02-05,19,Alvaro Torres,Angel Caido,,19,1
+1994-02-05,20,The Barrio Boyzz y Selena,Dondequiera Que Estes,,20,1
+1994-02-05,21,Tito Rojas,Enamorame,,21,1
+1994-02-05,22,Los Hermanos Rosario,El Desdichado,20,20,4
+1994-02-05,23,Los Dinnosaurios,Si Te Vas,37,23,5
+1994-02-05,24,Ramon Orlando,Te Compro Tu Novia,38,24,2
+1994-02-05,25,Liberacion,Ese Loco Soy Yo,29,25,5
+1994-02-05,26,Bronco: El Gigante De America,Aunque No Me Quieras,32,26,3
+1994-02-05,27,Alejandro Fernandez,Acabe Por Llorar,24,24,8
+1994-02-05,28,Juan Luis Guerra 440,Cuando Te Beso,33,28,3
+1994-02-05,29,La Mafia,Gracias,21,13,17
+1994-02-05,30,Lucia Mendez,Vete,31,30,2
+1994-02-05,31,Karina,Nunca Te Olvidare,28,23,4
+1994-02-05,32,Maggie Carles,Mi Doble Tu,,32,1
+1994-02-05,33,Jossie Esteban Y La Patrulla 15,El Meneito,,33,1
+1994-02-05,34,Lourdes Robles,Donde Se Ha Ido Tu Amor,13,7,16
+1994-02-05,35,Industria del Amor,Rosas Rojas,36,35,4
+1994-02-05,36,Laura Leon,Dos Mujeres Un Camino,34,34,3
+1994-02-05,37,Cristian,Es Mejor Asi,30,18,10
+1994-02-05,38,Pimpinela,El Amor No Se Puede Olvidar,16,5,15
+1994-02-05,39,Los Fantasmas del Caribe,Por Una Lagrima,10,1,16
+1994-02-05,40,Las Triplets,Algo Mas Que Amor,15,2,18
+1994-02-12,1,Yuri,Detras De Mi Ventana,1,1,11
+1994-02-12,2,Ana Gabriel,Luna,2,2,11
+1994-02-12,3,Los Fugitivos,La Loca,3,3,5
+1994-02-12,4,Rocio Durcal,Desaires,5,4,9
+1994-02-12,5,Franco de Vita,Calido Y Frio,6,5,9
+1994-02-12,6,The Barrio Boyzz y Selena,Dondequiera Que Estes,20,6,2
+1994-02-12,7,Los Temerarios,Una Tarde Fue,4,3,12
+1994-02-12,8,Gloria Estefan,Mi Buen Amor,8,8,4
+1994-02-12,9,Marco Antonio Solis y Los Bukis,Tu Ingratitud,11,9,9
+1994-02-12,10,Luis Miguel,Hasta El Fin,18,10,2
+1994-02-12,11,Alvaro Torres,Angel Caido,19,11,2
+1994-02-12,12,Roberto Carlos,Mujer Pequena,16,12,4
+1994-02-12,13,Ricky Martin,Entre El Amor Y El Halago,12,12,4
+1994-02-12,14,Banda Machos,"Mi Luna, Mi Estrella",9,9,3
+1994-02-12,15,Jerry Rivera,Que Hay De Malo,7,4,14
+1994-02-12,16,Eros Ramazzotti,Otra Como Tu,14,14,8
+1994-02-12,17,Pandora,Mi Fracaso,,17,1
+1994-02-12,18,Bronco: El Gigante De America,Dos Mujeres Un Camino,15,4,15
+1994-02-12,19,Liberacion,Ese Loco Soy Yo,25,19,6
+1994-02-12,20,Vicente Fernandez,Te Me Vas Al Diablo,13,12,11
+1994-02-12,21,Jose Luis Rodriguez,"Boca, Dulce Boca",,21,1
+1994-02-12,22,Ramon Orlando,Te Compro Tu Novia,24,22,3
+1994-02-12,23,Los Dinnosaurios,Si Te Vas,23,23,6
+1994-02-12,24,Los Hermanos Rosario,El Desdichado,22,20,5
+1994-02-12,25,Tito Rojas,Enamorame,21,21,2
+1994-02-12,26,Bronco: El Gigante De America,Aunque No Me Quieras,26,26,4
+1994-02-12,27,La Mafia,Gracias,29,13,18
+1994-02-12,28,Maggie Carles,Mi Doble Tu,32,28,2
+1994-02-12,29,Juan Luis Guerra 440,Cuando Te Beso,28,28,4
+1994-02-12,30,The Barrio Boyzz,Cerca De Ti,10,1,20
+1994-02-12,31,Karina,Nunca Te Olvidare,31,23,5
+1994-02-12,32,Alejandro Fernandez,Acabe Por Llorar,27,24,9
+1994-02-12,33,Linda Ronstadt,Adonde Voy,,33,1
+1994-02-12,34,Cristian,Por Amor A Ti,,34,1
+1994-02-12,35,Rey Ruiz,Mi Media Mitad,,35,1
+1994-02-12,36,Las Triplets,Las Llaves De Mi Corazon,,36,1
+1994-02-12,37,Jossie Esteban Y La Patrulla 15,El Meneito,33,33,2
+1994-02-12,38,Industria del Amor,Rosas Rojas,35,35,5
+1994-02-12,39,Luis Miguel,Suave,17,9,10
+1994-02-12,40,Lucia Mendez,Vete,30,30,3
+1994-02-19,1,Ana Gabriel,Luna,2,1,12
+1994-02-19,2,Yuri,Detras De Mi Ventana,1,1,12
+1994-02-19,3,Los Fugitivos,La Loca,3,3,6
+1994-02-19,4,The Barrio Boyzz y Selena,Dondequiera Que Estes,6,4,3
+1994-02-19,5,Gloria Estefan,Mi Buen Amor,8,5,5
+1994-02-19,6,Banda Machos,"Mi Luna, Mi Estrella",14,6,4
+1994-02-19,7,Alvaro Torres,Angel Caido,11,7,3
+1994-02-19,8,Roberto Carlos,Mujer Pequena,12,8,5
+1994-02-19,9,Marco Antonio Solis y Los Bukis,Tu Ingratitud,9,9,10
+1994-02-19,10,Luis Miguel,Hasta El Fin,10,10,3
+1994-02-19,11,Franco de Vita,Calido Y Frio,5,5,10
+1994-02-19,12,Los Temerarios,Una Tarde Fue,7,3,13
+1994-02-19,13,Rocio Durcal,Desaires,4,4,10
+1994-02-19,14,Pandora,Mi Fracaso,17,14,2
+1994-02-19,15,Jose Luis Rodriguez,"Boca, Dulce Boca",21,15,2
+1994-02-19,16,Cristian,Por Amor A Ti,34,16,2
+1994-02-19,17,Maggie Carles,Mi Doble Tu,28,17,3
+1994-02-19,18,Liberacion,Ese Loco Soy Yo,19,18,7
+1994-02-19,19,Rey Ruiz,Mi Media Mitad,35,19,2
+1994-02-19,20,Eros Ramazzotti,Otra Como Tu,16,14,9
+1994-02-19,21,Ramon Orlando,Te Compro Tu Novia,22,21,4
+1994-02-19,22,Ricky Martin,Entre El Amor Y El Halago,13,12,5
+1994-02-19,23,Las Triplets,Las Llaves De Mi Corazon,36,23,2
+1994-02-19,24,Mazz,El Juego Es Tuyo,,24,1
+1994-02-19,25,Bronco: El Gigante De America,Aunque No Me Quieras,26,25,5
+1994-02-19,26,Los Dinnosaurios,Si Te Vas,23,23,7
+1994-02-19,27,Vicente Fernandez,Te Me Vas Al Diablo,20,12,12
+1994-02-19,28,Grupo Niche,Duele Mas,,28,1
+1994-02-19,29,Bronco: El Gigante De America,Dos Mujeres Un Camino,18,4,16
+1994-02-19,30,Pochy Familia Y Su Cocoband,La Sexy,,30,1
+1994-02-19,31,Jerry Rivera,Que Hay De Malo,15,4,15
+1994-02-19,32,Jerry Rivera,Cara De Nino,,32,1
+1994-02-19,33,Linda Ronstadt,Adonde Voy,33,33,2
+1994-02-19,34,Tito Rojas,Enamorame,25,21,3
+1994-02-19,35,Frankie Ruiz,Hablame,,35,1
+1994-02-19,36,Karina,Nunca Te Olvidare,31,23,6
+1994-02-19,37,Los Titanes de Durango,Basto Una Mirada,,37,1
+1994-02-19,38,Alejandro Fernandez,Acabe Por Llorar,32,24,10
+1994-02-19,39,Juan Luis Guerra 440,Cuando Te Beso,29,28,5
+1994-02-19,40,La Mafia,Gracias,27,13,19
+1994-02-26,1,Ana Gabriel,Luna,1,1,13
+1994-02-26,2,Gloria Estefan,Mi Buen Amor,5,2,6
+1994-02-26,3,The Barrio Boyzz y Selena,Dondequiera Que Estes,4,3,4
+1994-02-26,4,Yuri,Detras De Mi Ventana,2,1,13
+1994-02-26,5,Los Fugitivos,La Loca,3,3,7
+1994-02-26,6,Luis Miguel,Hasta El Fin,10,6,4
+1994-02-26,7,Alvaro Torres,Angel Caido,7,7,4
+1994-02-26,8,Banda Machos,"Mi Luna, Mi Estrella",6,6,5
+1994-02-26,9,Jose Luis Rodriguez,"Boca, Dulce Boca",15,9,3
+1994-02-26,10,Roberto Carlos,Mujer Pequena,8,8,6
+1994-02-26,11,Marco Antonio Solis y Los Bukis,Tu Ingratitud,9,9,11
+1994-02-26,12,Los Temerarios,Una Tarde Fue,12,3,14
+1994-02-26,13,Pandora,Mi Fracaso,14,13,3
+1994-02-26,14,Franco de Vita,Calido Y Frio,11,5,11
+1994-02-26,15,Rey Ruiz,Mi Media Mitad,19,15,3
+1994-02-26,16,Cristian,Por Amor A Ti,16,16,3
+1994-02-26,17,Mazz,El Juego Es Tuyo,24,17,2
+1994-02-26,18,Maggie Carles,Mi Doble Tu,17,17,4
+1994-02-26,19,Bronco: El Gigante De America,Aunque No Me Quieras,25,19,6
+1994-02-26,20,Grupo Niche,Duele Mas,28,20,2
+1994-02-26,21,Liberacion,Ese Loco Soy Yo,18,18,8
+1994-02-26,22,Rocio Durcal,Desaires,13,4,11
+1994-02-26,23,Ramon Orlando,Te Compro Tu Novia,21,21,5
+1994-02-26,24,Las Triplets,Las Llaves De Mi Corazon,23,23,3
+1994-02-26,25,Eros Ramazzotti,Otra Como Tu,20,14,10
+1994-02-26,26,Paulina Rubio,Vuelve Junto A Mi,,26,1
+1994-02-26,27,Frankie Ruiz,Hablame,35,27,2
+1994-02-26,28,Pochy Familia Y Su Cocoband,La Sexy,30,28,2
+1994-02-26,29,Tito Rojas,Enamorame,34,21,4
+1994-02-26,30,Jerry Rivera,Cara De Nino,32,30,2
+1994-02-26,31,Los Dinnosaurios,Si Te Vas,26,23,8
+1994-02-26,32,Ricky Martin,Entre El Amor Y El Halago,22,12,6
+1994-02-26,33,Bronco: El Gigante De America,Dos Mujeres Un Camino,29,4,17
+1994-02-26,34,Los Titanes de Durango,Basto Una Mirada,37,34,2
+1994-02-26,35,Alex D'Castro,Y Todavia Me Amas,,35,1
+1994-02-26,36,Eddie Santiago,El Triste,,36,1
+1994-02-26,37,Gipsy Kings,No Vivire,,37,1
+1994-02-26,38,Pablo Ruiz,Anoche No Dormi,,38,1
+1994-02-26,39,Linda Ronstadt,Adonde Voy,33,33,3
+1994-02-26,40,Vicente Fernandez,Te Me Vas Al Diablo,27,12,13
+1994-03-05,1,Ana Gabriel,Luna,1,1,14
+1994-03-05,2,Gloria Estefan,Mi Buen Amor,2,2,7
+1994-03-05,3,The Barrio Boyzz y Selena,Dondequiera Que Estes,3,3,5
+1994-03-05,4,Yuri,Detras De Mi Ventana,4,1,14
+1994-03-05,5,Los Fugitivos,La Loca,5,3,8
+1994-03-05,6,Luis Miguel,Hasta El Fin,6,6,5
+1994-03-05,7,Jose Luis Rodriguez,"Boca, Dulce Boca",9,7,4
+1994-03-05,8,Alvaro Torres,Angel Caido,7,7,5
+1994-03-05,9,Banda Machos,"Mi Luna, Mi Estrella",8,6,6
+1994-03-05,10,Pandora,Mi Fracaso,13,10,4
+1994-03-05,11,Roberto Carlos,Mujer Pequena,10,8,7
+1994-03-05,12,Rey Ruiz,Mi Media Mitad,15,12,4
+1994-03-05,13,Maggie Carles,Mi Doble Tu,18,13,5
+1994-03-05,14,Cristian,Por Amor A Ti,16,14,4
+1994-03-05,15,Mazz,El Juego Es Tuyo,17,15,3
+1994-03-05,16,Marco Antonio Solis y Los Bukis,Tu Ingratitud,11,9,12
+1994-03-05,17,Las Triplets,Las Llaves De Mi Corazon,24,17,4
+1994-03-05,18,Jerry Rivera,Cara De Nino,30,18,3
+1994-03-05,19,Los Temerarios,Una Tarde Fue,12,3,15
+1994-03-05,20,Grupo Niche,Duele Mas,20,20,3
+1994-03-05,21,Paulina Rubio,Vuelve Junto A Mi,26,21,2
+1994-03-05,22,Franco de Vita,Calido Y Frio,14,5,12
+1994-03-05,23,Eros Ramazzotti,Otra Como Tu,25,14,11
+1994-03-05,24,Bronco: El Gigante De America,Aunque No Me Quieras,19,19,7
+1994-03-05,25,Los Fantasmas del Caribe,Bandolero Aventurero,,25,1
+1994-03-05,26,Frankie Ruiz,Hablame,27,26,3
+1994-03-05,27,Mana,La Chula,,27,1
+1994-03-05,28,Alex D'Castro,Y Todavia Me Amas,35,28,2
+1994-03-05,29,Liberacion,Ese Loco Soy Yo,21,18,9
+1994-03-05,30,Los Dinnosaurios,Si Te Vas,31,23,9
+1994-03-05,31,Joan Sebastian,El Peor De Tus Antojos,,31,1
+1994-03-05,32,Bachata Magic,Quedan Palabras,,32,1
+1994-03-05,33,Roxie Y Los Frijolitos,Es Hora De Amar,,33,1
+1994-03-05,34,Gipsy Kings,No Vivire,37,34,2
+1994-03-05,35,Eddie Santiago,El Triste,36,35,2
+1994-03-05,36,Los Titanes de Durango,Basto Una Mirada,34,34,3
+1994-03-05,37,Fernandito Villalona,No Podras,,37,1
+1994-03-05,38,Fama,Te Voy A Ensenar,,38,1
+1994-03-05,39,Olga Tanon,Vendras Llorando,,39,1
+1994-03-05,40,Pablo Ruiz,Anoche No Dormi,38,38,2
+1994-03-12,1,Gloria Estefan,Mi Buen Amor,2,1,8
+1994-03-12,2,The Barrio Boyzz y Selena,Dondequiera Que Estes,3,2,6
+1994-03-12,3,Ana Gabriel,Luna,1,1,15
+1994-03-12,4,Luis Miguel,Hasta El Fin,6,4,6
+1994-03-12,5,Jose Luis Rodriguez,"Boca, Dulce Boca",7,5,5
+1994-03-12,6,Los Fugitivos,La Loca,5,3,9
+1994-03-12,7,Yuri,Detras De Mi Ventana,4,1,15
+1994-03-12,8,Banda Machos,"Mi Luna, Mi Estrella",9,6,7
+1994-03-12,9,Alvaro Torres,Angel Caido,8,7,6
+1994-03-12,10,Pandora,Mi Fracaso,10,10,5
+1994-03-12,11,Cristian,Por Amor A Ti,14,11,5
+1994-03-12,12,Rey Ruiz,Mi Media Mitad,12,12,5
+1994-03-12,13,Mazz,El Juego Es Tuyo,15,13,4
+1994-03-12,14,Roberto Carlos,Mujer Pequena,11,8,8
+1994-03-12,15,Maggie Carles,Mi Doble Tu,13,13,6
+1994-03-12,16,Las Triplets,Las Llaves De Mi Corazon,17,16,5
+1994-03-12,17,Jerry Rivera,Cara De Nino,18,17,4
+1994-03-12,18,Grupo Niche,Duele Mas,20,18,4
+1994-03-12,19,Marco Antonio Solis y Los Bukis,Tu Ingratitud,16,9,13
+1994-03-12,20,Paulina Rubio,Vuelve Junto A Mi,21,20,3
+1994-03-12,21,Mana,La Chula,27,21,2
+1994-03-12,22,Bronco: El Gigante De America,Aunque No Me Quieras,24,19,8
+1994-03-12,23,Los Temerarios,Una Tarde Fue,19,3,16
+1994-03-12,24,Frankie Ruiz,Hablame,26,24,4
+1994-03-12,25,Los Fantasmas del Caribe,Bandolero Aventurero,25,25,2
+1994-03-12,26,Franco de Vita,Calido Y Frio,22,5,13
+1994-03-12,27,Olga Tanon,Vendras Llorando,39,27,2
+1994-03-12,28,Eddie Santiago,El Triste,35,28,3
+1994-03-12,29,Joan Sebastian,El Peor De Tus Antojos,31,29,2
+1994-03-12,30,Lourdes Robles,Lo Amo,,30,1
+1994-03-12,31,Fito Olivares y Su Grupo,La Ranita,,31,1
+1994-03-12,32,Gipsy Kings,No Vivire,34,32,3
+1994-03-12,33,Eros Ramazzotti,Otra Como Tu,23,14,12
+1994-03-12,34,Fernandito Villalona,No Podras,37,34,2
+1994-03-12,35,Los Titanes de Durango,Basto Una Mirada,36,34,4
+1994-03-12,36,Johnny Rivera,Voy A Conquistar Tu Amor,,36,1
+1994-03-12,37,Bachata Magic,Quedan Palabras,32,32,2
+1994-03-12,38,Liberacion,Ese Loco Soy Yo,29,18,10
+1994-03-12,39,Los Dinnosaurios,Si Te Vas,30,23,10
+1994-03-12,40,Alex D'Castro,Y Todavia Me Amas,28,28,3
+1994-03-19,1,Gloria Estefan,Mi Buen Amor,1,1,9
+1994-03-19,2,The Barrio Boyzz y Selena,Dondequiera Que Estes,2,2,7
+1994-03-19,3,Ana Gabriel,Luna,3,1,16
+1994-03-19,4,Jose Luis Rodriguez,"Boca, Dulce Boca",5,4,6
+1994-03-19,5,Luis Miguel,Hasta El Fin,4,4,7
+1994-03-19,6,Banda Machos,"Mi Luna, Mi Estrella",8,6,8
+1994-03-19,7,Pandora,Mi Fracaso,10,7,6
+1994-03-19,8,Alvaro Torres,Angel Caido,9,7,7
+1994-03-19,9,Los Fugitivos,La Loca,6,3,10
+1994-03-19,10,Roberto Carlos,Mujer Pequena,14,8,9
+1994-03-19,11,Cristian,Por Amor A Ti,11,11,6
+1994-03-19,12,Rey Ruiz,Mi Media Mitad,12,12,6
+1994-03-19,13,Mazz,El Juego Es Tuyo,13,13,5
+1994-03-19,14,Jerry Rivera,Cara De Nino,17,14,5
+1994-03-19,15,Las Triplets,Las Llaves De Mi Corazon,16,15,6
+1994-03-19,16,Grupo Niche,Duele Mas,18,16,5
+1994-03-19,17,Maggie Carles,Mi Doble Tu,15,13,7
+1994-03-19,18,Yuri,Detras De Mi Ventana,7,1,16
+1994-03-19,19,Mana,La Chula,21,19,3
+1994-03-19,20,Marco Antonio Solis y Los Bukis,Tu Ingratitud,19,9,14
+1994-03-19,21,Eduardo Palomo,Las Cuentas Claras,,21,1
+1994-03-19,22,Los Fantasmas del Caribe,Bandolero Aventurero,25,22,3
+1994-03-19,23,Frankie Ruiz,Hablame,24,23,5
+1994-03-19,24,Bachata Magic,Quedan Palabras,37,24,3
+1994-03-19,25,Bronco: El Gigante De America,Aunque No Me Quieras,22,19,9
+1994-03-19,26,Los Titanes de Durango,Basto Una Mirada,35,26,5
+1994-03-19,27,Yolandita Monge,A Pesar Del Tiempo,,27,1
+1994-03-19,28,Paulina Rubio,Vuelve Junto A Mi,20,20,4
+1994-03-19,29,Lourdes Robles,Lo Amo,30,29,2
+1994-03-19,30,Ednita Nazario,Pensando Siempre En Ti,,30,1
+1994-03-19,31,Rocio Durcal,Mi Credo,,31,1
+1994-03-19,32,Gipsy Kings,No Vivire,32,32,4
+1994-03-19,33,Banda Vallarta Show,Pa' Yo,,33,1
+1994-03-19,34,Edgar Joel,Como Sera?,,34,1
+1994-03-19,35,Fernandito Villalona,No Podras,34,34,3
+1994-03-19,36,Olga Tanon,Vendras Llorando,27,27,3
+1994-03-19,37,Los Temerarios,Una Tarde Fue,23,3,17
+1994-03-19,38,Johnny Rivera,Voy A Conquistar Tu Amor,36,36,2
+1994-03-19,39,Fito Olivares y Su Grupo,La Ranita,31,31,2
+1994-03-19,40,Eddie Santiago,El Triste,28,28,4
+1994-03-26,1,The Barrio Boyzz y Selena,Dondequiera Que Estes,2,1,8
+1994-03-26,2,Gloria Estefan,Mi Buen Amor,1,1,10
+1994-03-26,3,Ana Gabriel,Luna,3,1,17
+1994-03-26,4,Jose Luis Rodriguez,"Boca, Dulce Boca",4,4,7
+1994-03-26,5,Luis Miguel,Hasta El Fin,5,4,8
+1994-03-26,6,Cristian,Por Amor A Ti,11,6,7
+1994-03-26,7,Rey Ruiz,Mi Media Mitad,12,7,7
+1994-03-26,8,Pandora,Mi Fracaso,7,7,7
+1994-03-26,9,Alvaro Torres,Angel Caido,8,7,8
+1994-03-26,10,Banda Machos,"Mi Luna, Mi Estrella",6,6,9
+1994-03-26,11,Roberto Carlos,Mujer Pequena,10,8,10
+1994-03-26,12,Mazz,El Juego Es Tuyo,13,12,6
+1994-03-26,13,Mana,La Chula,19,13,4
+1994-03-26,14,Las Triplets,Las Llaves De Mi Corazon,15,14,7
+1994-03-26,15,Jerry Rivera,Cara De Nino,14,14,6
+1994-03-26,16,Los Fugitivos,La Loca,9,3,11
+1994-03-26,17,Maggie Carles,Mi Doble Tu,17,13,8
+1994-03-26,18,Yolandita Monge,A Pesar Del Tiempo,27,18,2
+1994-03-26,19,Eduardo Palomo,Las Cuentas Claras,21,19,2
+1994-03-26,20,Grupo Niche,Duele Mas,16,16,6
+1994-03-26,21,Lourdes Robles,Lo Amo,29,21,3
+1994-03-26,22,Los Fantasmas del Caribe,Bandolero Aventurero,22,22,4
+1994-03-26,23,Mijares,Corazon Salvaje,,23,1
+1994-03-26,24,Bachata Magic,Quedan Palabras,24,24,4
+1994-03-26,25,Ednita Nazario,Pensando Siempre En Ti,30,25,2
+1994-03-26,26,Rocio Durcal,Mi Credo,31,26,2
+1994-03-26,27,Frankie Ruiz,Hablame,23,23,6
+1994-03-26,28,Banda Vallarta Show,Pa' Yo,33,28,2
+1994-03-26,29,Gipsy Kings,No Vivire,32,29,5
+1994-03-26,30,Yuri,Detras De Mi Ventana,18,1,17
+1994-03-26,31,Paulina Rubio,Vuelve Junto A Mi,28,20,5
+1994-03-26,32,Fernandito Villalona,No Podras,35,32,4
+1994-03-26,33,Edgar Joel,Como Sera?,34,33,2
+1994-03-26,34,Roxie Y Los Frijolitos,Es Hora De Amar,,33,2
+1994-03-26,35,Yuri,Amiga Mia,,35,1
+1994-03-26,36,Bronco: El Gigante De America,Aunque No Me Quieras,25,19,10
+1994-03-26,37,Raphael,Se Muere Por Mi La Nina,,37,1
+1994-03-26,38,Johnny Rivera,Voy A Conquistar Tu Amor,38,36,3
+1994-03-26,39,Olga Tanon,Vendras Llorando,36,27,4
+1994-03-26,40,Los Titanes de Durango,Basto Una Mirada,26,26,6
+1994-04-02,1,The Barrio Boyzz y Selena,Dondequiera Que Estes,1,1,9
+1994-04-02,2,Gloria Estefan,Mi Buen Amor,2,1,11
+1994-04-02,3,Jose Luis Rodriguez,"Boca, Dulce Boca",4,3,8
+1994-04-02,4,Ana Gabriel,Luna,3,1,18
+1994-04-02,5,Luis Miguel,Hasta El Fin,5,4,9
+1994-04-02,6,Cristian,Por Amor A Ti,6,6,8
+1994-04-02,7,Pandora,Mi Fracaso,8,7,8
+1994-04-02,8,Alvaro Torres,Angel Caido,9,7,9
+1994-04-02,9,Mazz,El Juego Es Tuyo,12,9,7
+1994-04-02,10,Rey Ruiz,Mi Media Mitad,7,7,8
+1994-04-02,11,Banda Machos,"Mi Luna, Mi Estrella",10,6,10
+1994-04-02,12,Eduardo Palomo,Las Cuentas Claras,19,12,3
+1994-04-02,13,Ednita Nazario,Pensando Siempre En Ti,25,13,3
+1994-04-02,14,Mana,La Chula,13,13,5
+1994-04-02,15,Las Triplets,Las Llaves De Mi Corazon,14,14,8
+1994-04-02,16,Mijares,Corazon Salvaje,23,16,2
+1994-04-02,17,Jerry Rivera,Cara De Nino,15,14,7
+1994-04-02,18,Yolandita Monge,A Pesar Del Tiempo,18,18,3
+1994-04-02,19,Roberto Carlos,Mujer Pequena,11,8,11
+1994-04-02,20,Maggie Carles,Mi Doble Tu,17,13,9
+1994-04-02,21,Los Fantasmas del Caribe,Bandolero Aventurero,22,21,5
+1994-04-02,22,Los Fugitivos,La Loca,16,3,12
+1994-04-02,23,Lourdes Robles,Lo Amo,21,21,4
+1994-04-02,24,Bachata Magic,Quedan Palabras,24,24,5
+1994-04-02,25,Rocio Durcal,Mi Credo,26,25,3
+1994-04-02,26,Banda Vallarta Show,Pa' Yo,28,26,3
+1994-04-02,27,Edgar Joel,Como Sera?,33,27,3
+1994-04-02,28,Paulina Rubio,Vuelve Junto A Mi,31,20,6
+1994-04-02,29,Yuri,Amiga Mia,35,29,2
+1994-04-02,30,Pimpinela,Con Un Nudo En La Garganta,,30,1
+1994-04-02,31,Frankie Ruiz,Hablame,27,23,7
+1994-04-02,32,Gipsy Kings,No Vivire,29,29,6
+1994-04-02,33,Marta Sanchez,Desesperada,,33,1
+1994-04-02,34,Roxie Y Los Frijolitos,Es Hora De Amar,34,33,3
+1994-04-02,35,Olga Tanon,Vendras Llorando,39,27,5
+1994-04-02,36,Raphael,Se Muere Por Mi La Nina,37,36,2
+1994-04-02,37,Yuri,Detras De Mi Ventana,30,1,18
+1994-04-02,38,La Sonora Dinamita,El Apagon,,38,1
+1994-04-02,39,Fernandito Villalona,No Podras,32,32,5
+1994-04-02,40,Grupo Niche,Duele Mas,20,16,7
+1994-04-09,1,The Barrio Boyzz y Selena,Dondequiera Que Estes,1,1,10
+1994-04-09,2,Gloria Estefan,Mi Buen Amor,2,1,12
+1994-04-09,3,Jose Luis Rodriguez,"Boca, Dulce Boca",3,3,9
+1994-04-09,4,Cristian,Por Amor A Ti,6,4,9
+1994-04-09,5,Ana Gabriel,Luna,4,1,19
+1994-04-09,6,Pandora,Mi Fracaso,7,6,9
+1994-04-09,7,Eduardo Palomo,Las Cuentas Claras,12,7,4
+1994-04-09,8,Luis Miguel,Hasta El Fin,5,4,10
+1994-04-09,9,Rey Ruiz,Mi Media Mitad,10,7,9
+1994-04-09,10,Ednita Nazario,Pensando Siempre En Ti,13,10,4
+1994-04-09,11,Mazz,El Juego Es Tuyo,9,9,8
+1994-04-09,12,Mijares,Corazon Salvaje,16,12,3
+1994-04-09,13,Mana,La Chula,14,13,6
+1994-04-09,14,Banda Machos,"Mi Luna, Mi Estrella",11,6,11
+1994-04-09,15,Yolandita Monge,A Pesar Del Tiempo,18,15,4
+1994-04-09,16,Alvaro Torres,Angel Caido,8,7,10
+1994-04-09,17,Pimpinela,Con Un Nudo En La Garganta,30,17,2
+1994-04-09,18,Roberto Carlos,Mujer Pequena,19,8,12
+1994-04-09,19,Maggie Carles,Mi Doble Tu,20,13,10
+1994-04-09,20,Edgar Joel,Como Sera?,27,20,4
+1994-04-09,21,Las Triplets,Las Llaves De Mi Corazon,15,14,9
+1994-04-09,22,Lourdes Robles,Lo Amo,23,21,5
+1994-04-09,23,Banda Vallarta Show,Pa' Yo,26,23,4
+1994-04-09,24,Los Fantasmas del Caribe,Bandolero Aventurero,21,21,6
+1994-04-09,25,Bachata Magic,Quedan Palabras,24,24,6
+1994-04-09,26,Los Fugitivos,La Loca,22,3,13
+1994-04-09,27,Yuri,Amiga Mia,29,27,3
+1994-04-09,28,Jerry Rivera,Cara De Nino,17,14,8
+1994-04-09,29,La Mafia,Vida,,29,1
+1994-04-09,30,Rocio Durcal,Mi Credo,25,25,4
+1994-04-09,31,Marta Sanchez,Desesperada,33,31,2
+1994-04-09,32,La Sonora Dinamita,El Apagon,38,32,2
+1994-04-09,33,Raphael,Se Muere Por Mi La Nina,36,33,3
+1994-04-09,34,Liberacion,Ese Loco Soy Yo,,18,11
+1994-04-09,35,Roxie Y Los Frijolitos,Es Hora De Amar,34,33,4
+1994-04-09,36,Sergio Dalma,Solo Para Ti,,36,1
+1994-04-09,37,Carlos Vives,La Gota Fria,,37,1
+1994-04-09,38,Paulina Rubio,Vuelve Junto A Mi,28,20,7
+1994-04-09,39,Frankie Ruiz,Hablame,31,23,8
+1994-04-09,40,Olga Tanon,Vendras Llorando,35,27,6
+1994-04-16,1,The Barrio Boyzz y Selena,Dondequiera Que Estes,1,1,11
+1994-04-16,2,Jose Luis Rodriguez,"Boca, Dulce Boca",3,2,10
+1994-04-16,3,Gloria Estefan,Mi Buen Amor,2,1,13
+1994-04-16,4,Cristian,Por Amor A Ti,4,4,10
+1994-04-16,5,Eduardo Palomo,Las Cuentas Claras,7,5,5
+1994-04-16,6,Ednita Nazario,Pensando Siempre En Ti,10,6,5
+1994-04-16,7,La Mafia,Vida,29,7,2
+1994-04-16,8,Mijares,Corazon Salvaje,12,8,4
+1994-04-16,9,Mana,La Chula,13,9,7
+1994-04-16,10,Pimpinela,Con Un Nudo En La Garganta,17,10,3
+1994-04-16,11,Yolandita Monge,A Pesar Del Tiempo,15,11,5
+1994-04-16,12,Luis Miguel,Hasta El Fin,8,4,11
+1994-04-16,13,Rey Ruiz,Mi Media Mitad,9,7,10
+1994-04-16,14,Ana Gabriel,Luna,5,1,20
+1994-04-16,15,Pandora,Mi Fracaso,6,6,10
+1994-04-16,16,Yuri,Amiga Mia,27,16,4
+1994-04-16,17,Edgar Joel,Como Sera?,20,17,5
+1994-04-16,18,Rocio Durcal,Mi Credo,30,18,5
+1994-04-16,19,Banda Machos,"Mi Luna, Mi Estrella",14,6,12
+1994-04-16,20,Mazz,El Juego Es Tuyo,11,9,9
+1994-04-16,21,Maggie Carles,Mi Doble Tu,19,13,11
+1994-04-16,22,Los Fantasmas del Caribe,Bandolero Aventurero,24,21,7
+1994-04-16,23,Lourdes Robles,Lo Amo,22,21,6
+1994-04-16,24,Alvaro Torres,Angel Caido,16,7,11
+1994-04-16,25,Marta Sanchez,Desesperada,31,25,3
+1994-04-16,26,La Sonora Dinamita,El Apagon,32,26,3
+1994-04-16,27,Roberto Carlos,Mujer Pequena,18,8,13
+1994-04-16,28,Los Temerarios,Tu Ultima Cancion,,28,1
+1994-04-16,29,Las Triplets,Las Llaves De Mi Corazon,21,14,10
+1994-04-16,30,Banda Vallarta Show,Pa' Yo,23,23,5
+1994-04-16,31,Raphael,Se Muere Por Mi La Nina,33,31,4
+1994-04-16,32,Bachata Magic,Quedan Palabras,25,24,7
+1994-04-16,33,Sergio Dalma,Solo Para Ti,36,33,2
+1994-04-16,34,Carlos Vives,La Gota Fria,37,34,2
+1994-04-16,35,Jerry Rivera,Cara De Nino,28,14,9
+1994-04-16,36,Vicente Fernandez,Ni Con La Vida Te Pago,,36,1
+1994-04-16,37,Los Toros Band,Dejame Participar En Tu Juego,,37,1
+1994-04-16,38,Willy Chirino,Rumbera,,38,1
+1994-04-16,39,Lucero,Cerca De Ti,,39,1
+1994-04-16,40,Liberacion,Ese Loco Soy Yo,34,18,12
+1994-04-23,1,The Barrio Boyzz y Selena,Dondequiera Que Estes,1,1,12
+1994-04-23,2,La Mafia,Vida,7,2,3
+1994-04-23,3,Jose Luis Rodriguez,"Boca, Dulce Boca",2,2,11
+1994-04-23,4,Ednita Nazario,Pensando Siempre En Ti,6,4,6
+1994-04-23,5,Pimpinela,Con Un Nudo En La Garganta,10,5,4
+1994-04-23,6,Cristian,Por Amor A Ti,4,4,11
+1994-04-23,7,Eduardo Palomo,Las Cuentas Claras,5,5,6
+1994-04-23,8,Gloria Estefan,Mi Buen Amor,3,1,14
+1994-04-23,9,Yuri,Amiga Mia,16,9,5
+1994-04-23,10,Mijares,Corazon Salvaje,8,8,5
+1994-04-23,11,Yolandita Monge,A Pesar Del Tiempo,11,11,6
+1994-04-23,12,Sergio Dalma,Solo Para Ti,33,12,3
+1994-04-23,13,Selena,Amor Prohibido,,13,1
+1994-04-23,14,Rocio Durcal,Mi Credo,18,14,6
+1994-04-23,15,Marta Sanchez,Desesperada,25,15,4
+1994-04-23,16,Raphael,Se Muere Por Mi La Nina,31,16,5
+1994-04-23,17,Lourdes Robles,Lo Amo,23,17,7
+1994-04-23,18,Mana,La Chula,9,9,8
+1994-04-23,19,Edgar Joel,Como Sera?,17,17,6
+1994-04-23,20,Carlos Vives,La Gota Fria,34,20,3
+1994-04-23,21,Los Temerarios,Tu Ultima Cancion,28,21,2
+1994-04-23,22,Banda Machos,"Mi Luna, Mi Estrella",19,6,13
+1994-04-23,23,La Sonora Dinamita,El Apagon,26,23,4
+1994-04-23,24,Maggie Carles,Mi Doble Tu,21,13,12
+1994-04-23,25,Ana Gabriel,Luna,14,1,21
+1994-04-23,26,Vicente Fernandez,Ni Con La Vida Te Pago,36,26,2
+1994-04-23,27,Marco Antonio Solis y Los Bukis,Y Yo Sin Ti,,27,1
+1994-04-23,28,Lucero,Cerca De Ti,39,28,2
+1994-04-23,29,Los Hermanos Rosario,Ay Que Mujer,,29,1
+1994-04-23,30,Pandora,Mi Fracaso,15,6,11
+1994-04-23,31,Luis Miguel,Hasta El Fin,12,4,12
+1994-04-23,32,Banda Vallarta Show,Pa' Yo,30,23,6
+1994-04-23,33,Mazz,El Juego Es Tuyo,20,9,10
+1994-04-23,34,Los Toros Band,Dejame Participar En Tu Juego,37,34,2
+1994-04-23,35,Hector Tricoche,Soy Culpable,,35,1
+1994-04-23,36,Las Triplets,Las Llaves De Mi Corazon,29,14,11
+1994-04-23,37,Liberacion,Ese Loco Soy Yo,40,18,13
+1994-04-23,38,Willy Chirino,Rumbera,38,38,2
+1994-04-23,39,Los Fantasmas del Caribe,Bandolero Aventurero,22,21,8
+1994-04-23,40,Rey Ruiz,Mi Media Mitad,13,7,11
+1994-04-30,1,The Barrio Boyzz y Selena,Dondequiera Que Estes,1,1,13
+1994-04-30,2,La Mafia,Vida,2,2,4
+1994-04-30,3,Pimpinela,Con Un Nudo En La Garganta,5,3,5
+1994-04-30,4,Ednita Nazario,Pensando Siempre En Ti,4,4,7
+1994-04-30,5,Selena,Amor Prohibido,13,5,2
+1994-04-30,6,Jose Luis Rodriguez,"Boca, Dulce Boca",3,2,12
+1994-04-30,7,Eduardo Palomo,Las Cuentas Claras,7,5,7
+1994-04-30,8,Carlos Vives,La Gota Fria,20,8,4
+1994-04-30,9,Yolandita Monge,A Pesar Del Tiempo,11,9,7
+1994-04-30,10,Sergio Dalma,Solo Para Ti,12,10,4
+1994-04-30,11,Yuri,Amiga Mia,9,9,6
+1994-04-30,12,Cristian,Por Amor A Ti,6,4,12
+1994-04-30,13,Mijares,Corazon Salvaje,10,8,6
+1994-04-30,14,Marta Sanchez,Desesperada,15,14,5
+1994-04-30,15,Rocio Durcal,Mi Credo,14,14,7
+1994-04-30,16,Raphael,Se Muere Por Mi La Nina,16,16,6
+1994-04-30,17,Ricardo Montaner,La Pequena Venezia,,17,1
+1994-04-30,18,Vicente Fernandez,Ni Con La Vida Te Pago,26,18,3
+1994-04-30,19,Los Temerarios,Tu Ultima Cancion,21,19,3
+1994-04-30,20,Hector Tricoche,Soy Culpable,35,20,2
+1994-04-30,21,Edgar Joel,Como Sera?,19,17,7
+1994-04-30,22,Ana Gabriel,Hablame De Frente,,22,1
+1994-04-30,23,Lucero,Cerca De Ti,28,23,3
+1994-04-30,24,Jerry Rivera,No Hieras Mi Vida,,24,1
+1994-04-30,25,Rey Ruiz,Luna Negra,,25,1
+1994-04-30,26,Lucero,Me Estas Quemando,,26,1
+1994-04-30,27,Mazz,Sin Ti No Puedo Vivir,,27,1
+1994-04-30,28,Banda Machos,"Mi Luna, Mi Estrella",22,6,14
+1994-04-30,29,Los Hermanos Rosario,Ay Que Mujer,29,29,2
+1994-04-30,30,Lourdes Robles,Lo Amo,17,17,8
+1994-04-30,31,Banda Superbandido,Macarena,,31,1
+1994-04-30,32,Los Toros Band,Dejame Participar En Tu Juego,34,32,3
+1994-04-30,33,Tiranos del Norte,Arrepientete,,33,1
+1994-04-30,34,Mana,La Chula,18,9,9
+1994-04-30,35,Maggie Carles,Mi Doble Tu,24,13,13
+1994-04-30,36,Liberacion,Ese Loco Soy Yo,37,18,14
+1994-04-30,37,Gloria Estefan,Mi Buen Amor,8,1,15
+1994-04-30,38,Marco Antonio Solis y Los Bukis,Y Yo Sin Ti,27,27,2
+1994-04-30,39,La Sonora Dinamita,El Apagon,23,23,5
+1994-04-30,40,Willy Chirino,Rumbera,38,38,3
+1994-05-07,1,La Mafia,Vida,2,1,5
+1994-05-07,2,Pimpinela,Con Un Nudo En La Garganta,3,2,6
+1994-05-07,3,Ednita Nazario,Pensando Siempre En Ti,4,3,8
+1994-05-07,4,Selena,Amor Prohibido,5,4,3
+1994-05-07,5,The Barrio Boyzz y Selena,Dondequiera Que Estes,1,1,14
+1994-05-07,6,Carlos Vives,La Gota Fria,8,6,5
+1994-05-07,7,Ana Gabriel,Hablame De Frente,22,7,2
+1994-05-07,8,Yolandita Monge,A Pesar Del Tiempo,9,8,8
+1994-05-07,9,Yuri,Amiga Mia,11,9,7
+1994-05-07,10,Marta Sanchez,Desesperada,14,10,6
+1994-05-07,11,Hector Tricoche,Soy Culpable,20,11,3
+1994-05-07,12,Sergio Dalma,Solo Para Ti,10,10,5
+1994-05-07,13,Eduardo Palomo,Las Cuentas Claras,7,5,8
+1994-05-07,14,Jose Luis Rodriguez,"Boca, Dulce Boca",6,2,13
+1994-05-07,15,Ricardo Montaner,La Pequena Venezia,17,15,2
+1994-05-07,16,Vicente Fernandez,Ni Con La Vida Te Pago,18,16,4
+1994-05-07,17,Jerry Rivera,No Hieras Mi Vida,24,17,2
+1994-05-07,18,Mijares,Corazon Salvaje,13,8,7
+1994-05-07,19,Gloria Estefan,Ayer,,19,1
+1994-05-07,20,Los Temerarios,Tu Ultima Cancion,19,19,4
+1994-05-07,21,Luis Miguel,Tu Y Yo,,21,1
+1994-05-07,22,Rey Ruiz,Luna Negra,25,22,2
+1994-05-07,23,Lucero,Me Estas Quemando,26,23,2
+1994-05-07,24,Rocio Durcal,Mi Credo,15,14,8
+1994-05-07,25,Mazz,Sin Ti No Puedo Vivir,27,25,2
+1994-05-07,26,Jesus Enriquez,De Que Manera Te Olvido,,26,1
+1994-05-07,27,Lucero,Cerca De Ti,23,23,4
+1994-05-07,28,Raphael,Se Muere Por Mi La Nina,16,16,7
+1994-05-07,29,Cristian,Por Amor A Ti,12,4,13
+1994-05-07,30,Los Hermanos Rosario,Ay Que Mujer,29,29,3
+1994-05-07,31,Lourdes Robles,Lo Amo,30,17,9
+1994-05-07,32,Tiranos del Norte,Arrepientete,33,32,2
+1994-05-07,33,Los Toros Band,Dejame Participar En Tu Juego,32,32,4
+1994-05-07,34,Olga Tanon,Presencie Tu Amor,,34,1
+1994-05-07,35,Marco Antonio Solis y Los Bukis,Y Yo Sin Ti,38,27,3
+1994-05-07,36,Luis Angel,Buena Fortuna,,36,1
+1994-05-07,37,Marc Anthony & India,Vivir Lo Nuestro,,37,1
+1994-05-07,38,Los Fugitivos,Mi Linda Amiga,,38,1
+1994-05-07,39,Edgar Joel,Como Sera?,21,17,8
+1994-05-07,40,Banda Superbandido,Macarena,31,31,2
+1994-05-14,1,Pimpinela,Con Un Nudo En La Garganta,2,1,7
+1994-05-14,2,La Mafia,Vida,1,1,6
+1994-05-14,3,Ednita Nazario,Pensando Siempre En Ti,3,3,9
+1994-05-14,4,Selena,Amor Prohibido,4,4,4
+1994-05-14,5,Ana Gabriel,Hablame De Frente,7,5,3
+1994-05-14,6,Carlos Vives,La Gota Fria,6,6,6
+1994-05-14,7,The Barrio Boyzz y Selena,Dondequiera Que Estes,5,1,15
+1994-05-14,8,Gloria Estefan,Ayer,19,8,2
+1994-05-14,9,Hector Tricoche,Soy Culpable,11,9,4
+1994-05-14,10,Yolandita Monge,A Pesar Del Tiempo,8,8,9
+1994-05-14,11,Marta Sanchez,Desesperada,10,10,7
+1994-05-14,12,Ricardo Montaner,La Pequena Venezia,15,12,3
+1994-05-14,13,Eduardo Palomo,Las Cuentas Claras,13,5,9
+1994-05-14,14,Luis Miguel,Tu Y Yo,21,14,2
+1994-05-14,15,Jerry Rivera,No Hieras Mi Vida,17,15,3
+1994-05-14,16,Sergio Dalma,Solo Para Ti,12,10,6
+1994-05-14,17,Yuri,Amiga Mia,9,9,8
+1994-05-14,18,Vicente Fernandez,Ni Con La Vida Te Pago,16,16,5
+1994-05-14,19,Mazz,Sin Ti No Puedo Vivir,25,19,3
+1994-05-14,20,Los Temerarios,Tu Ultima Cancion,20,19,5
+1994-05-14,21,Rey Ruiz,Luna Negra,22,21,3
+1994-05-14,22,Marco Antonio Solis y Los Bukis,Y Yo Sin Ti,35,22,4
+1994-05-14,23,Olga Tanon,Presencie Tu Amor,34,23,2
+1994-05-14,24,Luis Angel,Buena Fortuna,36,24,2
+1994-05-14,25,Mijares,Corazon Salvaje,18,8,8
+1994-05-14,26,Los Fugitivos,Mi Linda Amiga,38,26,2
+1994-05-14,27,Jesus Enriquez,De Que Manera Te Olvido,26,26,2
+1994-05-14,28,Jose Luis Rodriguez,"Boca, Dulce Boca",14,2,14
+1994-05-14,29,Lucero,Cerca De Ti,27,23,5
+1994-05-14,30,Tiranos del Norte,Arrepientete,32,30,3
+1994-05-14,31,Los Hermanos Rosario,Ay Que Mujer,30,29,4
+1994-05-14,32,Marc Anthony & India,Vivir Lo Nuestro,37,32,2
+1994-05-14,33,Raphael,Se Muere Por Mi La Nina,28,16,8
+1994-05-14,34,Tito Rojas,Senora De Madrugada,,34,1
+1994-05-14,35,Marcos Llunas,Vale La Pena,,35,1
+1994-05-14,36,Banda Superbandido,Macarena,40,31,3
+1994-05-14,37,Rocio Durcal,Mi Credo,24,14,9
+1994-05-14,38,Lucero,Me Estas Quemando,23,23,3
+1994-05-14,39,Eros Ramazzotti,Ya No Hay Fantasia,,39,1
+1994-05-14,40,Franco de Vita,Y Te Pienso,,40,1
+1994-05-21,1,La Mafia,Vida,2,1,7
+1994-05-21,2,Pimpinela,Con Un Nudo En La Garganta,1,1,8
+1994-05-21,3,Selena,Amor Prohibido,4,3,5
+1994-05-21,4,Ednita Nazario,Pensando Siempre En Ti,3,3,10
+1994-05-21,5,Ana Gabriel,Hablame De Frente,5,5,4
+1994-05-21,6,Carlos Vives,La Gota Fria,6,6,7
+1994-05-21,7,Gloria Estefan,Ayer,8,7,3
+1994-05-21,8,Los Fantasmas del Caribe,Mas Y Mas,,8,1
+1994-05-21,9,Luis Miguel,Tu Y Yo,14,9,3
+1994-05-21,10,Ricardo Montaner,La Pequena Venezia,12,10,4
+1994-05-21,11,Hector Tricoche,Soy Culpable,9,9,5
+1994-05-21,12,Jerry Rivera,No Hieras Mi Vida,15,12,4
+1994-05-21,13,Marta Sanchez,Desesperada,11,10,8
+1994-05-21,14,Rey Ruiz,Luna Negra,21,14,4
+1994-05-21,15,Sergio Dalma,Solo Para Ti,16,10,7
+1994-05-21,16,Marco Antonio Solis y Los Bukis,Y Yo Sin Ti,22,16,5
+1994-05-21,17,Los Fugitivos,Mi Linda Amiga,26,17,3
+1994-05-21,18,Mazz,Sin Ti No Puedo Vivir,19,18,4
+1994-05-21,19,Vicente Fernandez,Ni Con La Vida Te Pago,18,16,6
+1994-05-21,20,Olga Tanon,Presencie Tu Amor,23,20,3
+1994-05-21,21,Los Temerarios,Tu Ultima Cancion,20,19,6
+1994-05-21,22,Luis Angel,Buena Fortuna,24,22,3
+1994-05-21,23,Yuri,Amiga Mia,17,9,9
+1994-05-21,24,Lucero,Me Estas Quemando,38,23,4
+1994-05-21,25,Eduardo Palomo,Las Cuentas Claras,13,5,10
+1994-05-21,26,Marc Anthony & India,Vivir Lo Nuestro,32,26,3
+1994-05-21,27,Eros Ramazzotti,Ya No Hay Fantasia,39,27,2
+1994-05-21,28,Yolandita Monge,A Pesar Del Tiempo,10,8,10
+1994-05-21,29,Big Mountain,Baby Te Quiero A Ti,,29,1
+1994-05-21,30,Alvaro Torres,Tu Mejor Amigo,,30,1
+1994-05-21,31,Tito Rojas,Senora De Madrugada,34,31,2
+1994-05-21,32,Jesus Enriquez,De Que Manera Te Olvido,27,26,3
+1994-05-21,33,Marcos Llunas,Vale La Pena,35,33,2
+1994-05-21,34,The Barrio Boyzz y Selena,Dondequiera Que Estes,7,1,16
+1994-05-21,35,Lucero,Cerca De Ti,29,23,6
+1994-05-21,36,Franco de Vita,Y Te Pienso,40,36,2
+1994-05-21,37,Banda Superbandido,Macarena,36,31,4
+1994-05-21,38,Rocio Durcal,Mi Credo,37,14,10
+1994-05-21,39,Los Hermanos Rosario,Ay Que Mujer,31,29,5
+1994-05-21,40,Tiranos del Norte,Arrepientete,30,30,4
+1994-05-28,1,La Mafia,Vida,1,1,8
+1994-05-28,2,Pimpinela,Con Un Nudo En La Garganta,2,1,9
+1994-05-28,3,Selena,Amor Prohibido,3,3,6
+1994-05-28,4,Ednita Nazario,Pensando Siempre En Ti,4,3,11
+1994-05-28,5,Ana Gabriel,Hablame De Frente,5,5,5
+1994-05-28,6,Gloria Estefan,Ayer,7,6,4
+1994-05-28,7,Los Fantasmas del Caribe,Mas Y Mas,8,7,2
+1994-05-28,8,Luis Miguel,Tu Y Yo,9,8,4
+1994-05-28,9,Carlos Vives,La Gota Fria,6,6,8
+1994-05-28,10,Marta Sanchez,Desesperada,13,10,9
+1994-05-28,11,Mazz,Sin Ti No Puedo Vivir,18,11,5
+1994-05-28,12,Hector Tricoche,Soy Culpable,11,9,6
+1994-05-28,13,Los Fugitivos,Mi Linda Amiga,17,13,4
+1994-05-28,14,Olga Tanon,Presencie Tu Amor,20,14,4
+1994-05-28,15,Jerry Rivera,No Hieras Mi Vida,12,12,5
+1994-05-28,16,Rey Ruiz,Luna Negra,14,14,5
+1994-05-28,17,Marco Antonio Solis y Los Bukis,Y Yo Sin Ti,16,16,6
+1994-05-28,18,Luis Angel,Buena Fortuna,22,18,4
+1994-05-28,19,Vicente Fernandez,Ni Con La Vida Te Pago,19,16,7
+1994-05-28,20,Sergio Dalma,Solo Para Ti,15,10,8
+1994-05-28,21,Ricardo Montaner,La Pequena Venezia,10,10,5
+1994-05-28,22,Lucero,Me Estas Quemando,24,22,5
+1994-05-28,23,Los Temerarios,Tu Ultima Cancion,21,19,7
+1994-05-28,24,Eros Ramazzotti,Ya No Hay Fantasia,27,24,3
+1994-05-28,25,Big Mountain,Baby Te Quiero A Ti,29,25,2
+1994-05-28,26,Yuri,Amiga Mia,23,9,10
+1994-05-28,27,Marc Anthony & India,Vivir Lo Nuestro,26,26,4
+1994-05-28,28,Alvaro Torres,Tu Mejor Amigo,30,28,2
+1994-05-28,29,Banda Superbandido,Macarena,37,29,5
+1994-05-28,30,Los Titanes de Durango,Zodiaco,,30,1
+1994-05-28,31,The Barrio Boyzz,Una Noche De Amor,,31,1
+1994-05-28,32,Lucia Mendez,Caricias De Humo,,32,1
+1994-05-28,33,Marcos Llunas,Vale La Pena,33,33,3
+1994-05-28,34,Jessica Cristina,Te Siento,,34,1
+1994-05-28,35,Franco de Vita,Y Te Pienso,36,35,3
+1994-05-28,36,Tito Rojas,Senora De Madrugada,31,31,3
+1994-05-28,37,Tiranos del Norte,Arrepientete,40,30,5
+1994-05-28,38,Jon Secada,Si Te Vas,,38,1
+1994-05-28,39,Grupo Niche,Un Alto En El Camino,,39,1
+1994-05-28,40,Lucero,Cerca De Ti,35,23,7
+1994-06-04,1,La Mafia,Vida,1,1,9
+1994-06-04,2,Selena,Amor Prohibido,3,2,7
+1994-06-04,3,Pimpinela,Con Un Nudo En La Garganta,2,1,10
+1994-06-04,4,Luis Miguel,Tu Y Yo,8,4,5
+1994-06-04,5,Ana Gabriel,Hablame De Frente,5,5,6
+1994-06-04,6,Gloria Estefan,Ayer,6,6,5
+1994-06-04,7,Ednita Nazario,Pensando Siempre En Ti,4,3,12
+1994-06-04,8,Los Fantasmas del Caribe,Mas Y Mas,7,7,3
+1994-06-04,9,Carlos Vives,La Gota Fria,9,6,9
+1994-06-04,10,Los Fugitivos,Mi Linda Amiga,13,10,5
+1994-06-04,11,Olga Tanon,Presencie Tu Amor,14,11,5
+1994-06-04,12,Mazz,Sin Ti No Puedo Vivir,11,11,6
+1994-06-04,13,Vicente Fernandez,Ni Con La Vida Te Pago,19,13,8
+1994-06-04,14,Rey Ruiz,Luna Negra,16,14,6
+1994-06-04,15,Hector Tricoche,Soy Culpable,12,9,7
+1994-06-04,16,Jerry Rivera,No Hieras Mi Vida,15,12,6
+1994-06-04,17,Luis Angel,Buena Fortuna,18,17,5
+1994-06-04,18,Marta Sanchez,Desesperada,10,10,10
+1994-06-04,19,Marco Antonio Solis y Los Bukis,Y Yo Sin Ti,17,16,7
+1994-06-04,20,Big Mountain,Baby Te Quiero A Ti,25,20,3
+1994-06-04,21,Ricardo Montaner,La Pequena Venezia,21,10,6
+1994-06-04,22,Eros Ramazzotti,Ya No Hay Fantasia,24,22,4
+1994-06-04,23,Lucero,Me Estas Quemando,22,22,6
+1994-06-04,24,Sergio Dalma,Solo Para Ti,20,10,9
+1994-06-04,25,Marc Anthony & India,Vivir Lo Nuestro,27,25,5
+1994-06-04,26,Alvaro Torres,Tu Mejor Amigo,28,26,3
+1994-06-04,27,Los Titanes de Durango,Zodiaco,30,27,2
+1994-06-04,28,Jon Secada,Si Te Vas,38,28,2
+1994-06-04,29,The Barrio Boyzz,Una Noche De Amor,31,29,2
+1994-06-04,30,Jessica Cristina,Te Siento,34,30,2
+1994-06-04,31,Ricardo Arjona,Te Conozco,,31,1
+1994-06-04,32,Franco de Vita,Y Te Pienso,35,32,4
+1994-06-04,33,Lucia Mendez,Caricias De Humo,32,32,2
+1994-06-04,34,Los Temerarios,Tu Ultima Cancion,23,19,8
+1994-06-04,35,Grupo Niche,Un Alto En El Camino,39,35,2
+1994-06-04,36,Maggie Carles,Hoy Voy A Inventarte Mio,,36,1
+1994-06-04,37,Las Chicas del Can,Te Quiero Ver,,37,1
+1994-06-04,38,Banda Superbandido,Macarena,29,29,6
+1994-06-04,39,Yuri,Amiga Mia,26,9,11
+1994-06-04,40,Marcos Llunas,Vale La Pena,33,33,4
+1994-06-11,1,Selena,Amor Prohibido,2,1,8
+1994-06-11,2,La Mafia,Vida,1,1,10
+1994-06-11,3,Pimpinela,Con Un Nudo En La Garganta,3,1,11
+1994-06-11,4,Los Fantasmas del Caribe,Mas Y Mas,8,4,4
+1994-06-11,5,Luis Miguel,Tu Y Yo,4,4,6
+1994-06-11,6,Ana Gabriel,Hablame De Frente,5,5,7
+1994-06-11,7,Gloria Estefan,Ayer,6,6,6
+1994-06-11,8,Carlos Vives,La Gota Fria,9,6,10
+1994-06-11,9,Los Fugitivos,Mi Linda Amiga,10,9,6
+1994-06-11,10,Olga Tanon,Presencie Tu Amor,11,10,6
+1994-06-11,11,Jerry Rivera,No Hieras Mi Vida,16,11,7
+1994-06-11,12,Marc Anthony & India,Vivir Lo Nuestro,25,12,6
+1994-06-11,13,Rey Ruiz,Luna Negra,14,13,7
+1994-06-11,14,Hector Tricoche,Soy Culpable,15,9,8
+1994-06-11,15,Jon Secada,Si Te Vas,28,15,3
+1994-06-11,16,The Barrio Boyzz,Una Noche De Amor,29,16,3
+1994-06-11,17,Luis Angel,Buena Fortuna,17,17,6
+1994-06-11,18,Mazz,Sin Ti No Puedo Vivir,12,11,7
+1994-06-11,19,Vicente Fernandez,Ni Con La Vida Te Pago,13,13,9
+1994-06-11,20,Alvaro Torres,Tu Mejor Amigo,26,20,4
+1994-06-11,21,Ednita Nazario,Pensando Siempre En Ti,7,3,13
+1994-06-11,22,Marco Antonio Solis y Los Bukis,Y Yo Sin Ti,19,16,8
+1994-06-11,23,Ricardo Arjona,Te Conozco,31,23,2
+1994-06-11,24,Big Mountain,Baby Te Quiero A Ti,20,20,4
+1994-06-11,25,Los Titanes de Durango,Zodiaco,27,25,3
+1994-06-11,26,Las Chicas del Can,Te Quiero Ver,37,26,2
+1994-06-11,27,Maggie Carles,Hoy Voy A Inventarte Mio,36,27,2
+1994-06-11,28,Jessica Cristina,Te Siento,30,28,3
+1994-06-11,29,Pandora,El Canalla,,29,1
+1994-06-11,30,Marta Sanchez,Desesperada,18,10,11
+1994-06-11,31,Franco de Vita,Y Te Pienso,32,31,5
+1994-06-11,32,Los Tigres del Norte,Si No Me Falla El Corazon,,32,1
+1994-06-11,33,Las Triplets,Mi Mundo Entero,,33,1
+1994-06-11,34,Lucero,Me Estas Quemando,23,22,7
+1994-06-11,35,Sergio Dalma,Solo Para Ti,24,10,10
+1994-06-11,36,Lucia Mendez,Caricias De Humo,33,32,3
+1994-06-11,37,Ricardo Montaner,La Pequena Venezia,21,10,7
+1994-06-11,38,Grupo Niche,Un Alto En El Camino,35,35,3
+1994-06-11,39,Los Temerarios,Tu Ultima Cancion,34,19,9
+1994-06-11,40,Eros Ramazzotti,Ya No Hay Fantasia,22,22,5
+1994-06-18,1,Selena,Amor Prohibido,1,1,9
+1994-06-18,2,La Mafia,Vida,2,1,11
+1994-06-18,3,Los Fantasmas del Caribe,Mas Y Mas,4,3,5
+1994-06-18,4,Luis Miguel,Tu Y Yo,5,4,7
+1994-06-18,5,Ana Gabriel,Hablame De Frente,6,5,8
+1994-06-18,6,Gloria Estefan,Ayer,7,6,7
+1994-06-18,7,Pimpinela,Con Un Nudo En La Garganta,3,1,12
+1994-06-18,8,Jon Secada,Si Te Vas,15,8,4
+1994-06-18,9,Olga Tanon,Presencie Tu Amor,10,9,7
+1994-06-18,10,The Barrio Boyzz,Una Noche De Amor,16,10,4
+1994-06-18,11,Marc Anthony & India,Vivir Lo Nuestro,12,11,7
+1994-06-18,12,Carlos Vives,La Gota Fria,8,6,11
+1994-06-18,13,Los Fugitivos,Mi Linda Amiga,9,9,7
+1994-06-18,14,Hector Tricoche,Soy Culpable,14,9,9
+1994-06-18,15,Alvaro Torres,Tu Mejor Amigo,20,15,5
+1994-06-18,16,Rey Ruiz,Luna Negra,13,13,8
+1994-06-18,17,Jerry Rivera,No Hieras Mi Vida,11,11,8
+1994-06-18,18,Mazz,Sin Ti No Puedo Vivir,18,11,8
+1994-06-18,19,Ricardo Arjona,Te Conozco,23,19,3
+1994-06-18,20,Marco Antonio Solis y Los Bukis,Y Yo Sin Ti,22,16,9
+1994-06-18,21,Luis Angel,Buena Fortuna,17,17,7
+1994-06-18,22,Los Titanes de Durango,Zodiaco,25,22,4
+1994-06-18,23,Vicente Fernandez,Ni Con La Vida Te Pago,19,13,10
+1994-06-18,24,Maggie Carles,Hoy Voy A Inventarte Mio,27,24,3
+1994-06-18,25,Big Mountain,Baby Te Quiero A Ti,24,20,5
+1994-06-18,26,Pandora,El Canalla,29,26,2
+1994-06-18,27,Ricardo Montaner,Quisiera,,27,1
+1994-06-18,28,Las Chicas del Can,Te Quiero Ver,26,26,3
+1994-06-18,29,Yolandita Monge,Como Puedes,,29,1
+1994-06-18,30,Ednita Nazario,Pensando Siempre En Ti,21,3,14
+1994-06-18,31,Jessica Cristina,Te Siento,28,28,4
+1994-06-18,32,Las Triplets,Mi Mundo Entero,33,32,2
+1994-06-18,33,Tito Rojas,Lo Que Te Queda,,33,1
+1994-06-18,34,Los Tigres del Norte,Si No Me Falla El Corazon,32,32,2
+1994-06-18,35,Grupo Niche,Un Alto En El Camino,38,35,4
+1994-06-18,36,Braulio,Esta Clase De Amor,,36,1
+1994-06-18,37,Los Temerarios,La Mujer Que Sone,,37,1
+1994-06-18,38,Franco de Vita,Y Te Pienso,31,31,6
+1994-06-18,39,Lucero,Me Estas Quemando,34,22,8
+1994-06-18,40,Los Temerarios,Tu Ultima Cancion,39,19,10
+1994-06-25,1,Selena,Amor Prohibido,1,1,10
+1994-06-25,2,La Mafia,Vida,2,1,12
+1994-06-25,3,Los Fantasmas del Caribe,Mas Y Mas,3,3,6
+1994-06-25,4,Luis Miguel,Tu Y Yo,4,4,8
+1994-06-25,5,Gloria Estefan,Ayer,6,5,8
+1994-06-25,6,Ana Gabriel,Hablame De Frente,5,5,9
+1994-06-25,7,Jon Secada,Si Te Vas,8,7,5
+1994-06-25,8,Pimpinela,Con Un Nudo En La Garganta,7,1,13
+1994-06-25,9,The Barrio Boyzz,Una Noche De Amor,10,9,5
+1994-06-25,10,Marc Anthony & India,Vivir Lo Nuestro,11,10,8
+1994-06-25,11,Alvaro Torres,Tu Mejor Amigo,15,11,6
+1994-06-25,12,Olga Tanon,Presencie Tu Amor,9,9,8
+1994-06-25,13,Los Fugitivos,Mi Linda Amiga,13,9,8
+1994-06-25,14,Ricardo Arjona,Te Conozco,19,14,4
+1994-06-25,15,Mazz,Sin Ti No Puedo Vivir,18,11,9
+1994-06-25,16,Carlos Vives,La Gota Fria,12,6,12
+1994-06-25,17,Los Titanes de Durango,Zodiaco,22,17,5
+1994-06-25,18,Hector Tricoche,Soy Culpable,14,9,10
+1994-06-25,19,Big Mountain,Baby Te Quiero A Ti,25,19,6
+1994-06-25,20,Ricardo Montaner,Quisiera,27,20,2
+1994-06-25,21,Pandora,El Canalla,26,21,3
+1994-06-25,22,Yolandita Monge,Como Puedes,29,22,2
+1994-06-25,23,Tito Rojas,Lo Que Te Queda,33,23,2
+1994-06-25,24,Vicente Fernandez,Ni Con La Vida Te Pago,23,13,11
+1994-06-25,25,Bronco: El Gigante De America,Pastillas De Amor,,25,1
+1994-06-25,26,Marco Antonio Solis y Los Bukis,Y Yo Sin Ti,20,16,10
+1994-06-25,27,Maggie Carles,Hoy Voy A Inventarte Mio,24,24,4
+1994-06-25,28,Jerry Rivera,No Hieras Mi Vida,17,11,9
+1994-06-25,29,Rey Ruiz,Luna Negra,16,13,9
+1994-06-25,30,Los Temerarios,La Mujer Que Sone,37,30,2
+1994-06-25,31,Las Triplets,Mi Mundo Entero,32,31,3
+1994-06-25,32,Luis Angel,Buena Fortuna,21,17,8
+1994-06-25,33,Lorenzo Antonio,"Cuando, Como Y Porque",,33,1
+1994-06-25,34,Tony Vega,Ella Es,,34,1
+1994-06-25,35,Julio Iglesias,Crazy,,35,1
+1994-06-25,36,Ednita Nazario,Pensando Siempre En Ti,30,3,15
+1994-06-25,37,Grupo Niche,Un Alto En El Camino,35,35,5
+1994-06-25,38,Los Tigres del Norte,Si No Me Falla El Corazon,34,32,3
+1994-06-25,39,Braulio,Esta Clase De Amor,36,36,2
+1994-06-25,40,Las Chicas del Can,Te Quiero Ver,28,26,4
+1994-07-02,1,Selena,Amor Prohibido,1,1,11
+1994-07-02,2,La Mafia,Vida,2,1,13
+1994-07-02,3,Los Fantasmas del Caribe,Mas Y Mas,3,3,7
+1994-07-02,4,Luis Miguel,Tu Y Yo,4,4,9
+1994-07-02,5,Jon Secada,Si Te Vas,7,5,6
+1994-07-02,6,Gloria Estefan,Ayer,5,5,9
+1994-07-02,7,Ana Gabriel,Hablame De Frente,6,5,10
+1994-07-02,8,The Barrio Boyzz,Una Noche De Amor,9,8,6
+1994-07-02,9,Olga Tanon,Presencie Tu Amor,12,9,9
+1994-07-02,10,Ricardo Montaner,Quisiera,20,10,3
+1994-07-02,11,Alvaro Torres,Tu Mejor Amigo,11,11,7
+1994-07-02,12,Ricardo Arjona,Te Conozco,14,12,5
+1994-07-02,13,Marc Anthony & India,Vivir Lo Nuestro,10,10,9
+1994-07-02,14,Pandora,El Canalla,21,14,4
+1994-07-02,15,Tony Vega,Ella Es,34,15,2
+1994-07-02,16,Marco Antonio Solis y Los Bukis,Y Yo Sin Ti,26,16,11
+1994-07-02,17,Los Titanes de Durango,Zodiaco,17,17,6
+1994-07-02,18,ViceVersa,Ella,,18,1
+1994-07-02,19,Lorenzo Antonio,"Cuando, Como Y Porque",33,19,2
+1994-07-02,20,Bronco: El Gigante De America,Pastillas De Amor,25,20,2
+1994-07-02,21,Yolandita Monge,Como Puedes,22,21,3
+1994-07-02,22,Tito Rojas,Lo Que Te Queda,23,22,3
+1994-07-02,23,Los Fugitivos,Mi Linda Amiga,13,9,9
+1994-07-02,24,Big Mountain,Baby Te Quiero A Ti,19,19,7
+1994-07-02,25,Maggie Carles,Hoy Voy A Inventarte Mio,27,24,5
+1994-07-02,26,Julio Iglesias,Crazy,35,26,2
+1994-07-02,27,Las Triplets,Mi Mundo Entero,31,27,4
+1994-07-02,28,Los Temerarios,La Mujer Que Sone,30,28,3
+1994-07-02,29,Pimpinela,Con Un Nudo En La Garganta,8,1,14
+1994-07-02,30,Carlos Vives,La Gota Fria,16,6,13
+1994-07-02,31,Braulio,Esta Clase De Amor,39,31,3
+1994-07-02,32,Vicente Fernandez,Ni Con La Vida Te Pago,24,13,12
+1994-07-02,33,Hector Tricoche,Soy Culpable,18,9,11
+1994-07-02,34,Grupo Niche,Un Alto En El Camino,37,34,6
+1994-07-02,35,Veronica Castro,Tu La Tienes Que Pagar,,35,1
+1994-07-02,36,Los Tigres del Norte,Los Dos Plebes,,36,1
+1994-07-02,37,Mazz,Sin Ti No Puedo Vivir,15,11,10
+1994-07-02,38,Kairo,En Los Espejos De Un Cafe,,38,1
+1994-07-02,39,Luis Angel,Buena Fortuna,32,17,9
+1994-07-02,40,Ednita Nazario,Pensando Siempre En Ti,36,3,16
+1994-07-09,1,Selena,Amor Prohibido,1,1,12
+1994-07-09,2,La Mafia,Vida,2,1,14
+1994-07-09,3,Los Fantasmas del Caribe,Mas Y Mas,3,3,8
+1994-07-09,4,Jon Secada,Si Te Vas,5,4,7
+1994-07-09,5,Luis Miguel,Tu Y Yo,4,4,10
+1994-07-09,6,Gloria Estefan,Ayer,6,5,10
+1994-07-09,7,Ricardo Arjona,Te Conozco,12,7,6
+1994-07-09,8,Ana Gabriel,Hablame De Frente,7,5,11
+1994-07-09,9,Ricardo Montaner,Quisiera,10,9,4
+1994-07-09,10,The Barrio Boyzz,Una Noche De Amor,8,8,7
+1994-07-09,11,Olga Tanon,Presencie Tu Amor,9,9,10
+1994-07-09,12,Alvaro Torres,Tu Mejor Amigo,11,11,8
+1994-07-09,13,Marc Anthony & India,Vivir Lo Nuestro,13,10,10
+1994-07-09,14,Tony Vega,Ella Es,15,14,3
+1994-07-09,15,Pandora,El Canalla,14,14,5
+1994-07-09,16,ViceVersa,Ella,18,16,2
+1994-07-09,17,Juan Gabriel,Pero Que Necesidad,,17,1
+1994-07-09,18,Lorenzo Antonio,"Cuando, Como Y Porque",19,18,3
+1994-07-09,19,Julio Iglesias,Crazy,26,19,3
+1994-07-09,20,Tito Rojas,Lo Que Te Queda,22,20,4
+1994-07-09,21,Kairo,En Los Espejos De Un Cafe,38,21,2
+1994-07-09,22,Bronco: El Gigante De America,Pastillas De Amor,20,20,3
+1994-07-09,23,Los Titanes de Durango,Zodiaco,17,17,7
+1994-07-09,24,Marco Antonio Solis y Los Bukis,Y Yo Sin Ti,16,16,12
+1994-07-09,25,Veronica Castro,Tu La Tienes Que Pagar,35,25,2
+1994-07-09,26,Los Temerarios,La Mujer Que Sone,28,26,4
+1994-07-09,27,Los Tigres del Norte,Los Dos Plebes,36,27,2
+1994-07-09,28,Yolandita Monge,Como Puedes,21,21,4
+1994-07-09,29,Braulio,Esta Clase De Amor,31,29,4
+1994-07-09,30,Las Triplets,Mi Mundo Entero,27,27,5
+1994-07-09,31,Industria del Amor,Dos Enamorados,,31,1
+1994-07-09,32,Grupo Niche,Un Alto En El Camino,34,32,7
+1994-07-09,33,Maggie Carles,Hoy Voy A Inventarte Mio,25,24,6
+1994-07-09,34,Marco Antonio Solis y Los Bukis,A Aquella,,34,1
+1994-07-09,35,Luis Angel,Buena Fortuna,39,17,10
+1994-07-09,36,Lalo Y Los Descalzos,El Hijo Del Amor,,36,1
+1994-07-09,37,"Antonio Aguilar, Hijo",Por Ti No Voy A Llorar,,37,1
+1994-07-09,38,Big Mountain,Baby Te Quiero A Ti,24,19,8
+1994-07-09,39,Los Fugitivos,Diablo,,39,1
+1994-07-09,40,Wichy Camacho,Daria El Alma,,40,1
+1994-07-16,1,Selena,Amor Prohibido,1,1,13
+1994-07-16,2,Jon Secada,Si Te Vas,4,2,8
+1994-07-16,3,La Mafia,Vida,2,1,15
+1994-07-16,4,Ricardo Montaner,Quisiera,9,4,5
+1994-07-16,5,Los Fantasmas del Caribe,Mas Y Mas,3,3,9
+1994-07-16,6,Ricardo Arjona,Te Conozco,7,6,7
+1994-07-16,7,Luis Miguel,Tu Y Yo,5,4,11
+1994-07-16,8,Juan Gabriel,Pero Que Necesidad,17,8,2
+1994-07-16,9,The Barrio Boyzz,Una Noche De Amor,10,8,8
+1994-07-16,10,Tony Vega,Ella Es,14,10,4
+1994-07-16,11,Gloria Estefan,Ayer,6,5,11
+1994-07-16,12,Lorenzo Antonio,"Cuando, Como Y Porque",18,12,4
+1994-07-16,13,Ana Gabriel,Hablame De Frente,8,5,12
+1994-07-16,14,ViceVersa,Ella,16,14,3
+1994-07-16,15,Alvaro Torres,Tu Mejor Amigo,12,11,9
+1994-07-16,16,Pandora,El Canalla,15,14,6
+1994-07-16,17,Julio Iglesias,Crazy,19,17,4
+1994-07-16,18,Kairo,En Los Espejos De Un Cafe,21,18,3
+1994-07-16,19,Marco Antonio Solis y Los Bukis,A Aquella,34,19,2
+1994-07-16,20,"Antonio Aguilar, Hijo",Por Ti No Voy A Llorar,37,20,2
+1994-07-16,21,Lisa Lisa,Cuando Me Enamore,,21,1
+1994-07-16,22,Marc Anthony & India,Vivir Lo Nuestro,13,10,11
+1994-07-16,23,Various Artists,Merengue Mix,,23,1
+1994-07-16,24,Veronica Castro,Tu La Tienes Que Pagar,25,24,3
+1994-07-16,25,Los Fugitivos,Diablo,39,25,2
+1994-07-16,26,Industria del Amor,Dos Enamorados,31,26,2
+1994-07-16,27,Los Tigres del Norte,Los Dos Plebes,27,27,3
+1994-07-16,28,Olga Tanon,Presencie Tu Amor,11,9,11
+1994-07-16,29,Wichy Camacho,Daria El Alma,40,29,2
+1994-07-16,30,Bronco: El Gigante De America,Pastillas De Amor,22,20,4
+1994-07-16,31,Lalo Y Los Descalzos,El Hijo Del Amor,36,31,2
+1994-07-16,32,Carlos Vives,Alicia Adorada,,32,1
+1994-07-16,33,Unik-ko,Reasons (Razones),,33,1
+1994-07-16,34,Graciela Beltran,Pilares De Cristal,,34,1
+1994-07-16,35,Yolandita Monge,Como Puedes,28,21,5
+1994-07-16,36,Los Invasores de Nuevo Leon,Playa Sola,,36,1
+1994-07-16,37,Las Triplets,Mi Mundo Entero,30,27,6
+1994-07-16,38,Tito Rojas,Lo Que Te Queda,20,20,5
+1994-07-16,39,Los Temerarios,La Mujer Que Sone,26,26,5
+1994-07-16,40,Grupo Niche,Un Alto En El Camino,32,32,8
+1994-07-23,1,Selena,Amor Prohibido,1,1,14
+1994-07-23,2,Jon Secada,Si Te Vas,2,2,9
+1994-07-23,3,Ricardo Montaner,Quisiera,4,3,6
+1994-07-23,4,La Mafia,Vida,3,1,16
+1994-07-23,5,Ricardo Arjona,Te Conozco,6,5,8
+1994-07-23,6,Juan Gabriel,Pero Que Necesidad,8,6,3
+1994-07-23,7,Los Fantasmas del Caribe,Mas Y Mas,5,3,10
+1994-07-23,8,The Barrio Boyzz,Una Noche De Amor,9,8,9
+1994-07-23,9,Tony Vega,Ella Es,10,9,5
+1994-07-23,10,Luis Miguel,Tu Y Yo,7,4,12
+1994-07-23,11,Julio Iglesias,Crazy,17,11,5
+1994-07-23,12,Kairo,En Los Espejos De Un Cafe,18,12,4
+1994-07-23,13,Lorenzo Antonio,"Cuando, Como Y Porque",12,12,5
+1994-07-23,14,ViceVersa,Ella,14,14,4
+1994-07-23,15,Gloria Estefan,Ayer,11,5,12
+1994-07-23,16,Pandora,El Canalla,16,14,7
+1994-07-23,17,Los Fugitivos,Diablo,25,17,3
+1994-07-23,18,Marco Antonio Solis y Los Bukis,A Aquella,19,18,3
+1994-07-23,19,Lisa Lisa,Cuando Me Enamore,21,19,2
+1994-07-23,20,Alvaro Torres,Tu Mejor Amigo,15,11,10
+1994-07-23,21,"Antonio Aguilar, Hijo",Por Ti No Voy A Llorar,20,20,3
+1994-07-23,22,Industria del Amor,Dos Enamorados,26,22,3
+1994-07-23,23,Various Artists,Merengue Mix,23,23,2
+1994-07-23,24,Wichy Camacho,Daria El Alma,29,24,3
+1994-07-23,25,Ana Gabriel,Hablame De Frente,13,5,13
+1994-07-23,26,Edgar Joel,Lo Que No Harias Por Amor,,26,1
+1994-07-23,27,Veronica Castro,Tu La Tienes Que Pagar,24,24,4
+1994-07-23,28,Marcos Llunas,Para Olvidar,,28,1
+1994-07-23,29,Marc Anthony & India,Vivir Lo Nuestro,22,10,12
+1994-07-23,30,Carlos Vives,Alicia Adorada,32,30,2
+1994-07-23,31,Tiranos del Norte,Extrana Manera,,31,1
+1994-07-23,32,Bronco: El Gigante De America,Pastillas De Amor,30,20,5
+1994-07-23,33,Juan Luis Guerra 440,La Cosquillita,,33,1
+1994-07-23,34,Graciela Beltran,Pilares De Cristal,34,34,2
+1994-07-23,35,Pimpinela,Hay Amores Que Matan,,35,1
+1994-07-23,36,Di Blasio,Hasta Que Te Conoci,,36,1
+1994-07-23,37,Los Tigres del Norte,Los Dos Plebes,27,27,4
+1994-07-23,38,Olga Tanon,Presencie Tu Amor,28,9,12
+1994-07-23,39,Lalo Y Los Descalzos,El Hijo Del Amor,31,31,3
+1994-07-23,40,Los Invasores de Nuevo Leon,Playa Sola,36,36,2
+1994-07-30,1,Selena,Amor Prohibido,1,1,15
+1994-07-30,2,Jon Secada,Si Te Vas,2,2,10
+1994-07-30,3,Ricardo Arjona,Te Conozco,5,3,9
+1994-07-30,4,Ricardo Montaner,Quisiera,3,3,7
+1994-07-30,5,Juan Gabriel,Pero Que Necesidad,6,5,4
+1994-07-30,6,The Barrio Boyzz,Una Noche De Amor,8,6,10
+1994-07-30,7,La Mafia,Vida,4,1,17
+1994-07-30,8,Tony Vega,Ella Es,9,8,6
+1994-07-30,9,Los Fugitivos,Diablo,17,9,4
+1994-07-30,10,Los Fantasmas del Caribe,Mas Y Mas,7,3,11
+1994-07-30,11,Kairo,En Los Espejos De Un Cafe,12,11,5
+1994-07-30,12,Julio Iglesias,Crazy,11,11,6
+1994-07-30,13,ViceVersa,Ella,14,13,5
+1994-07-30,14,Juan Luis Guerra 440,La Cosquillita,33,14,2
+1994-07-30,15,Lorenzo Antonio,"Cuando, Como Y Porque",13,12,6
+1994-07-30,16,Lisa Lisa,Cuando Me Enamore,19,16,3
+1994-07-30,17,Industria del Amor,Dos Enamorados,22,17,4
+1994-07-30,18,Various Artists,Merengue Mix,23,18,3
+1994-07-30,19,Luis Miguel,Tu Y Yo,10,4,13
+1994-07-30,20,Marcos Llunas,Para Olvidar,28,20,2
+1994-07-30,21,Marco Antonio Solis y Los Bukis,A Aquella,18,18,4
+1994-07-30,22,Alejandro Fernandez,Si Dios Me Quita La Vida,,22,1
+1994-07-30,23,Pandora,El Canalla,16,14,8
+1994-07-30,24,Wichy Camacho,Daria El Alma,24,24,4
+1994-07-30,25,Carlos Vives,Alicia Adorada,30,25,3
+1994-07-30,26,Veronica Castro,Tu La Tienes Que Pagar,27,24,5
+1994-07-30,27,Tiranos del Norte,Extrana Manera,31,27,2
+1994-07-30,28,"Antonio Aguilar, Hijo",Por Ti No Voy A Llorar,21,20,4
+1994-07-30,29,Gerardo,Maria Elisa,,29,1
+1994-07-30,30,Pimpinela,Hay Amores Que Matan,35,30,2
+1994-07-30,31,Edgar Joel,Lo Que No Harias Por Amor,26,26,2
+1994-07-30,32,La Mafia,Cada Vuelta De Esquina,,32,1
+1994-07-30,33,Graciela Beltran,Pilares De Cristal,34,33,3
+1994-07-30,34,Gloria Estefan,Ayer,15,5,13
+1994-07-30,35,Rey Ruiz,Si Te Preguntan,,35,1
+1994-07-30,36,Gilberto Santa Rosa,Me Volvieron A Hablar De Ella,,36,1
+1994-07-30,37,Di Blasio,Hasta Que Te Conoci,36,36,2
+1994-07-30,38,Cheito,El Baile De La Vela,,38,1
+1994-07-30,39,Alvaro Torres,Tu Mejor Amigo,20,11,11
+1994-07-30,40,Ana Gabriel,Hablame De Frente,25,5,14
+1994-08-06,1,Selena,Amor Prohibido,1,1,16
+1994-08-06,2,Jon Secada,Si Te Vas,2,2,11
+1994-08-06,3,Ricardo Montaner,Quisiera,4,3,8
+1994-08-06,4,Juan Gabriel,Pero Que Necesidad,5,4,5
+1994-08-06,5,Ricardo Arjona,Te Conozco,3,3,10
+1994-08-06,6,Los Fugitivos,Diablo,9,6,5
+1994-08-06,7,The Barrio Boyzz,Una Noche De Amor,6,6,11
+1994-08-06,8,Tony Vega,Ella Es,8,8,7
+1994-08-06,9,Kairo,En Los Espejos De Un Cafe,11,9,6
+1994-08-06,10,La Mafia,Vida,7,1,18
+1994-08-06,11,Julio Iglesias,Crazy,12,11,7
+1994-08-06,12,Lorenzo Antonio,"Cuando, Como Y Porque",15,12,7
+1994-08-06,13,Juan Luis Guerra 440,La Cosquillita,14,13,3
+1994-08-06,14,ViceVersa,Ella,13,13,6
+1994-08-06,15,Industria del Amor,Dos Enamorados,17,15,5
+1994-08-06,16,Various Artists,Merengue Mix,18,16,4
+1994-08-06,17,Marcos Llunas,Para Olvidar,20,17,3
+1994-08-06,18,Gerardo,Maria Elisa,29,18,2
+1994-08-06,19,Pimpinela,Hay Amores Que Matan,30,19,3
+1994-08-06,20,La Mafia,Cada Vuelta De Esquina,32,20,2
+1994-08-06,21,Marco Antonio Solis y Los Bukis,A Aquella,21,18,5
+1994-08-06,22,Edgar Joel,Lo Que No Harias Por Amor,31,22,3
+1994-08-06,23,"Antonio Aguilar, Hijo",Por Ti No Voy A Llorar,28,20,5
+1994-08-06,24,Alejandro Fernandez,Si Dios Me Quita La Vida,22,22,2
+1994-08-06,25,Cheito,El Baile De La Vela,38,25,2
+1994-08-06,26,Pandora,El Canalla,23,14,9
+1994-08-06,27,Tiranos del Norte,Extrana Manera,27,27,3
+1994-08-06,28,Vicente Fernandez,Miseria,,28,1
+1994-08-06,29,Veronica Castro,Tu La Tienes Que Pagar,26,24,6
+1994-08-06,30,Rey Ruiz,Si Te Preguntan,35,30,2
+1994-08-06,31,Carlos Vives,Alicia Adorada,25,25,4
+1994-08-06,32,Los Fantasmas del Caribe,Celina,,32,1
+1994-08-06,33,Wichy Camacho,Daria El Alma,24,24,5
+1994-08-06,34,Ana Gabriel,Estas Emociones,,34,1
+1994-08-06,35,Hector Tricoche,Ese Soy Yo,,35,1
+1994-08-06,36,Graciela Beltran,Pilares De Cristal,33,33,4
+1994-08-06,37,Luis Miguel,Tu Y Yo,19,4,14
+1994-08-06,38,Gilberto Santa Rosa,Me Volvieron A Hablar De Ella,36,36,2
+1994-08-06,39,Lisa Lisa,Cuando Me Enamore,16,16,4
+1994-08-06,40,Los Fantasmas del Caribe,Mas Y Mas,10,3,12
+1994-08-13,1,Jon Secada,Si Te Vas,2,1,12
+1994-08-13,2,Ricardo Montaner,Quisiera,3,2,9
+1994-08-13,3,Juan Gabriel,Pero Que Necesidad,4,3,6
+1994-08-13,4,Selena,Amor Prohibido,1,1,17
+1994-08-13,5,Ricardo Arjona,Te Conozco,5,3,11
+1994-08-13,6,Los Fugitivos,Diablo,6,6,6
+1994-08-13,7,Tony Vega,Ella Es,8,7,8
+1994-08-13,8,The Barrio Boyzz,Una Noche De Amor,7,6,12
+1994-08-13,9,Kairo,En Los Espejos De Un Cafe,9,9,7
+1994-08-13,10,ViceVersa,Ella,14,10,7
+1994-08-13,11,Julio Iglesias,Crazy,11,11,8
+1994-08-13,12,Juan Luis Guerra 440,La Cosquillita,13,12,4
+1994-08-13,13,Lorenzo Antonio,"Cuando, Como Y Porque",12,12,8
+1994-08-13,14,Marcos Llunas,Para Olvidar,17,14,4
+1994-08-13,15,Various Artists,Merengue Mix,16,15,5
+1994-08-13,16,Industria del Amor,Dos Enamorados,15,15,6
+1994-08-13,17,La Mafia,Vida,10,1,19
+1994-08-13,18,Pimpinela,Hay Amores Que Matan,19,18,4
+1994-08-13,19,Alejandro Fernandez,Si Dios Me Quita La Vida,24,19,3
+1994-08-13,20,Los Fantasmas del Caribe,Celina,32,20,2
+1994-08-13,21,Gerardo,Maria Elisa,18,18,3
+1994-08-13,22,Vicente Fernandez,Miseria,28,22,2
+1994-08-13,23,Edgar Joel,Lo Que No Harias Por Amor,22,22,4
+1994-08-13,24,La Mafia,Cada Vuelta De Esquina,20,20,3
+1994-08-13,25,"Antonio Aguilar, Hijo",Por Ti No Voy A Llorar,23,20,6
+1994-08-13,26,Rey Ruiz,Si Te Preguntan,30,26,3
+1994-08-13,27,Gilberto Santa Rosa,Me Volvieron A Hablar De Ella,38,27,3
+1994-08-13,28,Ana Gabriel,Estas Emociones,34,28,2
+1994-08-13,29,Cheito,El Baile De La Vela,25,25,3
+1994-08-13,30,Selena,Bidi Bidi Bom Bom,,30,1
+1994-08-13,31,Jerry Rivera,Dia Y Noche Pienso En Ella,,31,1
+1994-08-13,32,Marco Antonio Solis y Los Bukis,A Aquella,21,18,6
+1994-08-13,33,Banda Z,La Nina Fresa,,33,1
+1994-08-13,34,Hector Tricoche,Ese Soy Yo,35,34,2
+1994-08-13,35,Wichy Camacho,Daria El Alma,33,24,6
+1994-08-13,36,Grupo Mojado,Me Muero Sin Ti,,36,1
+1994-08-13,37,Pandora,El Canalla,26,14,10
+1994-08-13,38,Mazz,Nadie Como Tu,,38,1
+1994-08-13,39,Los Toros Band,Dejala Mia,,39,1
+1994-08-13,40,Graciela Beltran,Pilares De Cristal,36,33,5
+1994-08-20,1,Jon Secada,Si Te Vas,1,1,13
+1994-08-20,2,Juan Gabriel,Pero Que Necesidad,3,2,7
+1994-08-20,3,Ricardo Montaner,Quisiera,2,2,10
+1994-08-20,4,Ricardo Arjona,Te Conozco,5,3,12
+1994-08-20,5,Los Fugitivos,Diablo,6,5,7
+1994-08-20,6,Selena,Amor Prohibido,4,1,18
+1994-08-20,7,Juan Luis Guerra 440,La Cosquillita,12,7,5
+1994-08-20,8,Selena,Bidi Bidi Bom Bom,30,8,2
+1994-08-20,9,Julio Iglesias,Crazy,11,9,9
+1994-08-20,10,Luis Miguel,El Dia Que Me Quieras,,10,1
+1994-08-20,11,Los Fantasmas del Caribe,Celina,20,11,3
+1994-08-20,12,Tony Vega,Ella Es,7,7,9
+1994-08-20,13,Lorenzo Antonio,"Cuando, Como Y Porque",13,12,9
+1994-08-20,14,Vicente Fernandez,Miseria,22,14,3
+1994-08-20,15,Pimpinela,Hay Amores Que Matan,18,15,5
+1994-08-20,16,Industria del Amor,Dos Enamorados,16,15,7
+1994-08-20,17,Kairo,En Los Espejos De Un Cafe,9,9,8
+1994-08-20,18,Marcos Llunas,Para Olvidar,14,14,5
+1994-08-20,19,Gerardo,Maria Elisa,21,18,4
+1994-08-20,20,Ednita Nazario,Te Sigo Esperando,,20,1
+1994-08-20,21,Alejandro Fernandez,Si Dios Me Quita La Vida,19,19,4
+1994-08-20,22,Ana Gabriel,Estas Emociones,28,22,3
+1994-08-20,23,La Mafia,Vida,17,1,20
+1994-08-20,24,Banda Z,La Nina Fresa,33,24,2
+1994-08-20,25,ViceVersa,Ella,10,10,8
+1994-08-20,26,Rey Ruiz,Si Te Preguntan,26,26,4
+1994-08-20,27,Gilberto Santa Rosa,Me Volvieron A Hablar De Ella,27,27,4
+1994-08-20,28,La Mafia,Cada Vuelta De Esquina,24,20,4
+1994-08-20,29,Unik-ko Y Yuri,Juntos,,29,1
+1994-08-20,30,"Antonio Aguilar, Hijo",Por Ti No Voy A Llorar,25,20,7
+1994-08-20,31,Mazz,Nadie Como Tu,38,31,2
+1994-08-20,32,The Barrio Boyzz,Una Noche De Amor,8,6,13
+1994-08-20,33,Hector Tricoche,Ese Soy Yo,34,33,3
+1994-08-20,34,Various Artists,Merengue Mix,15,15,6
+1994-08-20,35,Lourdes Robles,Debil Del Alma,,35,1
+1994-08-20,36,Los Tigres del Norte,La Mesa Del Rincon,,36,1
+1994-08-20,37,Jerry Rivera,Dia Y Noche Pienso En Ella,31,31,2
+1994-08-20,38,Edgar Joel,Lo Que No Harias Por Amor,23,22,5
+1994-08-20,39,Grupo Mojado,Me Muero Sin Ti,36,36,2
+1994-08-20,40,Los Toros Band,Dejala Mia,39,39,2
+1994-08-27,1,Juan Gabriel,Pero Que Necesidad,2,1,8
+1994-08-27,2,Ricardo Montaner,Quisiera,3,2,11
+1994-08-27,3,Jon Secada,Si Te Vas,1,1,14
+1994-08-27,4,Los Fugitivos,Diablo,5,4,8
+1994-08-27,5,Selena,Bidi Bidi Bom Bom,8,5,3
+1994-08-27,6,Juan Luis Guerra 440,La Cosquillita,7,6,6
+1994-08-27,7,Luis Miguel,El Dia Que Me Quieras,10,7,2
+1994-08-27,8,Ricardo Arjona,Te Conozco,4,3,13
+1994-08-27,9,Vicente Fernandez,Miseria,14,9,4
+1994-08-27,10,Los Fantasmas del Caribe,Celina,11,10,4
+1994-08-27,11,Kairo,En Los Espejos De Un Cafe,17,9,9
+1994-08-27,12,Julio Iglesias,Crazy,9,9,10
+1994-08-27,13,Selena,Amor Prohibido,6,1,19
+1994-08-27,14,Banda Z,La Nina Fresa,24,14,3
+1994-08-27,15,Ana Gabriel,Estas Emociones,22,15,4
+1994-08-27,16,Ednita Nazario,Te Sigo Esperando,20,16,2
+1994-08-27,17,Pimpinela,Hay Amores Que Matan,15,15,6
+1994-08-27,18,Rey Ruiz,Si Te Preguntan,26,18,5
+1994-08-27,19,Marcos Llunas,Para Olvidar,18,14,6
+1994-08-27,20,Lorenzo Antonio,"Cuando, Como Y Porque",13,12,10
+1994-08-27,21,Alejandro Fernandez,Si Dios Me Quita La Vida,21,19,5
+1994-08-27,22,Industria del Amor,Dos Enamorados,16,15,8
+1994-08-27,23,La Mafia,Cada Vuelta De Esquina,28,20,5
+1994-08-27,24,Gerardo,Maria Elisa,19,18,5
+1994-08-27,25,"Antonio Aguilar, Hijo",Por Ti No Voy A Llorar,30,20,8
+1994-08-27,26,Cristian,Manana,,26,1
+1994-08-27,27,Hector Tricoche,Ese Soy Yo,33,27,4
+1994-08-27,28,Tony Vega,Ella Es,12,7,10
+1994-08-27,29,Mazz,Nadie Como Tu,31,29,3
+1994-08-27,30,Gilberto Santa Rosa,Me Volvieron A Hablar De Ella,27,27,5
+1994-08-27,31,Unik-ko Y Yuri,Juntos,29,29,2
+1994-08-27,32,Jerry Rivera,Dia Y Noche Pienso En Ella,37,31,3
+1994-08-27,33,Los Tigres del Norte,La Mesa Del Rincon,36,33,2
+1994-08-27,34,Olga Tanon,No Me Puedes Pedir,,34,1
+1994-08-27,35,Grupo Mojado,Me Muero Sin Ti,39,35,3
+1994-08-27,36,Camargo Y Luciano,Quien Soy Yo Sin Ella,,36,1
+1994-08-27,37,Marta Sanchez,De Mujer A Mujer,,37,1
+1994-08-27,38,La Mafia,Vida,23,1,21
+1994-08-27,39,Lourdes Robles,Debil Del Alma,35,35,2
+1994-08-27,40,ViceVersa,Ella,25,10,9
+1994-09-03,1,Ricardo Montaner,Quisiera,2,1,12
+1994-09-03,2,Juan Gabriel,Pero Que Necesidad,1,1,9
+1994-09-03,3,Jon Secada,Si Te Vas,3,1,15
+1994-09-03,4,Selena,Bidi Bidi Bom Bom,5,4,4
+1994-09-03,5,Luis Miguel,El Dia Que Me Quieras,7,5,3
+1994-09-03,6,Los Fugitivos,Diablo,4,4,9
+1994-09-03,7,Juan Luis Guerra 440,La Cosquillita,6,6,7
+1994-09-03,8,Vicente Fernandez,Miseria,9,8,5
+1994-09-03,9,Banda Z,La Nina Fresa,14,9,4
+1994-09-03,10,Los Fantasmas del Caribe,Celina,10,10,5
+1994-09-03,11,Ednita Nazario,Te Sigo Esperando,16,11,3
+1994-09-03,12,Ricardo Arjona,Te Conozco,8,3,14
+1994-09-03,13,Pimpinela,Hay Amores Que Matan,17,13,7
+1994-09-03,14,Rey Ruiz,Si Te Preguntan,18,14,6
+1994-09-03,15,Julio Iglesias,Crazy,12,9,11
+1994-09-03,16,Kairo,En Los Espejos De Un Cafe,11,9,10
+1994-09-03,17,Cristian,Manana,26,17,2
+1994-09-03,18,Ana Gabriel,Estas Emociones,15,15,5
+1994-09-03,19,Marcos Llunas,Para Olvidar,19,14,7
+1994-09-03,20,Los Tigres del Norte,La Mesa Del Rincon,33,20,3
+1994-09-03,21,Lorenzo Antonio,"Cuando, Como Y Porque",20,12,11
+1994-09-03,22,Selena,Amor Prohibido,13,1,20
+1994-09-03,23,Alejandro Fernandez,Si Dios Me Quita La Vida,21,19,6
+1994-09-03,24,La Mafia,Cada Vuelta De Esquina,23,20,6
+1994-09-03,25,Mazz,Nadie Como Tu,29,25,4
+1994-09-03,26,Hector Tricoche,Ese Soy Yo,27,26,5
+1994-09-03,27,Unik-ko Y Yuri,Juntos,31,27,3
+1994-09-03,28,Gilberto Santa Rosa,Me Volvieron A Hablar De Ella,30,27,6
+1994-09-03,29,Lourdes Robles,Debil Del Alma,39,29,3
+1994-09-03,30,Gerardo,Maria Elisa,24,18,6
+1994-09-03,31,Jerry Rivera,Dia Y Noche Pienso En Ella,32,31,4
+1994-09-03,32,Industria del Amor,Dos Enamorados,22,15,9
+1994-09-03,33,Lalo Y Los Descalzos,Que Facil Me Olvidaste,,33,1
+1994-09-03,34,Camargo Y Luciano,Quien Soy Yo Sin Ella,36,34,2
+1994-09-03,35,Luis Angel,24 Horas,,35,1
+1994-09-03,36,Luis Enrique,Quien Eres Tu,,36,1
+1994-09-03,37,Roberto Pulido/Emilio Navaira,Ya Ahora Es Tarde,,37,1
+1994-09-03,38,Olga Tanon,No Me Puedes Pedir,34,34,2
+1994-09-03,39,"Antonio Aguilar, Hijo",Por Ti No Voy A Llorar,25,20,9
+1994-09-03,40,Marta Sanchez,De Mujer A Mujer,37,37,2
+1994-09-10,1,Juan Gabriel,Pero Que Necesidad,2,1,10
+1994-09-10,2,Ricardo Montaner,Quisiera,1,1,13
+1994-09-10,3,Selena,Bidi Bidi Bom Bom,4,3,5
+1994-09-10,4,Luis Miguel,El Dia Que Me Quieras,5,4,4
+1994-09-10,5,Jon Secada,Si Te Vas,3,1,16
+1994-09-10,6,Los Fugitivos,Diablo,6,4,10
+1994-09-10,7,Cristian,Manana,17,7,3
+1994-09-10,8,Juan Luis Guerra 440,La Cosquillita,7,6,8
+1994-09-10,9,Vicente Fernandez,Miseria,8,8,6
+1994-09-10,10,Banda Z,La Nina Fresa,9,9,5
+1994-09-10,11,Los Fantasmas del Caribe,Celina,10,10,6
+1994-09-10,12,Pimpinela,Hay Amores Que Matan,13,12,8
+1994-09-10,13,Ednita Nazario,Te Sigo Esperando,11,11,4
+1994-09-10,14,Rey Ruiz,Si Te Preguntan,14,14,7
+1994-09-10,15,Los Tigres del Norte,La Mesa Del Rincon,20,15,4
+1994-09-10,16,Mazz,Nadie Como Tu,25,16,5
+1994-09-10,17,La Mafia,Cada Vuelta De Esquina,24,17,7
+1994-09-10,18,Marcos Llunas,Para Olvidar,19,14,8
+1994-09-10,19,Ana Gabriel,Estas Emociones,18,15,6
+1994-09-10,20,Kairo,En Los Espejos De Un Cafe,16,9,11
+1994-09-10,21,Alejandro Fernandez,Si Dios Me Quita La Vida,23,19,7
+1994-09-10,22,Luis Angel,24 Horas,35,22,2
+1994-09-10,23,Unik-ko Y Yuri,Juntos,27,23,4
+1994-09-10,24,Industria del Amor,Dos Enamorados,32,15,10
+1994-09-10,25,Lourdes Robles,Debil Del Alma,29,25,4
+1994-09-10,26,Luis Enrique,Quien Eres Tu,36,26,2
+1994-09-10,27,Camargo Y Luciano,Quien Soy Yo Sin Ella,34,27,3
+1994-09-10,28,Gerardo,Maria Elisa,30,18,7
+1994-09-10,29,Julio Iglesias,Crazy,15,9,12
+1994-09-10,30,Guillermo Davila,Barco A La Deriva,,30,1
+1994-09-10,31,Lalo Y Los Descalzos,Que Facil Me Olvidaste,33,31,2
+1994-09-10,32,Gilberto Santa Rosa,Me Volvieron A Hablar De Ella,28,27,7
+1994-09-10,33,Marta Sanchez,De Mujer A Mujer,40,33,3
+1994-09-10,34,Roberto Pulido/Emilio Navaira,Ya Ahora Es Tarde,37,34,2
+1994-09-10,35,Yolandita Monge,Me Sorprendio La Luna,,35,1
+1994-09-10,36,Carlos Vives,La Hamaca Grande,,36,1
+1994-09-10,37,Lorenzo Antonio,"Cuando, Como Y Porque",21,12,12
+1994-09-10,38,Hector Tricoche,Ese Soy Yo,26,26,6
+1994-09-10,39,Ariztia,Para Que No Se Muera Este Amor,,39,1
+1994-09-10,40,Ricardo Arjona,Te Conozco,12,3,15
+1994-09-17,1,Luis Miguel,El Dia Que Me Quieras,4,1,5
+1994-09-17,2,Juan Gabriel,Pero Que Necesidad,1,1,11
+1994-09-17,3,Selena,Bidi Bidi Bom Bom,3,3,6
+1994-09-17,4,Ricardo Montaner,Quisiera,2,1,14
+1994-09-17,5,Jon Secada,Si Te Vas,5,1,17
+1994-09-17,6,Los Fugitivos,Diablo,6,4,11
+1994-09-17,7,Cristian,Manana,7,7,4
+1994-09-17,8,Banda Z,La Nina Fresa,10,8,6
+1994-09-17,9,Vicente Fernandez,Miseria,9,8,7
+1994-09-17,10,Ednita Nazario,Te Sigo Esperando,13,10,5
+1994-09-17,11,Pimpinela,Hay Amores Que Matan,12,11,9
+1994-09-17,12,Los Fantasmas del Caribe,Celina,11,10,7
+1994-09-17,13,Juan Luis Guerra 440,La Cosquillita,8,6,9
+1994-09-17,14,Los Tigres del Norte,La Mesa Del Rincon,15,14,5
+1994-09-17,15,Lourdes Robles,Debil Del Alma,25,15,5
+1994-09-17,16,Rey Ruiz,Si Te Preguntan,14,14,8
+1994-09-17,17,Luis Angel,24 Horas,22,17,3
+1994-09-17,18,Carlos Vives,La Hamaca Grande,36,18,2
+1994-09-17,19,Marcos Llunas,Para Olvidar,18,14,9
+1994-09-17,20,La Mafia,Cada Vuelta De Esquina,17,17,8
+1994-09-17,21,Alejandro Fernandez,Si Dios Me Quita La Vida,21,19,8
+1994-09-17,22,Unik-ko Y Yuri,Juntos,23,22,5
+1994-09-17,23,Luis Enrique,Quien Eres Tu,26,23,3
+1994-09-17,24,Yolandita Monge,Me Sorprendio La Luna,35,24,2
+1994-09-17,25,Olga Tanon,No Me Puedes Pedir,,25,3
+1994-09-17,26,Camargo Y Luciano,Quien Soy Yo Sin Ella,27,26,4
+1994-09-17,27,Industria del Amor,Dos Enamorados,24,15,11
+1994-09-17,28,Lalo Y Los Descalzos,Que Facil Me Olvidaste,31,28,3
+1994-09-17,29,Ana Gabriel,Estas Emociones,19,15,7
+1994-09-17,30,Marta Sanchez,De Mujer A Mujer,33,30,4
+1994-09-17,31,Roberto Pulido/Emilio Navaira,Ya Ahora Es Tarde,34,31,3
+1994-09-17,32,The Barrio Boyzz,Te Amare,,32,1
+1994-09-17,33,Kairo,En Los Espejos De Un Cafe,20,9,12
+1994-09-17,34,Ariztia,Para Que No Se Muera Este Amor,39,34,2
+1994-09-17,35,Guillermo Davila,Barco A La Deriva,30,30,2
+1994-09-17,36,Zona Roja,Que Dia Es Hoy,,36,1
+1994-09-17,37,Mijares,Vive En Mi,,37,1
+1994-09-17,38,Mazz,Nadie Como Tu,16,16,6
+1994-09-17,39,Gilberto Santa Rosa,Me Volvieron A Hablar De Ella,32,27,8
+1994-09-17,40,Gerardo,Maria Elisa,28,18,8
+1994-09-24,1,Luis Miguel,El Dia Que Me Quieras,1,1,6
+1994-09-24,2,Selena,Bidi Bidi Bom Bom,3,2,7
+1994-09-24,3,Juan Gabriel,Pero Que Necesidad,2,1,12
+1994-09-24,4,Ricardo Montaner,Quisiera,4,1,15
+1994-09-24,5,Cristian,Manana,7,5,5
+1994-09-24,6,Vicente Fernandez,Miseria,9,6,8
+1994-09-24,7,Banda Z,La Nina Fresa,8,7,7
+1994-09-24,8,Los Fugitivos,Diablo,6,4,12
+1994-09-24,9,Ednita Nazario,Te Sigo Esperando,10,9,6
+1994-09-24,10,Jon Secada,Si Te Vas,5,1,18
+1994-09-24,11,Los Tigres del Norte,La Mesa Del Rincon,14,11,6
+1994-09-24,12,Los Fantasmas del Caribe,Celina,12,10,8
+1994-09-24,13,Pimpinela,Hay Amores Que Matan,11,11,10
+1994-09-24,14,Luis Enrique,Quien Eres Tu,23,14,4
+1994-09-24,15,Rey Ruiz,Si Te Preguntan,16,14,9
+1994-09-24,16,Lourdes Robles,Debil Del Alma,15,15,6
+1994-09-24,17,Roberto Pulido/Emilio Navaira,Ya Ahora Es Tarde,31,17,4
+1994-09-24,18,Carlos Vives,La Hamaca Grande,18,18,3
+1994-09-24,19,Juan Luis Guerra 440,La Cosquillita,13,6,10
+1994-09-24,20,Luis Angel,24 Horas,17,17,4
+1994-09-24,21,The Barrio Boyzz,Te Amare,32,21,2
+1994-09-24,22,Alvaro Torres,Contigo Si,,22,1
+1994-09-24,23,Jose Jose,Grandeza Mexicana,,23,1
+1994-09-24,24,Unik-ko Y Yuri,Juntos,22,22,6
+1994-09-24,25,Marta Sanchez,De Mujer A Mujer,30,25,5
+1994-09-24,26,Veronica Castro,El Quebradito,,26,1
+1994-09-24,27,La Mafia,Cada Vuelta De Esquina,20,17,9
+1994-09-24,28,La Sonora Dinamita,El Paraguas,,28,1
+1994-09-24,29,Mazz,Nadie Como Tu,38,16,7
+1994-09-24,30,Ana Gabriel,Estas Emociones,29,15,8
+1994-09-24,31,Gilberto Santa Rosa,Me Volvieron A Hablar De Ella,39,27,9
+1994-09-24,32,Yolandita Monge,Me Sorprendio La Luna,24,24,3
+1994-09-24,33,Marcos Llunas,Para Olvidar,19,14,10
+1994-09-24,34,Zona Roja,Que Dia Es Hoy,36,34,2
+1994-09-24,35,Ariztia,Para Que No Se Muera Este Amor,34,34,3
+1994-09-24,36,Lalo Y Los Descalzos,Que Facil Me Olvidaste,28,28,4
+1994-09-24,37,Alejandro Fernandez,Si Dios Me Quita La Vida,21,19,9
+1994-09-24,38,Mijares,Vive En Mi,37,37,2
+1994-09-24,39,Camargo Y Luciano,Quien Soy Yo Sin Ella,26,26,5
+1994-09-24,40,Olga Tanon,No Me Puedes Pedir,25,25,4
+1994-10-01,1,Luis Miguel,El Dia Que Me Quieras,1,1,7
+1994-10-01,2,Selena,Bidi Bidi Bom Bom,2,2,8
+1994-10-01,3,Juan Gabriel,Pero Que Necesidad,3,1,13
+1994-10-01,4,Ricardo Montaner,Quisiera,4,1,16
+1994-10-01,5,Cristian,Manana,5,5,6
+1994-10-01,6,Vicente Fernandez,Miseria,6,6,9
+1994-10-01,7,Ednita Nazario,Te Sigo Esperando,9,7,7
+1994-10-01,8,Banda Z,La Nina Fresa,7,7,8
+1994-10-01,9,Los Tigres del Norte,La Mesa Del Rincon,11,9,7
+1994-10-01,10,Los Fugitivos,Diablo,8,4,13
+1994-10-01,11,Jon Secada,Si Te Vas,10,1,19
+1994-10-01,12,Pimpinela,Hay Amores Que Matan,13,11,11
+1994-10-01,13,Los Fantasmas del Caribe,Celina,12,10,9
+1994-10-01,14,Carlos Vives,La Hamaca Grande,18,14,4
+1994-10-01,15,Luis Enrique,Quien Eres Tu,14,14,5
+1994-10-01,16,The Barrio Boyzz,Te Amare,21,16,3
+1994-10-01,17,Alvaro Torres,Contigo Si,22,17,2
+1994-10-01,18,Lourdes Robles,Debil Del Alma,16,15,7
+1994-10-01,19,Luis Angel,24 Horas,20,17,5
+1994-10-01,20,Jose Jose,Grandeza Mexicana,23,20,2
+1994-10-01,21,Rey Ruiz,Si Te Preguntan,15,14,10
+1994-10-01,22,Marta Sanchez,De Mujer A Mujer,25,22,6
+1994-10-01,23,Fernandito Villalona,Corazon Salvaje,,23,1
+1994-10-01,24,Mijares,Vive En Mi,38,24,3
+1994-10-01,25,Ricardo Arjona,Senora De Las Cuatro Decadas,,25,1
+1994-10-01,26,Roberto Pulido/Emilio Navaira,Ya Ahora Es Tarde,17,17,5
+1994-10-01,27,La Sonora Dinamita,El Paraguas,28,27,2
+1994-10-01,28,Ana Gabriel,Tu Lo Decidiste,,28,1
+1994-10-01,29,Zona Roja,Que Dia Es Hoy,34,29,3
+1994-10-01,30,Mazz,Nadie Como Tu,29,16,8
+1994-10-01,31,Kairo,Hablame De Ti,,31,1
+1994-10-01,32,Ariztia,Para Que No Se Muera Este Amor,35,32,4
+1994-10-01,33,Unik-ko Y Yuri,Juntos,24,22,7
+1994-10-01,34,La Mafia,Cada Vuelta De Esquina,27,17,10
+1994-10-01,35,Yolandita Monge,Me Sorprendio La Luna,32,24,4
+1994-10-01,36,Alejandro Fernandez,Si Dios Me Quita La Vida,37,19,10
+1994-10-01,37,Lalo Y Los Descalzos,Que Facil Me Olvidaste,36,28,5
+1994-10-01,38,Veronica Castro,El Quebradito,26,26,2
+1994-10-01,39,Juan Luis Guerra 440,La Cosquillita,19,6,11
+1994-10-01,40,Gilberto Santa Rosa,Me Volvieron A Hablar De Ella,31,27,10
+1994-10-08,1,Luis Miguel,El Dia Que Me Quieras,1,1,8
+1994-10-08,2,Selena,Bidi Bidi Bom Bom,2,2,9
+1994-10-08,3,Juan Gabriel,Pero Que Necesidad,3,1,14
+1994-10-08,4,Cristian,Manana,5,4,7
+1994-10-08,5,Banda Z,La Nina Fresa,8,5,9
+1994-10-08,6,Vicente Fernandez,Miseria,6,6,10
+1994-10-08,7,Ednita Nazario,Te Sigo Esperando,7,7,8
+1994-10-08,8,Luis Enrique,Quien Eres Tu,15,8,6
+1994-10-08,9,Los Tigres del Norte,La Mesa Del Rincon,9,9,8
+1994-10-08,10,Ana Gabriel,Tu Lo Decidiste,28,10,2
+1994-10-08,11,Los Fugitivos,Diablo,10,4,14
+1994-10-08,12,Industria del Amor,A Capa Y Espada,,12,1
+1994-10-08,13,Carlos Vives,La Hamaca Grande,14,13,5
+1994-10-08,14,Ricardo Montaner,Quisiera,4,1,17
+1994-10-08,15,Juan Luis Guerra 440,Vivire,,15,1
+1994-10-08,16,Ricardo Arjona,Senora De Las Cuatro Decadas,25,16,2
+1994-10-08,17,Pimpinela,Hay Amores Que Matan,12,11,12
+1994-10-08,18,Los Fantasmas del Caribe,Celina,13,10,10
+1994-10-08,19,The Barrio Boyzz,Te Amare,16,16,4
+1994-10-08,20,Roberto Pulido/Emilio Navaira,Ya Ahora Es Tarde,26,17,6
+1994-10-08,21,Jose Jose,Grandeza Mexicana,20,20,3
+1994-10-08,22,Kairo,Hablame De Ti,31,22,2
+1994-10-08,23,Edgar Joel,En Las Nubes,,23,1
+1994-10-08,24,Zona Roja,Que Dia Es Hoy,29,24,4
+1994-10-08,25,Los Temerarios,Eres Un Sueno,,25,1
+1994-10-08,26,Alvaro Torres,Contigo Si,17,17,3
+1994-10-08,27,Mijares,Vive En Mi,24,24,4
+1994-10-08,28,Fernandito Villalona,Corazon Salvaje,23,23,2
+1994-10-08,29,La Sonora Dinamita,El Paraguas,27,27,3
+1994-10-08,30,Jon Secada,Si Te Vas,11,1,20
+1994-10-08,31,Veronica Castro,El Quebradito,38,26,3
+1994-10-08,32,Pandora,Manana Te Acordaras,,32,1
+1994-10-08,33,Tony Vega,Fui La Carnada,,33,1
+1994-10-08,34,Emmanuel,Esta Aventura,,34,1
+1994-10-08,35,Rey Ruiz,Si Te Preguntan,21,14,11
+1994-10-08,36,Wichy Camacho,Cada Vez Que La Veo,,36,1
+1994-10-08,37,Lourdes Robles,Debil Del Alma,18,15,8
+1994-10-08,38,Marta Sanchez,De Mujer A Mujer,22,22,7
+1994-10-08,39,Ariztia,Para Que No Se Muera Este Amor,32,32,5
+1994-10-08,40,Luis Angel,24 Horas,19,17,6
+1994-10-15,1,Luis Miguel,El Dia Que Me Quieras,1,1,9
+1994-10-15,2,Selena,Bidi Bidi Bom Bom,2,2,10
+1994-10-15,3,Cristian,Manana,4,3,8
+1994-10-15,4,Juan Gabriel,Pero Que Necesidad,3,1,15
+1994-10-15,5,Banda Z,La Nina Fresa,5,5,10
+1994-10-15,6,Vicente Fernandez,Miseria,6,6,11
+1994-10-15,7,Ana Gabriel,Tu Lo Decidiste,10,7,3
+1994-10-15,8,Luis Enrique,Quien Eres Tu,8,8,7
+1994-10-15,9,Ednita Nazario,Te Sigo Esperando,7,7,9
+1994-10-15,10,Edgar Joel,En Las Nubes,23,10,2
+1994-10-15,11,Los Tigres del Norte,La Mesa Del Rincon,9,9,9
+1994-10-15,12,Industria del Amor,A Capa Y Espada,12,12,2
+1994-10-15,13,Carlos Vives,La Hamaca Grande,13,13,6
+1994-10-15,14,Juan Luis Guerra 440,Vivire,15,14,2
+1994-10-15,15,Ricardo Arjona,Senora De Las Cuatro Decadas,16,15,3
+1994-10-15,16,Jose Jose,Grandeza Mexicana,21,16,4
+1994-10-15,17,Roberto Pulido/Emilio Navaira,Ya Ahora Es Tarde,20,17,7
+1994-10-15,18,Kairo,Hablame De Ti,22,18,3
+1994-10-15,19,The Barrio Boyzz,Te Amare,19,16,5
+1994-10-15,20,Alvaro Torres,Contigo Si,26,17,4
+1994-10-15,21,India,Nunca Voy A Olvidarte,,21,1
+1994-10-15,22,Los Fugitivos,Diablo,11,4,15
+1994-10-15,23,Ricardo Montaner,Quisiera,14,1,18
+1994-10-15,24,Mijares,Vive En Mi,27,24,5
+1994-10-15,25,Los Fantasmas del Caribe,Celina,18,10,11
+1994-10-15,26,Ricardo Montaner,No Te Pareces A Mi,,26,1
+1994-10-15,27,Giro,Amor Lunatico,,27,1
+1994-10-15,28,Marta Sanchez,De Mujer A Mujer,38,22,8
+1994-10-15,29,Laura Pausini,La Soledad,,29,1
+1994-10-15,30,La Sonora Dinamita,El Paraguas,29,27,4
+1994-10-15,31,Emmanuel,Esta Aventura,34,31,2
+1994-10-15,32,Tony Vega,Fui La Carnada,33,32,2
+1994-10-15,33,Veronica Castro,El Quebradito,31,26,4
+1994-10-15,34,Pimpinela,Hay Amores Que Matan,17,11,13
+1994-10-15,35,Pandora,Manana Te Acordaras,32,32,2
+1994-10-15,36,Zona Roja,Que Dia Es Hoy,24,24,5
+1994-10-15,37,Jon Secada,Si Te Vas,30,1,21
+1994-10-15,38,Los Temerarios,Eres Un Sueno,25,25,2
+1994-10-15,39,Wichy Camacho,Cada Vez Que La Veo,36,36,2
+1994-10-15,40,Fernandito Villalona,Corazon Salvaje,28,23,3
+1994-10-22,1,Selena,Bidi Bidi Bom Bom,2,1,11
+1994-10-22,2,Luis Miguel,El Dia Que Me Quieras,1,1,10
+1994-10-22,3,Cristian,Manana,3,3,9
+1994-10-22,4,Ana Gabriel,Tu Lo Decidiste,7,4,4
+1994-10-22,5,Juan Gabriel,Pero Que Necesidad,4,1,16
+1994-10-22,6,Banda Z,La Nina Fresa,5,5,11
+1994-10-22,7,Luis Enrique,Quien Eres Tu,8,7,8
+1994-10-22,8,Juan Luis Guerra 440,Vivire,14,8,3
+1994-10-22,9,Vicente Fernandez,Miseria,6,6,12
+1994-10-22,10,Industria del Amor,A Capa Y Espada,12,10,3
+1994-10-22,11,Ricardo Arjona,Senora De Las Cuatro Decadas,15,11,4
+1994-10-22,12,Jose Jose,Grandeza Mexicana,16,12,5
+1994-10-22,13,Edgar Joel,En Las Nubes,10,10,3
+1994-10-22,14,Ednita Nazario,Te Sigo Esperando,9,7,10
+1994-10-22,15,Los Tigres del Norte,La Mesa Del Rincon,11,9,10
+1994-10-22,16,Carlos Vives,La Hamaca Grande,13,13,7
+1994-10-22,17,Ricardo Montaner,No Te Pareces A Mi,26,17,2
+1994-10-22,18,India,Nunca Voy A Olvidarte,21,18,2
+1994-10-22,19,The Barrio Boyzz,Te Amare,19,16,6
+1994-10-22,20,Mijares,Vive En Mi,24,20,6
+1994-10-22,21,Giro,Amor Lunatico,27,21,2
+1994-10-22,22,Kairo,Hablame De Ti,18,18,4
+1994-10-22,23,Marta Sanchez,De Mujer A Mujer,28,22,9
+1994-10-22,24,Tony Vega,Fui La Carnada,32,24,3
+1994-10-22,25,Roberto Pulido/Emilio Navaira,Ya Ahora Es Tarde,17,17,8
+1994-10-22,26,Los Fantasmas del Caribe,Celina,25,10,12
+1994-10-22,27,Laura Pausini,La Soledad,29,27,2
+1994-10-22,28,Emmanuel,Esta Aventura,31,28,3
+1994-10-22,29,Veronica Castro,El Quebradito,33,26,5
+1994-10-22,30,Jon Secada,Solo Tu Imagen,,30,1
+1994-10-22,31,Alvaro Torres,Contigo Si,20,17,5
+1994-10-22,32,Pandora,Manana Te Acordaras,35,32,3
+1994-10-22,33,Pepe Aguilar,Que Bueno,,33,1
+1994-10-22,34,Pimpinela,Hay Amores Que Matan,34,11,14
+1994-10-22,35,Los Fugitivos,Diablo,22,4,16
+1994-10-22,36,Guardianes del Amor,Los Angeles Lloran,,36,1
+1994-10-22,37,Olga Tanon,Receta De Amor,,37,1
+1994-10-22,38,La Sonora Dinamita,El Paraguas,30,27,5
+1994-10-22,39,Los Temerarios,Eres Un Sueno,38,25,3
+1994-10-22,40,Ricardo Montaner,Quisiera,23,1,19
+1994-10-29,1,Selena,Bidi Bidi Bom Bom,1,1,12
+1994-10-29,2,Luis Miguel,El Dia Que Me Quieras,2,1,11
+1994-10-29,3,Cristian,Manana,3,3,10
+1994-10-29,4,Ana Gabriel,Tu Lo Decidiste,4,4,5
+1994-10-29,5,Juan Luis Guerra 440,Vivire,8,5,4
+1994-10-29,6,Banda Z,La Nina Fresa,6,5,12
+1994-10-29,7,Luis Enrique,Quien Eres Tu,7,7,9
+1994-10-29,8,Edgar Joel,En Las Nubes,13,8,4
+1994-10-29,9,Juan Gabriel,Pero Que Necesidad,5,1,17
+1994-10-29,10,Industria del Amor,A Capa Y Espada,10,10,4
+1994-10-29,11,Ricardo Arjona,Senora De Las Cuatro Decadas,11,11,5
+1994-10-29,12,Vicente Fernandez,Miseria,9,6,13
+1994-10-29,13,Ricardo Montaner,No Te Pareces A Mi,17,13,3
+1994-10-29,14,India,Nunca Voy A Olvidarte,18,14,3
+1994-10-29,15,Jose Jose,Grandeza Mexicana,12,12,6
+1994-10-29,16,Giro,Amor Lunatico,21,16,3
+1994-10-29,17,Carlos Vives,La Hamaca Grande,16,13,8
+1994-10-29,18,Los Tigres del Norte,La Mesa Del Rincon,15,9,11
+1994-10-29,19,Kairo,Hablame De Ti,22,18,5
+1994-10-29,20,Ednita Nazario,Te Sigo Esperando,14,7,11
+1994-10-29,21,The Barrio Boyzz,Te Amare,19,16,7
+1994-10-29,22,Victor Manuelle,Apiadate De Mi,,22,1
+1994-10-29,23,Jon Secada,Solo Tu Imagen,30,23,2
+1994-10-29,24,Mijares,Vive En Mi,20,20,7
+1994-10-29,25,Laura Pausini,La Soledad,27,25,3
+1994-10-29,26,Veronica Castro,El Quebradito,29,26,6
+1994-10-29,27,Juan Gabriel,Lentamente,,27,1
+1994-10-29,28,Emmanuel,Esta Aventura,28,28,4
+1994-10-29,29,Pepe Aguilar,Que Bueno,33,29,2
+1994-10-29,30,Graciela Beltran,Tu Me Dijiste Adios,,30,1
+1994-10-29,31,Roberto Pulido/Emilio Navaira,Ya Ahora Es Tarde,25,17,9
+1994-10-29,32,Pedro Fernandez,Besos De Plata,,32,1
+1994-10-29,33,Tony Vega,Fui La Carnada,24,24,4
+1994-10-29,34,Marta Sanchez,De Mujer A Mujer,23,22,10
+1994-10-29,35,Los Yonic's,No Mas Boleros,,35,1
+1994-10-29,36,Olga Tanon,Receta De Amor,37,36,2
+1994-10-29,37,Alvaro Torres,Contigo Si,31,17,6
+1994-10-29,38,La Sonora Dinamita,El Paraguas,38,27,6
+1994-10-29,39,Pandora,Manana Te Acordaras,32,32,4
+1994-10-29,40,Guardianes del Amor,Los Angeles Lloran,36,36,2
+1994-11-05,1,Selena,Bidi Bidi Bom Bom,1,1,13
+1994-11-05,2,Luis Miguel,El Dia Que Me Quieras,2,1,12
+1994-11-05,3,Cristian,Manana,3,3,11
+1994-11-05,4,Ana Gabriel,Tu Lo Decidiste,4,4,6
+1994-11-05,5,Juan Luis Guerra 440,Vivire,5,5,5
+1994-11-05,6,Edgar Joel,En Las Nubes,8,6,5
+1994-11-05,7,Ricardo Arjona,Senora De Las Cuatro Decadas,11,7,6
+1994-11-05,8,Ricardo Montaner,No Te Pareces A Mi,13,8,4
+1994-11-05,9,Industria del Amor,A Capa Y Espada,10,9,5
+1994-11-05,10,Banda Z,La Nina Fresa,6,5,13
+1994-11-05,11,India,Nunca Voy A Olvidarte,14,11,4
+1994-11-05,12,Giro,Amor Lunatico,16,12,4
+1994-11-05,13,Jon Secada,Solo Tu Imagen,23,13,3
+1994-11-05,14,Kairo,Hablame De Ti,19,14,6
+1994-11-05,15,Vicente Fernandez,Miseria,12,6,14
+1994-11-05,16,Victor Manuelle,Apiadate De Mi,22,16,2
+1994-11-05,17,Jose Jose,Grandeza Mexicana,15,12,7
+1994-11-05,18,Luis Enrique,Quien Eres Tu,7,7,10
+1994-11-05,19,Graciela Beltran,Tu Me Dijiste Adios,30,19,2
+1994-11-05,20,Mijares,Vive En Mi,24,20,8
+1994-11-05,21,Juan Gabriel,Pero Que Necesidad,9,1,18
+1994-11-05,22,Laura Pausini,La Soledad,25,22,4
+1994-11-05,23,Juan Gabriel,Lentamente,27,23,2
+1994-11-05,24,Los Tigres del Norte,La Mesa Del Rincon,18,9,12
+1994-11-05,25,The Barrio Boyzz,Te Amare,21,16,8
+1994-11-05,26,Alejandro Fernandez,A Pesar De Todo,,26,1
+1994-11-05,27,Emmanuel,Esta Aventura,28,27,5
+1994-11-05,28,Pimpinela,Olvidame,,28,1
+1994-11-05,29,Pedro Fernandez,Besos De Plata,32,29,2
+1994-11-05,30,David Saylor Y Miriam Fultz,Oh! Senor,,30,1
+1994-11-05,31,Los Yonic's,No Mas Boleros,35,31,2
+1994-11-05,32,Marco Antonio Solis y Los Bukis,Encadenada A Mi,,32,1
+1994-11-05,33,Carlos Vives,La Hamaca Grande,17,13,9
+1994-11-05,34,Los Fugitivos,Yo Tu Dueno,,34,1
+1994-11-05,35,Marta Sanchez,De Mujer A Mujer,34,22,11
+1994-11-05,36,Olga Tanon,Receta De Amor,36,36,3
+1994-11-05,37,Roberto Pulido/Emilio Navaira,Ya Ahora Es Tarde,31,17,10
+1994-11-05,38,Veronica Castro,El Quebradito,26,26,7
+1994-11-05,39,Pepe Aguilar,Que Bueno,29,29,3
+1994-11-05,40,Ednita Nazario,Te Sigo Esperando,20,7,12
+1994-11-12,1,Selena,Bidi Bidi Bom Bom,1,1,14
+1994-11-12,2,Cristian,Manana,3,2,12
+1994-11-12,3,Los Rehenes,Ni El Primero Ni El Ultimo,,3,1
+1994-11-12,4,Luis Miguel,La Media Vuelta,,4,1
+1994-11-12,5,Banda Machos,El Puchoncito,,5,1
+1994-11-12,6,Sparx,"Te Amo, Te Amo, Te Amo",,6,1
+1994-11-12,7,Ana Gabriel,Tu Lo Decidiste,4,4,7
+1994-11-12,8,La Mafia,Me Duele Estar Solo,,8,1
+1994-11-12,9,Banda Z,La Nina Fresa,10,5,14
+1994-11-12,10,Juan Luis Guerra 440,Vivire,5,5,6
+1994-11-12,11,Ednita Nazario,Quiero Que Me Hagas El Amor,,11,1
+1994-11-12,12,Grupo Mojado,Para Que,,12,1
+1994-11-12,13,Industria del Amor,A Capa Y Espada,9,9,6
+1994-11-12,14,Fandango USA,Te Amare Un Millon De Veces,,14,1
+1994-11-12,15,India,Nunca Voy A Olvidarte,11,11,5
+1994-11-12,16,Edgar Joel,En Las Nubes,6,6,6
+1994-11-12,17,La Diferenzia,Si Lo Quieres,,17,1
+1994-11-12,18,Los Yonic's,No Mas Boleros,31,18,3
+1994-11-12,19,Ana Barbara,Nada,,19,1
+1994-11-12,20,Los Caminantes,Lagrimas Al Recordar,,20,1
+1994-11-12,21,Luis Enrique,Asi Es La Vida,,21,1
+1994-11-12,22,Giro,Amor Lunatico,12,12,5
+1994-11-12,23,Juan Gabriel,Lentamente,23,23,3
+1994-11-12,24,Juan Gabriel,Pero Que Necesidad,21,1,19
+1994-11-12,25,Laura Pausini,La Soledad,22,22,5
+1994-11-12,26,Los Fugitivos,Yo Tu Dueno,34,26,2
+1994-11-12,27,Victor Manuelle,Apiadate De Mi,16,16,3
+1994-11-12,28,La Mafia,Vida,,1,22
+1994-11-12,29,Los Tigres del Norte,La Mesa Del Rincon,24,9,13
+1994-11-12,30,Olga Tanon,Receta De Amor,36,30,4
+1994-11-12,31,Roberto Pulido/Emilio Navaira,Ya Ahora Es Tarde,37,17,11
+1994-11-12,32,Banda El Mexicano,Ramito De Violetas,,32,1
+1994-11-12,33,Chayanne,Querida,,33,1
+1994-11-12,34,Los Temerarios,Eres Un Sueno,,25,4
+1994-11-12,35,Luis Miguel,El Dia Que Me Quieras,2,1,13
+1994-11-12,36,Tiranos del Norte,Tragos Amargos,,36,1
+1994-11-12,37,Marco Antonio Solis y Los Bukis,Encadenada A Mi,32,32,2
+1994-11-12,38,Jerry Rivera,Me Estoy Enloqueciendo Por Ti,,38,1
+1994-11-12,39,Ricardo Arjona,Senora De Las Cuatro Decadas,7,7,7
+1994-11-12,40,Selena,No Me Queda Mas,,40,1
+1994-11-19,1,Los Rehenes,Ni El Primero Ni El Ultimo,3,1,2
+1994-11-19,2,Luis Miguel,La Media Vuelta,4,2,2
+1994-11-19,3,Selena,Bidi Bidi Bom Bom,1,1,15
+1994-11-19,4,La Mafia,Me Duele Estar Solo,8,4,2
+1994-11-19,5,Sparx,"Te Amo, Te Amo, Te Amo",6,5,2
+1994-11-19,6,Banda Machos,El Puchoncito,5,5,2
+1994-11-19,7,Ana Gabriel,Tu Lo Decidiste,7,4,8
+1994-11-19,8,Juan Luis Guerra 440,Vivire,10,5,7
+1994-11-19,9,Banda Z,La Nina Fresa,9,5,15
+1994-11-19,10,Selena,No Me Queda Mas,40,10,2
+1994-11-19,11,Ednita Nazario,Quiero Que Me Hagas El Amor,11,11,2
+1994-11-19,12,Grupo Mojado,Para Que,12,12,2
+1994-11-19,13,Industria del Amor,A Capa Y Espada,13,9,7
+1994-11-19,14,Luis Enrique,Asi Es La Vida,21,14,2
+1994-11-19,15,Cristian,Manana,2,2,13
+1994-11-19,16,Fandango USA,Te Amare Un Millon De Veces,14,14,2
+1994-11-19,17,Ana Barbara,Nada,19,17,2
+1994-11-19,18,Juan Gabriel,Lentamente,23,18,4
+1994-11-19,19,La Diferenzia,Si Lo Quieres,17,17,2
+1994-11-19,20,Giro,Amor Lunatico,22,12,6
+1994-11-19,21,Los Caminantes,Lagrimas Al Recordar,20,20,2
+1994-11-19,22,Edgar Joel,En Las Nubes,16,6,7
+1994-11-19,23,Los Yonic's,No Mas Boleros,18,18,4
+1994-11-19,24,India,Nunca Voy A Olvidarte,15,11,6
+1994-11-19,25,Los Fugitivos,Yo Tu Dueno,26,25,3
+1994-11-19,26,Tiranos del Norte,Tragos Amargos,36,26,2
+1994-11-19,27,Alejandro Fernandez,A Pesar De Todo,,26,2
+1994-11-19,28,Juan Gabriel,Pero Que Necesidad,24,1,20
+1994-11-19,29,Vicente Fernandez,"No, No Y No",,29,1
+1994-11-19,30,Victor Manuelle,Apiadate De Mi,27,16,4
+1994-11-19,31,Fama,Quiero Volverte A Ver,,31,1
+1994-11-19,32,Olga Tanon,Receta De Amor,30,30,5
+1994-11-19,33,La Mafia,Vida,28,1,23
+1994-11-19,34,Chayanne,Querida,33,33,2
+1994-11-19,35,Banda Zeta,Chicas Modernas,,35,1
+1994-11-19,36,Banda Blanca,Swing Latino,,36,1
+1994-11-19,37,La Tropa F,Que Me Has Hecho Tu,,37,1
+1994-11-19,38,Los Tigres del Norte,La Mesa Del Rincon,29,9,14
+1994-11-19,39,Ricardo Arjona,Senora De Las Cuatro Decadas,39,7,8
+1994-11-19,40,Banda El Mexicano,Ramito De Violetas,32,32,2
+1994-11-26,1,Luis Miguel,La Media Vuelta,2,1,3
+1994-11-26,2,Los Rehenes,Ni El Primero Ni El Ultimo,1,1,3
+1994-11-26,3,La Mafia,Me Duele Estar Solo,4,3,3
+1994-11-26,4,Sparx,"Te Amo, Te Amo, Te Amo",5,4,3
+1994-11-26,5,Selena,No Me Queda Mas,10,5,3
+1994-11-26,6,Selena,Bidi Bidi Bom Bom,3,1,16
+1994-11-26,7,Banda Machos,El Puchoncito,6,5,3
+1994-11-26,8,Ana Gabriel,Tu Lo Decidiste,7,4,9
+1994-11-26,9,Banda Z,La Nina Fresa,9,5,16
+1994-11-26,10,Juan Luis Guerra 440,Vivire,8,5,8
+1994-11-26,11,Pedro Fernandez,Mi Forma De Sentir,,11,1
+1994-11-26,12,Ednita Nazario,Quiero Que Me Hagas El Amor,11,11,3
+1994-11-26,13,Vicente Fernandez,"No, No Y No",29,13,2
+1994-11-26,14,Grupo Mojado,Para Que,12,12,3
+1994-11-26,15,Luis Enrique,Asi Es La Vida,14,14,3
+1994-11-26,16,Juan Gabriel,Lentamente,18,16,5
+1994-11-26,17,Alejandro Fernandez,A Pesar De Todo,27,17,3
+1994-11-26,18,Fandango USA,Te Amare Un Millon De Veces,16,14,3
+1994-11-26,19,Tiranos del Norte,Tragos Amargos,26,19,3
+1994-11-26,20,Industria del Amor,A Capa Y Espada,13,9,8
+1994-11-26,21,Los Reyes Locos,El Lloron,,21,1
+1994-11-26,22,Ana Barbara,Nada,17,17,3
+1994-11-26,23,La Diferenzia,Si Lo Quieres,19,17,3
+1994-11-26,24,Los Fugitivos,Yo Tu Dueno,25,24,4
+1994-11-26,25,Los Caminantes,Lagrimas Al Recordar,21,20,3
+1994-11-26,26,Fama,Quiero Volverte A Ver,31,26,2
+1994-11-26,27,Edgar Joel,En Las Nubes,22,6,8
+1994-11-26,28,Juan Gabriel,Pero Que Necesidad,28,1,21
+1994-11-26,29,Los Yonic's,No Mas Boleros,23,18,5
+1994-11-26,30,La Mafia,Vida,33,1,24
+1994-11-26,31,Giro,Amor Lunatico,20,12,7
+1994-11-26,32,Banda El Mexicano,Ramito De Violetas,40,32,3
+1994-11-26,33,Jerry Rivera,Me Estoy Enloqueciendo Por Ti,,33,2
+1994-11-26,34,Chayanne,Querida,34,33,3
+1994-11-26,35,Cristian,Manana,15,2,14
+1994-11-26,36,Banda Blanca,Swing Latino,36,36,2
+1994-11-26,37,Lucero,Siempre Contigo,,37,1
+1994-11-26,38,Los Mier,Te Amo,,38,1
+1994-11-26,39,Victor Manuelle,Apiadate De Mi,30,16,5
+1994-11-26,40,Lalo Rodriguez,Aunque Lo Dudes,,40,1
+1994-12-03,1,Luis Miguel,La Media Vuelta,1,1,4
+1994-12-03,2,Selena,No Me Queda Mas,5,2,4
+1994-12-03,3,La Mafia,Me Duele Estar Solo,3,3,4
+1994-12-03,4,Los Rehenes,Ni El Primero Ni El Ultimo,2,1,4
+1994-12-03,5,Sparx,"Te Amo, Te Amo, Te Amo",4,4,4
+1994-12-03,6,Banda Machos,El Puchoncito,7,5,4
+1994-12-03,7,Selena,Bidi Bidi Bom Bom,6,1,17
+1994-12-03,8,Tiranos del Norte,Tragos Amargos,19,8,4
+1994-12-03,9,Ednita Nazario,Quiero Que Me Hagas El Amor,12,9,4
+1994-12-03,10,Alejandro Fernandez,A Pesar De Todo,17,10,4
+1994-12-03,11,Luis Enrique,Asi Es La Vida,15,11,4
+1994-12-03,12,Vicente Fernandez,"No, No Y No",13,12,3
+1994-12-03,13,Banda Z,La Nina Fresa,9,5,17
+1994-12-03,14,Juan Gabriel,Lentamente,16,14,6
+1994-12-03,15,Ana Gabriel,Tu Lo Decidiste,8,4,10
+1994-12-03,16,Pedro Fernandez,Mi Forma De Sentir,11,11,2
+1994-12-03,17,Fama,Quiero Volverte A Ver,26,17,3
+1994-12-03,18,Grupo Mojado,Para Que,14,12,4
+1994-12-03,19,Juan Luis Guerra 440,Vivire,10,5,9
+1994-12-03,20,Fandango USA,Te Amare Un Millon De Veces,18,14,4
+1994-12-03,21,Los Reyes Locos,El Lloron,21,21,2
+1994-12-03,22,Lucero,Siempre Contigo,37,22,2
+1994-12-03,23,Los Fugitivos,Yo Tu Dueno,24,23,5
+1994-12-03,24,Chayanne,Querida,34,24,4
+1994-12-03,25,Industria del Amor,A Capa Y Espada,20,9,9
+1994-12-03,26,Jay Perez,Ven A Mi,,26,1
+1994-12-03,27,Banda Blanca,Swing Latino,36,27,3
+1994-12-03,28,La Diferenzia,Linda Chaparrita,,28,1
+1994-12-03,29,La Mafia,Vida,30,1,25
+1994-12-03,30,Lalo Rodriguez,Aunque Lo Dudes,40,30,2
+1994-12-03,31,Banda El Mexicano,Ramito De Violetas,32,31,4
+1994-12-03,32,Los Mier,Te Amo,38,32,2
+1994-12-03,33,La Diferenzia,Si Lo Quieres,23,17,4
+1994-12-03,34,Edgar Joel,En Las Nubes,27,6,9
+1994-12-03,35,Ana Barbara,Nada,22,17,4
+1994-12-03,36,Los Fantasmas del Caribe,Mi Pequeno Amor,,36,1
+1994-12-03,37,Stephanie Lynn & High Energy,Ojos Para Ti,,37,1
+1994-12-03,38,Los Caminantes,Lagrimas Al Recordar,25,20,4
+1994-12-03,39,Tony Vega,Estoy En El Proceso De Olvidarte,,39,1
+1994-12-03,40,Los Yonic's,No Mas Boleros,29,18,6
+1994-12-10,1,Luis Miguel,La Media Vuelta,1,1,5
+1994-12-10,2,Selena,No Me Queda Mas,2,2,5
+1994-12-10,3,Sparx,"Te Amo, Te Amo, Te Amo",5,3,5
+1994-12-10,4,La Mafia,Me Duele Estar Solo,3,3,5
+1994-12-10,5,Los Rehenes,Ni El Primero Ni El Ultimo,4,1,5
+1994-12-10,6,Pedro Fernandez,Mi Forma De Sentir,16,6,3
+1994-12-10,7,Tiranos del Norte,Tragos Amargos,8,7,5
+1994-12-10,8,Juan Gabriel,Lentamente,14,8,7
+1994-12-10,9,Banda Z,La Nina Fresa,13,5,18
+1994-12-10,10,Vicente Fernandez,"No, No Y No",12,10,4
+1994-12-10,11,Banda Machos,El Puchoncito,6,5,5
+1994-12-10,12,Los Mier,Te Amo,32,12,3
+1994-12-10,13,Alejandro Fernandez,A Pesar De Todo,10,10,5
+1994-12-10,14,Ednita Nazario,Quiero Que Me Hagas El Amor,9,9,5
+1994-12-10,15,Selena,Bidi Bidi Bom Bom,7,1,18
+1994-12-10,16,Luis Enrique,Asi Es La Vida,11,11,5
+1994-12-10,17,Fama,Quiero Volverte A Ver,17,17,4
+1994-12-10,18,Grupo Mojado,Para Que,18,12,5
+1994-12-10,19,Ana Gabriel,Tu Lo Decidiste,15,4,11
+1994-12-10,20,Fandango USA,Te Amare Un Millon De Veces,20,14,5
+1994-12-10,21,Lucero,Siempre Contigo,22,21,3
+1994-12-10,22,Banda Blanca,Swing Latino,27,22,4
+1994-12-10,23,Los Reyes Locos,El Lloron,21,21,3
+1994-12-10,24,Los Fantasmas del Caribe,Mi Pequeno Amor,36,24,2
+1994-12-10,25,La Diferenzia,Linda Chaparrita,28,25,2
+1994-12-10,26,Jay Perez,Ven A Mi,26,26,2
+1994-12-10,27,Ezequiel Pena,Ven Y Ven,,27,1
+1994-12-10,28,Industria del Amor,A Capa Y Espada,25,9,10
+1994-12-10,29,Banda El Mexicano,Ramito De Violetas,31,29,5
+1994-12-10,30,Lalo Rodriguez,Aunque Lo Dudes,30,30,3
+1994-12-10,31,Chayanne,Querida,24,24,5
+1994-12-10,32,Cristian,Con Tu Amor,,32,1
+1994-12-10,33,Stephanie Lynn & High Energy,Ojos Para Ti,37,33,2
+1994-12-10,34,Los Caminantes,Lagrimas Al Recordar,38,20,5
+1994-12-10,35,Los Yonic's,No Mas Boleros,40,18,7
+1994-12-10,36,Olga Tanon,Es Mentiroso,,36,1
+1994-12-10,37,Los Fugitivos,Yo Tu Dueno,23,23,6
+1994-12-10,38,Los Temerarios,Que Poca Suerte,,38,1
+1994-12-10,39,Jorge Luis Cabrera,Musica Romantica,,39,1
+1994-12-10,40,La Diferenzia,Si Lo Quieres,33,17,5
+1994-12-17,1,Selena,No Me Queda Mas,2,1,6
+1994-12-17,2,Luis Miguel,La Media Vuelta,1,1,6
+1994-12-17,3,La Mafia,Me Duele Estar Solo,4,3,6
+1994-12-17,4,Los Rehenes,Ni El Primero Ni El Ultimo,5,1,6
+1994-12-17,5,Sparx,"Te Amo, Te Amo, Te Amo",3,3,6
+1994-12-17,6,Pedro Fernandez,Mi Forma De Sentir,6,6,4
+1994-12-17,7,Los Mier,Te Amo,12,7,4
+1994-12-17,8,Vicente Fernandez,"No, No Y No",10,8,5
+1994-12-17,9,Fito Olivares y Su Grupo,El Colesterol,,9,1
+1994-12-17,10,Luis Enrique,Asi Es La Vida,16,10,6
+1994-12-17,11,Fama,Quiero Volverte A Ver,17,11,5
+1994-12-17,12,Cristian,Con Tu Amor,32,12,2
+1994-12-17,13,Lucero,Siempre Contigo,21,13,4
+1994-12-17,14,Ezequiel Pena,Ven Y Ven,27,14,2
+1994-12-17,15,Alejandro Fernandez,A Pesar De Todo,13,10,6
+1994-12-17,16,Ednita Nazario,Quiero Que Me Hagas El Amor,14,9,6
+1994-12-17,17,Juan Gabriel,Lentamente,8,8,8
+1994-12-17,18,Tiranos del Norte,Tragos Amargos,7,7,6
+1994-12-17,19,Banda Z,La Nina Fresa,9,5,19
+1994-12-17,20,Selena,Bidi Bidi Bom Bom,15,1,19
+1994-12-17,21,Banda Machos,El Puchoncito,11,5,6
+1994-12-17,22,La Diferenzia,Linda Chaparrita,25,22,3
+1994-12-17,23,Olga Tanon,Es Mentiroso,36,23,2
+1994-12-17,24,Grupo Mojado,Para Que,18,12,6
+1994-12-17,25,Liberacion,Vuelve Mi Amor,,25,1
+1994-12-17,26,Ana Gabriel,Tu Lo Decidiste,19,4,12
+1994-12-17,27,Los Reyes Locos,El Lloron,23,21,4
+1994-12-17,28,Fandango USA,Te Amare Un Millon De Veces,20,14,6
+1994-12-17,29,Los Tigres del Norte,Entre El Amor Y Yo,,29,1
+1994-12-17,30,Jay Perez,Ven A Mi,26,26,3
+1994-12-17,31,Industria del Amor,No Te Imaginas,,31,1
+1994-12-17,32,Stephanie Lynn & High Energy,Ojos Para Ti,33,32,3
+1994-12-17,33,Los Temerarios,Que Poca Suerte,38,33,2
+1994-12-17,34,Chayanne,Querida,31,24,6
+1994-12-17,35,Banda Blanca,Swing Latino,22,22,5
+1994-12-17,36,Gilberto Santa Rosa,Te Propongo,,36,1
+1994-12-17,37,Jorge Luis Cabrera,Musica Romantica,39,37,2
+1994-12-17,38,Los Fantasmas del Caribe,Mi Pequeno Amor,24,24,3
+1994-12-17,39,Banda Arkangel R-15,La Que Me Hace Llorar,,39,1
+1994-12-17,40,Charlie Masso,Te Me Vas,,40,1
+1994-12-24,1,Selena,No Me Queda Mas,1,1,7
+1994-12-24,2,La Mafia,Me Duele Estar Solo,3,2,7
+1994-12-24,3,Luis Miguel,La Media Vuelta,2,1,7
+1994-12-24,4,Fito Olivares y Su Grupo,El Colesterol,9,4,2
+1994-12-24,5,Liberacion,Vuelve Mi Amor,25,5,2
+1994-12-24,6,Pedro Fernandez,Mi Forma De Sentir,6,6,5
+1994-12-24,7,Los Rehenes,Ni El Primero Ni El Ultimo,4,1,7
+1994-12-24,8,Los Mier,Te Amo,7,7,5
+1994-12-24,9,Lucero,Siempre Contigo,13,9,5
+1994-12-24,10,Fama,Quiero Volverte A Ver,11,10,6
+1994-12-24,11,Cristian,Con Tu Amor,12,11,3
+1994-12-24,12,Vicente Fernandez,"No, No Y No",8,8,6
+1994-12-24,13,Sparx,"Te Amo, Te Amo, Te Amo",5,3,7
+1994-12-24,14,Luis Enrique,Asi Es La Vida,10,10,7
+1994-12-24,15,Juan Gabriel,Lentamente,17,8,9
+1994-12-24,16,Ezequiel Pena,Ven Y Ven,14,14,3
+1994-12-24,17,La Diferenzia,Linda Chaparrita,22,17,4
+1994-12-24,18,Ednita Nazario,Quiero Que Me Hagas El Amor,16,9,7
+1994-12-24,19,Industria del Amor,No Te Imaginas,31,19,2
+1994-12-24,20,India,Ese Hombre,,20,1
+1994-12-24,21,Banda Arkangel R-15,La Que Me Hace Llorar,39,21,2
+1994-12-24,22,Grupo Mojado,Para Que,24,12,7
+1994-12-24,23,Alejandro Fernandez,A Pesar De Todo,15,10,7
+1994-12-24,24,Olga Tanon,Es Mentiroso,23,23,3
+1994-12-24,25,Banda Z,La Nina Fresa,19,5,20
+1994-12-24,26,Banda Blanca,Swing Latino,35,22,6
+1994-12-24,27,Selena,Bidi Bidi Bom Bom,20,1,20
+1994-12-24,28,Los Fantasmas del Caribe,Mi Pequeno Amor,38,24,4
+1994-12-24,29,Los Invasores de Nuevo Leon,Pensando En Ti,,29,1
+1994-12-24,30,Los Reyes Locos,El Lloron,27,21,5
+1994-12-24,31,Ezequiel Pena,Prefiero Partir,,31,1
+1994-12-24,32,Mandingo,Seguire Tu Huella,,32,1
+1994-12-24,33,Charlie Masso,Te Me Vas,40,33,2
+1994-12-24,34,Ana Gabriel,Tu Lo Decidiste,26,4,13
+1994-12-24,35,Tiranos del Norte,Tragos Amargos,18,7,7
+1994-12-24,36,Los Temerarios,Que Poca Suerte,33,33,3
+1994-12-24,37,Los Bukis,Navidad Sin Ti,,37,1
+1994-12-24,38,Jorge Luis Cabrera,Musica Romantica,37,37,3
+1994-12-24,39,Jay Perez,Ven A Mi,30,26,4
+1994-12-24,40,Banda Machos,Las Habas,,40,1
+1994-12-31,1,Selena,No Me Queda Mas,1,1,8
+1994-12-31,2,La Mafia,Me Duele Estar Solo,2,2,8
+1994-12-31,3,Luis Miguel,La Media Vuelta,3,1,8
+1994-12-31,4,Liberacion,Vuelve Mi Amor,5,4,3
+1994-12-31,5,Fito Olivares y Su Grupo,El Colesterol,4,4,3
+1994-12-31,6,Cristian,Con Tu Amor,11,6,4
+1994-12-31,7,Los Mier,Te Amo,8,7,6
+1994-12-31,8,Lucero,Siempre Contigo,9,8,6
+1994-12-31,9,Pedro Fernandez,Mi Forma De Sentir,6,6,6
+1994-12-31,10,Fama,Quiero Volverte A Ver,10,10,7
+1994-12-31,11,Los Rehenes,Ni El Primero Ni El Ultimo,7,1,8
+1994-12-31,12,Sparx,"Te Amo, Te Amo, Te Amo",13,3,8
+1994-12-31,13,Ezequiel Pena,Ven Y Ven,16,13,4
+1994-12-31,14,Vicente Fernandez,"No, No Y No",12,8,7
+1994-12-31,15,India,Ese Hombre,20,15,2
+1994-12-31,16,Industria del Amor,No Te Imaginas,19,16,3
+1994-12-31,17,Luis Enrique,Asi Es La Vida,14,10,8
+1994-12-31,18,Los Bukis,Navidad Sin Ti,37,18,2
+1994-12-31,19,Grupo Mojado,Para Que,22,12,8
+1994-12-31,20,La Diferenzia,Linda Chaparrita,17,17,5
+1994-12-31,21,Juan Gabriel,Lentamente,15,8,10
+1994-12-31,22,Banda Arkangel R-15,La Que Me Hace Llorar,21,21,3
+1994-12-31,23,Los Temerarios,Que Poca Suerte,36,23,4
+1994-12-31,24,Ezequiel Pena,Prefiero Partir,31,24,2
+1994-12-31,25,Jorge Luis Cabrera,Musica Romantica,38,25,4
+1994-12-31,26,Los Fantasmas del Caribe,Mi Pequeno Amor,28,24,5
+1994-12-31,27,Mandingo,Seguire Tu Huella,32,27,2
+1994-12-31,28,Charlie Masso,Te Me Vas,33,28,3
+1994-12-31,29,Ednita Nazario,Quiero Que Me Hagas El Amor,18,9,8
+1994-12-31,30,Banda Blanca,Swing Latino,26,22,7
+1994-12-31,31,Ana Gabriel,Tu Lo Decidiste,34,4,14
+1994-12-31,32,Fandango USA,Te Amare Un Millon De Veces,,14,7
+1994-12-31,33,Banda Z,La Nina Fresa,25,5,21
+1994-12-31,34,Los Reyes Locos,El Lloron,30,21,6
+1994-12-31,35,Stephanie Lynn & High Energy,Ojos Para Ti,,32,4
+1994-12-31,36,Selena,Bidi Bidi Bom Bom,27,1,21
+1994-12-31,37,Tiranos del Norte,Tragos Amargos,35,7,8
+1994-12-31,38,Banda Machos,Las Habas,40,38,2
+1994-12-31,39,Olga Tanon,Es Mentiroso,24,23,4
+1994-12-31,40,Alejandro Fernandez,A Pesar De Todo,23,10,8

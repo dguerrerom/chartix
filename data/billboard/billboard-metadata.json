@@ -1,0 +1,110 @@
+{
+  "name": "Billboard",
+  "country": "United States",
+  "folder": "billboard",
+  "url": "https://www.billboard.com/charts/",
+  "prefix": "billboard",
+  "charts": [
+    {
+      "name": "Billboard Hot 100",
+      "folder": "billboard-hot100",
+      "prefix": "billboard-hot100",
+      "size": 100,
+      "frequency": "weekly",
+      "day_of_week": "Saturday",
+      "start_date": "1958-08-04",
+      "fields": ["date", "this_week", "artist", "song", "last_week", "peak_position", "weeks_on_chart"]
+    },
+    {
+      "name": "Billboard Hot Latin Songs",
+      "folder": "billboard-latin",
+      "prefix": "billboard-latin",
+      "size": 40,
+      "frequency": "weekly",
+      "day_of_week": "Saturday",
+      "start_date": "1986-09-06",
+      "size_history": [
+        {
+          
+           "start": "1986-09-06",
+           "end": "1988-09-17",
+           "size": 50
+        },
+        {
+          
+           "start": "1988-09-24",
+           "end": null,
+           "size": 40
+        }
+      ],
+      "fields": ["date", "this_week", "artist", "song", "last_week", "peak_position", "weeks_on_chart"]
+    },
+    {
+      "name": "Billboard Dance Club Songs",
+      "folder": "billboard-club",
+      "prefix": "billboard-club",
+      "size": 55,
+      "frequency": "weekly",
+      "day_of_week": "Saturday",
+      "start_date": "1976-08-28",
+      "end_date": "2020-03-28",
+      "size_history": [
+        {
+          
+           "start": "1976-08-28",
+           "end": "1976-09-04",
+           "size": 30
+        },
+        {
+          
+           "start": "1976-09-11",
+           "end": "1979-03-31",
+           "size": 40
+        },
+        {
+          
+           "start": "1979-04-07",
+           "end": "1979-04-07",
+           "size": 60
+        },
+        {
+          
+           "start": "1979-04-14",
+           "end": "1979-09-01",
+           "size": 80
+        },
+        {
+          
+           "start": "1979-09-08",
+           "end": "1981-07-25",
+           "size": 100
+        },
+        {
+          
+           "start": "1981-08-01",
+           "end": "1985-03-09",
+           "size": 80
+        },
+        {
+          
+           "start": "1985-03-16",
+           "end": "1985-06-29",
+           "size": 50
+        },
+        {
+          
+           "start": "1985-07-06",
+           "end": "1988-10-01",
+           "size": 60
+        },
+        {
+          
+           "start": "1988-10-08",
+           "end": "2020-03-28",
+           "size": 55
+        }
+      ],
+      "fields": ["date", "this_week", "artist", "song", "last_week", "peak_position", "weeks_on_chart"]
+    }
+  ]
+}
