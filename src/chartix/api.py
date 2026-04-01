@@ -410,22 +410,19 @@ def ones_calendar(
     year: int | None = None,
 ) -> pl.DataFrame:
     """
-    Generate a calendar of #1 hits aligned with weeks of the current year.
+    Generate a calendar of #1 hits aligned with weeks of the target year.
 
-    For each #1 entry in the index, find the week in the given year (default current year)
-    that contains the same month and day. Output a DataFrame with columns:
-        week (int)      - ISO week number of the date in the target year
-        date (date)     - original date of the #1 hit
-        event (str)     - formatted string: "{song} by {artist} reaches #1 on the {chart}"
+    For each chart, only the first time a song reaches #1 is included.
+    The output maps each hit's month/day to the target year and shows the
+    ISO week number in that year.
 
     Args:
-        provider: Filter by provider name (e.g., 'billboard')
-        chart: Filter by chart name (e.g., 'billboard-hot100')
-        year: Target year (default current year)
-        output_path: If provided, save the CSV to this path
+        provider: Filter by provider name (e.g., 'billboard').
+        chart: Filter by chart name (e.g., 'billboard-hot100').
+        year: Target year (defaults to current year).
 
     Returns:
-        DataFrame with columns week, date, event, sorted by week then date.
+        DataFrame with columns: week, date, event, sorted by week then date.
     """
     index_path = ROOT / "search_index.parquet"
     if not index_path.exists():
@@ -433,8 +430,9 @@ def ones_calendar(
         return pl.DataFrame()
 
     target_year = year if year is not None else date.today().year
+    is_leap = (target_year % 400 == 0) or (target_year % 4 == 0 and target_year % 100 != 0)
 
-    # Scan the index and filter #1 entries
+    # Scan the index lazily and filter for #1 entries.
     lf = pl.scan_parquet(index_path).filter(pl.col("this_week") == 1)
 
     if provider:
@@ -442,28 +440,43 @@ def ones_calendar(
     if chart:
         lf = lf.filter(pl.col("chart") == chart)
 
-    df = lf.select(["date", "artist", "song", "provider", "chart", "month", "day"]).collect()
+    # For each (provider, chart, artist, song), keep the earliest #1 date.
+    df = (
+        lf.group_by(["provider", "chart", "artist", "song"])
+        .agg(pl.col("date").min().alias("date"))
+        .select(["date", "artist", "song", "provider", "chart"])
+        .collect()
+    )
 
     if df.is_empty():
         logger.info("No #1 hits found with given filters.")
         return pl.DataFrame()
 
-    # Helper to compute week number for a date in the target year
-    def get_week_number(original_date: date) -> int | None:
-        try:
-            # Create a date in target year with same month and day
-            mapped_date = date(target_year, original_date.month, original_date.day)
-            # Return ISO week number
-            return mapped_date.isocalendar()[1]
-        except ValueError:
-            # Invalid date (e.g., Feb 29 in non-leap year)
-            logger.warning(f"Skipping {original_date}: not a valid date in {target_year}")
-            return None
-
-    # Add week number column
     df = df.with_columns(
-        pl.col("date").map_elements(get_week_number, return_dtype=pl.Int64).alias("week")
-    ).drop_nulls(subset=["week"])
+        pl.col("date").dt.month().alias("month"),
+        pl.col("date").dt.day().alias("day"),
+    )
+
+    # Adjust February 29 if target year is not a leap year.
+    if not is_leap:
+        df = df.with_columns(
+            pl.when((pl.col("month") == 2) & (pl.col("day") == 29))
+            .then(28)
+            .otherwise(pl.col("day"))
+            .alias("day")
+        )
+
+    # Build a date in the target year using the (possibly adjusted) month/day.
+    df = df.with_columns(
+        pl.date(
+            year=pl.lit(target_year),
+            month=pl.col("month"),
+            day=pl.col("day"),
+        ).alias("mapped_date")
+    )
+
+    # Compute ISO week number from the mapped date.
+    df = df.with_columns(pl.col("mapped_date").dt.week().alias("week"))
 
     df = df.with_columns(
         (
@@ -471,11 +484,8 @@ def ones_calendar(
         ).alias("event")
     )
 
-    result = (
-        df.select(["week", "date", "event", "month", "day"])
-        .sort(["week", "month", "day"])
-        .drop(["month", "day"])
-    )
+    result = df.select(["week", "date", "event"]).sort(["week", "date"])
+
     return result
 
 
