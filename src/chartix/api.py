@@ -475,8 +475,13 @@ def ones_calendar(
         ).alias("mapped_date")
     )
 
-    # Compute ISO week number from the mapped date.
-    df = df.with_columns(pl.col("mapped_date").dt.week().alias("week"))
+    # Compute Sunday-based week number
+    df = df.with_columns(
+        (
+            (pl.col("mapped_date").dt.ordinal_day() + (6 - pl.col("mapped_date").dt.weekday())) // 7
+            + 1
+        ).alias("week")
+    )
 
     df = df.with_columns(
         (
