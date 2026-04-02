@@ -478,7 +478,11 @@ def ones_calendar(
     # Compute Sunday-based week number
     df = df.with_columns(
         (
-            (pl.col("mapped_date").dt.ordinal_day() + (6 - pl.col("mapped_date").dt.weekday())) // 7
+            (
+                pl.col("mapped_date").dt.ordinal_day()
+                + (6 - (pl.col("mapped_date").dt.weekday() % 7))
+            )
+            // 7
             + 1
         ).alias("week")
     )
