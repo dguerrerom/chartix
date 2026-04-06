@@ -57,14 +57,15 @@ def render_list(charts):
             current_provider = c["provider"]
             console.print(f"\n[bold yellow]{current_provider}[/bold yellow]")
 
-        name = f"[dim cyan]{c['name']:<30}[/dim cyan]"
-        title = f"[dim white]{c['title']:<35}[/dim white]"
+        name = f"[dim cyan]{c['name']}[/dim cyan]"
+        title = f"[dim white]{c['title']:<47}[/dim white]"
         freq = c["frequency"]
         start = c.get("start_date") or "????"
         end = c.get("end_date") or "Present"
-        meta = f"[bold green]{freq:<10}[/bold green][dim green]{start} to {end}[/dim green]"
+        meta = f"[bold green]{freq:<13}[/bold green][dim green]{start} to {end}[/dim green]"
 
-        console.print(f"  [blue]>[/blue]  {name}  {title}  {meta}")
+        console.print(f"  [blue]>[/blue]  {name}")
+        console.print(f"     {title}  {meta}")
 
 
 def render_anniversary(df: pl.DataFrame, ref_date: str, rank: int):
