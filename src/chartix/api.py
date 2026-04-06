@@ -443,8 +443,8 @@ def ones_calendar(
     # For each (provider, chart, artist, song), keep the earliest #1 date.
     df = (
         lf.group_by(["provider", "chart", "artist", "song"])
-        .agg(pl.col("date").min().alias("date"))
-        .select(["date", "artist", "song", "provider", "chart"])
+        .agg(pl.col("date").min().alias("original_date"))
+        .select(["original_date", "artist", "song", "provider", "chart"])
         .collect()
     )
 
@@ -453,8 +453,8 @@ def ones_calendar(
         return pl.DataFrame()
 
     df = df.with_columns(
-        pl.col("date").dt.month().alias("month"),
-        pl.col("date").dt.day().alias("day"),
+        pl.col("original_date").dt.month().alias("month"),
+        pl.col("original_date").dt.day().alias("day"),
     )
 
     # Adjust February 29 if target year is not a leap year.
@@ -472,18 +472,13 @@ def ones_calendar(
             year=pl.lit(target_year),
             month=pl.col("month"),
             day=pl.col("day"),
-        ).alias("mapped_date")
+        ).alias("date")
     )
 
     # Compute Sunday-based week number
     df = df.with_columns(
         (
-            (
-                pl.col("mapped_date").dt.ordinal_day()
-                + (6 - (pl.col("mapped_date").dt.weekday() % 7))
-            )
-            // 7
-            + 1
+            (pl.col("date").dt.ordinal_day() + (6 - (pl.col("date").dt.weekday() % 7))) // 7 + 1
         ).alias("week")
     )
 
@@ -493,7 +488,9 @@ def ones_calendar(
         ).alias("event")
     )
 
-    result = df.select(["week", "date", "event"]).sort(["week", "date"])
+    result = df.select(["week", "date", "original_date", "event"]).sort(
+        ["week", "date", "original_date"]
+    )
 
     return result
 
