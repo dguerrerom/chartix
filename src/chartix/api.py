@@ -186,7 +186,12 @@ def build_search_index() -> None:
 # ----------------------------------------------------------------------
 # Anniversary hits
 # ----------------------------------------------------------------------
-def anniversary_hits(date_str: str | None = None, rank: int = 1) -> pl.DataFrame:
+def anniversary_hits(
+    date_str: str | None = None,
+    rank: int = 1,
+    provider: str | None = None,
+    chart: str | None = None,
+) -> pl.DataFrame:
     """Find #rank hits for the current week in previous years using the index."""
     index_path = ROOT / "search_index.parquet"
     if not index_path.exists():
@@ -231,6 +236,11 @@ def anniversary_hits(date_str: str | None = None, rank: int = 1) -> pl.DataFrame
         & (pl.col("month") == ref.month)
         & (pl.col("day") == ref_fortnight_day)
     )
+
+    if provider:
+        lf = lf.filter(pl.col("provider") == provider)
+    if chart:
+        lf = lf.filter(pl.col("chart") == chart)
 
     # Apply filters: rank, frequency conditions, and year ≤ reference year
     df = (
@@ -332,7 +342,12 @@ def search_hits(
 # ----------------------------------------------------------------------
 # Best rank in year
 # ----------------------------------------------------------------------
-def best_rank_in_year(year: int, max_rank: int = DEFAULT_PEAK_RANK) -> pl.DataFrame:
+def best_rank_in_year(
+    year: int,
+    max_rank: int = DEFAULT_PEAK_RANK,
+    provider: str | None = None,
+    chart: str | None = None,
+) -> pl.DataFrame:
     """
     For each chart, find songs that reached a rank <= max_rank in the given year,
     along with the best rank and the date it was achieved.
@@ -347,6 +362,11 @@ def best_rank_in_year(year: int, max_rank: int = DEFAULT_PEAK_RANK) -> pl.DataFr
 
     # Scan the entire index (no year filter yet)
     lf = pl.scan_parquet(index_path)
+
+    if provider:
+        lf = lf.filter(pl.col("provider") == provider)
+    if chart:
+        lf = lf.filter(pl.col("chart") == chart)
 
     # Group by provider, chart, artist, song
     df = (

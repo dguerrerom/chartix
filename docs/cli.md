@@ -55,16 +55,18 @@ chartix search --artist "Madonna" --best
 Find #rank hits for the current week in previous years.
 
 ```bash
-chartix anniversary [--date DATE] [--rank RANK]
+chartix anniversary [--date DATE] [--rank RANK] [--provider PROVIDER] [--chart CHART]
 ```
 
 **Options:**
 - `--date` – Reference date (`YYYY-MM-DD`). Defaults to today.
 - `--rank` – Chart position to retrieve. Defaults to 1.
+- `--provider` – Filter by provider name.
+- `--chart` – Filter by chart name.
 
 **Example:**
 ```bash
-chartix anniversary --rank 1
+chartix anniversary --rank 1 --provider billboard
 ```
 
 ## `peak`
@@ -72,16 +74,18 @@ chartix anniversary --rank 1
 Find best rank for each song in a given year.
 
 ```bash
-chartix peak --year YEAR [--rank RANK]
+chartix peak --year YEAR [--rank RANK] [--provider PROVIDER] [--chart CHART]
 ```
 
 **Options:**
 - `--year` (required) – Year to search (e.g., 1985).
 - `--rank` – Target rank (default 10). Only songs that reached ≤ this rank are shown.
+- `--provider` – Filter by provider name.
+- `--chart` – Filter by chart name.
 
 **Example:**
 ```bash
-chartix peak --year 1988 --rank 10
+chartix peak --year 1988 --rank 10 --chart billboard-hot100
 ```
 
 ## `calendar`
@@ -125,6 +129,3 @@ Build the search index from CSV files. The index is stored as `search_index.parq
 
 ```bash
 chartix build-index
-```
-
-**Note:** Run this after adding or modifying CSV data, or after running `generate`.

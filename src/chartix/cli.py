@@ -274,10 +274,12 @@ def list():
     default=DEFAULT_ANNIVERSARY_RANK,
     help=f"Chart position to retrieve. Defaults to {DEFAULT_ANNIVERSARY_RANK}.",
 )
-def anniversary(date_str, rank):
+@click.option("--provider", help="Filter by provider name.")
+@click.option("--chart", help="Filter by chart name.")
+def anniversary(date_str, rank, provider, chart):
     """Find #1 (or another position) hits for this week in history."""
     ref = date_str if date_str is not None else date.today().strftime("%Y-%m-%d")
-    render_anniversary(anniversary_hits(date_str, rank), ref, rank)
+    render_anniversary(anniversary_hits(date_str, rank, provider, chart), ref, rank)
 
 
 @cli.command()
@@ -320,9 +322,11 @@ def search(artist, song, date, year, best_position):
     default=DEFAULT_PEAK_RANK,
     help=f"Target rank (default {DEFAULT_PEAK_RANK}).",
 )
-def peak(year, rank):
+@click.option("--provider", help="Filter by provider name.")
+@click.option("--chart", help="Filter by chart name.")
+def peak(year, rank, provider, chart):
     """Find best rank for each song in a given year."""
-    render_peak(best_rank_in_year(year, rank), year, rank)
+    render_peak(best_rank_in_year(year, rank, provider, chart), year, rank)
 
 
 @cli.command()
