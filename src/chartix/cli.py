@@ -306,13 +306,15 @@ def anniversary(date_str, rank, provider, chart):
 @click.option("--song", help="Song title.")
 @click.option("--date", help="Specific date (YYYY-MM-DD).")
 @click.option("--year", type=int, help="Specific year.")
+@click.option("--provider", help="Filter by provider name.")
+@click.option("--chart", help="Filter by chart name.")
 @click.option(
     "--best",
     "best_position",
     is_flag=True,
     help="Return only the best rank for each song (ignored with --date).",
 )
-def search(artist, song, date, year, best_position):
+def search(artist, song, date, year, provider, chart, best_position):
     """
     Search for an artist and/or song in the charts.
 
@@ -321,6 +323,8 @@ def search(artist, song, date, year, best_position):
         song: Song title to search for.
         date: Specific date (YYYY-MM-DD) to filter by.
         year: Specific year to filter by.
+        provider: Provider name to filter by.
+        chart: Chart name to filter by.
         best_position: Whether to return only the best rank for each song.
 
     Returns:
@@ -335,7 +339,13 @@ def search(artist, song, date, year, best_position):
 
     render_search(
         search_hits(
-            artist=artist, song=song, date_str=date, year=year, best_position=best_position
+            artist=artist,
+            song=song,
+            date_str=date,
+            year=year,
+            best_position=best_position,
+            provider=provider,
+            chart=chart,
         ),
         artist,
         song,
