@@ -31,6 +31,12 @@ FUZZY_DISTANCE_THRESHOLD = 2
 DEFAULT_ANNIVERSARY_RANK = 1
 DEFAULT_PEAK_RANK = 10
 
+# Regex patterns for text normalization
+REGEX_PARENS = r"[\(\[].*?[\)\]]"
+REGEX_ARTICLES = r"^(the|a|an|el|la|los|las|un|una)\s+"
+REGEX_CONJUNCTIONS = r"\b(and|with|feat|ft|featuring|pres|presents|y|con|e|et)\b"
+REGEX_CLEAN = r"[^a-z0-9&]"
+
 # Set up logging (basic config, can be overridden)
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -48,13 +54,13 @@ def normalize_text(text: str) -> str:
     # Remove diacritics (Unicode NFKD → ASCII)
     s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode("ascii")
     # Strip content inside parentheses or brackets
-    s = re.sub(r"[\(\[].*?[\)\]]", "", s)
+    s = re.sub(REGEX_PARENS, "", s)
     # Remove leading articles (English and Spanish)
-    s = re.sub(r"^(the|a|an|el|la|los|las|un|una)\s+", "", s)
+    s = re.sub(REGEX_ARTICLES, "", s)
     # Replace common conjunctions and "featuring" tags with '&'
-    s = re.sub(r"\b(and|with|feat|ft|featuring|pres|presents|y|con|e|et)\b", "&", s)
+    s = re.sub(REGEX_CONJUNCTIONS, "&", s)
     # Keep only alphanumeric characters and '&'
-    s = re.sub(r"[^a-z0-9&]", "", s)
+    s = re.sub(REGEX_CLEAN, "", s)
     return s.strip()
 
 
@@ -145,23 +151,19 @@ def build_search_index() -> None:
                         # Hybrid normalization for artist_norm
                         pl.col("artist")
                         .str.to_lowercase()
-                        .str.replace_all(r"[\(\[].*?[\)\]]", "")
-                        .str.replace(r"^(the|a|an|el|la|los|las|un|una)\s+", "")
-                        .str.replace_all(
-                            r"\b(and|with|feat|ft|featuring|pres|presents|y|con|e|et)\b", "&"
-                        )
-                        .str.replace_all(r"[^a-z0-9&]", "")
+                        .str.replace_all(REGEX_PARENS, "")
+                        .str.replace(REGEX_ARTICLES, "")
+                        .str.replace_all(REGEX_CONJUNCTIONS, "&")
+                        .str.replace_all(REGEX_CLEAN, "")
                         .map_elements(_remove_diacritics, return_dtype=pl.String)
                         .alias("artist_norm"),
                         # Same for song_norm
                         pl.col("song")
                         .str.to_lowercase()
-                        .str.replace_all(r"[\(\[].*?[\)\]]", "")
-                        .str.replace(r"^(the|a|an|el|la|los|las|un|una)\s+", "")
-                        .str.replace_all(
-                            r"\b(and|with|feat|ft|featuring|pres|presents|y|con|e|et)\b", "&"
-                        )
-                        .str.replace_all(r"[^a-z0-9&]", "")
+                        .str.replace_all(REGEX_PARENS, "")
+                        .str.replace(REGEX_ARTICLES, "")
+                        .str.replace_all(REGEX_CONJUNCTIONS, "&")
+                        .str.replace_all(REGEX_CLEAN, "")
                         .map_elements(_remove_diacritics, return_dtype=pl.String)
                         .alias("song_norm"),
                     ]
