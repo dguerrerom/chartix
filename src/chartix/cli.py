@@ -262,7 +262,15 @@ def cli():
 
 @cli.command()
 def list():
-    """List all available charts."""
+    """
+    List all available charts.
+
+    Args:
+        None
+
+    Returns:
+        None
+    """
     render_list(list_charts())
 
 
@@ -277,7 +285,18 @@ def list():
 @click.option("--provider", help="Filter by provider name.")
 @click.option("--chart", help="Filter by chart name.")
 def anniversary(date_str, rank, provider, chart):
-    """Find #1 (or another position) hits for this week in history."""
+    """
+    Find hits for this week in history.
+
+    Args:
+        date_str: Reference date (YYYY-MM-DD).
+        rank: Chart position to retrieve.
+        provider: Provider name to filter by.
+        chart: Chart name to filter by.
+
+    Returns:
+        None
+    """
     ref = date_str if date_str is not None else date.today().strftime("%Y-%m-%d")
     render_anniversary(anniversary_hits(date_str, rank, provider, chart), ref, rank)
 
@@ -294,7 +313,19 @@ def anniversary(date_str, rank, provider, chart):
     help="Return only the best rank for each song (ignored with --date).",
 )
 def search(artist, song, date, year, best_position):
-    """Search for an artist and/or song in the charts."""
+    """
+    Search for an artist and/or song in the charts.
+
+    Args:
+        artist: Artist name to search for.
+        song: Song title to search for.
+        date: Specific date (YYYY-MM-DD) to filter by.
+        year: Specific year to filter by.
+        best_position: Whether to return only the best rank for each song.
+
+    Returns:
+        None
+    """
     if not artist and not song:
         click.echo("Error: At least one of --artist or --song is required.", err=True)
         sys.exit(1)
@@ -325,7 +356,18 @@ def search(artist, song, date, year, best_position):
 @click.option("--provider", help="Filter by provider name.")
 @click.option("--chart", help="Filter by chart name.")
 def peak(year, rank, provider, chart):
-    """Find best rank for each song in a given year."""
+    """
+    Find best rank for each song in a given year.
+
+    Args:
+        year: Year to search.
+        rank: Target rank threshold.
+        provider: Provider name to filter by.
+        chart: Chart name to filter by.
+
+    Returns:
+        None
+    """
     render_peak(best_rank_in_year(year, rank, provider, chart), year, rank)
 
 
@@ -334,7 +376,17 @@ def peak(year, rank, provider, chart):
 @click.option("--provider", help="Filter by provider.")
 @click.option("--chart", help="Filter by chart name.")
 def show(date, provider, chart):
-    """Show chart(s) for a specific date."""
+    """
+    Show chart(s) for a specific date.
+
+    Args:
+        date: Date (YYYY-MM-DD) to show.
+        provider: Provider name to filter by.
+        chart: Chart name to filter by.
+
+    Returns:
+        None
+    """
     render_chart(show_chart(date_str=date, provider=provider, chart=chart), date, provider, chart)
 
 
@@ -344,7 +396,18 @@ def show(date, provider, chart):
 @click.option("--year", type=int, help="Target year (default current year)")
 @click.option("--output", help="Output CSV file path (defaults to {year}_calendar.csv)")
 def calendar(provider, chart, year, output):
-    """Generate a calendar of #1 hits aligned with weeks of the current year."""
+    """
+    Generate a calendar of #1 hits aligned with weeks of the year.
+
+    Args:
+        provider: Provider name to filter by.
+        chart: Chart name to filter by.
+        year: Target year for the calendar.
+        output: Output CSV file path.
+
+    Returns:
+        None
+    """
     target_year = year if year is not None else date.today().year
     render_calendar(
         ones_calendar(provider=provider, chart=chart, year=target_year), target_year, output
@@ -353,13 +416,29 @@ def calendar(provider, chart, year, output):
 
 @cli.command()
 def generate():
-    """Generate Frictionless Data Packages from metadata."""
+    """
+    Generate Frictionless Data Packages from metadata.
+
+    Args:
+        None
+
+    Returns:
+        None
+    """
     render_generate()
 
 
 @cli.command(name="build-index")
 def build_index():
-    """Build search index from CSV files."""
+    """
+    Build search index from CSV files.
+
+    Args:
+        None
+
+    Returns:
+        None
+    """
     render_build_index()
 
 
