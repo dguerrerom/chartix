@@ -154,8 +154,18 @@ def list_charts() -> list[dict[str, Any]]:
 # ----------------------------------------------------------------------
 # Search index building
 # ----------------------------------------------------------------------
-def build_search_index() -> None:
-    """Aggregates all CSVs, normalizes search fields, and exports a Parquet index."""
+def _load_raw_data() -> list[pl.LazyFrame]:
+    """
+    Iterate over all providers and charts defined in the master catalog and
+    create LazyFrames for their raw CSV data.
+
+    Returns:
+        A list of Polars LazyFrames, each representing a single chart's data
+        with provider and frequency metadata attached.
+
+    Raises:
+        ValueError: If no data files are found in the catalog.
+    """
     lfs = []
     # Iterate over providers from the master catalog
     for p_entry in _load_catalog().resources:
@@ -168,36 +178,74 @@ def build_search_index() -> None:
             paths = [res.path] if isinstance(res.path, str) else res.path
             csv_files = [p_pkg_path.parent / p for p in paths]
             # Lazy scan the CSV files and project the needed columns
-            lf = (
-                pl.scan_csv(csv_files)
-                .select(
-                    [
-                        pl.lit(p_entry.name).alias("provider"),
-                        pl.lit(res.name).alias("chart"),
-                        pl.lit(res.frequency).alias("frequency"),
-                        pl.col("date").str.strptime(pl.Date, "%Y-%m-%d").alias("date"),
-                        pl.col("this_week").cast(pl.Int64).alias("this_week"),
-                        pl.col("artist"),
-                        pl.col("song"),
-                        # Use unified normalization expression
-                        _normalization_expression("artist").alias("artist_norm"),
-                        _normalization_expression("song").alias("song_norm"),
-                    ]
-                )
-                .with_columns(
-                    [
-                        # Extract date components for efficient filtering
-                        pl.col("date").dt.year().alias("year"),
-                        pl.col("date").dt.month().alias("month"),
-                        pl.col("date").dt.day().alias("day"),
-                    ]
-                )
+            lf = pl.scan_csv(csv_files).select(
+                [
+                    pl.lit(p_entry.name).alias("provider"),
+                    pl.lit(res.name).alias("chart"),
+                    pl.lit(res.frequency).alias("frequency"),
+                    pl.col("date"),
+                    pl.col("this_week"),
+                    pl.col("artist"),
+                    pl.col("song"),
+                ]
             )
             lfs.append(lf)
     if not lfs:
         raise ValueError("No data found to index.")
-    # Concatenate all lazy frames and write to Parquet
-    pl.concat(lfs).sink_parquet(_get_index_path())
+    return lfs
+
+
+def _apply_normalization(lf: pl.LazyFrame) -> pl.LazyFrame:
+    """
+    Standardize the data within a LazyFrame by applying text normalization
+    to search fields and converting date strings to date objects and components.
+
+    Args:
+        lf: The concatenated LazyFrame of all chart data.
+
+    Returns:
+        A LazyFrame with normalized columns ('artist_norm', 'song_norm')
+        and date components ('year', 'month', 'day').
+    """
+    return (
+        lf.with_columns(
+            [
+                pl.col("date").str.strptime(pl.Date, "%Y-%m-%d").alias("date"),
+                pl.col("this_week").cast(pl.Int64).alias("this_week"),
+            ]
+        )
+        .with_columns(
+            [
+                # Use unified normalization expression
+                _normalization_expression("artist").alias("artist_norm"),
+                _normalization_expression("song").alias("song_norm"),
+                # Extract date components for efficient filtering
+                pl.col("date").dt.year().alias("year"),
+                pl.col("date").dt.month().alias("month"),
+                pl.col("date").dt.day().alias("day"),
+            ]
+        )
+    )
+
+
+def _save_search_index(lf: pl.LazyFrame) -> None:
+    """
+    Persist the final search index LazyFrame to a Parquet file.
+
+    Args:
+        lf: The fully processed search index LazyFrame.
+    """
+    lf.sink_parquet(_get_index_path())
+
+
+def build_search_index() -> None:
+    """Aggregates all CSVs, normalizes search fields, and exports a Parquet index."""
+    lfs = _load_raw_data()
+    # Concatenate all lazy frames and apply normalization
+    lf = pl.concat(lfs)
+    lf = _apply_normalization(lf)
+    # Write to Parquet
+    _save_search_index(lf)
 
 
 # ----------------------------------------------------------------------
