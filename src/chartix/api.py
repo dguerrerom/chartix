@@ -49,10 +49,8 @@ def normalize_text(text: str) -> str:
     """Standardize text for search indexing and matching."""
     if not text:
         return ""
-    # Lowercase
-    s = text.lower()
-    # Remove diacritics (Unicode NFKD → ASCII)
-    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode("ascii")
+    # Lowercase and remove diacritics
+    s = _remove_diacritics(text.lower())
     # Strip content inside parentheses or brackets
     s = re.sub(REGEX_PARENS, "", s)
     # Remove leading articles (English and Spanish)
@@ -181,24 +179,9 @@ def build_search_index() -> None:
                         pl.col("this_week").cast(pl.Int64).alias("this_week"),
                         pl.col("artist"),
                         pl.col("song"),
-                        # Hybrid normalization for artist_norm
-                        pl.col("artist")
-                        .str.to_lowercase()
-                        .str.replace_all(REGEX_PARENS, "")
-                        .str.replace(REGEX_ARTICLES, "")
-                        .str.replace_all(REGEX_CONJUNCTIONS, "&")
-                        .str.replace_all(REGEX_CLEAN, "")
-                        .map_elements(_remove_diacritics, return_dtype=pl.String)
-                        .alias("artist_norm"),
-                        # Same for song_norm
-                        pl.col("song")
-                        .str.to_lowercase()
-                        .str.replace_all(REGEX_PARENS, "")
-                        .str.replace(REGEX_ARTICLES, "")
-                        .str.replace_all(REGEX_CONJUNCTIONS, "&")
-                        .str.replace_all(REGEX_CLEAN, "")
-                        .map_elements(_remove_diacritics, return_dtype=pl.String)
-                        .alias("song_norm"),
+                        # Use unified normalization expression
+                        _normalization_expression("artist").alias("artist_norm"),
+                        _normalization_expression("song").alias("song_norm"),
                     ]
                 )
                 .with_columns(
@@ -214,8 +197,7 @@ def build_search_index() -> None:
     if not lfs:
         raise ValueError("No data found to index.")
     # Concatenate all lazy frames and write to Parquet
-    index_path = ROOT / "search_index.parquet"
-    pl.concat(lfs).sink_parquet(index_path)
+    pl.concat(lfs).sink_parquet(_get_index_path())
 
 
 # ----------------------------------------------------------------------
@@ -228,17 +210,18 @@ def anniversary_hits(
     chart: str | None = None,
 ) -> pl.DataFrame:
     """Find #rank hits for the current week in previous years using the index."""
-    index_path = ROOT / "search_index.parquet"
-    if not index_path.exists():
+    if not _check_index_exists():
         logger.warning("Index not found. Please run `build-index` first.")
         return pl.DataFrame()
 
     # Parse reference date
-    try:
-        ref = datetime.strptime(date_str, "%Y-%m-%d").date() if date_str else date.today()
-    except ValueError:
-        logger.error(f"Invalid date format: {date_str}. Expected YYYY-MM-DD.")
-        return pl.DataFrame()
+    if date_str:
+        ref = _parse_date(date_str)
+        if not ref:
+            logger.error(f"Invalid date format: {date_str}. Expected YYYY-MM-DD.")
+            return pl.DataFrame()
+    else:
+        ref = date.today()
 
     days_to_sunday = (ref.weekday() + 1) % 7
     week_start = ref - timedelta(days=days_to_sunday)
@@ -251,7 +234,7 @@ def anniversary_hits(
     ref_fortnight_day = 1 if ref.day <= 14 else 15
 
     # Scan the index and build conditions based on frequency
-    lf = pl.scan_parquet(index_path)
+    lf = pl.scan_parquet(_get_index_path())
 
     # Weekly condition: handle year wrap
     if week_start_yday <= week_end_yday:
@@ -315,12 +298,11 @@ def search_hits(
     Returns:
         DataFrame with search results (individual rows or grouped best ranks).
     """
-    index_path = ROOT / "search_index.parquet"
-    if not index_path.exists():
+    if not _check_index_exists():
         logger.warning("Index not found. Please run `build-index` first.")
         return pl.DataFrame()
 
-    lf = pl.scan_parquet(index_path)
+    lf = pl.scan_parquet(_get_index_path())
 
     # Apply fuzzy filters for artist and/or song
     if artist:
@@ -338,9 +320,8 @@ def search_hits(
 
     # Apply exact date/year filters
     if date_str:
-        try:
-            d = datetime.strptime(date_str, "%Y-%m-%d").date()
-        except ValueError:
+        d = _parse_date(date_str)
+        if not d:
             logger.error(f"Invalid date format: {date_str}. Expected YYYY-MM-DD.")
             return pl.DataFrame()
         lf = lf.filter(pl.col("date") == d)
@@ -390,13 +371,12 @@ def best_rank_in_year(
     Returns a DataFrame with columns:
         provider, chart, artist, song, best_rank, best_date
     """
-    index_path = ROOT / "search_index.parquet"
-    if not index_path.exists():
+    if not _check_index_exists():
         logger.warning("Index not found. Please run `build-index` first.")
         return pl.DataFrame()
 
     # Scan the entire index (no year filter yet)
-    lf = pl.scan_parquet(index_path)
+    lf = pl.scan_parquet(_get_index_path())
 
     if provider:
         lf = lf.filter(pl.col("provider") == provider)
@@ -430,18 +410,16 @@ def show_chart(
     date_str: str, provider: str | None = None, chart: str | None = None
 ) -> pl.DataFrame:
     """Return the chart(s) for a specific date, optionally filtered by provider and chart."""
-    index_path = ROOT / "search_index.parquet"
-    if not index_path.exists():
+    if not _check_index_exists():
         logger.warning("Index not found. Please run `build-index` first.")
         return pl.DataFrame()
 
-    try:
-        d = datetime.strptime(date_str, "%Y-%m-%d").date()
-    except ValueError:
+    d = _parse_date(date_str)
+    if not d:
         logger.error(f"Invalid date format: {date_str}. Expected YYYY-MM-DD.")
         return pl.DataFrame()
 
-    lf = pl.scan_parquet(index_path).filter(pl.col("date") == d)
+    lf = pl.scan_parquet(_get_index_path()).filter(pl.col("date") == d)
 
     if provider:
         lf = lf.filter(pl.col("provider") == provider)
@@ -479,8 +457,7 @@ def ones_calendar(
     Returns:
         DataFrame with columns: week, date, event, sorted by week then date.
     """
-    index_path = ROOT / "search_index.parquet"
-    if not index_path.exists():
+    if not _check_index_exists():
         logger.warning("Index not found. Please run `build-index` first.")
         return pl.DataFrame()
 
@@ -488,7 +465,7 @@ def ones_calendar(
     is_leap = (target_year % 400 == 0) or (target_year % 4 == 0 and target_year % 100 != 0)
 
     # Scan the index lazily and filter for #1 entries.
-    lf = pl.scan_parquet(index_path).filter(pl.col("this_week") == 1)
+    lf = pl.scan_parquet(_get_index_path()).filter(pl.col("this_week") == 1)
 
     if provider:
         lf = lf.filter(pl.col("provider") == provider)
