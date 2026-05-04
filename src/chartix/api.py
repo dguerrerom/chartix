@@ -71,6 +71,39 @@ def _remove_diacritics(text: str) -> str:
     return unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
 
 
+def _normalization_expression(col_name: str) -> pl.Expr:
+    """Return a Polars expression for text normalization."""
+    return (
+        pl.col(col_name)
+        .str.to_lowercase()
+        .map_elements(_remove_diacritics, return_dtype=pl.String)
+        .str.replace_all(REGEX_PARENS, "")
+        .str.replace(REGEX_ARTICLES, "")
+        .str.replace_all(REGEX_CONJUNCTIONS, "&")
+        .str.replace_all(REGEX_CLEAN, "")
+    )
+
+
+def _parse_date(date_str: str | None) -> date | None:
+    """Unified parsing for YYYY-MM-DD strings."""
+    if not date_str:
+        return None
+    try:
+        return datetime.strptime(date_str, "%Y-%m-%d").date()
+    except (ValueError, TypeError):
+        return None
+
+
+def _get_index_path() -> Path:
+    """Return the path to the search index Parquet file."""
+    return ROOT / "search_index.parquet"
+
+
+def _check_index_exists() -> bool:
+    """Check if the search index exists."""
+    return _get_index_path().exists()
+
+
 # ----------------------------------------------------------------------
 # Pydantic models for Frictionless catalog
 # ----------------------------------------------------------------------
