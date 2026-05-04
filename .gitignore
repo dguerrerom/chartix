@@ -1,3 +1,10 @@
+# Gemini CLI folders and files
+.gemini/
+plans/
+research/
+gemini.log
+TASKS.md
+
 # Unfinished chart folders
 data/at40/
 data/ct40/
