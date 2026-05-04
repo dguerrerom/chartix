@@ -485,6 +485,95 @@ def show_chart(
 # ----------------------------------------------------------------------
 # Generate CSV calendar of #1 hits of the current year
 # ----------------------------------------------------------------------
+def _get_ones_data(provider: str | None, chart: str | None) -> pl.DataFrame:
+    """
+    Filter the search index for #1 hits and keep only the earliest date a song reached #1.
+
+    Args:
+        provider: Optional provider filter.
+        chart: Optional chart filter.
+
+    Returns:
+        DataFrame with columns: original_date, artist, song, provider, chart.
+    """
+    lf = pl.scan_parquet(_get_index_path()).filter(pl.col("this_week") == 1)
+
+    if provider:
+        lf = lf.filter(pl.col("provider") == provider)
+    if chart:
+        lf = lf.filter(pl.col("chart") == chart)
+
+    return (
+        lf.group_by(["provider", "chart", "artist", "song"])
+        .agg(pl.col("date").min().alias("original_date"))
+        .select(["original_date", "artist", "song", "provider", "chart"])
+        .collect()
+    )
+
+
+def _adjust_leap_years(df: pl.DataFrame, target_year: int) -> pl.DataFrame:
+    """
+    Adjust February 29 hits to February 28 if the target year is not a leap year.
+
+    Args:
+        df: DataFrame with 'original_date' column.
+        target_year: The year to map the hits to.
+
+    Returns:
+        DataFrame with added 'month' and (potentially adjusted) 'day' columns.
+    """
+    is_leap = (target_year % 400 == 0) or (target_year % 4 == 0 and target_year % 100 != 0)
+
+    df = df.with_columns(
+        pl.col("original_date").dt.month().alias("month"),
+        pl.col("original_date").dt.day().alias("day"),
+    )
+
+    if not is_leap:
+        df = df.with_columns(
+            pl.when((pl.col("month") == 2) & (pl.col("day") == 29))
+            .then(28)
+            .otherwise(pl.col("day"))
+            .alias("day")
+        )
+    return df
+
+
+def _group_by_week(df: pl.DataFrame, target_year: int) -> pl.DataFrame:
+    """
+    Map hits to the target year, compute ISO weeks, and format the final output.
+
+    Args:
+        df: DataFrame with 'month' and 'day' columns.
+        target_year: The year to map the hits to.
+
+    Returns:
+        DataFrame with columns: week, date, original_date, event.
+    """
+    # Build a date in the target year using the (possibly adjusted) month/day.
+    df = df.with_columns(
+        pl.date(
+            year=pl.lit(target_year),
+            month=pl.col("month"),
+            day=pl.col("day"),
+        ).alias("date")
+    )
+
+    # Compute ISO week number
+    df = df.with_columns(pl.col("date").dt.week().alias("week"))
+
+    # Format the event string
+    df = df.with_columns(
+        (
+            pl.col("song") + " by " + pl.col("artist") + " reaches #1 on the " + pl.col("chart")
+        ).alias("event")
+    )
+
+    return df.select(["week", "date", "original_date", "event"]).sort(
+        ["week", "date", "original_date"]
+    )
+
+
 def ones_calendar(
     provider: str | None = None,
     chart: str | None = None,
@@ -510,65 +599,19 @@ def ones_calendar(
         return pl.DataFrame()
 
     target_year = year if year is not None else date.today().year
-    is_leap = (target_year % 400 == 0) or (target_year % 4 == 0 and target_year % 100 != 0)
 
-    # Scan the index lazily and filter for #1 entries.
-    lf = pl.scan_parquet(_get_index_path()).filter(pl.col("this_week") == 1)
-
-    if provider:
-        lf = lf.filter(pl.col("provider") == provider)
-    if chart:
-        lf = lf.filter(pl.col("chart") == chart)
-
-    # For each (provider, chart, artist, song), keep the earliest #1 date.
-    df = (
-        lf.group_by(["provider", "chart", "artist", "song"])
-        .agg(pl.col("date").min().alias("original_date"))
-        .select(["original_date", "artist", "song", "provider", "chart"])
-        .collect()
-    )
+    # 1. Get initial data
+    df = _get_ones_data(provider, chart)
 
     if df.is_empty():
         logger.info("No #1 hits found with given filters.")
         return pl.DataFrame()
 
-    df = df.with_columns(
-        pl.col("original_date").dt.month().alias("month"),
-        pl.col("original_date").dt.day().alias("day"),
-    )
+    # 2. Adjust for leap years
+    df = _adjust_leap_years(df, target_year)
 
-    # Adjust February 29 if target year is not a leap year.
-    if not is_leap:
-        df = df.with_columns(
-            pl.when((pl.col("month") == 2) & (pl.col("day") == 29))
-            .then(28)
-            .otherwise(pl.col("day"))
-            .alias("day")
-        )
-
-    # Build a date in the target year using the (possibly adjusted) month/day.
-    df = df.with_columns(
-        pl.date(
-            year=pl.lit(target_year),
-            month=pl.col("month"),
-            day=pl.col("day"),
-        ).alias("date")
-    )
-
-    # Compute ISO week number
-    df = df.with_columns(pl.col("date").dt.week().alias("week"))
-
-    df = df.with_columns(
-        (
-            pl.col("song") + " by " + pl.col("artist") + " reaches #1 on the " + pl.col("chart")
-        ).alias("event")
-    )
-
-    result = df.select(["week", "date", "original_date", "event"]).sort(
-        ["week", "date", "original_date"]
-    )
-
-    return result
+    # 3. Final grouping and formatting
+    return _group_by_week(df, target_year)
 
 
 # ----------------------------------------------------------------------
