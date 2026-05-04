@@ -359,10 +359,12 @@ def search_hits(
     date_str: str | None = None,
     year: int | None = None,
     best_position: bool = False,
+    provider: str | None = None,
+    chart: str | None = None,
 ) -> pl.DataFrame:
     """
     Search the index with fuzzy matching on artist/song (D-L ≤ FUZZY_DISTANCE_THRESHOLD)
-    and exact filters on date/year.
+    and exact filters on date, year, provider, or chart.
 
     Args:
         artist: Artist name (fuzzy matched after normalization).
@@ -370,6 +372,8 @@ def search_hits(
         date_str: Exact date YYYY-MM-DD.
         year: Exact year (ignored if date_str given).
         best_position: If True and date_str not given, return best rank per song.
+        provider: Optional filter by provider name.
+        chart: Optional filter by chart name.
 
     Returns:
         DataFrame with search results (individual rows or grouped best ranks).
@@ -379,6 +383,12 @@ def search_hits(
         return pl.DataFrame()
 
     lf = pl.scan_parquet(_get_index_path())
+
+    # Apply optional exact filters
+    if provider:
+        lf = lf.filter(pl.col("provider") == provider)
+    if chart:
+        lf = lf.filter(pl.col("chart") == chart)
 
     # Apply fuzzy filters for artist and/or song
     if artist:
