@@ -46,7 +46,16 @@ logger = logging.getLogger(__name__)
 # Text normalization
 # ----------------------------------------------------------------------
 def normalize_text(text: str) -> str:
-    """Standardize text for search indexing and matching."""
+    """
+    Standardize text for search indexing and matching.
+
+    Args:
+        text: The input string to be normalized.
+
+    Returns:
+        The normalized string, with diacritics removed, lowercase, and common
+        words/characters stripped or replaced.
+    """
     if not text:
         return ""
     # Lowercase and remove diacritics
@@ -239,7 +248,15 @@ def _save_search_index(lf: pl.LazyFrame) -> None:
 
 
 def build_search_index() -> None:
-    """Aggregates all CSVs, normalizes search fields, and exports a Parquet index."""
+    """
+    Aggregates all CSVs, normalizes search fields, and exports a Parquet index.
+
+    Args:
+        None
+
+    Returns:
+        None
+    """
     lfs = _load_raw_data()
     # Concatenate all lazy frames and apply normalization
     lf = pl.concat(lfs)
@@ -257,7 +274,18 @@ def anniversary_hits(
     provider: str | None = None,
     chart: str | None = None,
 ) -> pl.DataFrame:
-    """Find #rank hits for the current week in previous years using the index."""
+    """
+    Find hits for the current week in previous years using the index.
+
+    Args:
+        date_str: Reference date in YYYY-MM-DD format. Defaults to today.
+        rank: The chart position to look for. Defaults to 1.
+        provider: Optional filter by provider name.
+        chart: Optional filter by chart name.
+
+    Returns:
+        A DataFrame containing the matching hits from previous years.
+    """
     if not _check_index_exists():
         logger.warning("Index not found. Please run `build-index` first.")
         return pl.DataFrame()
@@ -413,11 +441,19 @@ def best_rank_in_year(
     chart: str | None = None,
 ) -> pl.DataFrame:
     """
+    Find songs that reached a peak position in a given year.
+
     For each chart, find songs that reached a rank <= max_rank in the given year,
     along with the best rank and the date it was achieved.
 
-    Returns a DataFrame with columns:
-        provider, chart, artist, song, best_rank, best_date
+    Args:
+        year: The year to analyze.
+        max_rank: The threshold for peak position. Defaults to DEFAULT_PEAK_RANK.
+        provider: Optional filter by provider name.
+        chart: Optional filter by chart name.
+
+    Returns:
+        A DataFrame with columns: provider, chart, artist, song, best_rank, best_date.
     """
     if not _check_index_exists():
         logger.warning("Index not found. Please run `build-index` first.")
@@ -457,7 +493,17 @@ def best_rank_in_year(
 def show_chart(
     date_str: str, provider: str | None = None, chart: str | None = None
 ) -> pl.DataFrame:
-    """Return the chart(s) for a specific date, optionally filtered by provider and chart."""
+    """
+    Return the chart(s) for a specific date.
+
+    Args:
+        date_str: The date in YYYY-MM-DD format.
+        provider: Optional filter by provider name.
+        chart: Optional filter by chart name.
+
+    Returns:
+        A DataFrame containing the chart data for the given date.
+    """
     if not _check_index_exists():
         logger.warning("Index not found. Please run `build-index` first.")
         return pl.DataFrame()
@@ -592,7 +638,8 @@ def ones_calendar(
         year: Target year (defaults to current year).
 
     Returns:
-        DataFrame with columns: week, date, event, sorted by week then date.
+        DataFrame with columns: week, date, original_date, event, sorted by
+        week then date.
     """
     if not _check_index_exists():
         logger.warning("Index not found. Please run `build-index` first.")
