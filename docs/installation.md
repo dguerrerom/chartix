@@ -4,7 +4,7 @@ This guide will help you get Chartix up and running on your local machine.
 
 ## Prerequisites
 
--   **Python**: 3.12 or higher.
+-   **Python**: 3.13 or higher.
 -   **uv**: We recommend using [uv](https://github.com/astral-sh/uv) for fast, reliable Python package and environment management.
 
 ## For Users
