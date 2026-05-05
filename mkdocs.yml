@@ -1,4 +1,5 @@
-site_name: chartix
+site_name: Chartix
+site_description: Query and manage international music charts data
 site_url: https://dguerrerom.github.io/chartix/
 repo_url: https://github.com/dguerrerom/chartix
 repo_name: chartix
@@ -36,5 +37,4 @@ nav:
   - Home: index.md
   - Installation: installation.md
   - CLI Reference: cli.md
-  - API Reference:
-      - api.md
+  - API Reference: api.md
