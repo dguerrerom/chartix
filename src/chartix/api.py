@@ -249,13 +249,7 @@ def _save_search_index(lf: pl.LazyFrame) -> None:
 
 def build_search_index() -> None:
     """
-    Aggregates all CSVs, normalizes search fields, and exports a Parquet index.
-
-    Args:
-        None
-
-    Returns:
-        None
+    Aggregates all CSV data, normalizes search fields, and exports a Parquet index.
     """
     lfs = _load_raw_data()
     # Concatenate all lazy frames and apply normalization
