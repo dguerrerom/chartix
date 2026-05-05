@@ -68,10 +68,6 @@ uv run chartix peak --year 1988 --rank 10
 
 For more details, run `uv run chartix --help`.
 
-## Documentation
-
-For full documentation, visit [https://dguerrerom.github.io/chartix/](https://dguerrerom.github.io/chartix/)
-
 ## Data Structure
 
 The data is stored in the `data/` folder. See the [data README](data/README.md) for a detailed description of the folder layout, metadata files, and how to add or update data.
